@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 4,
+  "config_version": 5,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-02T05:01:26.376555+00:00",
+  "generated_at": "2026-11-02T10:18:21.629588+00:00",
   "sources": [
     {
       "id": "atmosphere",
@@ -855,6 +855,24 @@
       "requiresConsent": false,
       "evidence": "upstream",
       "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "nx2apple",
+      "name": "NX2Apple（macOS / iPhone / iPad）",
+      "url": "https://github.com/LNPANDY/NX2Apple/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "LNPANDY/NX2Apple",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "macos",
+        "ios"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct upstream Release feed reading; Apple silicon Mac builder and iOS/iPadOS targets; not runnable on Switch/Windows/Android; no mirrored binaries/game data/images"
     }
   ]
 }

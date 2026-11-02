@@ -1,0 +1,12 @@
+{
+  "catalogs_accepted": 3,
+  "experimental_entries": 2,
+  "native_core": "0.1.4",
+  "new_source_enabled": false,
+  "release_entries": 10,
+  "runtime_tags": [
+    "macos",
+    "ios"
+  ],
+  "stable_v1_0_0_metadata_matched": true
+}

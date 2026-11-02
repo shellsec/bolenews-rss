@@ -66,16 +66,37 @@
       "default_enabled": false,
       "json_items": 30,
       "parser_verification": "site-2468c-parser.json"
+    },
+    {
+      "source": "nx2apple",
+      "catalog_versions": {
+        "tools": 5,
+        "switch": 5,
+        "apple": 1
+      },
+      "catalog_counts": {
+        "tools": 51,
+        "switch": 41,
+        "apple": 1
+      },
+      "default_enabled": false,
+      "native_atom_entries": 10,
+      "runtime": [
+        "macos",
+        "ios"
+      ],
+      "parser_verification": "nx2apple-parser.json"
     }
   ],
-  "current_unique_catalog_sources": 89,
+  "current_unique_catalog_sources": 90,
   "current_catalogs": {
     "android": 4,
     "games": 39,
     "pc-handheld": 40,
     "playstation": 34,
-    "switch": 40,
-    "tools": 50,
-    "xbox": 23
+    "switch": 41,
+    "tools": 51,
+    "xbox": 23,
+    "apple": 1
   }
 }
