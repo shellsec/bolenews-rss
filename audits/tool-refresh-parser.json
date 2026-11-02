@@ -1,0 +1,100 @@
+{
+  "catalogs": [
+    {
+      "file": "tools.json",
+      "sources": 64
+    },
+    {
+      "file": "switch.json",
+      "sources": 52
+    },
+    {
+      "file": "playstation.json",
+      "sources": 39
+    },
+    {
+      "file": "pc-handheld.json",
+      "sources": 47
+    },
+    {
+      "file": "android.json",
+      "sources": 7
+    },
+    {
+      "file": "apple.json",
+      "sources": 9
+    },
+    {
+      "file": "tools-extra.json",
+      "sources": 4
+    }
+  ],
+  "existing_default_remote_update_accepted": true,
+  "parser": "BoleNews 0.1.4 native core",
+  "sources": [
+    {
+      "articles": 10,
+      "id": "switchfin"
+    },
+    {
+      "articles": 10,
+      "id": "wiliwili"
+    },
+    {
+      "articles": 10,
+      "id": "checkpoint"
+    },
+    {
+      "articles": 10,
+      "id": "moonlight-switch"
+    },
+    {
+      "articles": 10,
+      "id": "nx-activity-log"
+    },
+    {
+      "articles": 10,
+      "id": "sysdvr"
+    },
+    {
+      "articles": 10,
+      "id": "nxmp"
+    },
+    {
+      "articles": 9,
+      "id": "nx-ovlloader"
+    },
+    {
+      "articles": 10,
+      "id": "nx-hbloader"
+    },
+    {
+      "articles": 10,
+      "id": "turnips"
+    },
+    {
+      "articles": 10,
+      "id": "sunshine"
+    },
+    {
+      "articles": 10,
+      "id": "chiaki-ng"
+    },
+    {
+      "articles": 10,
+      "id": "retroflow-launcher"
+    },
+    {
+      "articles": 10,
+      "id": "moonlight-qt"
+    },
+    {
+      "articles": 7,
+      "id": "vitadeploy"
+    },
+    {
+      "articles": 8,
+      "id": "itemzflow"
+    }
+  ]
+}

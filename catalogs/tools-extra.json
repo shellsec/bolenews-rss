@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "config_version": 1,
+  "min_app_version": "0.1.4",
+  "generated_at": "2026-11-02T14:21:22.360556+00:00",
+  "sources": [
+    {
+      "id": "nx-hbloader",
+      "name": "nx-hbloader（Homebrew载入器）",
+      "url": "https://github.com/switchbrew/nx-hbloader/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "switchbrew/nx-hbloader",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "turnips",
+      "name": "Turnips（动森大头菜辅助）",
+      "url": "https://github.com/averne/Turnips/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "averne/Turnips",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "vitadeploy",
+      "name": "VitaDeploy（Vita工具箱）",
+      "url": "https://github.com/SKGleba/VitaDeploy/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "SKGleba/VitaDeploy",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "vita"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; no code or binary redistribution",
+      "evidence": "upstream"
+    },
+    {
+      "id": "itemzflow",
+      "name": "Itemzflow（PS4/PS5管理，含开发更新）",
+      "url": "https://github.com/LightningMods/Itemzflow/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "LightningMods/Itemzflow",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "ps4",
+        "ps5"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; no code or binary redistribution",
+      "evidence": "upstream"
+    }
+  ]
+}

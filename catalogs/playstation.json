@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 5,
+  "config_version": 6,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-02T08:55:11.602416+00:00",
+  "generated_at": "2026-11-02T14:21:22.360556+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -549,6 +549,103 @@
       "platforms": [],
       "evidence": "community",
       "rights_policy": "user-selected public index metadata only; site post date is not game release date; no bodies/images/download links; reuse licence not established"
+    },
+    {
+      "id": "switchfin",
+      "name": "Switchfin（Jellyfin客户端，含依赖发布）",
+      "url": "https://github.com/dragonflylee/switchfin/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "dragonflylee/switchfin",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1",
+        "vita",
+        "ps4",
+        "pc",
+        "macos",
+        "linux",
+        "android"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "wiliwili",
+      "name": "wiliwili（哔哩哔哩客户端）",
+      "url": "https://github.com/xfangfang/wiliwili/releases.atom",
+      "category": "homebrew",
+      "language": "zh-Hans",
+      "repo": "xfangfang/wiliwili",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1",
+        "vita",
+        "ps4",
+        "pc",
+        "macos",
+        "linux"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "retroflow-launcher",
+      "name": "RetroFlow Launcher（Vita前端）",
+      "url": "https://github.com/jimbob4000/RetroFlow-Launcher/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "jimbob4000/RetroFlow-Launcher",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "vita"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; no code or binary redistribution",
+      "evidence": "upstream"
+    },
+    {
+      "id": "vitadeploy",
+      "name": "VitaDeploy（Vita工具箱）",
+      "url": "https://github.com/SKGleba/VitaDeploy/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "SKGleba/VitaDeploy",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "vita"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; no code or binary redistribution",
+      "evidence": "upstream"
+    },
+    {
+      "id": "itemzflow",
+      "name": "Itemzflow（PS4/PS5管理，含开发更新）",
+      "url": "https://github.com/LightningMods/Itemzflow/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "LightningMods/Itemzflow",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "ps4",
+        "ps5"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; no code or binary redistribution",
+      "evidence": "upstream"
     }
   ]
 }

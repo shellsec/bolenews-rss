@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 4,
+  "config_version": 5,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-02T05:01:26.376555+00:00",
+  "generated_at": "2026-11-02T14:21:22.360556+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -658,6 +658,151 @@
       "platforms": [],
       "evidence": "community",
       "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; per-game Steam news can include events as well as patches"
+    },
+    {
+      "id": "switchfin",
+      "name": "Switchfin（Jellyfin客户端，含依赖发布）",
+      "url": "https://github.com/dragonflylee/switchfin/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "dragonflylee/switchfin",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1",
+        "vita",
+        "ps4",
+        "pc",
+        "macos",
+        "linux",
+        "android"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "wiliwili",
+      "name": "wiliwili（哔哩哔哩客户端）",
+      "url": "https://github.com/xfangfang/wiliwili/releases.atom",
+      "category": "homebrew",
+      "language": "zh-Hans",
+      "repo": "xfangfang/wiliwili",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1",
+        "vita",
+        "ps4",
+        "pc",
+        "macos",
+        "linux"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "moonlight-switch",
+      "name": "Moonlight-Switch（串流客户端）",
+      "url": "https://github.com/XITRIX/Moonlight-Switch/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "XITRIX/Moonlight-Switch",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1",
+        "pc",
+        "linux",
+        "macos",
+        "android",
+        "ios"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "sysdvr",
+      "name": "SysDVR（Switch画面串流及客户端）",
+      "url": "https://github.com/exelix11/SysDVR/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "exelix11/SysDVR",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1",
+        "pc",
+        "macos",
+        "linux",
+        "android"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "sunshine",
+      "name": "Sunshine（串流主机端，含开发构建）",
+      "url": "https://github.com/LizardByte/Sunshine/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "LizardByte/Sunshine",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc",
+        "linux",
+        "macos"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; no code or binary redistribution",
+      "evidence": "upstream"
+    },
+    {
+      "id": "chiaki-ng",
+      "name": "chiaki-ng（PS远程串流客户端，含Canary）",
+      "url": "https://github.com/chiaki-ng/chiaki-ng/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "chiaki-ng/chiaki-ng",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc",
+        "linux",
+        "macos"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; no code or binary redistribution",
+      "evidence": "upstream"
+    },
+    {
+      "id": "moonlight-qt",
+      "name": "Moonlight Qt（桌面串流客户端）",
+      "url": "https://github.com/moonlight-stream/moonlight-qt/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "moonlight-stream/moonlight-qt",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc",
+        "linux",
+        "macos"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; no code or binary redistribution",
+      "evidence": "upstream"
     }
   ]
 }

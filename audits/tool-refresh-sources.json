@@ -1,0 +1,362 @@
+{
+  "checked_at": "2026-11-02T14:21:22.360556+00:00",
+  "sources": [
+    {
+      "id": "switchfin",
+      "name": "Switchfin（Jellyfin客户端，含依赖发布）",
+      "url": "https://github.com/dragonflylee/switchfin/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "dragonflylee/switchfin",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1",
+        "vita",
+        "ps4",
+        "pc",
+        "macos",
+        "linux",
+        "android"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "wiliwili",
+      "name": "wiliwili（哔哩哔哩客户端）",
+      "url": "https://github.com/xfangfang/wiliwili/releases.atom",
+      "category": "homebrew",
+      "language": "zh-Hans",
+      "repo": "xfangfang/wiliwili",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1",
+        "vita",
+        "ps4",
+        "pc",
+        "macos",
+        "linux"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "checkpoint",
+      "name": "Checkpoint（存档备份）",
+      "url": "https://github.com/FlagBrew/Checkpoint/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "FlagBrew/Checkpoint",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "moonlight-switch",
+      "name": "Moonlight-Switch（串流客户端）",
+      "url": "https://github.com/XITRIX/Moonlight-Switch/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "XITRIX/Moonlight-Switch",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1",
+        "pc",
+        "linux",
+        "macos",
+        "android",
+        "ios"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "nx-activity-log",
+      "name": "NX Activity Log（维护分支，游玩统计）",
+      "url": "https://github.com/zdm65477730/NX-Activity-Log/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "zdm65477730/NX-Activity-Log",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "sysdvr",
+      "name": "SysDVR（Switch画面串流及客户端）",
+      "url": "https://github.com/exelix11/SysDVR/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "exelix11/SysDVR",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1",
+        "pc",
+        "macos",
+        "linux",
+        "android"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "nxmp",
+      "name": "NXMP（视频播放器）",
+      "url": "https://github.com/proconsule/nxmp/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "proconsule/nxmp",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "nx-ovlloader",
+      "name": "nx-ovlloader（ppkantorski维护分支）",
+      "url": "https://github.com/ppkantorski/nx-ovlloader/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "ppkantorski/nx-ovlloader",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "nx-hbloader",
+      "name": "nx-hbloader（Homebrew载入器）",
+      "url": "https://github.com/switchbrew/nx-hbloader/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "switchbrew/nx-hbloader",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "turnips",
+      "name": "Turnips（动森大头菜辅助）",
+      "url": "https://github.com/averne/Turnips/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "averne/Turnips",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "sunshine",
+      "name": "Sunshine（串流主机端，含开发构建）",
+      "url": "https://github.com/LizardByte/Sunshine/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "LizardByte/Sunshine",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc",
+        "linux",
+        "macos"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; no code or binary redistribution",
+      "evidence": "upstream"
+    },
+    {
+      "id": "chiaki-ng",
+      "name": "chiaki-ng（PS远程串流客户端，含Canary）",
+      "url": "https://github.com/chiaki-ng/chiaki-ng/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "chiaki-ng/chiaki-ng",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc",
+        "linux",
+        "macos"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; no code or binary redistribution",
+      "evidence": "upstream"
+    },
+    {
+      "id": "retroflow-launcher",
+      "name": "RetroFlow Launcher（Vita前端）",
+      "url": "https://github.com/jimbob4000/RetroFlow-Launcher/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "jimbob4000/RetroFlow-Launcher",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "vita"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; no code or binary redistribution",
+      "evidence": "upstream"
+    },
+    {
+      "id": "moonlight-qt",
+      "name": "Moonlight Qt（桌面串流客户端）",
+      "url": "https://github.com/moonlight-stream/moonlight-qt/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "moonlight-stream/moonlight-qt",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc",
+        "linux",
+        "macos"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; no code or binary redistribution",
+      "evidence": "upstream"
+    },
+    {
+      "id": "vitadeploy",
+      "name": "VitaDeploy（Vita工具箱）",
+      "url": "https://github.com/SKGleba/VitaDeploy/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "SKGleba/VitaDeploy",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "vita"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; no code or binary redistribution",
+      "evidence": "upstream"
+    },
+    {
+      "id": "itemzflow",
+      "name": "Itemzflow（PS4/PS5管理，含开发更新）",
+      "url": "https://github.com/LightningMods/Itemzflow/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "LightningMods/Itemzflow",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "ps4",
+        "ps5"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; no code or binary redistribution",
+      "evidence": "upstream"
+    }
+  ],
+  "curated_ids": [
+    "checkpoint",
+    "chiaki-ng",
+    "moonlight-qt",
+    "moonlight-switch",
+    "nx-activity-log",
+    "nx-ovlloader",
+    "nxmp",
+    "retroflow-launcher",
+    "sunshine",
+    "switchfin",
+    "sysdvr",
+    "wiliwili"
+  ],
+  "extra_ids": [
+    "nx-hbloader",
+    "turnips",
+    "vitadeploy",
+    "itemzflow"
+  ],
+  "changed_catalogs": {
+    "tools": {
+      "version": 7,
+      "sources": 64
+    },
+    "switch": {
+      "version": 7,
+      "sources": 52
+    },
+    "playstation": {
+      "version": 6,
+      "sources": 39
+    },
+    "pc-handheld": {
+      "version": 5,
+      "sources": 47
+    },
+    "android": {
+      "version": 5,
+      "sources": 7
+    },
+    "apple": {
+      "version": 3,
+      "sources": 9
+    },
+    "tools-extra": {
+      "version": 1,
+      "sources": 4
+    }
+  },
+  "existing_requested_source": "sphaira",
+  "cancelled_source_excluded": "gomprime/switchiptv",
+  "excluded_inactive": [
+    "nx-shell",
+    "sys-con",
+    "tesla-menu",
+    "GoldHEN/GoldHEN_Cheat_Manager"
+  ]
+}

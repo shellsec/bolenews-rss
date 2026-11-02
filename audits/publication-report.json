@@ -106,17 +106,59 @@
         "macos"
       ],
       "parser_verification": "tsvitch-parser.json"
+    },
+    {
+      "batch": "tool-refresh-2026-11-02",
+      "new_sources": 16,
+      "curated_new": 12,
+      "platform_extra": 4,
+      "catalogs": {
+        "tools": {
+          "version": 7,
+          "sources": 64
+        },
+        "switch": {
+          "version": 7,
+          "sources": 52
+        },
+        "playstation": {
+          "version": 6,
+          "sources": 39
+        },
+        "pc-handheld": {
+          "version": 5,
+          "sources": 47
+        },
+        "android": {
+          "version": 5,
+          "sources": 7
+        },
+        "apple": {
+          "version": 3,
+          "sources": 9
+        },
+        "tools-extra": {
+          "version": 1,
+          "sources": 4
+        }
+      },
+      "default_enabled": false,
+      "parser_verification": "tool-refresh-parser.json",
+      "audit": "tool-refresh.md"
     }
   ],
-  "current_unique_catalog_sources": 91,
+  "current_unique_catalog_sources": 107,
   "current_catalogs": {
-    "android": 4,
+    "android": 7,
+    "apple": 9,
     "games": 39,
-    "pc-handheld": 40,
-    "playstation": 34,
-    "switch": 42,
-    "tools": 52,
-    "xbox": 23,
-    "apple": 2
-  }
+    "pc-handheld": 47,
+    "playstation": 39,
+    "switch": 52,
+    "tools-extra": 4,
+    "tools": 64,
+    "xbox": 23
+  },
+  "current_tool_sources": 68,
+  "current_game_sources": 39
 }

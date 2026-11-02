@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 6,
+  "config_version": 7,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-02T14:04:55.483591+00:00",
+  "generated_at": "2026-11-02T14:21:22.360556+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -674,6 +674,196 @@
       ],
       "evidence": "upstream",
       "rights_policy": "direct upstream release-feed reading only; Switch NRO and macOS assets observed; no playlists/media/binary mirroring; no Switch2/Windows/Android support inferred"
+    },
+    {
+      "id": "switchfin",
+      "name": "Switchfin（Jellyfin客户端，含依赖发布）",
+      "url": "https://github.com/dragonflylee/switchfin/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "dragonflylee/switchfin",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1",
+        "vita",
+        "ps4",
+        "pc",
+        "macos",
+        "linux",
+        "android"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "wiliwili",
+      "name": "wiliwili（哔哩哔哩客户端）",
+      "url": "https://github.com/xfangfang/wiliwili/releases.atom",
+      "category": "homebrew",
+      "language": "zh-Hans",
+      "repo": "xfangfang/wiliwili",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1",
+        "vita",
+        "ps4",
+        "pc",
+        "macos",
+        "linux"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "checkpoint",
+      "name": "Checkpoint（存档备份）",
+      "url": "https://github.com/FlagBrew/Checkpoint/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "FlagBrew/Checkpoint",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "moonlight-switch",
+      "name": "Moonlight-Switch（串流客户端）",
+      "url": "https://github.com/XITRIX/Moonlight-Switch/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "XITRIX/Moonlight-Switch",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1",
+        "pc",
+        "linux",
+        "macos",
+        "android",
+        "ios"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "nx-activity-log",
+      "name": "NX Activity Log（维护分支，游玩统计）",
+      "url": "https://github.com/zdm65477730/NX-Activity-Log/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "zdm65477730/NX-Activity-Log",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "sysdvr",
+      "name": "SysDVR（Switch画面串流及客户端）",
+      "url": "https://github.com/exelix11/SysDVR/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "exelix11/SysDVR",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1",
+        "pc",
+        "macos",
+        "linux",
+        "android"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "nxmp",
+      "name": "NXMP（视频播放器）",
+      "url": "https://github.com/proconsule/nxmp/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "proconsule/nxmp",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "nx-ovlloader",
+      "name": "nx-ovlloader（ppkantorski维护分支）",
+      "url": "https://github.com/ppkantorski/nx-ovlloader/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "ppkantorski/nx-ovlloader",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "nx-hbloader",
+      "name": "nx-hbloader（Homebrew载入器）",
+      "url": "https://github.com/switchbrew/nx-hbloader/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "switchbrew/nx-hbloader",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
+    },
+    {
+      "id": "turnips",
+      "name": "Turnips（动森大头菜辅助）",
+      "url": "https://github.com/averne/Turnips/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "averne/Turnips",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "evidence": "upstream"
     }
   ]
 }
