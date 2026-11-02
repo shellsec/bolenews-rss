@@ -1,13 +1,25 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-02T05:08:32.257436+00:00",
+  "generated_at": "2026-11-02T08:59:55.137748+00:00",
   "source_url": "https://www.nintendo.com/tw/topics",
   "items": [
     {
       "id": "d2bbd8207375132d2cf521bd19d98d0a6f3e04b985d6c0ee7e47451271b2336b",
       "title": "Nintendo Switch 2 Monster Hunter Wilds 主機組合將於2026年12月4日（五）發售。2026.11.2",
       "original_url": "https://www.nintendo.com/tw/topics/article/Lmnv0u11u1HFTROfxZrdF",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hant",
+      "content_scope": "metadata"
+    },
+    {
+      "id": "03724e988d2e4dd3ab09e5d0c9e578001ab6ae833df0f8e179f75f83950b7d79",
+      "title": "《皮克敏4 Nintendo Switch 2 Edition + 大家來挑戰! 當多慮檢定》的體驗版開始發布。介紹Pikmin Day Direct公開的資訊。2026.11.2",
+      "original_url": "https://www.nintendo.com/tw/topics/article/2ZB9tYC2Etc7xEvLaeHsLn",
       "summary": "",
       "content": "",
       "image_url": "",
@@ -272,18 +284,6 @@
       "id": "76efee0b6f47776683c345ec5b052e39d8d13b8177de482851b166c7573b17c4",
       "title": "【優惠至10月7日】Nintendo eShop「假期歡樂優惠」即將結束。2026.10.2",
       "original_url": "https://www.nintendo.com/tw/topics/article/7BU8Era7RAPRG8wez7Bope",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "evidence": "community",
-      "language": "zh-Hant",
-      "content_scope": "metadata"
-    },
-    {
-      "id": "2face8f0294d6dd6214ca53adb310fbd7bf6a344795eafb3f464860e2775415d",
-      "title": "可獲得角色模型的《咚奇剛 蕉力全開 DK島＆綠寶石淘金》期間限定活動（共12回），將改為每月更替形式舉辦！2026.10.2",
-      "original_url": "https://www.nintendo.com/tw/topics/article/7eE2iKEO96mhQEgN5lT0wc",
       "summary": "",
       "content": "",
       "image_url": "",
