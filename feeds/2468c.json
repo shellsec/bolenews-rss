@@ -1,9 +1,25 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-02T08:59:49.375586+00:00",
+  "generated_at": "2026-11-02T12:40:04.458152+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112&per_page=30&_fields=id,date_gmt,link,title,categories",
   "items": [
+    {
+      "title": "恶魔城：贝尔蒙特的诅咒 Castlevania Belmonts Curse",
+      "original_url": "https://2468c.com/121233.html",
+      "published_at": "2026-11-02T12:25:14Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
     {
       "title": "狂战传说：重制版 Tales of Berseria Remastered",
       "original_url": "https://2468c.com/116820.html",
@@ -456,22 +472,6 @@
       "title": "从前从前有个块魂 Once Upon a Katamari",
       "original_url": "https://2468c.com/112757.html",
       "published_at": "2026-10-31T00:43:04Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "水泽仙女.Naiad",
-      "original_url": "https://2468c.com/112536.html",
-      "published_at": "2026-10-31T00:41:51Z",
       "summary": "",
       "content": "",
       "image_url": "",
