@@ -1,0 +1,55 @@
+{
+  "checked_at": "2026-11-02T05:01:26.398089+00:00",
+  "main_sources": 64,
+  "main_existing_enabled": 45,
+  "main_new_disabled": 19,
+  "main_new_tools": [
+    "goldleaf",
+    "vitadb",
+    "apollo-ps4",
+    "ps5-elfldr",
+    "xbsx2",
+    "rocknix",
+    "portmaster",
+    "lemuroid",
+    "decky-loader",
+    "fizeau"
+  ],
+  "main_new_games": [
+    "nintendolife-news",
+    "nintendolife-guides",
+    "steam-dota2-zh",
+    "steam-cs2-zh",
+    "steam-palworld-store-zh",
+    "steam-mhwilds-store-zh",
+    "steam-terraria-store",
+    "nintendolife-reviews",
+    "gnn-zh"
+  ],
+  "unique_catalog_sources": 88,
+  "new_unique_sources": 43,
+  "new_tools": 21,
+  "catalogs": {
+    "android": 4,
+    "games": 38,
+    "pc-handheld": 40,
+    "playstation": 33,
+    "switch": 40,
+    "tools": 50,
+    "xbox": 23
+  },
+  "main_compatible_with_existing_host_allowlist": true,
+  "new_json_metadata": {
+    "gnn": 30
+  },
+  "scope": "Single network observation and parser validation; not hardware or long-term availability acceptance; new sources off by default; original choices remain local.",
+  "excluded_duplicate_feed_variants": [
+    "mhwilds-steam-zh",
+    "steam-palworld-zh",
+    "terraria-steam"
+  ],
+  "new_games": 22,
+  "native_parser_verified_sources": 43,
+  "native_verified_catalogs": 8,
+  "existing_default_remote_update_accepted": true
+}

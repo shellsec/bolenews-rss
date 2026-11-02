@@ -1,0 +1,860 @@
+{
+  "schema_version": 1,
+  "config_version": 4,
+  "min_app_version": "0.1.2",
+  "generated_at": "2026-11-02T05:01:26.376555+00:00",
+  "sources": [
+    {
+      "id": "atmosphere",
+      "name": "Atmosphère",
+      "url": "https://github.com/Atmosphere-NX/Atmosphere/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "Atmosphere-NX/Atmosphere",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "hekate",
+      "name": "Hekate",
+      "url": "https://github.com/CTCaer/hekate/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "CTCaer/hekate",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "jksv",
+      "name": "JKSV",
+      "url": "https://github.com/J-D-K/JKSV/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "J-D-K/JKSV",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "retroarch",
+      "name": "RetroArch",
+      "url": "https://github.com/libretro/RetroArch/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "libretro/RetroArch",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "ppsspp",
+      "name": "PPSSPP 上游",
+      "url": "https://github.com/hrydgard/ppsspp/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "hrydgard/ppsspp",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "melonds",
+      "name": "melonDS 上游",
+      "url": "https://github.com/melonDS-emu/melonDS/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "melonDS-emu/melonDS",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "mgba",
+      "name": "mGBA 上游",
+      "url": "https://github.com/mgba-emu/mgba/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "mgba-emu/mgba",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "flycast",
+      "name": "Flycast 上游",
+      "url": "https://github.com/flyinghead/flycast/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "flyinghead/flycast",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "bolemusic",
+      "name": "BoleMusic",
+      "url": "https://github.com/shellsec/bolemusic/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "shellsec/bolemusic",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "missioncontrol",
+      "name": "MissionControl",
+      "url": "https://github.com/ndeadly/MissionControl/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "ndeadly/MissionControl",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled upstream articles or images"
+    },
+    {
+      "id": "sys-clk",
+      "name": "sys-clk",
+      "url": "https://github.com/retronx-team/sys-clk/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "retronx-team/sys-clk",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled upstream articles or images"
+    },
+    {
+      "id": "nx-hbmenu",
+      "name": "Homebrew Menu",
+      "url": "https://github.com/switchbrew/nx-hbmenu/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "switchbrew/nx-hbmenu",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled upstream articles or images"
+    },
+    {
+      "id": "ultrahand",
+      "name": "Ultrahand Overlay",
+      "url": "https://github.com/ppkantorski/Ultrahand-Overlay/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "ppkantorski/Ultrahand-Overlay",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "fpslocker",
+      "name": "FPSLocker",
+      "url": "https://github.com/masagrator/FPSLocker/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "masagrator/FPSLocker",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "saltynx",
+      "name": "SaltyNX",
+      "url": "https://github.com/masagrator/SaltyNX/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "masagrator/SaltyNX",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "dbi",
+      "name": "dbi",
+      "url": "https://github.com/rashevskyv/dbi/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "rashevskyv/dbi",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "sphaira",
+      "name": "sphaira",
+      "url": "https://github.com/NaGaa95/sphaira/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "NaGaa95/sphaira",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "syshaze",
+      "name": "sysHaze",
+      "url": "https://github.com/masagrator/sysHaze/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "masagrator/sysHaze",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "status-monitor",
+      "name": "Status-Monitor-Overlay",
+      "url": "https://github.com/ppkantorski/Status-Monitor-Overlay/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "ppkantorski/Status-Monitor-Overlay",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "ovl-sysmodules",
+      "name": "ovl-sysmodules",
+      "url": "https://github.com/ppkantorski/ovl-sysmodules/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "ppkantorski/ovl-sysmodules",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "switch-themes",
+      "name": "SwitchThemeInjector",
+      "url": "https://github.com/exelix11/SwitchThemeInjector/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "exelix11/SwitchThemeInjector",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "etahen",
+      "name": "etaHEN",
+      "url": "https://github.com/etaHEN/etaHEN/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "etaHEN/etaHEN",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "ps5"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "kstuff",
+      "name": "kstuff",
+      "url": "https://github.com/EchoStretch/kstuff/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "EchoStretch/kstuff",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "ps5"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "goldhen",
+      "name": "GoldHEN",
+      "url": "https://github.com/GoldHEN/GoldHEN/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "GoldHEN/GoldHEN",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "ps4"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "shadps4",
+      "name": "shadPS4",
+      "url": "https://github.com/shadps4-emu/shadPS4/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "shadps4-emu/shadPS4",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "rpcs3",
+      "name": "rpcs3",
+      "url": "https://github.com/RPCS3/rpcs3/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "RPCS3/rpcs3",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "proton",
+      "name": "Proton",
+      "url": "https://github.com/ValveSoftware/Proton/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "ValveSoftware/Proton",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "gbatemp-scene",
+      "name": "GBAtemp Scene News",
+      "url": "https://gbatemp.net/forums/gbatemp-scene-news.101/index.rss",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "evidence": "community",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "wololo-switch",
+      "name": "Wololo Switch",
+      "url": "https://wololo.net/category/nintendo-switch/feed/",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "evidence": "community",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "goldleaf",
+      "name": "Goldleaf",
+      "url": "https://github.com/XorTroll/Goldleaf/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "XorTroll/Goldleaf",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "vitadb",
+      "name": "VitaDB Downloader",
+      "url": "https://github.com/Rinnegatamante/VitaDB-Downloader/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "Rinnegatamante/VitaDB-Downloader",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "vita"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "apollo-ps4",
+      "name": "Apollo Save Tool (PS4)",
+      "url": "https://github.com/bucanero/apollo-ps4/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "bucanero/apollo-ps4",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "ps4"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "ps5-elfldr",
+      "name": "PS5 ELF Loader",
+      "url": "https://github.com/ps5-payload-dev/elfldr/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "ps5-payload-dev/elfldr",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "ps5"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "xbsx2",
+      "name": "XBSX2",
+      "url": "https://github.com/XboxEmulationHub/XBSX2/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "XboxEmulationHub/XBSX2",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "xbox"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "rocknix",
+      "name": "ROCKNIX",
+      "url": "https://github.com/ROCKNIX/distribution/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "ROCKNIX/distribution",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "linux"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "portmaster",
+      "name": "PortMaster",
+      "url": "https://github.com/PortsMaster/PortMaster-GUI/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "PortsMaster/PortMaster-GUI",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "linux"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "lemuroid",
+      "name": "Lemuroid",
+      "url": "https://github.com/Swordfish90/Lemuroid/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "Swordfish90/Lemuroid",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "android"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "decky-loader",
+      "name": "Decky Loader",
+      "url": "https://github.com/SteamDeckHomebrew/decky-loader/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "SteamDeckHomebrew/decky-loader",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc",
+        "linux"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "protonup-qt",
+      "name": "ProtonUp-Qt",
+      "url": "https://github.com/DavidoTek/ProtonUp-Qt/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "DavidoTek/ProtonUp-Qt",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc",
+        "linux"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "heroic",
+      "name": "Heroic Games Launcher",
+      "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "Heroic-Games-Launcher/HeroicGamesLauncher",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc",
+        "linux"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "autoplugin2",
+      "name": "AutoPlugin II",
+      "url": "https://github.com/ONElua/AutoPlugin2/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "ONElua/AutoPlugin2",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "vita"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "apollo-vita",
+      "name": "Apollo Save Tool (Vita)",
+      "url": "https://github.com/bucanero/apollo-vita/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "bucanero/apollo-vita",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "vita"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "ps5-websrv",
+      "name": "PS5 websrv",
+      "url": "https://github.com/ps5-payload-dev/websrv/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "ps5-payload-dev/websrv",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "ps5"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "ftpd",
+      "name": "ftpd",
+      "url": "https://github.com/mtheall/ftpd/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "mtheall/ftpd",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "ulaunch",
+      "name": "uLaunch",
+      "url": "https://github.com/XorTroll/uLaunch/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "XorTroll/uLaunch",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "fizeau",
+      "name": "Fizeau",
+      "url": "https://github.com/averne/Fizeau/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "averne/Fizeau",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "emuiibo",
+      "name": "emuiibo",
+      "url": "https://github.com/XorTroll/emuiibo/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "XorTroll/emuiibo",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "lutris",
+      "name": "Lutris",
+      "url": "https://github.com/lutris/lutris/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "lutris/lutris",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc",
+        "linux"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "cemu",
+      "name": "Cemu",
+      "url": "https://github.com/cemu-project/Cemu/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "cemu-project/Cemu",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc",
+        "linux"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "dolphin",
+      "name": "Dolphin",
+      "url": "https://github.com/dolphin-emu/dolphin/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "dolphin-emu/dolphin",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc",
+        "linux",
+        "android"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "config_version": 4,
+  "min_app_version": "0.1.2",
+  "generated_at": "2026-11-02T05:01:26.376555+00:00",
+  "sources": [
+    {
+      "id": "lemuroid",
+      "name": "Lemuroid",
+      "url": "https://github.com/Swordfish90/Lemuroid/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "Swordfish90/Lemuroid",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "android"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "dolphin",
+      "name": "Dolphin",
+      "url": "https://github.com/dolphin-emu/dolphin/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "dolphin-emu/dolphin",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc",
+        "linux",
+        "android"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "gnn-zh",
+      "name": "巴哈姆特 GNN 游戏新闻",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/gnn.json",
+      "category": "hot",
+      "language": "zh-Hant",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "GNN non-commercial RSS metadata use with attribution and unchanged original links; https://user.gamer.com.tw/help/detail.php?sn=136 ; no bodies or images",
+      "evidence": "community"
+    },
+    {
+      "id": "4gamers-zh",
+      "name": "4Gamers 游戏新闻",
+      "url": "https://www.4gamers.com.tw/rss/latest-news",
+      "category": "hot",
+      "language": "zh-Hant",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no_bundled_articles_or_publisher_images; republication_permission_not_established",
+      "evidence": "community"
+    }
+  ]
+}

@@ -5,6 +5,7 @@ Publish the feeds/ directory separately; this command never pushes or deploys.
 """
 import argparse
 import datetime as dt
+import email.utils
 import hashlib
 import html as html_entities
 from html.parser import HTMLParser
@@ -16,9 +17,13 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import urllib.robotparser
+import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 SITES = {
+    "gnn": {"name": "巴哈姆特 GNN", "url": "https://gnn.gamer.com.tw/rss.xml",
+            "hosts": {"gnn.gamer.com.tw"}, "path": r"/detail\.php",
+            "format": "rss", "language": "zh-Hant"},
     "ns45": {"name": "NS45", "url": "https://www.ns45.com/news/",
              "hosts": {"www.ns45.com", "ns45.com"}, "path": r"/news/\d+\.html"},
     "gamer520": {"name": "Gamer520 public WordPress API (Switch category)",
@@ -146,6 +151,38 @@ def atomic_json(path, value):
     tmp.replace(path)
 
 
+def convert_rss(body, site):
+    """Publish only attributed title/link/date metadata, never RSS bodies/images."""
+    if "<!DOCTYPE" in body.upper() or "<!ENTITY" in body.upper():
+        raise ValueError("DTD/entity declarations are not allowed")
+    root = ET.fromstring(body)
+    if root.tag != "rss":
+        raise ValueError("Expected RSS")
+    items = {}
+    for entry in root.findall("./channel/item")[:100]:
+        title = " ".join(html_entities.unescape(re.sub(r"<[^>]*>", " ", entry.findtext("title", ""))).split())
+        url = entry.findtext("link", "").strip()
+        p = urllib.parse.urlsplit(url)
+        query = urllib.parse.parse_qs(p.query)
+        if (not 4 <= len(title) <= 512 or not allowed(url, site) or
+                not re.fullmatch(site["path"], p.path) or p.fragment or
+                set(query) != {"sn"} or len(query["sn"]) != 1 or
+                not query["sn"][0].isdigit() or url in items):
+            continue
+        date = ""
+        try:
+            parsed = email.utils.parsedate_to_datetime(entry.findtext("pubDate", ""))
+            if parsed.tzinfo is not None:
+                date = parsed.astimezone(dt.timezone.utc).isoformat().replace("+00:00", "Z")
+        except (ValueError, TypeError, OverflowError):
+            pass
+        items[url] = {"title": title, "original_url": url, "published_at": date,
+                      "source_name": site["name"], "language": site["language"],
+                      "summary": "", "content": "", "image_url": "",
+                      "content_scope": "metadata", "evidence": "community"}
+    return list(items.values())
+
+
 def collect(key, output):
     site = SITES[key]
     now = dt.datetime.now(dt.timezone.utc).isoformat()
@@ -166,8 +203,8 @@ def collect(key, output):
         if not robots.can_fetch(AGENT, site["url"]):
             raise ValueError("robots.txt disallows the index")
         body = fetch(site["url"], site)
-        items = (convert_wordpress(body, site) if site.get("format") == "wordpress"
-                 else convert(body, site))
+        converter = {"wordpress": convert_wordpress, "rss": convert_rss}.get(site.get("format"), convert)
+        items = converter(body, site)
         if not items:
             raise ValueError("No matching entries; adapter needs review")
         atomic_json(path, {"schema_version": 1, "status": "ok", "generated_at": now,

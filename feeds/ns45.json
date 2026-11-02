@@ -1,9 +1,21 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-02T04:13:45.716320+00:00",
+  "generated_at": "2026-11-02T04:59:52.064634+00:00",
   "source_url": "https://www.ns45.com/news/",
   "items": [
+    {
+      "id": "70ecb0209e973ce409c96aca1e8c6de9663a6d76b0b4676376cf6f035b854133",
+      "title": "米哈游星布谷地官宣2027年登陆Switch2 原神Switch版六年无进展",
+      "original_url": "https://www.ns45.com/news/66927.html",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "metadata"
+    },
     {
       "id": "225a34eadf5ad707b24be178c92819524dd651034b6a656d2190060ae5435bdf",
       "title": "首个Switch2模拟器Eden-NX2正式发布 可运行多款游戏",
@@ -104,18 +116,6 @@
       "id": "893cbf0e8def60242cba3db1abdee119b259b4119bbd280c83eca30a24836568",
       "title": "塞尔达传说时之笛重制版实机曝光 Switch2经典迷宫重做升级",
       "original_url": "https://www.ns45.com/news/66346.html",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "evidence": "community",
-      "language": "zh-Hans",
-      "content_scope": "metadata"
-    },
-    {
-      "id": "d8bdaa12138ca79202e6222a3cc341e11dcd11a6148d17798bf0a585b9d7a030",
-      "title": "怪物猎人荒野Switch2试玩版出现黑屏死机 部分主机无法开机",
-      "original_url": "https://www.ns45.com/news/66158.html",
       "summary": "",
       "content": "",
       "image_url": "",

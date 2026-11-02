@@ -12,11 +12,13 @@ Use the original URL in BoleNews. Version0.1.2+ recognizes a collection, uses pr
 
 `schema_version:1`, increasing positive `config_version`, and `sources:[...]` describe a catalog. Child URLs are absolute public HTTPS feeds. No executable fields, scripts, installation commands or nested catalogs. Increment config_version when changing source definitions; updating article content alone does not require a catalog-version change. Personal subscriptions/overrides are separate from catalog snapshots.
 
-## Automatic and manual updates
+## Content updates
 
-GitHub Actions runs hourly at minute23 and can be run manually: Actions → Update BoleNews sources → Run workflow. The app can also manually refresh the catalog and its child feeds; that downloads current published files, it does not launch server-side collection.
+Open BoleNews to read subscribed content. Refresh the catalog in the app and enable the sources you want. Newly added sources are off by default; existing choices are stored locally. Server-side collection runs automatically. Readers do not need to visit GitHub or operate workflows.
 
-Local maintenance: `python3 tools/collect_web_feeds.py --site all`, then `python3 tools/validate_feeds.py`. Four adapters read only public directory titles/links and, where explicitly supplied, publication dates. Gamer520 uses its public WordPress API Switch category, not its inaccessible homepage. Empty/failed parsing preserves prior successful files; `.health.json` records each attempt. Partial failure publishes other successful updates, retains failed sources' last-good content and marks the workflow failed for visibility.
+The main catalog stays within version0.1.2's 64-child limit. Additional opt-in catalogs in `catalogs/` provide tools, games and platform-specific selections. Add the desired catalog as a normal remote JSON subscription; these are independent flat catalogs, not nested collections. Importing overlapping catalogs can request the same feed twice, so choose a main catalog or a suitable specialist selection.
+
+Local maintenance: `python3 tools/collect_web_feeds.py --site all`, then `python3 tools/validate_feeds.py`. Five adapters read only public directory/feed titles/links and, where explicitly supplied, publication dates. Gamer520 uses its public WordPress API Switch category, not its inaccessible homepage. GNN metadata includes attribution and unchanged original links under its non-commercial RSS terms (see audits). Other newly listed media RSS feeds are read directly, not copied into this repository. Empty/failed parsing preserves prior successful files; `.health.json` records each attempt. Partial failure publishes other successful updates, retains failed sources' last-good content and marks the workflow failed for visibility.
 
 The exposed metadata does not verify claims in article titles or confer fulltext/image redistribution permission. Community information remains labeled community. No download links are resolved, no game files fetched and no page scripts executed. HTTPS verification remains enabled. robots.txt rules are honored; HTTP4xx unavailable handling follows RFC9309, while429/server/TLS failures stop collection.
 

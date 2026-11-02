@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 3,
+  "config_version": 4,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-02",
+  "generated_at": "2026-11-02T05:01:26.376555+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -714,6 +714,332 @@
       ],
       "evidence": "upstream",
       "rights_policy": "direct personal feed reading; no bundled article text or images"
+    },
+    {
+      "id": "goldleaf",
+      "name": "Goldleaf",
+      "url": "https://github.com/XorTroll/Goldleaf/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "XorTroll/Goldleaf",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "vitadb",
+      "name": "VitaDB Downloader",
+      "url": "https://github.com/Rinnegatamante/VitaDB-Downloader/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "Rinnegatamante/VitaDB-Downloader",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "vita"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "apollo-ps4",
+      "name": "Apollo Save Tool (PS4)",
+      "url": "https://github.com/bucanero/apollo-ps4/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "bucanero/apollo-ps4",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "ps4"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "ps5-elfldr",
+      "name": "PS5 ELF Loader",
+      "url": "https://github.com/ps5-payload-dev/elfldr/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "ps5-payload-dev/elfldr",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "ps5"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "xbsx2",
+      "name": "XBSX2",
+      "url": "https://github.com/XboxEmulationHub/XBSX2/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "XboxEmulationHub/XBSX2",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "xbox"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "rocknix",
+      "name": "ROCKNIX",
+      "url": "https://github.com/ROCKNIX/distribution/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "ROCKNIX/distribution",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "linux"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "portmaster",
+      "name": "PortMaster",
+      "url": "https://github.com/PortsMaster/PortMaster-GUI/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "PortsMaster/PortMaster-GUI",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "linux"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "lemuroid",
+      "name": "Lemuroid",
+      "url": "https://github.com/Swordfish90/Lemuroid/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "Swordfish90/Lemuroid",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "android"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "decky-loader",
+      "name": "Decky Loader",
+      "url": "https://github.com/SteamDeckHomebrew/decky-loader/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "SteamDeckHomebrew/decky-loader",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc",
+        "linux"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "fizeau",
+      "name": "Fizeau",
+      "url": "https://github.com/averne/Fizeau/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "averne/Fizeau",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "requiresConsent": false,
+      "evidence": "upstream",
+      "rights_policy": "direct personal upstream release-feed reading; code licence does not imply release-note or image republication permission; no game files or bundled release bodies"
+    },
+    {
+      "id": "nintendolife-news",
+      "name": "Nintendo Life 新游与新闻",
+      "url": "https://www.nintendolife.com/feeds/news",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no_bundled_articles_or_publisher_images; republication_permission_not_established",
+      "evidence": "community"
+    },
+    {
+      "id": "nintendolife-guides",
+      "name": "Nintendo Life 攻略",
+      "url": "https://www.nintendolife.com/feeds/guides",
+      "category": "guides",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no_bundled_articles_or_publisher_images; republication_permission_not_established",
+      "evidence": "community"
+    },
+    {
+      "id": "steam-dota2-zh",
+      "name": "Dota 2 Steam 更新（中文）",
+      "url": "https://store.steampowered.com/feeds/news/app/570/?l=schinese",
+      "category": "hot",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "pc"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; per-game Steam news can include events as well as patches"
+    },
+    {
+      "id": "steam-cs2-zh",
+      "name": "CS2 Steam 更新（中文）",
+      "url": "https://store.steampowered.com/feeds/news/app/730/?l=schinese",
+      "category": "hot",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "pc"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; per-game Steam news can include events as well as patches"
+    },
+    {
+      "id": "steam-palworld-store-zh",
+      "name": "幻兽帕鲁 Steam 动态（中文）",
+      "url": "https://store.steampowered.com/feeds/news/app/1623730/?l=schinese",
+      "category": "hot",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "pc"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; per-game Steam news can include events as well as patches"
+    },
+    {
+      "id": "steam-mhwilds-store-zh",
+      "name": "怪物猎人 荒野 Steam 动态（中文）",
+      "url": "https://store.steampowered.com/feeds/news/app/2246340/?l=schinese",
+      "category": "hot",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "pc"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; per-game Steam news can include events as well as patches"
+    },
+    {
+      "id": "steam-terraria-store",
+      "name": "Terraria Steam updates",
+      "url": "https://store.steampowered.com/feeds/news/app/105600/?l=english",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "pc"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; per-game Steam news can include events as well as patches"
+    },
+    {
+      "id": "nintendolife-reviews",
+      "name": "Nintendo Life 游戏评测",
+      "url": "https://www.nintendolife.com/feeds/reviews",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "evidence": "community",
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; per-game Steam news can include events as well as patches"
+    },
+    {
+      "id": "gnn-zh",
+      "name": "巴哈姆特 GNN 游戏新闻",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/gnn.json",
+      "category": "hot",
+      "language": "zh-Hant",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "GNN non-commercial RSS metadata use with attribution and unchanged original links; https://user.gamer.com.tw/help/detail.php?sn=136 ; no bodies or images",
+      "evidence": "community"
     }
   ]
 }

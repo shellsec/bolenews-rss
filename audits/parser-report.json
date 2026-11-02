@@ -1,0 +1,212 @@
+{
+  "catalogs": [
+    {
+      "file": "android.json",
+      "sources": 4
+    },
+    {
+      "file": "games.json",
+      "sources": 38
+    },
+    {
+      "file": "pc-handheld.json",
+      "sources": 40
+    },
+    {
+      "file": "playstation.json",
+      "sources": 33
+    },
+    {
+      "file": "switch.json",
+      "sources": 40
+    },
+    {
+      "file": "tools.json",
+      "sources": 50
+    },
+    {
+      "file": "xbox.json",
+      "sources": 23
+    },
+    {
+      "file": "sources.json",
+      "sources": 64
+    }
+  ],
+  "existing_default_remote_update_accepted": true,
+  "parser": "BoleNews 0.1.2 native core",
+  "sources": [
+    {
+      "articles": 10,
+      "id": "lemuroid"
+    },
+    {
+      "articles": 10,
+      "id": "dolphin"
+    },
+    {
+      "articles": 30,
+      "id": "gnn-zh"
+    },
+    {
+      "articles": 50,
+      "id": "4gamers-zh"
+    },
+    {
+      "articles": 20,
+      "id": "nintendolife-news"
+    },
+    {
+      "articles": 20,
+      "id": "nintendolife-guides"
+    },
+    {
+      "articles": 20,
+      "id": "pushsquare-news"
+    },
+    {
+      "articles": 25,
+      "id": "pushsquare-updates"
+    },
+    {
+      "articles": 20,
+      "id": "purexbox-news"
+    },
+    {
+      "articles": 25,
+      "id": "purexbox-updates"
+    },
+    {
+      "articles": 20,
+      "id": "gematsu"
+    },
+    {
+      "articles": 50,
+      "id": "pcgamer"
+    },
+    {
+      "articles": 10,
+      "id": "psuniverse"
+    },
+    {
+      "articles": 10,
+      "id": "cs2-official"
+    },
+    {
+      "articles": 10,
+      "id": "helldivers2-steam-zh"
+    },
+    {
+      "articles": 10,
+      "id": "nomanssky-steam"
+    },
+    {
+      "articles": 25,
+      "id": "pushsquare-psplus"
+    },
+    {
+      "articles": 25,
+      "id": "purexbox-gamepass"
+    },
+    {
+      "articles": 10,
+      "id": "steam-dota2-zh"
+    },
+    {
+      "articles": 10,
+      "id": "steam-cs2-zh"
+    },
+    {
+      "articles": 10,
+      "id": "steam-palworld-store-zh"
+    },
+    {
+      "articles": 10,
+      "id": "steam-mhwilds-store-zh"
+    },
+    {
+      "articles": 10,
+      "id": "steam-terraria-store"
+    },
+    {
+      "articles": 25,
+      "id": "nintendolife-reviews"
+    },
+    {
+      "articles": 10,
+      "id": "rocknix"
+    },
+    {
+      "articles": 10,
+      "id": "portmaster"
+    },
+    {
+      "articles": 10,
+      "id": "decky-loader"
+    },
+    {
+      "articles": 10,
+      "id": "protonup-qt"
+    },
+    {
+      "articles": 10,
+      "id": "heroic"
+    },
+    {
+      "articles": 10,
+      "id": "lutris"
+    },
+    {
+      "articles": 10,
+      "id": "cemu"
+    },
+    {
+      "articles": 10,
+      "id": "vitadb"
+    },
+    {
+      "articles": 10,
+      "id": "apollo-ps4"
+    },
+    {
+      "articles": 10,
+      "id": "ps5-elfldr"
+    },
+    {
+      "articles": 10,
+      "id": "autoplugin2"
+    },
+    {
+      "articles": 10,
+      "id": "apollo-vita"
+    },
+    {
+      "articles": 10,
+      "id": "ps5-websrv"
+    },
+    {
+      "articles": 10,
+      "id": "goldleaf"
+    },
+    {
+      "articles": 10,
+      "id": "ftpd"
+    },
+    {
+      "articles": 10,
+      "id": "ulaunch"
+    },
+    {
+      "articles": 10,
+      "id": "fizeau"
+    },
+    {
+      "articles": 10,
+      "id": "emuiibo"
+    },
+    {
+      "articles": 4,
+      "id": "xbsx2"
+    }
+  ]
+}
