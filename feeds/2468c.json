@@ -1,0 +1,488 @@
+{
+  "schema_version": 1,
+  "status": "ok",
+  "generated_at": "2026-11-02T08:53:57.575463+00:00",
+  "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112&per_page=30&_fields=id,date_gmt,link,title,categories",
+  "items": [
+    {
+      "title": "狂战传说：重制版 Tales of Berseria Remastered",
+      "original_url": "https://2468c.com/116820.html",
+      "published_at": "2026-11-02T06:01:20Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "啦嗒铛 Ratatan",
+      "original_url": "https://2468c.com/121566.html",
+      "published_at": "2026-11-02T06:00:16Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "黑客帝国觉醒：虚幻引擎5 – 体验.The Matrix Awakens: An Unreal Engine 5 Experience",
+      "original_url": "https://2468c.com/82613.html",
+      "published_at": "2026-11-02T05:53:03Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "克莱夫·巴克的养鬼吃人：复苏 Clive Barker’s Hellraiser: Revival",
+      "original_url": "https://2468c.com/121092.html",
+      "published_at": "2026-11-02T05:50:25Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "EA Sports FC 27",
+      "original_url": "https://2468c.com/120460.html",
+      "published_at": "2026-11-02T01:07:35Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "白色情人节：恐怖学校 White Day A Labyrinth Named School",
+      "original_url": "https://2468c.com/121742.html",
+      "published_at": "2026-11-02T01:06:20Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "博恩豪斯巷 Burnhouse Lane",
+      "original_url": "https://2468c.com/121740.html",
+      "published_at": "2026-11-02T01:01:47Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "阴暗之眸 Gloomy Eyes",
+      "original_url": "https://2468c.com/121738.html",
+      "published_at": "2026-11-02T00:58:10Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "至暗死境 Dead of Darkness",
+      "original_url": "https://2468c.com/121736.html",
+      "published_at": "2026-11-02T00:54:33Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "我没有儿子 No Son of Mine",
+      "original_url": "https://2468c.com/121734.html",
+      "published_at": "2026-11-02T00:51:36Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "不要打开 Do Not Open",
+      "original_url": "https://2468c.com/121732.html",
+      "published_at": "2026-11-02T00:47:30Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "鮟鱇鱼 Anglerfish",
+      "original_url": "https://2468c.com/121730.html",
+      "published_at": "2026-11-02T00:40:33Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "悔恨：清单 Remorse The List",
+      "original_url": "https://2468c.com/121728.html",
+      "published_at": "2026-11-02T00:35:52Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "噩梦计划 Project Nightmares Case 36 Henrietta Kedward",
+      "original_url": "https://2468c.com/121726.html",
+      "published_at": "2026-11-02T00:30:57Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "熊视眈眈 Out of Sight",
+      "original_url": "https://2468c.com/121724.html",
+      "published_at": "2026-11-02T00:26:31Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "绯红结系 Scarlet Nexus",
+      "original_url": "https://2468c.com/112438.html",
+      "published_at": "2026-11-01T06:00:26Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "勇者斗恶龙 7 Dragon Quest VII Reimagined",
+      "original_url": "https://2468c.com/111785.html",
+      "published_at": "2026-11-01T05:53:55Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "真・女神转生V：复仇.Shin Megami Tensei V: Vengeance",
+      "original_url": "https://2468c.com/103497.html",
+      "published_at": "2026-11-01T05:48:47Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "女神异闻录3：Persona 3 Reload",
+      "original_url": "https://2468c.com/102878.html",
+      "published_at": "2026-11-01T05:42:51Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "如龙：极 1 + 2.Yakuza Kiwami 1+2",
+      "original_url": "https://2468c.com/112414.html",
+      "published_at": "2026-10-31T01:01:21Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "班迪与暗黑重生 Bendy and the Dark Revival",
+      "original_url": "https://2468c.com/112840.html",
+      "published_at": "2026-10-31T00:58:27Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "超侦探事件簿：雾雨谜宫 Plus Master Detective Archives: Rain Code Plus",
+      "original_url": "https://2468c.com/112734.html",
+      "published_at": "2026-10-31T00:54:10Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "葛叶雷道 复刻版：超力兵团奇谭.Raidou Remastered: The Mystery of the Soulless Army",
+      "original_url": "https://2468c.com/112700.html",
+      "published_at": "2026-10-31T00:52:33Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "勇敢小骑士.The Plucky Squire",
+      "original_url": "https://2468c.com/112833.html",
+      "published_at": "2026-10-31T00:51:36Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "奇巫妙森.Wytchwood",
+      "original_url": "https://2468c.com/112695.html",
+      "published_at": "2026-10-31T00:50:21Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "JOJO 的奇妙冒险：群星之战 重制版 – 数字豪华版 JoJo’s Bizarre Adventure: All-Star Battle R – Digital Deluxe Edition",
+      "original_url": "https://2468c.com/112785.html",
+      "published_at": "2026-10-31T00:48:23Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "塞伯利亚之谜：世界之前.Syberia: The World Before",
+      "original_url": "https://2468c.com/112835.html",
+      "published_at": "2026-10-31T00:47:42Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "格雷克大冒险：阿祖尔的回忆 Greak: Memories of Azur",
+      "original_url": "https://2468c.com/112842.html",
+      "published_at": "2026-10-31T00:45:31Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "从前从前有个块魂 Once Upon a Katamari",
+      "original_url": "https://2468c.com/112757.html",
+      "published_at": "2026-10-31T00:43:04Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "水泽仙女.Naiad",
+      "original_url": "https://2468c.com/112536.html",
+      "published_at": "2026-10-31T00:41:51Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    }
+  ]
+}

@@ -21,6 +21,11 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 SITES = {
+    "2468c": {"name": "奥德彪计划 PS4 / PS5", "format": "wordpress",
+              "url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112&per_page=30&_fields=id,date_gmt,link,title,categories",
+              "hosts": {"2468c.com"}, "path": r"/\d+\.html",
+              "platform_categories": {"ps4": {53, 112}, "ps5": {65, 111, 141, 146, 147}},
+              "tool_categories": {111, 112}},
     "gnn": {"name": "巴哈姆特 GNN", "url": "https://gnn.gamer.com.tw/rss.xml",
             "hosts": {"gnn.gamer.com.tw"}, "path": r"/detail\.php",
             "format": "rss", "language": "zh-Hant"},
@@ -135,10 +140,22 @@ def convert_wordpress(body, site):
                 date = dt.datetime.strptime(date, "%Y-%m-%dT%H:%M:%S").isoformat() + "Z"
             except (ValueError, TypeError):
                 date = ""
-            items[url] = {"title": title, "original_url": url, "published_at": date,
+            item = {"title": title, "original_url": url, "published_at": date,
                           "summary": "", "content": "", "image_url": "",
                           "content_scope": "metadata", "language": "zh-Hans",
                           "evidence": "community"}
+            if site.get("platform_categories"):
+                categories = post.get("categories", [])
+                if not isinstance(categories, list) or any(type(value) is not int for value in categories):
+                    continue
+                categories = set(categories)
+                platforms = [name for name, ids in site["platform_categories"].items() if categories & ids]
+                if not platforms:
+                    continue
+                item["platform"] = platforms
+                item["category"] = "homebrew" if categories & site.get("tool_categories", set()) else "hot"
+                item["source_name"] = site["name"]
+            items[url] = item
         except (KeyError, TypeError, ValueError):
             continue
     return list(items.values())

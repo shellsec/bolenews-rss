@@ -1,0 +1,20 @@
+{
+  "catalogs": [
+    {
+      "file": "playstation.json",
+      "sources": 34
+    },
+    {
+      "file": "games.json",
+      "sources": 39
+    }
+  ],
+  "existing_default_remote_update_accepted": true,
+  "parser": "BoleNews 0.1.2 native core",
+  "sources": [
+    {
+      "articles": 30,
+      "id": "aodebiao-ps"
+    }
+  ]
+}

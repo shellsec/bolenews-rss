@@ -1,0 +1,45 @@
+{
+  "checked_at_utc": "2026-11-02T08:51:50.891705+00:00",
+  "feed": {
+    "url": "https://2468c.com/feed/",
+    "xml_valid": true,
+    "root": "rss",
+    "version": "2.0",
+    "channel_title": "奥德彪计划",
+    "language": "zh-Hans",
+    "items": 10,
+    "latest": "2026-11-02T06:01:20+00:00",
+    "oldest": "2026-11-02T00:51:36+00:00",
+    "published_last_7_days": 10,
+    "nonempty_title": 10,
+    "nonempty_description": 10,
+    "content_encoded": 10,
+    "items_with_image_markup": 10,
+    "duplicate_title_count": 0,
+    "duplicate_link_count": 0,
+    "titles_containing_han": 9
+  },
+  "filtered_api": {
+    "url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112&per_page=30&_fields=id,date_gmt,link,title,categories",
+    "status": 200,
+    "items": 30,
+    "returned_fields": [
+      "categories",
+      "date_gmt",
+      "id",
+      "link",
+      "title"
+    ],
+    "all_have_requested_category": true,
+    "category_counts": {
+      "147": 29,
+      "65": 29,
+      "53": 1,
+      "141": 5
+    },
+    "duplicate_ids": 0,
+    "duplicate_links": 0,
+    "total_matching_header": "4363",
+    "total_pages_header": "146"
+  }
+}

@@ -51,5 +51,31 @@
   "new_games": 22,
   "native_parser_verified_sources": 43,
   "native_verified_catalogs": 8,
-  "existing_default_remote_update_accepted": true
+  "existing_default_remote_update_accepted": true,
+  "supplements": [
+    {
+      "source": "aodebiao-ps",
+      "catalog_versions": {
+        "playstation": 5,
+        "games": 5
+      },
+      "catalog_counts": {
+        "playstation": 34,
+        "games": 39
+      },
+      "default_enabled": false,
+      "json_items": 30,
+      "parser_verification": "site-2468c-parser.json"
+    }
+  ],
+  "current_unique_catalog_sources": 89,
+  "current_catalogs": {
+    "android": 4,
+    "games": 39,
+    "pc-handheld": 40,
+    "playstation": 34,
+    "switch": 40,
+    "tools": 50,
+    "xbox": 23
+  }
 }
