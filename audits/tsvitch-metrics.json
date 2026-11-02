@@ -1,0 +1,85 @@
+{
+  "checked_at_utc": "2026-11-02T14:00:36.841533+00:00",
+  "atom": {
+    "url": "https://github.com/giovannimirulla/TsVitch/releases.atom",
+    "valid_xml": true,
+    "entries": 6,
+    "latest_updated": "2026-01-09T21:58:25+00:00",
+    "oldest_updated": "2024-11-23T17:01:46+00:00",
+    "updated_last_7_days": 0,
+    "nonempty_title": 6,
+    "nonempty_content": 6,
+    "nonempty_summary": 0,
+    "image_markup_entries": 0,
+    "duplicate_titles": 0,
+    "duplicate_links": 0,
+    "xml_language": "en-US",
+    "titles": [
+      "v0.3.2",
+      "v0.3.1",
+      "Happy Holidays - v0.3.0",
+      "v0.2.1",
+      "0.2.0",
+      "TsVitch 0.1.0"
+    ]
+  },
+  "releases": [
+    {
+      "tag": "v0.3.2",
+      "published_at": "2026-01-09T21:58:25Z",
+      "prerelease": false,
+      "assets": [
+        "TsVitch-macOS-AppleSilicon-0.3.2.dmg",
+        "TsVitch-macOS-IntelChip-0.3.2.dmg",
+        "TsVitch.nro"
+      ]
+    },
+    {
+      "tag": "v0.3.1",
+      "published_at": "2025-12-29T18:05:56Z",
+      "prerelease": false,
+      "assets": [
+        "TsVitch-macOS-AppleSilicon-0.3.1.dmg",
+        "TsVitch-macOS-IntelChip-0.3.1.dmg",
+        "TsVitch.nro"
+      ]
+    },
+    {
+      "tag": "v0.3.0",
+      "published_at": "2025-12-28T21:16:28Z",
+      "prerelease": false,
+      "assets": [
+        "TsVitch-macOS-AppleSilicon-0.3.0.dmg",
+        "TsVitch-macOS-IntelChip-0.3.0.dmg",
+        "TsVitch.nro"
+      ]
+    },
+    {
+      "tag": "v0.2.1",
+      "published_at": "2025-05-28T13:51:49Z",
+      "prerelease": false,
+      "assets": [
+        "TsVitch-macOS-AppleSilicon-0.2.1.dmg",
+        "TsVitch-macOS-IntelChip-0.2.1.dmg",
+        "TsVitch.nro"
+      ]
+    },
+    {
+      "tag": "0.2.0",
+      "published_at": "2025-05-26T19:44:03Z",
+      "prerelease": false,
+      "assets": [
+        "TsVitch-macOS-AppleSilicon-0.2.0.dmg",
+        "TsVitch-macOS-IntelChip-0.2.0.dmg",
+        "TsVitch.nro"
+      ]
+    }
+  ],
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  }
+}

@@ -86,17 +86,37 @@
         "ios"
       ],
       "parser_verification": "nx2apple-parser.json"
+    },
+    {
+      "source": "tsvitch",
+      "catalog_versions": {
+        "tools": 6,
+        "switch": 6,
+        "apple": 2
+      },
+      "catalog_counts": {
+        "tools": 52,
+        "switch": 42,
+        "apple": 2
+      },
+      "default_enabled": false,
+      "native_atom_entries": 6,
+      "runtime": [
+        "switch1",
+        "macos"
+      ],
+      "parser_verification": "tsvitch-parser.json"
     }
   ],
-  "current_unique_catalog_sources": 90,
+  "current_unique_catalog_sources": 91,
   "current_catalogs": {
     "android": 4,
     "games": 39,
     "pc-handheld": 40,
     "playstation": 34,
-    "switch": 41,
-    "tools": 51,
+    "switch": 42,
+    "tools": 52,
     "xbox": 23,
-    "apple": 1
+    "apple": 2
   }
 }
