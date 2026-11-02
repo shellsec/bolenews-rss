@@ -1,0 +1,719 @@
+{
+  "schema_version": 1,
+  "config_version": 3,
+  "min_app_version": "0.1.2",
+  "generated_at": "2026-11-02",
+  "sources": [
+    {
+      "id": "nintendo-jp",
+      "name": "任天堂官方",
+      "url": "https://www.nintendo.co.jp/news/whatsnew.xml",
+      "category": "hot",
+      "language": "ja",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "gcores",
+      "name": "机核",
+      "url": "https://www.gcores.com/rss",
+      "category": "hot",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "yystv",
+      "name": "游研社",
+      "url": "https://www.yystv.cn/rss/feed",
+      "category": "industry",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "chuapp",
+      "name": "触乐",
+      "url": "https://www.chuapp.com/feed",
+      "category": "industry",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "indienova",
+      "name": "indienova",
+      "url": "https://indienova.com/feed/",
+      "category": "launches",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "ithome",
+      "name": "IT之家 · 游戏筛选",
+      "url": "https://www.ithome.com/rss/",
+      "category": "hot",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "playstation-zh",
+      "name": "PlayStation 官方中文",
+      "url": "https://blog.zh-hant.playstation.com/feed/",
+      "category": "hot",
+      "language": "zh-Hant",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "ps4",
+        "ps5"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "atmosphere",
+      "name": "Atmosphère",
+      "url": "https://github.com/Atmosphere-NX/Atmosphere/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "Atmosphere-NX/Atmosphere",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "hekate",
+      "name": "Hekate",
+      "url": "https://github.com/CTCaer/hekate/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "CTCaer/hekate",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "jksv",
+      "name": "JKSV",
+      "url": "https://github.com/J-D-K/JKSV/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "J-D-K/JKSV",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "retroarch",
+      "name": "RetroArch",
+      "url": "https://github.com/libretro/RetroArch/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "libretro/RetroArch",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "ppsspp",
+      "name": "PPSSPP 上游",
+      "url": "https://github.com/hrydgard/ppsspp/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "hrydgard/ppsspp",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "melonds",
+      "name": "melonDS 上游",
+      "url": "https://github.com/melonDS-emu/melonDS/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "melonDS-emu/melonDS",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "mgba",
+      "name": "mGBA 上游",
+      "url": "https://github.com/mgba-emu/mgba/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "mgba-emu/mgba",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "flycast",
+      "name": "Flycast 上游",
+      "url": "https://github.com/flyinghead/flycast/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "flyinghead/flycast",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "bolemusic",
+      "name": "BoleMusic",
+      "url": "https://github.com/shellsec/bolemusic/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "shellsec/bolemusic",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "missioncontrol",
+      "name": "MissionControl",
+      "url": "https://github.com/ndeadly/MissionControl/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "ndeadly/MissionControl",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled upstream articles or images"
+    },
+    {
+      "id": "sys-clk",
+      "name": "sys-clk",
+      "url": "https://github.com/retronx-team/sys-clk/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "retronx-team/sys-clk",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled upstream articles or images"
+    },
+    {
+      "id": "nx-hbmenu",
+      "name": "Homebrew Menu",
+      "url": "https://github.com/switchbrew/nx-hbmenu/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "switchbrew/nx-hbmenu",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled upstream articles or images"
+    },
+    {
+      "id": "nintendo-everything",
+      "name": "Nintendo Everything · 游戏更新",
+      "url": "https://nintendoeverything.com/feed/",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "rights_policy": "direct_personal_feed_reading; update posts selected by tags, not all items are patches"
+    },
+    {
+      "id": "example-ns45",
+      "name": "NS45 中文资讯",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/ns45.json",
+      "category": "hot",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "requiresConsent": false,
+      "rights_policy": "public index metadata and original links only; no publisher images, article bodies or game files"
+    },
+    {
+      "id": "example-gamer520",
+      "name": "Gamer520 Switch 更新（公开元数据）",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/gamer520.json",
+      "category": "hot",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "requiresConsent": false,
+      "rights_policy": "public index metadata and original links only; no publisher images, article bodies or game files"
+    },
+    {
+      "id": "ultrahand",
+      "name": "Ultrahand Overlay",
+      "url": "https://github.com/ppkantorski/Ultrahand-Overlay/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "ppkantorski/Ultrahand-Overlay",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "fpslocker",
+      "name": "FPSLocker",
+      "url": "https://github.com/masagrator/FPSLocker/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "masagrator/FPSLocker",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "saltynx",
+      "name": "SaltyNX",
+      "url": "https://github.com/masagrator/SaltyNX/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "masagrator/SaltyNX",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "dbi",
+      "name": "dbi",
+      "url": "https://github.com/rashevskyv/dbi/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "rashevskyv/dbi",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "sphaira",
+      "name": "sphaira",
+      "url": "https://github.com/NaGaa95/sphaira/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "NaGaa95/sphaira",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "syshaze",
+      "name": "sysHaze",
+      "url": "https://github.com/masagrator/sysHaze/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "masagrator/sysHaze",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "status-monitor",
+      "name": "Status-Monitor-Overlay",
+      "url": "https://github.com/ppkantorski/Status-Monitor-Overlay/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "ppkantorski/Status-Monitor-Overlay",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "ovl-sysmodules",
+      "name": "ovl-sysmodules",
+      "url": "https://github.com/ppkantorski/ovl-sysmodules/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "ppkantorski/ovl-sysmodules",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "switch-themes",
+      "name": "SwitchThemeInjector",
+      "url": "https://github.com/exelix11/SwitchThemeInjector/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "exelix11/SwitchThemeInjector",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "etahen",
+      "name": "etaHEN",
+      "url": "https://github.com/etaHEN/etaHEN/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "etaHEN/etaHEN",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "ps5"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "kstuff",
+      "name": "kstuff",
+      "url": "https://github.com/EchoStretch/kstuff/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "EchoStretch/kstuff",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "ps5"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "goldhen",
+      "name": "GoldHEN",
+      "url": "https://github.com/GoldHEN/GoldHEN/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "GoldHEN/GoldHEN",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "ps4"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "shadps4",
+      "name": "shadPS4",
+      "url": "https://github.com/shadps4-emu/shadPS4/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "shadps4-emu/shadPS4",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "rpcs3",
+      "name": "rpcs3",
+      "url": "https://github.com/RPCS3/rpcs3/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "RPCS3/rpcs3",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "proton",
+      "name": "Proton",
+      "url": "https://github.com/ValveSoftware/Proton/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "ValveSoftware/Proton",
+      "enabled": true,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "nintendolife-updates",
+      "name": "Nintendo Life Updates",
+      "url": "https://www.nintendolife.com/feeds/latest/tags/updates",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "evidence": "community",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "gbatemp-scene",
+      "name": "GBAtemp Scene News",
+      "url": "https://gbatemp.net/forums/gbatemp-scene-news.101/index.rss",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "evidence": "community",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "wololo-switch",
+      "name": "Wololo Switch",
+      "url": "https://wololo.net/category/nintendo-switch/feed/",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "evidence": "community",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "example-a9vg",
+      "name": "A9VG 游戏资讯",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/a9vg.json",
+      "category": "hot",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "requiresConsent": false,
+      "evidence": "community",
+      "rights_policy": "public index metadata and original links only; no publisher images, article bodies or game files"
+    },
+    {
+      "id": "example-nintendo-tw",
+      "name": "任天堂台湾资讯",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/nintendo-tw.json",
+      "category": "hot",
+      "language": "zh-Hant",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "requiresConsent": false,
+      "evidence": "community",
+      "rights_policy": "public index metadata and original links only; no publisher images, article bodies or game files"
+    },
+    {
+      "id": "xbox-wire",
+      "name": "Xbox Wire",
+      "url": "https://news.xbox.com/en-us/feed/",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "xbox"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal feed reading; no bundled article text or images"
+    },
+    {
+      "id": "steam-news",
+      "name": "Steam 游戏更新",
+      "url": "https://store.steampowered.com/feeds/news/?l=schinese",
+      "category": "hot",
+      "language": "und",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "pc"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal feed reading; no bundled article text or images"
+    },
+    {
+      "id": "playstation-en",
+      "name": "PlayStation Blog",
+      "url": "https://blog.playstation.com/feed/",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": true,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "ps4",
+        "ps5"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal feed reading; no bundled article text or images"
+    }
+  ]
+}
