@@ -1,9 +1,41 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-03T03:33:20.962020+00:00",
+  "generated_at": "2026-11-03T12:06:10.622233+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112&per_page=30&_fields=id,date_gmt,link,title,categories",
   "items": [
+    {
+      "title": "吸血鬼幸存者 Vampire Survivors",
+      "original_url": "https://2468c.com/121070.html",
+      "published_at": "2026-11-03T04:03:17Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "巴兰的异想奇境.Balan Wonderworld",
+      "original_url": "https://2468c.com/82298.html",
+      "published_at": "2026-11-03T03:48:36Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
     {
       "title": "最终幻想：共鸣 – 豪华版 FINAL FANTASY RESONANCE Deluxe Edition",
       "original_url": "https://2468c.com/121525.html",
@@ -152,22 +184,6 @@
       "title": "贪婪之秋：黄金版.GreedFall Gold Edition",
       "original_url": "https://2468c.com/82514.html",
       "published_at": "2026-11-02T22:56:36Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "巴兰的异想奇境.Balan Wonderworld",
-      "original_url": "https://2468c.com/82298.html",
-      "published_at": "2026-11-02T22:47:36Z",
       "summary": "",
       "content": "",
       "image_url": "",
@@ -456,22 +472,6 @@
       "title": "熊视眈眈 Out of Sight",
       "original_url": "https://2468c.com/121724.html",
       "published_at": "2026-11-02T00:26:31Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "绯红结系 Scarlet Nexus",
-      "original_url": "https://2468c.com/112438.html",
-      "published_at": "2026-11-01T06:00:26Z",
       "summary": "",
       "content": "",
       "image_url": "",

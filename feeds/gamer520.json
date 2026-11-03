@@ -1,9 +1,20 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-03T03:33:42.580289+00:00",
+  "generated_at": "2026-11-03T12:06:13.405950+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=20&_fields=id,date_gmt,link,title",
   "items": [
+    {
+      "title": "EA SPORTS FC27|官方中文|本体+1.8d.6523升补+1DLC|NSZ|",
+      "original_url": "https://vip.gamers520.com/122727.html",
+      "published_at": "2026-11-02T22:00:43Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community"
+    },
     {
       "title": "天地劫 三部曲|中文|移植版|",
       "original_url": "https://vip.gamers520.com/125143.html",
@@ -206,17 +217,6 @@
       "title": "瑞奇与叮当|移植版|",
       "original_url": "https://vip.gamers520.com/124918.html",
       "published_at": "2026-10-28T21:12:09Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community"
-    },
-    {
-      "title": "帝国时代2|移植版|",
-      "original_url": "https://vip.gamers520.com/124916.html",
-      "published_at": "2026-10-28T21:11:47Z",
       "summary": "",
       "content": "",
       "image_url": "",
