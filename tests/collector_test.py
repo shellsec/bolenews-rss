@@ -1,0 +1,134 @@
+import importlib.util
+from pathlib import Path
+import tempfile
+import unittest
+from unittest.mock import patch
+
+spec = importlib.util.spec_from_file_location("collector", Path(__file__).resolve().parents[1] / "tools/collect_web_feeds.py")
+c = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(c)
+
+
+class CollectorTest(unittest.TestCase):
+    def test_2468c_platform_scope_and_metadata_only(self):
+        site = c.SITES["2468c"]
+        payload = [
+            {"title": {"rendered": "PS5 &amp; game"}, "link": "https://2468c.com/123.html", "date_gmt": "2026-11-02T06:01:20", "categories": [65, 147], "content": {"rendered": "not collected"}},
+            {"title": {"rendered": "PS4 tool"}, "link": "https://2468c.com/124.html", "categories": [112]},
+            {"title": {"rendered": "Unknown platform"}, "link": "https://2468c.com/125.html", "categories": [43]},
+            {"title": {"rendered": "External link"}, "link": "https://evil.test/126.html", "categories": [65]},
+            {"title": {"rendered": "Wrong category type"}, "link": "https://2468c.com/127.html", "categories": "65"},
+            {"title": {"rendered": "Duplicate"}, "link": "https://2468c.com/123.html", "categories": [65]}]
+        rows = c.convert_wordpress(c.json.dumps(payload), site)
+        self.assertEqual(len(rows), 2)
+        self.assertEqual(rows[0]["platform"], ["ps5"])
+        self.assertEqual(rows[0]["title"], "PS5 & game")
+        self.assertEqual(rows[0]["published_at"], "2026-11-02T06:01:20Z")
+        self.assertEqual(rows[1]["platform"], ["ps4"])
+        self.assertEqual(rows[1]["category"], "homebrew")
+        self.assertEqual(rows[1]["published_at"], "")
+        self.assertTrue(all(not r['content'] and not r['image_url'] and not r['summary'] for r in rows))
+
+    def test_gnn_metadata_dates_and_provenance(self):
+        payload = '''<rss><channel>
+          <item><title>New &amp; Game</title><link>https://gnn.gamer.com.tw/detail.php?sn=12</link>
+          <pubDate>Mon, 02 Nov 2026 12:41:49 +0800</pubDate><description>private body</description></item>
+          <item><title>Duplicate</title><link>https://gnn.gamer.com.tw/detail.php?sn=12</link></item>
+          <item><title>Other domain</title><link>https://evil.test/detail.php?sn=13</link></item>
+          <item><title>Unknown date</title><link>https://gnn.gamer.com.tw/detail.php?sn=14</link><pubDate>unknown</pubDate></item>
+        </channel></rss>'''
+        rows = c.convert_rss(payload, c.SITES['gnn'])
+        self.assertEqual(len(rows), 2)
+        self.assertEqual(rows[0]['published_at'], '2026-11-02T04:41:49Z')
+        self.assertEqual(rows[1]['published_at'], '')
+        self.assertEqual(rows[0]['source_name'], c.SITES['gnn']['name'])
+        self.assertTrue(all(not r['content'] and not r['image_url'] and not r['summary'] for r in rows))
+        with self.assertRaises(ValueError):
+            c.convert_rss('<!DOCTYPE rss [<!ENTITY x "bad">]><rss/>', c.SITES['gnn'])
+
+    def test_wordpress_public_metadata(self):
+        payload = [{"title": {"rendered": "Switch &amp; Update"},
+                    "link": "https://vip.gamers520.com/123.html",
+                    "date_gmt": "2026-11-01T00:30:38"},
+                   {"title": 42},
+                   {"title": {"rendered": "Unsafe"}, "link": "file:///bad"}]
+        rows = c.convert_wordpress(c.json.dumps(payload), c.SITES["gamer520"])
+        self.assertEqual(len(rows), 1)
+        self.assertEqual(rows[0]["title"], "Switch & Update")
+        self.assertEqual(rows[0]["published_at"], "2026-11-01T00:30:38Z")
+
+    def test_unavailable_robots_public_api_and_rate_limit(self):
+        payload = c.json.dumps([{"title": {"rendered": "Switch Update"},
+                                 "link": "https://vip.gamers520.com/123.html"}])
+        for code, expected_calls, expected_status in [(403, 3, "ok"), (429, 1, "unavailable"),
+                                                       (503, 1, "unavailable")]:
+            with tempfile.TemporaryDirectory() as tmp:
+                error = c.urllib.error.HTTPError("https://vip.gamers520.com/robots.txt", code, "error", {}, None)
+                with patch.object(c, "fetch", side_effect=[error, payload, payload]) as f:
+                    result = c.collect("gamer520", Path(tmp))
+                    self.assertEqual(f.call_count, expected_calls)
+                    self.assertEqual(result["status"], expected_status)
+
+    def test_edits_and_update_signals(self):
+        payload = [{"title": {"rendered": "游戏 本体+v1.8d.6523升补"},
+                    "link": "https://vip.gamers520.com/123.html",
+                    "date_gmt": "2020-01-01T00:00:00", "modified_gmt": "2026-11-03T04:06:19"}]
+        rows = c.convert_wordpress(c.json.dumps(payload), c.SITES["gamer520"])
+        self.assertEqual(rows[0]["published_at"], "2020-01-01T00:00:00Z")
+        self.assertEqual(rows[0]["updated_at"], "2026-11-03T04:06:19Z")
+        self.assertEqual(rows[0]["tags"], ["game_update"])
+        self.assertEqual(rows[0]["platform"], ["switch1"])
+        self.assertEqual(rows[0]["version"], "v1.8d.6523")
+        for title in ["遊戲升級補丁", "Game hotfix", "游戏1DLC"]:
+            self.assertIn("game_update", c.metadata_tags({"title": title}).get("tags", []))
+        self.assertEqual(c.metadata_tags({"title": "固件更新"})["tags"], ["firmware_update"])
+        self.assertNotIn("game_update", c.metadata_tags({"title": "游戏攻略"}).get("tags", []))
+
+    def test_new_and_modified_union_retains_old_and_partial(self):
+        def payload(id, title):
+            return c.json.dumps([{"title": {"rendered": title}, "link": f"https://vip.gamers520.com/{id}.html"}])
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            with patch.object(c, "fetch", side_effect=["User-agent: *\nAllow: /", payload(1, "New game"), payload(2, "Old game 升补")]):
+                health = c.collect("gamer520", output)
+            self.assertEqual(health["count"], 2)
+            self.assertEqual(health["status"], "ok")
+            with patch.object(c, "fetch", side_effect=["User-agent: *\nAllow: /", payload(3, "Another game"), ValueError("timeout")]):
+                health = c.collect("gamer520", output)
+            self.assertEqual(health["status"], "partial")
+            self.assertEqual(health["count"], 3)
+            self.assertEqual(health["retained_count"], 2)
+
+    def test_only_matching_metadata(self):
+        html = '''<a href="/news/123.html"><img src="x">Switch 2 补丁</a>
+          <a href="https://evil.test/news/123.html">Other site</a>
+          <a href="/news/123.html">Switch 2 补丁</a>
+          <a href="/news/123.html">查看详细</a>
+          <script><a href="/news/456.html">Script link</a></script>'''
+        rows = c.convert(html, c.SITES["ns45"])
+        self.assertEqual(len(rows), 1)
+        self.assertEqual(rows[0]["title"], "Switch 2 补丁")
+        self.assertEqual(rows[0]["published_at"], "")
+        self.assertEqual(rows[0]["image_url"], "")
+
+    def test_failure_preserves_good_feed(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            with patch.object(c, "fetch", side_effect=["User-agent: *\nAllow: /", '<a href="/news/123.html">Example title</a>']):
+                self.assertEqual(c.collect("ns45", output)["status"], "ok")
+            before = (output / "ns45.json").read_bytes()
+            with patch.object(c, "fetch", side_effect=ValueError("TLS unavailable")):
+                self.assertEqual(c.collect("ns45", output)["status"], "unavailable")
+            self.assertEqual((output / "ns45.json").read_bytes(), before)
+
+    def test_robots_and_initial_failure(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            with patch.object(c, "fetch", return_value="User-agent: *\nDisallow: /") as f:
+                result = c.collect("gamer520", Path(tmp))
+                self.assertEqual(f.call_count, 1)
+                self.assertEqual(result["status"], "unavailable")
+            self.assertIn('"status": "unavailable"', (Path(tmp) / "gamer520.json").read_text())
+
+
+if __name__ == "__main__":
+    unittest.main()

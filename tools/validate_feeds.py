@@ -21,8 +21,10 @@ for path in sorted((root/'feeds').glob('*.json')):
     if path.name.endswith('.health.json'):continue
     assert path.stat().st_size<=2*1024*1024
     doc=json.loads(path.read_text(encoding='utf-8'))
-    assert doc['schema_version']==1 and doc['status']=='ok' and isinstance(doc['items'],list)
+    assert doc['schema_version']==1 and doc['status']=='ok' and isinstance(doc['items'],list) and len(doc['items'])<=100
     for item in doc['items']:
         assert item['title'] and item['original_url'].startswith('https://')
         assert not item.get('content') and not item.get('image_url')
+        assert isinstance(item.get('updated_at',''),str)
+        assert isinstance(item.get('tags',[]),list) and all(t in {'game_update','firmware_update','research'} for t in item.get('tags',[]))
 print('Catalog and public metadata JSON verified')

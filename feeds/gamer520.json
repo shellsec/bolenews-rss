@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-03T12:06:13.405950+00:00",
-  "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=20&_fields=id,date_gmt,link,title",
+  "generated_at": "2026-11-03T15:34:10.289167+00:00",
+  "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories",
   "items": [
     {
       "title": "EA SPORTS FC27|官方中文|本体+1.8d.6523升补+1DLC|NSZ|",
@@ -13,7 +13,15 @@
       "image_url": "",
       "content_scope": "metadata",
       "language": "zh-Hans",
-      "evidence": "community"
+      "evidence": "community",
+      "updated_at": "2026-11-03T04:06:19Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.8d.6523"
     },
     {
       "title": "天地劫 三部曲|中文|移植版|",
@@ -24,7 +32,11 @@
       "image_url": "",
       "content_scope": "metadata",
       "language": "zh-Hans",
-      "evidence": "community"
+      "evidence": "community",
+      "updated_at": "2026-11-02T00:27:14Z",
+      "platform": [
+        "switch1"
+      ]
     },
     {
       "title": "School Days HQ|移植版|",
@@ -35,40 +47,11 @@
       "image_url": "",
       "content_scope": "metadata",
       "language": "zh-Hans",
-      "evidence": "community"
-    },
-    {
-      "title": "熊鼠一家疯狂派对 Grizzy and the Lemmings|官方中文|本体+v1.0.4升补|NSP|",
-      "original_url": "https://vip.gamers520.com/125097.html",
-      "published_at": "2026-10-31T20:20:37Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community"
-    },
-    {
-      "title": "樱花大战|移植版|",
-      "original_url": "https://vip.gamers520.com/125095.html",
-      "published_at": "2026-10-31T20:12:13Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community"
-    },
-    {
-      "title": "明星三缺一|移植版|",
-      "original_url": "https://vip.gamers520.com/125093.html",
-      "published_at": "2026-10-31T20:10:16Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community"
+      "evidence": "community",
+      "updated_at": "2026-11-02T00:27:08Z",
+      "platform": [
+        "switch1"
+      ]
     },
     {
       "title": "豪血寺一族3|移植版|",
@@ -79,7 +62,60 @@
       "image_url": "",
       "content_scope": "metadata",
       "language": "zh-Hans",
-      "evidence": "community"
+      "evidence": "community",
+      "updated_at": "2026-11-01T00:08:19Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "熊鼠一家疯狂派对 Grizzy and the Lemmings|官方中文|本体+v1.0.4升补|NSP|",
+      "original_url": "https://vip.gamers520.com/125097.html",
+      "published_at": "2026-10-31T20:20:37Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-01T00:08:18Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "v1.0.4"
+    },
+    {
+      "title": "樱花大战|移植版|",
+      "original_url": "https://vip.gamers520.com/125095.html",
+      "published_at": "2026-10-31T20:12:13Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-01T00:08:18Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "明星三缺一|移植版|",
+      "original_url": "https://vip.gamers520.com/125093.html",
+      "published_at": "2026-10-31T20:10:16Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-01T00:08:18Z",
+      "platform": [
+        "switch1"
+      ]
     },
     {
       "title": "另一个伊甸 起源 Another Eden Begins|官方中文|本体+1.1.3升补|NSZ|",
@@ -90,29 +126,15 @@
       "image_url": "",
       "content_scope": "metadata",
       "language": "zh-Hans",
-      "evidence": "community"
-    },
-    {
-      "title": "明治东京恋语 暮光之吻 Twilight Kiss|官方中文|NSP|",
-      "original_url": "https://vip.gamers520.com/125060.html",
-      "published_at": "2026-10-30T22:02:00Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community"
-    },
-    {
-      "title": "蓝龙|移植版|",
-      "original_url": "https://vip.gamers520.com/125062.html",
-      "published_at": "2026-10-30T22:00:42Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community"
+      "evidence": "community",
+      "updated_at": "2026-10-31T03:53:24Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.1.3"
     },
     {
       "title": "龙珠 天下第一大冒险|移植版|",
@@ -123,18 +145,41 @@
       "image_url": "",
       "content_scope": "metadata",
       "language": "zh-Hans",
-      "evidence": "community"
+      "evidence": "community",
+      "updated_at": "2026-10-31T03:53:22Z",
+      "platform": [
+        "switch1"
+      ]
     },
     {
-      "title": "西瓜游戏 合成大西瓜 スイカゲーム|官方中文|本体+2.4.1升补+30DLC|NSZ|原版|",
-      "original_url": "https://vip.gamers520.com/66897.html",
-      "published_at": "2026-10-29T21:02:15Z",
+      "title": "明治东京恋语 暮光之吻 Twilight Kiss|官方中文|NSP|",
+      "original_url": "https://vip.gamers520.com/125060.html",
+      "published_at": "2026-10-30T22:02:00Z",
       "summary": "",
       "content": "",
       "image_url": "",
       "content_scope": "metadata",
       "language": "zh-Hans",
-      "evidence": "community"
+      "evidence": "community",
+      "updated_at": "2026-10-31T03:53:20Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "蓝龙|移植版|",
+      "original_url": "https://vip.gamers520.com/125062.html",
+      "published_at": "2026-10-30T22:00:42Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-31T03:53:19Z",
+      "platform": [
+        "switch1"
+      ]
     },
     {
       "title": "梦塔比 Montabimb|官方中文|本体+1.1.3升补|NSZ|",
@@ -145,7 +190,34 @@
       "image_url": "",
       "content_scope": "metadata",
       "language": "zh-Hans",
-      "evidence": "community"
+      "evidence": "community",
+      "updated_at": "2026-10-30T01:38:32Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.1.3"
+    },
+    {
+      "title": "西瓜游戏 合成大西瓜 スイカゲーム|官方中文|本体+2.4.1升补+30DLC|NSZ|原版|",
+      "original_url": "https://vip.gamers520.com/66897.html",
+      "published_at": "2026-10-29T21:02:15Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T01:38:31Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "2.4.1"
     },
     {
       "title": "魔卓拉|官方中文|NSZ|",
@@ -156,18 +228,30 @@
       "image_url": "",
       "content_scope": "metadata",
       "language": "zh-Hans",
-      "evidence": "community"
+      "evidence": "community",
+      "updated_at": "2026-10-30T01:38:22Z",
+      "platform": [
+        "switch1"
+      ]
     },
     {
-      "title": "三国群英传7|官方中文|移植版|",
-      "original_url": "https://vip.gamers520.com/124913.html",
-      "published_at": "2026-10-28T21:50:57Z",
+      "title": "鬼灭之刃 火之神血风谭2|官方中文|本体+v2.01升补+12DLC|NSP|原版|",
+      "original_url": "https://vip.gamers520.com/97137.html",
+      "published_at": "2026-10-28T21:10:13Z",
       "summary": "",
       "content": "",
       "image_url": "",
       "content_scope": "metadata",
       "language": "zh-Hans",
-      "evidence": "community"
+      "evidence": "community",
+      "updated_at": "2026-10-29T16:00:28Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "v2.01"
     },
     {
       "title": "超级机器人大战Y|豪华中文|本体+1.4.1升补+10DLC|NSP|原版|",
@@ -178,40 +262,45 @@
       "image_url": "",
       "content_scope": "metadata",
       "language": "zh-Hans",
-      "evidence": "community"
+      "evidence": "community",
+      "updated_at": "2026-10-29T15:45:05Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.4.1"
     },
     {
-      "title": "恶魔城 暗影之王|移植版|",
-      "original_url": "https://vip.gamers520.com/124924.html",
-      "published_at": "2026-10-28T21:30:54Z",
+      "title": "三国群英传7|官方中文|移植版|",
+      "original_url": "https://vip.gamers520.com/124913.html",
+      "published_at": "2026-10-28T21:50:57Z",
       "summary": "",
       "content": "",
       "image_url": "",
       "content_scope": "metadata",
       "language": "zh-Hans",
-      "evidence": "community"
+      "evidence": "community",
+      "updated_at": "2026-10-29T15:44:57Z",
+      "platform": [
+        "switch1"
+      ]
     },
     {
-      "title": "街霸VS铁拳|中文汉化|移植版|",
-      "original_url": "https://vip.gamers520.com/124922.html",
-      "published_at": "2026-10-28T21:18:55Z",
+      "title": "帝国时代2|移植版|",
+      "original_url": "https://vip.gamers520.com/124916.html",
+      "published_at": "2026-10-28T21:11:47Z",
       "summary": "",
       "content": "",
       "image_url": "",
       "content_scope": "metadata",
       "language": "zh-Hans",
-      "evidence": "community"
-    },
-    {
-      "title": "使命召唤1|移植版|",
-      "original_url": "https://vip.gamers520.com/124920.html",
-      "published_at": "2026-10-28T21:15:21Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community"
+      "evidence": "community",
+      "updated_at": "2026-10-29T15:44:52Z",
+      "platform": [
+        "switch1"
+      ]
     },
     {
       "title": "瑞奇与叮当|移植版|",
@@ -222,7 +311,1306 @@
       "image_url": "",
       "content_scope": "metadata",
       "language": "zh-Hans",
-      "evidence": "community"
+      "evidence": "community",
+      "updated_at": "2026-10-29T15:44:50Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "使命召唤1|移植版|",
+      "original_url": "https://vip.gamers520.com/124920.html",
+      "published_at": "2026-10-28T21:15:21Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T15:44:48Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "街霸VS铁拳|中文汉化|移植版|",
+      "original_url": "https://vip.gamers520.com/124922.html",
+      "published_at": "2026-10-28T21:18:55Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T15:44:46Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "恶魔城 暗影之王|移植版|",
+      "original_url": "https://vip.gamers520.com/124924.html",
+      "published_at": "2026-10-28T21:30:54Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T15:44:45Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "主机保卫队 Mainframe Defenders|官方中文|本体+v1.0.1升补|NSP|",
+      "original_url": "https://vip.gamers520.com/124892.html",
+      "published_at": "2026-10-28T21:00:18Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T01:28:06Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "v1.0.1"
+    },
+    {
+      "title": "神探狗狗 汪者归来 Dog Man Bark in Action|官方中文|本体+v1.0.3升补|NSP|",
+      "original_url": "https://vip.gamers520.com/124894.html",
+      "published_at": "2026-10-28T21:01:36Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T01:28:05Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "v1.0.3"
+    },
+    {
+      "title": "丰收之月 特拉迪亚回声 Harvest Moon Echoes of Teradea|官方中文|本体+v1.3.0升补|NSP|",
+      "original_url": "https://vip.gamers520.com/124897.html",
+      "published_at": "2026-10-28T21:05:00Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T01:27:59Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "v1.3.0"
+    },
+    {
+      "title": "我的世界 基岩版|官方中文|本体+1.26.60升补|NSZ|原版|",
+      "original_url": "https://vip.gamers520.com/7500.html",
+      "published_at": "2026-10-27T21:11:25Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-28T16:19:25Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.26.60"
+    },
+    {
+      "title": "真人快打9|移植版|",
+      "original_url": "https://vip.gamers520.com/124843.html",
+      "published_at": "2026-10-27T21:12:21Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-28T16:19:24Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "现代战争4 决战时刻|移植版|",
+      "original_url": "https://vip.gamers520.com/124845.html",
+      "published_at": "2026-10-27T21:15:48Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-28T16:19:22Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "极限竞速地平线1|移植版|",
+      "original_url": "https://vip.gamers520.com/124847.html",
+      "published_at": "2026-10-27T21:21:25Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-28T16:19:21Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "女王之刃 构造 Queens Blade ReBuild|官方中文|本体+1.0.1升补|NSP|",
+      "original_url": "https://vip.gamers520.com/124849.html",
+      "published_at": "2026-10-27T21:55:53Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-28T16:19:05Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.1"
+    },
+    {
+      "title": "龙珠:超宇宙2|官方中文|本体+1.27.00升补+89DLC|NSZ|原版|",
+      "original_url": "https://vip.gamers520.com/5015.html",
+      "published_at": "2026-10-27T21:05:20Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-28T01:14:53Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.27.00"
+    },
+    {
+      "title": "红色警戒2|移植版|",
+      "original_url": "https://vip.gamers520.com/124813.html",
+      "published_at": "2026-10-27T21:00:00Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-28T01:14:52Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "虐杀原形1+2|移植版|",
+      "original_url": "https://vip.gamers520.com/124815.html",
+      "published_at": "2026-10-27T21:01:11Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-28T01:14:44Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "虐杀原形1|中文|移植版|",
+      "original_url": "https://vip.gamers520.com/124752.html",
+      "published_at": "2026-10-26T21:25:50Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-27T16:30:48Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "现代战争3 堕落国度|移植版|",
+      "original_url": "https://vip.gamers520.com/124750.html",
+      "published_at": "2026-10-26T21:23:56Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-27T16:30:48Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "火影忍者 忍者崛起|移植版|",
+      "original_url": "https://vip.gamers520.com/124746.html",
+      "published_at": "2026-10-26T21:22:58Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-27T16:30:48Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "黑暗之魂2|移植版|",
+      "original_url": "https://vip.gamers520.com/124748.html",
+      "published_at": "2026-10-26T21:22:11Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-27T16:30:48Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "超级马里奥赛车|移植版|",
+      "original_url": "https://vip.gamers520.com/124744.html",
+      "published_at": "2026-10-26T21:21:45Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-27T16:30:48Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "近地联盟先遣队3|中文|移植版|",
+      "original_url": "https://vip.gamers520.com/124754.html",
+      "published_at": "2026-10-26T21:26:58Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-27T16:30:47Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "孤胆枪手2|移植版|",
+      "original_url": "https://vip.gamers520.com/124756.html",
+      "published_at": "2026-10-26T21:30:53Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-27T16:29:08Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "仙剑奇侠传3|官方中文|移植版|",
+      "original_url": "https://vip.gamers520.com/124735.html",
+      "published_at": "2026-10-26T21:10:47Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-27T03:53:16Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "仙剑奇侠传3 外传·问情篇|官方中文|移植版|",
+      "original_url": "https://vip.gamers520.com/124739.html",
+      "published_at": "2026-10-26T21:20:43Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-27T03:52:58Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "四叶草深渊 CloverPit|官方中文|本体+v1.4.2+1DLC|NSP|",
+      "original_url": "https://vip.gamers520.com/124718.html",
+      "published_at": "2026-10-26T21:00:33Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-27T01:01:10Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "v1.4.2"
+    },
+    {
+      "title": "任天堂明星大乱斗|官方中文|本体+13.0.5升补+99DLC|NSZ|原版|",
+      "original_url": "https://vip.gamers520.com/102142.html",
+      "published_at": "2025-06-25T02:55:09Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-27T00:12:14Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "13.0.5"
+    },
+    {
+      "title": "镜之边缘|移植版|",
+      "original_url": "https://vip.gamers520.com/124665.html",
+      "published_at": "2026-10-25T22:01:49Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-26T01:22:47Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "GTA4 横行霸道|中文|移植版|",
+      "original_url": "https://vip.gamers520.com/124663.html",
+      "published_at": "2026-10-25T22:00:33Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-26T01:22:47Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "砰！砰！怪兽帮 Bang!Bang!Bandits|官方中文|本体+2.0.2升补|NSZ|",
+      "original_url": "https://vip.gamers520.com/110279.html",
+      "published_at": "2026-10-25T22:00:47Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-26T01:22:38Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "2.0.2"
+    },
+    {
+      "title": "守护英雄 高清|移植版|",
+      "original_url": "https://vip.gamers520.com/124628.html",
+      "published_at": "2026-10-24T22:07:33Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-26T00:09:04Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "极度深寒|移植版|",
+      "original_url": "https://vip.gamers520.com/124632.html",
+      "published_at": "2026-10-24T22:06:31Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-25T23:54:10Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "极度恐慌|移植版|",
+      "original_url": "https://vip.gamers520.com/124630.html",
+      "published_at": "2026-10-24T22:05:50Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-25T23:54:10Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "死亡空间3|移植版|",
+      "original_url": "https://vip.gamers520.com/124626.html",
+      "published_at": "2026-10-24T22:01:15Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-25T23:54:10Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "红色警戒1代|移植版|",
+      "original_url": "https://vip.gamers520.com/124624.html",
+      "published_at": "2026-10-24T22:00:23Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-25T23:54:10Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "仙剑奇侠传4|官方中文|移植版|",
+      "original_url": "https://vip.gamers520.com/124634.html",
+      "published_at": "2026-10-24T22:30:29Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-25T23:53:32Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "寂静岭8 暴雨|移植版|",
+      "original_url": "https://vip.gamers520.com/124589.html",
+      "published_at": "2026-10-23T22:18:40Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-24T16:01:03Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "寂静岭4|汉化中文|移植版|",
+      "original_url": "https://vip.gamers520.com/124577.html",
+      "published_at": "2026-10-23T22:11:41Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-24T15:58:48Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "上古卷轴3|汉化中文|移植版|",
+      "original_url": "https://vip.gamers520.com/124579.html",
+      "published_at": "2026-10-23T22:12:20Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-24T15:58:46Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "街头霸王4|汉化中文|移植版|",
+      "original_url": "https://vip.gamers520.com/124581.html",
+      "published_at": "2026-10-23T22:13:03Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-24T15:58:44Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "战争机器2|移植版|",
+      "original_url": "https://vip.gamers520.com/124583.html",
+      "published_at": "2026-10-23T22:13:01Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-24T15:58:41Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "变形金刚 毁灭|移植版|",
+      "original_url": "https://vip.gamers520.com/124585.html",
+      "published_at": "2026-10-23T22:15:50Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-24T15:58:39Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "造物主2 Reus 2|官方中文|本体+1.5.6升补+1DLC|NSP|",
+      "original_url": "https://vip.gamers520.com/124590.html",
+      "published_at": "2026-10-23T22:15:43Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-24T15:58:32Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.5.6"
+    },
+    {
+      "title": "双人成行|官方中文|本体+1.0.5+2DLC|NSP|",
+      "original_url": "https://vip.gamers520.com/44563.html",
+      "published_at": "2026-10-23T22:02:35Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-24T15:58:27Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ]
+    },
+    {
+      "title": "Neet And Angel|移植版|",
+      "original_url": "https://vip.gamers520.com/124594.html",
+      "published_at": "2026-10-23T22:03:09Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-24T15:58:23Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "我的世界 地下城2|豪华中文|本体+1.1.3.0升补+1DLC|NSP|",
+      "original_url": "https://vip.gamers520.com/122991.html",
+      "published_at": "2026-10-23T22:05:22Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-24T02:02:46Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.1.3.0"
+    },
+    {
+      "title": "最终幻想 共鸣|港版中文|本体+1.0.1升补+1DLC|NSP|",
+      "original_url": "https://vip.gamers520.com/124439.html",
+      "published_at": "2026-10-23T22:10:33Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-24T02:02:33Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.1"
+    },
+    {
+      "title": "蜘蛛侠2移植版",
+      "original_url": "https://vip.gamers520.com/124514.html",
+      "published_at": "2026-10-22T18:12:17Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-23T06:51:32Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "吉他英雄3 xbox360移植版",
+      "original_url": "https://vip.gamers520.com/124516.html",
+      "published_at": "2026-10-22T18:13:20Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-23T06:51:29Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "车神3|移植版|",
+      "original_url": "https://vip.gamers520.com/124518.html",
+      "published_at": "2026-10-22T18:18:08Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-23T06:51:25Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "魂识界Tamashika|官方中文|NSP|",
+      "original_url": "https://vip.gamers520.com/124520.html",
+      "published_at": "2026-10-22T18:20:59Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-23T06:51:22Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "头文字D 街机版3 移植版",
+      "original_url": "https://vip.gamers520.com/124522.html",
+      "published_at": "2026-10-22T18:19:54Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-23T06:51:21Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "星球田园诗Farlands|官方中文|NSP|",
+      "original_url": "https://vip.gamers520.com/124524.html",
+      "published_at": "2026-10-22T18:22:05Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-23T06:51:20Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "仙剑奇侠传2|官方中文|移植版|",
+      "original_url": "https://vip.gamers520.com/124511.html",
+      "published_at": "2026-10-22T18:50:28Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-23T05:06:19Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "死亡空间2|官方中文|移植版|",
+      "original_url": "https://vip.gamers520.com/124503.html",
+      "published_at": "2026-10-22T18:10:52Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-23T00:26:03Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "恶魔夜疯狂DEMONS’ NIGHT FEVER|官方中文|NSP|",
+      "original_url": "https://vip.gamers520.com/124505.html",
+      "published_at": "2026-10-22T18:10:08Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-23T00:26:03Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "使命召唤9|移植版|",
+      "original_url": "https://vip.gamers520.com/124501.html",
+      "published_at": "2026-10-22T18:02:53Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-23T00:26:03Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "但丁地狱|xbox360移植版|",
+      "original_url": "https://vip.gamers520.com/124499.html",
+      "published_at": "2026-10-22T18:00:47Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-23T00:26:03Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "海贼王海洋盛宴 ONE PIECE海洋盛宴|官方中文|NSP|",
+      "original_url": "https://vip.gamers520.com/124446.html",
+      "published_at": "2026-10-21T21:30:48Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-22T07:10:21Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "使命召唤4|官方中文|V1.31|移植版|",
+      "original_url": "https://vip.gamers520.com/124431.html",
+      "published_at": "2026-10-21T21:00:43Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-22T02:10:24Z",
+      "platform": [
+        "switch1"
+      ],
+      "version": "v1.31"
+    },
+    {
+      "title": "合金装备 崛起|官方中文|移植版|",
+      "original_url": "https://vip.gamers520.com/124433.html",
+      "published_at": "2026-10-21T21:01:59Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-22T02:10:22Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "鬼泣4|汉化中文|移植版|",
+      "original_url": "https://vip.gamers520.com/123749.html",
+      "published_at": "2026-10-21T21:02:52Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-22T02:10:20Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "神秘海域 孤侠魅影|移植版|",
+      "original_url": "https://vip.gamers520.com/124437.html",
+      "published_at": "2026-10-21T21:00:06Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-22T02:09:59Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "黯井微光|官方中文|本体+1.0.3升补|NSP|",
+      "original_url": "https://vip.gamers520.com/122714.html",
+      "published_at": "2026-10-20T20:00:29Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-21T05:05:43Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.3"
+    },
+    {
+      "title": "守墓人2 Graveyard Keeper 2|官方中文|本体+1.0.4升补+1DLC|NSP|",
+      "original_url": "https://vip.gamers520.com/122551.html",
+      "published_at": "2026-10-20T20:10:44Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-21T05:05:33Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.4"
+    },
+    {
+      "title": "游戏王被封印的记忆|移植版|",
+      "original_url": "https://vip.gamers520.com/124354.html",
+      "published_at": "2026-10-20T19:01:32Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-20T23:51:54Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "侠盗猎车手 GTA4|官方中文|移植版|",
+      "original_url": "https://vip.gamers520.com/124350.html",
+      "published_at": "2026-10-20T19:00:26Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-20T23:51:54Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "东东不死传说2023版|移植版|",
+      "original_url": "https://vip.gamers520.com/124351.html",
+      "published_at": "2026-10-20T19:00:20Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-20T23:51:54Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "闪电十一人 英雄们的胜利之路 高级版|豪华中文|本体+7.2.0升补+2DLC|NSZ|",
+      "original_url": "https://vip.gamers520.com/102189.html",
+      "published_at": "2026-10-20T19:10:28Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-20T23:51:50Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "7.2.0"
+    },
+    {
+      "title": "新仙剑奇侠传|移植版|NSP|",
+      "original_url": "https://vip.gamers520.com/124305.html",
+      "published_at": "2026-10-19T21:00:22Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-20T05:10:39Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "安娜历险记|官方中文|本体+1.0.4升补|NSZ|原版|",
+      "original_url": "https://vip.gamers520.com/60673.html",
+      "published_at": "2026-10-19T19:00:01Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-20T00:47:27Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.4"
+    },
+    {
+      "title": "冰汽时代 Frostpunk|官方中文|本体+1.0.1升补+1DLC|NSP|",
+      "original_url": "https://vip.gamers520.com/124278.html",
+      "published_at": "2026-10-19T19:50:00Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-20T00:47:25Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.1"
+    },
+    {
+      "title": "霓虹深渊2|官方中文|本体+1.0.1升补|NSP|",
+      "original_url": "https://vip.gamers520.com/124280.html",
+      "published_at": "2026-10-19T19:20:43Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-20T00:47:16Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.1"
+    },
+    {
+      "title": "失落的奥德赛|移植版|",
+      "original_url": "https://vip.gamers520.com/124231.html",
+      "published_at": "2026-10-18T19:00:38Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-19T01:44:57Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "愤怒的小鸟 星球大战2|移植版|",
+      "original_url": "https://vip.gamers520.com/124203.html",
+      "published_at": "2026-10-16T22:59:32Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-18T02:36:59Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "泽诺尼亚传奇2|移植版|",
+      "original_url": "https://vip.gamers520.com/124205.html",
+      "published_at": "2026-10-16T22:59:19Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-18T02:36:56Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "超级马里奥赛车Wii|移植版|",
+      "original_url": "https://vip.gamers520.com/124207.html",
+      "published_at": "2026-10-16T21:58:16Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-18T02:36:28Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "圣斗士星矢 斗士之魂|移植版|",
+      "original_url": "https://vip.gamers520.com/124193.html",
+      "published_at": "2026-10-16T22:58:08Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-17T16:30:14Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "终极街头霸王4|中文|移植版|NSP|",
+      "original_url": "https://vip.gamers520.com/124191.html",
+      "published_at": "2026-10-16T22:50:11Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-17T16:20:04Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "百事超人|移植版|NSP|",
+      "original_url": "https://vip.gamers520.com/124187.html",
+      "published_at": "2026-10-16T22:00:33Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-17T03:27:22Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "红警2尤里的复仇|移植版|NSP|",
+      "original_url": "https://vip.gamers520.com/124185.html",
+      "published_at": "2026-10-16T22:00:22Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-17T02:59:02Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "终极幸运之塔|官方中文|本体+1.23升补|NSZ|",
+      "original_url": "https://vip.gamers520.com/111963.html",
+      "published_at": "2026-10-15T22:11:19Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-16T18:09:03Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.23"
+    },
+    {
+      "title": "虐杀原形1|移植版|",
+      "original_url": "https://vip.gamers520.com/124140.html",
+      "published_at": "2026-10-15T22:11:00Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-16T18:09:03Z",
+      "platform": [
+        "switch1"
+      ]
     }
   ]
 }

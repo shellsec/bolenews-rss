@@ -1,0 +1,842 @@
+{
+  "catalogs": [
+    {
+      "file": "android.json",
+      "sources": 7
+    },
+    {
+      "file": "apple.json",
+      "sources": 9
+    },
+    {
+      "file": "games.json",
+      "sources": 47
+    },
+    {
+      "file": "pc-handheld.json",
+      "sources": 52
+    },
+    {
+      "file": "playstation.json",
+      "sources": 42
+    },
+    {
+      "file": "switch.json",
+      "sources": 58
+    },
+    {
+      "file": "tools-extra.json",
+      "sources": 4
+    },
+    {
+      "file": "tools.json",
+      "sources": 64
+    },
+    {
+      "file": "xbox.json",
+      "sources": 26
+    }
+  ],
+  "existing_default_remote_update_accepted": true,
+  "parser": "BoleNews 0.1.4 repaired native core",
+  "sources": [
+    {
+      "articles": 100,
+      "edited": 0,
+      "id": "nintendo-jp",
+      "unknown_platform": 55,
+      "updates": 0
+    },
+    {
+      "articles": 20,
+      "edited": 0,
+      "id": "gcores",
+      "unknown_platform": 13,
+      "updates": 1
+    },
+    {
+      "articles": 12,
+      "edited": 0,
+      "id": "yystv",
+      "unknown_platform": 8,
+      "updates": 0
+    },
+    {
+      "articles": 30,
+      "edited": 0,
+      "id": "chuapp",
+      "unknown_platform": 21,
+      "updates": 1
+    },
+    {
+      "articles": 10,
+      "edited": 0,
+      "id": "indienova",
+      "unknown_platform": 6,
+      "updates": 0
+    },
+    {
+      "articles": 18,
+      "edited": 0,
+      "id": "ithome",
+      "unknown_platform": 12,
+      "updates": 0
+    },
+    {
+      "articles": 10,
+      "edited": 0,
+      "id": "playstation-zh",
+      "unknown_platform": 0,
+      "updates": 0
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "atmosphere",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "hekate",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "jksv",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "retroarch",
+      "unknown_platform": 10,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "ppsspp",
+      "unknown_platform": 10,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "melonds",
+      "unknown_platform": 9,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "mgba",
+      "unknown_platform": 10,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "flycast",
+      "unknown_platform": 7,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "missioncontrol",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "sys-clk",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "nx-hbmenu",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 0,
+      "id": "nintendo-everything",
+      "unknown_platform": 1,
+      "updates": 0
+    },
+    {
+      "articles": 14,
+      "edited": 0,
+      "id": "example-ns45",
+      "unknown_platform": 3,
+      "updates": 0
+    },
+    {
+      "articles": 100,
+      "edited": 100,
+      "id": "example-gamer520",
+      "unknown_platform": 0,
+      "updates": 27
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "ultrahand",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "fpslocker",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "saltynx",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "dbi",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "sphaira",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 3,
+      "edited": 3,
+      "id": "syshaze",
+      "unknown_platform": 0,
+      "updates": 3
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "status-monitor",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "ovl-sysmodules",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "switch-themes",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "etahen",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "kstuff",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "goldhen",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "shadps4",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "rpcs3",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "proton",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 25,
+      "edited": 0,
+      "id": "nintendolife-updates",
+      "unknown_platform": 8,
+      "updates": 16
+    },
+    {
+      "articles": 30,
+      "edited": 0,
+      "id": "gbatemp-scene",
+      "unknown_platform": 16,
+      "updates": 0
+    },
+    {
+      "articles": 20,
+      "edited": 0,
+      "id": "wololo-switch",
+      "unknown_platform": 2,
+      "updates": 0
+    },
+    {
+      "articles": 41,
+      "edited": 0,
+      "id": "example-a9vg",
+      "unknown_platform": 37,
+      "updates": 0
+    },
+    {
+      "articles": 24,
+      "edited": 0,
+      "id": "example-nintendo-tw",
+      "unknown_platform": 9,
+      "updates": 0
+    },
+    {
+      "articles": 10,
+      "edited": 0,
+      "id": "xbox-wire",
+      "unknown_platform": 0,
+      "updates": 0
+    },
+    {
+      "articles": 10,
+      "edited": 0,
+      "id": "steam-news",
+      "unknown_platform": 0,
+      "updates": 3
+    },
+    {
+      "articles": 10,
+      "edited": 0,
+      "id": "playstation-en",
+      "unknown_platform": 0,
+      "updates": 0
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "goldleaf",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "vitadb",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "apollo-ps4",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "ps5-elfldr",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 4,
+      "edited": 4,
+      "id": "xbsx2",
+      "unknown_platform": 0,
+      "updates": 4
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "rocknix",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "portmaster",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "lemuroid",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "decky-loader",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "fizeau",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 20,
+      "edited": 0,
+      "id": "nintendolife-news",
+      "unknown_platform": 6,
+      "updates": 2
+    },
+    {
+      "articles": 20,
+      "edited": 0,
+      "id": "nintendolife-guides",
+      "unknown_platform": 7,
+      "updates": 1
+    },
+    {
+      "articles": 10,
+      "edited": 0,
+      "id": "steam-dota2-zh",
+      "unknown_platform": 0,
+      "updates": 0
+    },
+    {
+      "articles": 10,
+      "edited": 0,
+      "id": "steam-cs2-zh",
+      "unknown_platform": 0,
+      "updates": 0
+    },
+    {
+      "articles": 10,
+      "edited": 0,
+      "id": "steam-palworld-store-zh",
+      "unknown_platform": 0,
+      "updates": 3
+    },
+    {
+      "articles": 10,
+      "edited": 0,
+      "id": "steam-mhwilds-store-zh",
+      "unknown_platform": 0,
+      "updates": 0
+    },
+    {
+      "articles": 10,
+      "edited": 0,
+      "id": "steam-terraria-store",
+      "unknown_platform": 0,
+      "updates": 2
+    },
+    {
+      "articles": 25,
+      "edited": 0,
+      "id": "nintendolife-reviews",
+      "unknown_platform": 0,
+      "updates": 0
+    },
+    {
+      "articles": 60,
+      "edited": 0,
+      "id": "gnn-zh",
+      "unknown_platform": 54,
+      "updates": 2
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "dolphin",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 50,
+      "edited": 0,
+      "id": "4gamers-zh",
+      "unknown_platform": 37,
+      "updates": 0
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "switchfin",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "moonlight-switch",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "sysdvr",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "nx2apple",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 6,
+      "edited": 6,
+      "id": "tsvitch",
+      "unknown_platform": 0,
+      "updates": 6
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "wiliwili",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "sunshine",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "chiaki-ng",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "moonlight-qt",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 20,
+      "edited": 0,
+      "id": "pushsquare-news",
+      "unknown_platform": 0,
+      "updates": 2
+    },
+    {
+      "articles": 25,
+      "edited": 0,
+      "id": "pushsquare-updates",
+      "unknown_platform": 0,
+      "updates": 14
+    },
+    {
+      "articles": 20,
+      "edited": 0,
+      "id": "purexbox-news",
+      "unknown_platform": 0,
+      "updates": 0
+    },
+    {
+      "articles": 25,
+      "edited": 0,
+      "id": "purexbox-updates",
+      "unknown_platform": 0,
+      "updates": 17
+    },
+    {
+      "articles": 20,
+      "edited": 0,
+      "id": "gematsu",
+      "unknown_platform": 13,
+      "updates": 2
+    },
+    {
+      "articles": 50,
+      "edited": 0,
+      "id": "pcgamer",
+      "unknown_platform": 0,
+      "updates": 5
+    },
+    {
+      "articles": 10,
+      "edited": 0,
+      "id": "psuniverse",
+      "unknown_platform": 0,
+      "updates": 1
+    },
+    {
+      "articles": 10,
+      "edited": 0,
+      "id": "cs2-official",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 0,
+      "id": "helldivers2-steam-zh",
+      "unknown_platform": 0,
+      "updates": 1
+    },
+    {
+      "articles": 10,
+      "edited": 0,
+      "id": "nomanssky-steam",
+      "unknown_platform": 0,
+      "updates": 5
+    },
+    {
+      "articles": 25,
+      "edited": 0,
+      "id": "pushsquare-psplus",
+      "unknown_platform": 0,
+      "updates": 0
+    },
+    {
+      "articles": 25,
+      "edited": 0,
+      "id": "purexbox-gamepass",
+      "unknown_platform": 0,
+      "updates": 0
+    },
+    {
+      "articles": 100,
+      "edited": 88,
+      "id": "aodebiao-ps",
+      "unknown_platform": 0,
+      "updates": 0
+    },
+    {
+      "articles": 18,
+      "edited": 0,
+      "id": "rsshub-nintendo-direct",
+      "unknown_platform": 0,
+      "updates": 0
+    },
+    {
+      "articles": 20,
+      "edited": 0,
+      "id": "rsshub-3dm-news",
+      "unknown_platform": 7,
+      "updates": 2
+    },
+    {
+      "articles": 20,
+      "edited": 0,
+      "id": "rsshub-tgbus-news",
+      "unknown_platform": 15,
+      "updates": 1
+    },
+    {
+      "articles": 20,
+      "edited": 0,
+      "id": "rsshub-diershoubing-news",
+      "unknown_platform": 12,
+      "updates": 0
+    },
+    {
+      "articles": 1,
+      "edited": 0,
+      "id": "rsshub-epic-free-zh",
+      "unknown_platform": 0,
+      "updates": 0
+    },
+    {
+      "articles": 1,
+      "edited": 0,
+      "id": "rsshub-epic-free-en",
+      "unknown_platform": 0,
+      "updates": 0
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "protonup-qt",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "heroic",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "lutris",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "cemu",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "autoplugin2",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "apollo-vita",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "ps5-websrv",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "retroflow-launcher",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 7,
+      "edited": 7,
+      "id": "vitadeploy",
+      "unknown_platform": 0,
+      "updates": 7
+    },
+    {
+      "articles": 8,
+      "edited": 8,
+      "id": "itemzflow",
+      "unknown_platform": 0,
+      "updates": 8
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "ftpd",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "ulaunch",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "emuiibo",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "checkpoint",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "nx-activity-log",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "nxmp",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 9,
+      "edited": 9,
+      "id": "nx-ovlloader",
+      "unknown_platform": 0,
+      "updates": 9
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "nx-hbloader",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 10,
+      "edited": 10,
+      "id": "turnips",
+      "unknown_platform": 0,
+      "updates": 10
+    },
+    {
+      "articles": 24,
+      "edited": 0,
+      "id": "rsshub-nintendo-hk",
+      "unknown_platform": 0,
+      "updates": 0
+    },
+    {
+      "articles": 20,
+      "edited": 0,
+      "id": "rsshub-gamersky-switch",
+      "unknown_platform": 0,
+      "updates": 0
+    }
+  ]
+}

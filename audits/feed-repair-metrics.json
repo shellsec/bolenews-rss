@@ -1,0 +1,58 @@
+{
+  "checked_sources": 115,
+  "initial_nonempty_valid": 112,
+  "initial_timeouts": [
+    "rsshub-nintendo-hk",
+    "rsshub-gamersky-switch"
+  ],
+  "recheck_recovered": 2,
+  "empty_release_feeds": [
+    "bolemusic"
+  ],
+  "native_parsed_sources": 114,
+  "native_articles": 1820,
+  "json_feeds": [
+    {
+      "id": "gamer520",
+      "count": 100,
+      "game_update_tags": 27,
+      "status": "ok",
+      "dropped_by_limit": 2
+    },
+    {
+      "id": "2468c",
+      "count": 100,
+      "game_update_tags": 0,
+      "status": "ok",
+      "dropped_by_limit": 10
+    },
+    {
+      "id": "gnn",
+      "count": 60,
+      "game_update_tags": 2,
+      "status": "ok",
+      "dropped_by_limit": 0
+    },
+    {
+      "id": "ns45",
+      "count": 14,
+      "game_update_tags": 0,
+      "status": "ok",
+      "dropped_by_limit": 0
+    },
+    {
+      "id": "a9vg",
+      "count": 41,
+      "game_update_tags": 0,
+      "status": "ok",
+      "dropped_by_limit": 0
+    },
+    {
+      "id": "nintendo-tw",
+      "count": 24,
+      "game_update_tags": 0,
+      "status": "ok",
+      "dropped_by_limit": 0
+    }
+  ]
+}

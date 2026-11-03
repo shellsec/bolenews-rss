@@ -1,0 +1,1039 @@
+[
+  {
+    "id": "nintendo-jp",
+    "url": "https://www.nintendo.co.jp/news/whatsnew.xml",
+    "checked_at": "2026-11-03T15:26:51.222238+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 199,
+    "valid": true
+  },
+  {
+    "id": "gcores",
+    "url": "https://www.gcores.com/rss",
+    "checked_at": "2026-11-03T15:26:51.223295+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 20,
+    "valid": true
+  },
+  {
+    "id": "yystv",
+    "url": "https://www.yystv.cn/rss/feed",
+    "checked_at": "2026-11-03T15:26:51.224348+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 12,
+    "valid": true
+  },
+  {
+    "id": "chuapp",
+    "url": "https://www.chuapp.com/feed",
+    "checked_at": "2026-11-03T15:26:51.657146+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 30,
+    "valid": true
+  },
+  {
+    "id": "indienova",
+    "url": "https://indienova.com/feed/",
+    "checked_at": "2026-11-03T15:26:51.682121+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "ithome",
+    "url": "https://www.ithome.com/rss/",
+    "checked_at": "2026-11-03T15:26:51.999740+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 60,
+    "valid": true
+  },
+  {
+    "id": "playstation-zh",
+    "url": "https://blog.zh-hant.playstation.com/feed/",
+    "checked_at": "2026-11-03T15:26:52.158001+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "atmosphere",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere/releases.atom",
+    "checked_at": "2026-11-03T15:26:53.133002+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "hekate",
+    "url": "https://github.com/CTCaer/hekate/releases.atom",
+    "checked_at": "2026-11-03T15:26:53.680817+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "jksv",
+    "url": "https://github.com/J-D-K/JKSV/releases.atom",
+    "checked_at": "2026-11-03T15:26:54.493743+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "retroarch",
+    "url": "https://github.com/libretro/RetroArch/releases.atom",
+    "checked_at": "2026-11-03T15:26:54.687561+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "ppsspp",
+    "url": "https://github.com/hrydgard/ppsspp/releases.atom",
+    "checked_at": "2026-11-03T15:26:55.154322+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "melonds",
+    "url": "https://github.com/melonDS-emu/melonDS/releases.atom",
+    "checked_at": "2026-11-03T15:26:55.626355+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "mgba",
+    "url": "https://github.com/mgba-emu/mgba/releases.atom",
+    "checked_at": "2026-11-03T15:26:55.733662+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "flycast",
+    "url": "https://github.com/flyinghead/flycast/releases.atom",
+    "checked_at": "2026-11-03T15:26:56.128068+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "bolemusic",
+    "url": "https://github.com/shellsec/bolemusic/releases.atom",
+    "checked_at": "2026-11-03T15:26:56.787730+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 0,
+    "valid": false
+  },
+  {
+    "id": "missioncontrol",
+    "url": "https://github.com/ndeadly/MissionControl/releases.atom",
+    "checked_at": "2026-11-03T15:26:57.637791+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "sys-clk",
+    "url": "https://github.com/retronx-team/sys-clk/releases.atom",
+    "checked_at": "2026-11-03T15:26:57.683430+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "nx-hbmenu",
+    "url": "https://github.com/switchbrew/nx-hbmenu/releases.atom",
+    "checked_at": "2026-11-03T15:26:57.710625+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "nintendo-everything",
+    "url": "https://nintendoeverything.com/feed/",
+    "checked_at": "2026-11-03T15:26:58.826059+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "example-ns45",
+    "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/ns45.json",
+    "checked_at": "2026-11-03T15:26:58.947540+00:00",
+    "http": 200,
+    "kind": "json",
+    "items": 14,
+    "valid": true,
+    "generated_at": "2026-11-03T12:06:11.870088+00:00"
+  },
+  {
+    "id": "example-gamer520",
+    "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/gamer520.json",
+    "checked_at": "2026-11-03T15:26:59.062552+00:00",
+    "http": 200,
+    "kind": "json",
+    "items": 20,
+    "valid": true,
+    "generated_at": "2026-11-03T12:06:13.405950+00:00"
+  },
+  {
+    "id": "ultrahand",
+    "url": "https://github.com/ppkantorski/Ultrahand-Overlay/releases.atom",
+    "checked_at": "2026-11-03T15:26:59.235672+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "fpslocker",
+    "url": "https://github.com/masagrator/FPSLocker/releases.atom",
+    "checked_at": "2026-11-03T15:26:59.318383+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "saltynx",
+    "url": "https://github.com/masagrator/SaltyNX/releases.atom",
+    "checked_at": "2026-11-03T15:26:59.370098+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "dbi",
+    "url": "https://github.com/rashevskyv/dbi/releases.atom",
+    "checked_at": "2026-11-03T15:27:00.559581+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "sphaira",
+    "url": "https://github.com/NaGaa95/sphaira/releases.atom",
+    "checked_at": "2026-11-03T15:27:00.578356+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "syshaze",
+    "url": "https://github.com/masagrator/sysHaze/releases.atom",
+    "checked_at": "2026-11-03T15:27:00.722847+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 3,
+    "valid": true
+  },
+  {
+    "id": "status-monitor",
+    "url": "https://github.com/ppkantorski/Status-Monitor-Overlay/releases.atom",
+    "checked_at": "2026-11-03T15:27:01.640957+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "ovl-sysmodules",
+    "url": "https://github.com/ppkantorski/ovl-sysmodules/releases.atom",
+    "checked_at": "2026-11-03T15:27:02.068056+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "switch-themes",
+    "url": "https://github.com/exelix11/SwitchThemeInjector/releases.atom",
+    "checked_at": "2026-11-03T15:27:02.555855+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "etahen",
+    "url": "https://github.com/etaHEN/etaHEN/releases.atom",
+    "checked_at": "2026-11-03T15:27:02.978200+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "kstuff",
+    "url": "https://github.com/EchoStretch/kstuff/releases.atom",
+    "checked_at": "2026-11-03T15:27:03.242569+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "goldhen",
+    "url": "https://github.com/GoldHEN/GoldHEN/releases.atom",
+    "checked_at": "2026-11-03T15:27:04.205620+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "shadps4",
+    "url": "https://github.com/shadps4-emu/shadPS4/releases.atom",
+    "checked_at": "2026-11-03T15:27:04.265856+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "rpcs3",
+    "url": "https://github.com/RPCS3/rpcs3/releases.atom",
+    "checked_at": "2026-11-03T15:27:04.421008+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "proton",
+    "url": "https://github.com/ValveSoftware/Proton/releases.atom",
+    "checked_at": "2026-11-03T15:27:05.699541+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "nintendolife-updates",
+    "url": "https://www.nintendolife.com/feeds/latest/tags/updates",
+    "checked_at": "2026-11-03T15:27:05.731780+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 25,
+    "valid": true
+  },
+  {
+    "id": "gbatemp-scene",
+    "url": "https://gbatemp.net/forums/gbatemp-scene-news.101/index.rss",
+    "checked_at": "2026-11-03T15:27:06.526842+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 30,
+    "valid": true
+  },
+  {
+    "id": "wololo-switch",
+    "url": "https://wololo.net/category/nintendo-switch/feed/",
+    "checked_at": "2026-11-03T15:27:06.950568+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 20,
+    "valid": true
+  },
+  {
+    "id": "example-a9vg",
+    "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/a9vg.json",
+    "checked_at": "2026-11-03T15:27:07.048013+00:00",
+    "http": 200,
+    "kind": "json",
+    "items": 40,
+    "valid": true,
+    "generated_at": "2026-11-03T12:06:14.008325+00:00"
+  },
+  {
+    "id": "example-nintendo-tw",
+    "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/nintendo-tw.json",
+    "checked_at": "2026-11-03T15:27:07.623367+00:00",
+    "http": 200,
+    "kind": "json",
+    "items": 24,
+    "valid": true,
+    "generated_at": "2026-11-03T12:06:16.017209+00:00"
+  },
+  {
+    "id": "xbox-wire",
+    "url": "https://news.xbox.com/en-us/feed/",
+    "checked_at": "2026-11-03T15:27:08.115903+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "steam-news",
+    "url": "https://store.steampowered.com/feeds/news/?l=schinese",
+    "checked_at": "2026-11-03T15:27:08.673161+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "playstation-en",
+    "url": "https://blog.playstation.com/feed/",
+    "checked_at": "2026-11-03T15:27:08.736506+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "goldleaf",
+    "url": "https://github.com/XorTroll/Goldleaf/releases.atom",
+    "checked_at": "2026-11-03T15:27:09.010164+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "vitadb",
+    "url": "https://github.com/Rinnegatamante/VitaDB-Downloader/releases.atom",
+    "checked_at": "2026-11-03T15:27:09.425799+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "apollo-ps4",
+    "url": "https://github.com/bucanero/apollo-ps4/releases.atom",
+    "checked_at": "2026-11-03T15:27:09.875041+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "ps5-elfldr",
+    "url": "https://github.com/ps5-payload-dev/elfldr/releases.atom",
+    "checked_at": "2026-11-03T15:27:10.197253+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "xbsx2",
+    "url": "https://github.com/XboxEmulationHub/XBSX2/releases.atom",
+    "checked_at": "2026-11-03T15:27:10.658702+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 4,
+    "valid": true
+  },
+  {
+    "id": "rocknix",
+    "url": "https://github.com/ROCKNIX/distribution/releases.atom",
+    "checked_at": "2026-11-03T15:27:11.157228+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "portmaster",
+    "url": "https://github.com/PortsMaster/PortMaster-GUI/releases.atom",
+    "checked_at": "2026-11-03T15:27:11.189077+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "lemuroid",
+    "url": "https://github.com/Swordfish90/Lemuroid/releases.atom",
+    "checked_at": "2026-11-03T15:27:11.801239+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "decky-loader",
+    "url": "https://github.com/SteamDeckHomebrew/decky-loader/releases.atom",
+    "checked_at": "2026-11-03T15:27:12.248583+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "fizeau",
+    "url": "https://github.com/averne/Fizeau/releases.atom",
+    "checked_at": "2026-11-03T15:27:12.768313+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "nintendolife-news",
+    "url": "https://www.nintendolife.com/feeds/news",
+    "checked_at": "2026-11-03T15:27:13.271389+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 20,
+    "valid": true
+  },
+  {
+    "id": "nintendolife-guides",
+    "url": "https://www.nintendolife.com/feeds/guides",
+    "checked_at": "2026-11-03T15:27:13.712813+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 20,
+    "valid": true
+  },
+  {
+    "id": "steam-dota2-zh",
+    "url": "https://store.steampowered.com/feeds/news/app/570/?l=schinese",
+    "checked_at": "2026-11-03T15:27:13.846122+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "steam-cs2-zh",
+    "url": "https://store.steampowered.com/feeds/news/app/730/?l=schinese",
+    "checked_at": "2026-11-03T15:27:13.977121+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "steam-palworld-store-zh",
+    "url": "https://store.steampowered.com/feeds/news/app/1623730/?l=schinese",
+    "checked_at": "2026-11-03T15:27:14.459666+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "steam-mhwilds-store-zh",
+    "url": "https://store.steampowered.com/feeds/news/app/2246340/?l=schinese",
+    "checked_at": "2026-11-03T15:27:15.202006+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "steam-terraria-store",
+    "url": "https://store.steampowered.com/feeds/news/app/105600/?l=english",
+    "checked_at": "2026-11-03T15:27:15.462085+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "nintendolife-reviews",
+    "url": "https://www.nintendolife.com/feeds/reviews",
+    "checked_at": "2026-11-03T15:27:15.769938+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 25,
+    "valid": true
+  },
+  {
+    "id": "gnn-zh",
+    "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/gnn.json",
+    "checked_at": "2026-11-03T15:27:16.610365+00:00",
+    "http": 200,
+    "kind": "json",
+    "items": 30,
+    "valid": true,
+    "generated_at": "2026-11-03T12:06:11.271317+00:00"
+  },
+  {
+    "id": "dolphin",
+    "url": "https://github.com/dolphin-emu/dolphin/releases.atom",
+    "checked_at": "2026-11-03T15:27:16.652298+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "4gamers-zh",
+    "url": "https://www.4gamers.com.tw/rss/latest-news",
+    "checked_at": "2026-11-03T15:27:17.156464+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 50,
+    "valid": true
+  },
+  {
+    "id": "switchfin",
+    "url": "https://github.com/dragonflylee/switchfin/releases.atom",
+    "checked_at": "2026-11-03T15:27:17.607104+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "moonlight-switch",
+    "url": "https://github.com/XITRIX/Moonlight-Switch/releases.atom",
+    "checked_at": "2026-11-03T15:27:17.694901+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "sysdvr",
+    "url": "https://github.com/exelix11/SysDVR/releases.atom",
+    "checked_at": "2026-11-03T15:27:17.804477+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "nx2apple",
+    "url": "https://github.com/LNPANDY/NX2Apple/releases.atom",
+    "checked_at": "2026-11-03T15:27:18.794631+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "tsvitch",
+    "url": "https://github.com/giovannimirulla/TsVitch/releases.atom",
+    "checked_at": "2026-11-03T15:27:19.002331+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 6,
+    "valid": true
+  },
+  {
+    "id": "wiliwili",
+    "url": "https://github.com/xfangfang/wiliwili/releases.atom",
+    "checked_at": "2026-11-03T15:27:19.081187+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "sunshine",
+    "url": "https://github.com/LizardByte/Sunshine/releases.atom",
+    "checked_at": "2026-11-03T15:27:20.421542+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "chiaki-ng",
+    "url": "https://github.com/chiaki-ng/chiaki-ng/releases.atom",
+    "checked_at": "2026-11-03T15:27:20.578247+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "moonlight-qt",
+    "url": "https://github.com/moonlight-stream/moonlight-qt/releases.atom",
+    "checked_at": "2026-11-03T15:27:21.147271+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "pushsquare-news",
+    "url": "https://www.pushsquare.com/feeds/news",
+    "checked_at": "2026-11-03T15:27:21.774115+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 20,
+    "valid": true
+  },
+  {
+    "id": "pushsquare-updates",
+    "url": "https://www.pushsquare.com/feeds/latest/tags/updates",
+    "checked_at": "2026-11-03T15:27:22.542118+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 25,
+    "valid": true
+  },
+  {
+    "id": "purexbox-news",
+    "url": "https://www.purexbox.com/feeds/news",
+    "checked_at": "2026-11-03T15:27:22.642623+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 20,
+    "valid": true
+  },
+  {
+    "id": "purexbox-updates",
+    "url": "https://www.purexbox.com/feeds/latest/tags/updates",
+    "checked_at": "2026-11-03T15:27:23.244623+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 25,
+    "valid": true
+  },
+  {
+    "id": "gematsu",
+    "url": "https://www.gematsu.com/feed",
+    "checked_at": "2026-11-03T15:27:23.424468+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 20,
+    "valid": true
+  },
+  {
+    "id": "pcgamer",
+    "url": "https://www.pcgamer.com/rss/",
+    "checked_at": "2026-11-03T15:27:23.866807+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 50,
+    "valid": true
+  },
+  {
+    "id": "psuniverse",
+    "url": "https://www.psu.com/feed/",
+    "checked_at": "2026-11-03T15:27:23.980630+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "cs2-official",
+    "url": "https://steamcommunity.com/games/CSGO/rss/",
+    "checked_at": "2026-11-03T15:27:24.645648+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "helldivers2-steam-zh",
+    "url": "https://steamcommunity.com/games/553850/rss/?l=schinese",
+    "checked_at": "2026-11-03T15:27:24.909842+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "nomanssky-steam",
+    "url": "https://steamcommunity.com/games/275850/rss/",
+    "checked_at": "2026-11-03T15:27:25.160726+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "pushsquare-psplus",
+    "url": "https://www.pushsquare.com/feeds/latest/tags/ps-plus",
+    "checked_at": "2026-11-03T15:27:25.365271+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 25,
+    "valid": true
+  },
+  {
+    "id": "purexbox-gamepass",
+    "url": "https://www.purexbox.com/feeds/latest/tags/xbox-game-pass",
+    "checked_at": "2026-11-03T15:27:25.679346+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 25,
+    "valid": true
+  },
+  {
+    "id": "aodebiao-ps",
+    "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/2468c.json",
+    "checked_at": "2026-11-03T15:27:25.909846+00:00",
+    "http": 200,
+    "kind": "json",
+    "items": 30,
+    "valid": true,
+    "generated_at": "2026-11-03T12:06:10.622233+00:00"
+  },
+  {
+    "id": "rsshub-nintendo-hk",
+    "url": "https://rsshub.isrss.com/nintendo/news",
+    "checked_at": "2026-11-03T15:27:26.347805+00:00",
+    "valid": false,
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "rsshub-nintendo-direct",
+    "url": "https://rsshub.isrss.com/nintendo/direct",
+    "checked_at": "2026-11-03T15:27:26.371306+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 18,
+    "valid": true
+  },
+  {
+    "id": "rsshub-gamersky-switch",
+    "url": "https://rsshub.isrss.com/gamersky/news/ns",
+    "checked_at": "2026-11-03T15:27:26.444837+00:00",
+    "valid": false,
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "rsshub-3dm-news",
+    "url": "https://rsshub.isrss.com/3dmgame/news/game",
+    "checked_at": "2026-11-03T15:27:29.080699+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 20,
+    "valid": true
+  },
+  {
+    "id": "rsshub-tgbus-news",
+    "url": "https://rsshub.isrss.com/tgbus/list/news",
+    "checked_at": "2026-11-03T15:27:34.789576+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 20,
+    "valid": true
+  },
+  {
+    "id": "rsshub-diershoubing-news",
+    "url": "https://rsshub.isrss.com/diershoubing/news",
+    "checked_at": "2026-11-03T15:27:38.489875+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 20,
+    "valid": true
+  },
+  {
+    "id": "rsshub-epic-free-zh",
+    "url": "https://rsshub.isrss.com/epicgames/freegames/zh-CN/CN",
+    "checked_at": "2026-11-03T15:27:38.754202+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 1,
+    "valid": true
+  },
+  {
+    "id": "rsshub-epic-free-en",
+    "url": "https://rsshub.isrss.com/epicgames/freegames/en-US/US",
+    "checked_at": "2026-11-03T15:27:39.666663+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 1,
+    "valid": true
+  },
+  {
+    "id": "protonup-qt",
+    "url": "https://github.com/DavidoTek/ProtonUp-Qt/releases.atom",
+    "checked_at": "2026-11-03T15:27:41.923462+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "heroic",
+    "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases.atom",
+    "checked_at": "2026-11-03T15:27:42.176439+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "lutris",
+    "url": "https://github.com/lutris/lutris/releases.atom",
+    "checked_at": "2026-11-03T15:27:43.545791+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "cemu",
+    "url": "https://github.com/cemu-project/Cemu/releases.atom",
+    "checked_at": "2026-11-03T15:27:44.249967+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "autoplugin2",
+    "url": "https://github.com/ONElua/AutoPlugin2/releases.atom",
+    "checked_at": "2026-11-03T15:27:44.739142+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "apollo-vita",
+    "url": "https://github.com/bucanero/apollo-vita/releases.atom",
+    "checked_at": "2026-11-03T15:27:45.458277+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "ps5-websrv",
+    "url": "https://github.com/ps5-payload-dev/websrv/releases.atom",
+    "checked_at": "2026-11-03T15:27:45.779403+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "retroflow-launcher",
+    "url": "https://github.com/jimbob4000/RetroFlow-Launcher/releases.atom",
+    "checked_at": "2026-11-03T15:27:45.818568+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "vitadeploy",
+    "url": "https://github.com/SKGleba/VitaDeploy/releases.atom",
+    "checked_at": "2026-11-03T15:27:46.623031+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 7,
+    "valid": true
+  },
+  {
+    "id": "itemzflow",
+    "url": "https://github.com/LightningMods/Itemzflow/releases.atom",
+    "checked_at": "2026-11-03T15:27:46.787760+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 8,
+    "valid": true
+  },
+  {
+    "id": "ftpd",
+    "url": "https://github.com/mtheall/ftpd/releases.atom",
+    "checked_at": "2026-11-03T15:27:47.638574+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "ulaunch",
+    "url": "https://github.com/XorTroll/uLaunch/releases.atom",
+    "checked_at": "2026-11-03T15:27:47.791196+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "emuiibo",
+    "url": "https://github.com/XorTroll/emuiibo/releases.atom",
+    "checked_at": "2026-11-03T15:27:48.008750+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "checkpoint",
+    "url": "https://github.com/FlagBrew/Checkpoint/releases.atom",
+    "checked_at": "2026-11-03T15:27:48.559656+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "nx-activity-log",
+    "url": "https://github.com/zdm65477730/NX-Activity-Log/releases.atom",
+    "checked_at": "2026-11-03T15:27:49.019417+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "nxmp",
+    "url": "https://github.com/proconsule/nxmp/releases.atom",
+    "checked_at": "2026-11-03T15:27:49.150543+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "nx-ovlloader",
+    "url": "https://github.com/ppkantorski/nx-ovlloader/releases.atom",
+    "checked_at": "2026-11-03T15:27:50.022917+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 9,
+    "valid": true
+  },
+  {
+    "id": "nx-hbloader",
+    "url": "https://github.com/switchbrew/nx-hbloader/releases.atom",
+    "checked_at": "2026-11-03T15:27:50.423665+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  },
+  {
+    "id": "turnips",
+    "url": "https://github.com/averne/Turnips/releases.atom",
+    "checked_at": "2026-11-03T15:27:50.875528+00:00",
+    "http": 200,
+    "kind": "xml",
+    "items": 10,
+    "valid": true
+  }
+]

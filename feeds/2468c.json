@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-03T12:06:10.622233+00:00",
-  "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112&per_page=30&_fields=id,date_gmt,link,title,categories",
+  "generated_at": "2026-11-03T15:34:04.955438+00:00",
+  "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories",
   "items": [
     {
       "title": "吸血鬼幸存者 Vampire Survivors",
@@ -14,6 +14,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-03T04:04:39Z",
       "platform": [
         "ps5"
       ],
@@ -30,6 +31,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-03T03:48:37Z",
       "platform": [
         "ps5"
       ],
@@ -46,6 +48,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T23:25:36Z",
       "platform": [
         "ps5"
       ],
@@ -62,6 +65,41 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T23:24:58Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "模拟狩猎2.Hunting Simulator 2",
+      "original_url": "https://2468c.com/82922.html",
+      "published_at": "2026-10-02T22:47:01Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-02T23:22:42Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "刑罚：加长版.Infliction: Extended Cut",
+      "original_url": "https://2468c.com/82913.html",
+      "published_at": "2026-10-02T22:53:09Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-02T23:22:36Z",
       "platform": [
         "ps5"
       ],
@@ -78,6 +116,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T23:15:48Z",
       "platform": [
         "ps5"
       ],
@@ -94,6 +133,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T23:09:02Z",
       "platform": [
         "ps5"
       ],
@@ -110,6 +150,24 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T23:07:19Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "玩具熊的午夜后宫：安全漏洞.Five Nights at Freddy’s: Security Breach",
+      "original_url": "https://2468c.com/82823.html",
+      "published_at": "2026-02-15T16:06:01Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-02T23:05:54Z",
       "platform": [
         "ps5"
       ],
@@ -126,6 +184,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T23:04:12Z",
       "platform": [
         "ps5"
       ],
@@ -142,6 +201,24 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T23:02:55Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "核心元素2.ELEX II",
+      "original_url": "https://2468c.com/82532.html",
+      "published_at": "2026-02-14T16:05:48Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-02T23:01:24Z",
       "platform": [
         "ps5"
       ],
@@ -158,6 +235,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T23:00:03Z",
       "platform": [
         "ps5"
       ],
@@ -174,6 +252,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T22:58:51Z",
       "platform": [
         "ps5"
       ],
@@ -190,6 +269,24 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T22:57:38Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "真空饲育箱.void tRrLM",
+      "original_url": "https://2468c.com/82870.html",
+      "published_at": "2025-02-15T16:12:20Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-02T22:52:12Z",
       "platform": [
         "ps5"
       ],
@@ -206,6 +303,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T22:46:55Z",
       "platform": [
         "ps5"
       ],
@@ -222,6 +320,24 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T22:46:00Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "空之轨迹 the 1st Trails in the Sky 1st Chapter",
+      "original_url": "https://2468c.com/112496.html",
+      "published_at": "2026-10-12T01:25:33Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-02T12:35:11Z",
       "platform": [
         "ps5"
       ],
@@ -238,6 +354,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T12:26:17Z",
       "platform": [
         "ps5"
       ],
@@ -254,6 +371,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T06:03:58Z",
       "platform": [
         "ps5"
       ],
@@ -270,6 +388,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T06:03:11Z",
       "platform": [
         "ps5"
       ],
@@ -286,6 +405,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T05:55:55Z",
       "platform": [
         "ps5"
       ],
@@ -302,6 +422,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T05:51:55Z",
       "platform": [
         "ps5"
       ],
@@ -318,6 +439,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T01:08:40Z",
       "platform": [
         "ps4"
       ],
@@ -334,6 +456,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T01:06:20Z",
       "platform": [
         "ps5"
       ],
@@ -350,6 +473,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T01:01:47Z",
       "platform": [
         "ps5"
       ],
@@ -366,6 +490,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T00:58:10Z",
       "platform": [
         "ps5"
       ],
@@ -382,6 +507,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T00:54:33Z",
       "platform": [
         "ps5"
       ],
@@ -398,6 +524,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T00:51:36Z",
       "platform": [
         "ps5"
       ],
@@ -414,6 +541,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T00:47:30Z",
       "platform": [
         "ps5"
       ],
@@ -430,6 +558,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T00:40:34Z",
       "platform": [
         "ps5"
       ],
@@ -446,6 +575,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T00:35:52Z",
       "platform": [
         "ps5"
       ],
@@ -462,6 +592,7 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T00:30:57Z",
       "platform": [
         "ps5"
       ],
@@ -478,6 +609,1095 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
+      "updated_at": "2026-11-02T00:26:31Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "绯红结系 Scarlet Nexus",
+      "original_url": "https://2468c.com/112438.html",
+      "published_at": "2026-11-01T06:00:26Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-01T06:01:09Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "勇者斗恶龙 7 Dragon Quest VII Reimagined",
+      "original_url": "https://2468c.com/111785.html",
+      "published_at": "2026-11-01T05:53:55Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-01T05:57:07Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "真・女神转生V：复仇.Shin Megami Tensei V: Vengeance",
+      "original_url": "https://2468c.com/103497.html",
+      "published_at": "2026-11-01T05:48:47Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-01T05:50:29Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "女神异闻录3：Persona 3 Reload",
+      "original_url": "https://2468c.com/102878.html",
+      "published_at": "2026-11-01T05:42:51Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-01T05:44:54Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "从前从前有个块魂 Once Upon a Katamari",
+      "original_url": "https://2468c.com/112757.html",
+      "published_at": "2026-10-31T00:43:04Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-31T01:08:06Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "如龙：极 1 + 2.Yakuza Kiwami 1+2",
+      "original_url": "https://2468c.com/112414.html",
+      "published_at": "2026-10-31T01:01:21Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-31T01:03:23Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "班迪与暗黑重生 Bendy and the Dark Revival",
+      "original_url": "https://2468c.com/112840.html",
+      "published_at": "2026-10-31T00:58:27Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-31T00:59:27Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "午夜漫步 The Midnight Walk",
+      "original_url": "https://2468c.com/112713.html",
+      "published_at": "2026-06-21T00:33:10Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-31T00:58:06Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "超侦探事件簿：雾雨谜宫 Plus Master Detective Archives: Rain Code Plus",
+      "original_url": "https://2468c.com/112734.html",
+      "published_at": "2026-10-31T00:54:10Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-31T00:55:58Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "葛叶雷道 复刻版：超力兵团奇谭.Raidou Remastered: The Mystery of the Soulless Army",
+      "original_url": "https://2468c.com/112700.html",
+      "published_at": "2026-10-31T00:52:33Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-31T00:53:50Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "勇敢小骑士.The Plucky Squire",
+      "original_url": "https://2468c.com/112833.html",
+      "published_at": "2026-10-31T00:51:36Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-31T00:52:45Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "奇巫妙森.Wytchwood",
+      "original_url": "https://2468c.com/112695.html",
+      "published_at": "2026-10-31T00:50:21Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-31T00:51:21Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "JOJO 的奇妙冒险：群星之战 重制版 – 数字豪华版 JoJo’s Bizarre Adventure: All-Star Battle R – Digital Deluxe Edition",
+      "original_url": "https://2468c.com/112785.html",
+      "published_at": "2026-10-31T00:48:23Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-31T00:50:01Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "塞伯利亚之谜：世界之前.Syberia: The World Before",
+      "original_url": "https://2468c.com/112835.html",
+      "published_at": "2026-10-31T00:47:42Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-31T00:48:43Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "格雷克大冒险：阿祖尔的回忆 Greak: Memories of Azur",
+      "original_url": "https://2468c.com/112842.html",
+      "published_at": "2026-10-31T00:45:31Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-31T00:46:53Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "水泽仙女.Naiad",
+      "original_url": "https://2468c.com/112536.html",
+      "published_at": "2026-10-31T00:41:51Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-31T00:42:41Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "花之灵.HOA",
+      "original_url": "https://2468c.com/83341.html",
+      "published_at": "2026-10-31T00:37:22Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-31T00:39:54Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "神秘海域：德雷克合集.Uncharted: The Nathan Drake Collection",
+      "original_url": "https://2468c.com/61956.html",
+      "published_at": "2026-10-30T06:20:05Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T06:21:16Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "突袭 5 豪华版 Sudden Strike 5 Deluxe Edition",
+      "original_url": "https://2468c.com/121699.html",
+      "published_at": "2026-10-30T02:28:02Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T02:28:02Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "纪元 117：罗马和平 Anno 117 Pax Romana",
+      "original_url": "https://2468c.com/121697.html",
+      "published_at": "2026-10-30T02:24:01Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T02:24:01Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "求生岛：不老泉传说 Survival Fountain of Youth",
+      "original_url": "https://2468c.com/121695.html",
+      "published_at": "2026-10-30T02:21:07Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T02:21:07Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "红色的炼金术士和白色的守护者 ～蕾斯莱莉娅娜的炼金工房～ Atelier Resleriana: The Red Alchemist & The White Guardian",
+      "original_url": "https://2468c.com/112719.html",
+      "published_at": "2026-10-30T02:15:03Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T02:16:17Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "告别回忆 双想 ～Not always true～ Memories Off Sousou: Not Always True",
+      "original_url": "https://2468c.com/112940.html",
+      "published_at": "2026-10-30T02:08:16Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T02:10:13Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "完全可靠快递服务 Totally Reliable Delivery Service",
+      "original_url": "https://2468c.com/113357.html",
+      "published_at": "2026-10-30T02:05:12Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T02:06:35Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "美德传奇 f Remastered Tales of Graces F Remastered",
+      "original_url": "https://2468c.com/113245.html",
+      "published_at": "2026-10-30T01:50:58Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T01:52:10Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "F1 24",
+      "original_url": "https://2468c.com/113404.html",
+      "published_at": "2026-10-30T01:48:51Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T01:50:33Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "咒语力量：征服埃欧大陆 SpellForce: Conquest of Eo",
+      "original_url": "https://2468c.com/113385.html",
+      "published_at": "2026-10-30T01:47:21Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T01:48:35Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "牧场物语 Welcome！美丽人生.Story of Seasons: A Wonderful Life",
+      "original_url": "https://2468c.com/112910.html",
+      "published_at": "2026-10-30T01:45:18Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T01:46:35Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "灾后修复师 RoadCraft",
+      "original_url": "https://2468c.com/112576.html",
+      "published_at": "2026-10-30T01:41:23Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T01:43:28Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "暗夜长梦 In Nightmare",
+      "original_url": "https://2468c.com/113361.html",
+      "published_at": "2026-10-30T01:37:10Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T01:39:52Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "共鸣：瘟疫传说传承 Resonance A Plague Tale Legacy",
+      "original_url": "https://2468c.com/120801.html",
+      "published_at": "2026-10-05T23:21:33Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T01:37:06Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "小恐龙大冒险卡丁车.Gigantosaurus: Dino Kart",
+      "original_url": "https://2468c.com/113071.html",
+      "published_at": "2026-07-05T05:53:49Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T01:35:29Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "呼吸边缘.Breathedge",
+      "original_url": "https://2468c.com/112964.html",
+      "published_at": "2026-10-30T01:31:48Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T01:33:35Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "灵魂之魂.Soulstice",
+      "original_url": "https://2468c.com/100029.html",
+      "published_at": "2026-10-30T01:28:19Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T01:30:30Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "遗忘之城 The Forgotten City",
+      "original_url": "https://2468c.com/113043.html",
+      "published_at": "2026-10-30T01:27:11Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T01:28:37Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "侏罗纪世界：进化2 – 终极版.Jurassic World Evolution 2: Premium Edition",
+      "original_url": "https://2468c.com/113376.html",
+      "published_at": "2026-10-30T01:25:33Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T01:26:58Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "新战斗原始人：穴居人忍者 New Joe & Mac: Caveman Ninja",
+      "original_url": "https://2468c.com/112907.html",
+      "published_at": "2026-10-30T01:24:51Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T01:25:54Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "噗哟噗哟：俄罗斯方块2.Puyo Puyo Tetris 2",
+      "original_url": "https://2468c.com/113069.html",
+      "published_at": "2026-10-30T01:23:01Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T01:24:31Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "侠盗猎车手：三部曲 – 最终版.Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "original_url": "https://2468c.com/82256.html",
+      "published_at": "2026-10-30T01:20:11Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-30T01:22:46Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "羊蹄山之魂.Ghost of Yotei",
+      "original_url": "https://2468c.com/110062.html",
+      "published_at": "2026-10-15T09:26:52Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T09:28:24Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "速度与激情：街机版 Fast & Furious: Arcade Edition",
+      "original_url": "https://2468c.com/115792.html",
+      "published_at": "2026-10-29T06:02:06Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T06:08:11Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "北方之灵 2 Spirit of the North 2",
+      "original_url": "https://2468c.com/111030.html",
+      "published_at": "2026-10-29T06:04:49Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T06:05:34Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "绝对魔权 Absolum",
+      "original_url": "https://2468c.com/111539.html",
+      "published_at": "2026-10-29T06:03:57Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T06:04:06Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "阿加莎·克里斯蒂：尼罗河上的惨案 Agatha Christie Death on The Nile",
+      "original_url": "https://2468c.com/111242.html",
+      "published_at": "2026-10-29T06:01:52Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T06:03:00Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "世界摩托车锦标赛25.MotoGP 25",
+      "original_url": "https://2468c.com/115229.html",
+      "published_at": "2026-10-29T05:58:33Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T05:59:51Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "尼克德里克：魔法世界 – 导演剪辑版 Nikoderiko: The Magical World – Director’s Cut",
+      "original_url": "https://2468c.com/113263.html",
+      "published_at": "2026-10-29T05:52:34Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T05:54:01Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "双截龙：再临 – 豪华版 Double Dragon Revive",
+      "original_url": "https://2468c.com/110147.html",
+      "published_at": "2026-10-29T05:51:29Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T05:52:19Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "最后一口气 One Last Breath",
+      "original_url": "https://2468c.com/115805.html",
+      "published_at": "2026-10-29T05:48:39Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T05:50:33Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "吸血鬼：避世血族 2 Vampire: The Masquerade – Bloodlines 2",
+      "original_url": "https://2468c.com/110221.html",
+      "published_at": "2026-10-29T05:47:24Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T05:48:32Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "红视 2 Redout 2",
+      "original_url": "https://2468c.com/115803.html",
+      "published_at": "2026-10-29T05:42:06Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T05:43:12Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "破坏创造王 Wreckreation",
+      "original_url": "https://2468c.com/110756.html",
+      "published_at": "2026-10-29T05:40:44Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T05:41:58Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "究极大越野：传奇.MX vs. ATV: Legends",
+      "original_url": "https://2468c.com/99139.html",
+      "published_at": "2026-10-29T05:38:56Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T05:40:30Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "酷玩乱斗.Arcadegeddon",
+      "original_url": "https://2468c.com/99147.html",
+      "published_at": "2026-10-29T05:37:47Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T05:39:07Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "神力科莎：竞技版.Assetto Corsa Competizione",
+      "original_url": "https://2468c.com/98503.html",
+      "published_at": "2026-10-29T05:35:32Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T05:37:28Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "银河破裂者.The Riftbreaker",
+      "original_url": "https://2468c.com/82989.html",
+      "published_at": "2026-10-29T05:34:35Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T05:36:03Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "伊松佐河：豪华版 WWI Isonzo Deluxe Edition",
+      "original_url": "https://2468c.com/115807.html",
+      "published_at": "2026-10-29T05:32:33Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T05:33:26Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "深岩银河.Deep Rock Galactic",
+      "original_url": "https://2468c.com/103468.html",
+      "published_at": "2026-10-29T05:30:18Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T05:32:07Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "雷纳提斯 终极版 REYNATIS Ultimate Edition",
+      "original_url": "https://2468c.com/111178.html",
+      "published_at": "2026-10-29T01:40:22Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T01:45:25Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "歧路旅人0. OCTOPATH TRAVELER 0",
+      "original_url": "https://2468c.com/114689.html",
+      "published_at": "2026-10-29T01:40:58Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-29T01:44:37Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "碧波之下.Under The Waves",
+      "original_url": "https://2468c.com/100254.html",
+      "published_at": "2026-10-28T01:03:45Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-28T01:04:31Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "超自然车旅.Pacific Drive",
+      "original_url": "https://2468c.com/101340.html",
+      "published_at": "2026-10-28T01:01:44Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-28T01:02:54Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "乐高地平线大冒险.LEGO Horizon Adventures",
+      "original_url": "https://2468c.com/103090.html",
+      "published_at": "2026-10-28T00:58:28Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-28T01:00:16Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "圣剑传说：玛娜幻象.Visions of Mana",
+      "original_url": "https://2468c.com/104616.html",
+      "published_at": "2026-10-28T00:56:36Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-28T00:58:49Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "拆迁.Teardown",
+      "original_url": "https://2468c.com/105703.html",
+      "published_at": "2026-10-28T00:56:37Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-10-28T00:57:07Z",
       "platform": [
         "ps5"
       ],

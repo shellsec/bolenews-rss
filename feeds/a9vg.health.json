@@ -1,6 +1,12 @@
 {
   "source": "a9vg",
-  "attempted_at": "2026-11-03T12:06:14.008325+00:00",
+  "attempted_at": "2026-11-03T15:34:14.610505+00:00",
   "status": "ok",
-  "count": 40
+  "count": 41,
+  "fetched_count": 40,
+  "retained_count": 1,
+  "input_urls": [
+    "https://www.a9vg.com/"
+  ],
+  "dropped_by_limit": 0
 }

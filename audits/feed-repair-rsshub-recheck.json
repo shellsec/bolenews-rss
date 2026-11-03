@@ -1,0 +1,76 @@
+[
+  {
+    "url": "https://rsshub.isrss.com/nintendo/news",
+    "checked_at": "2026-11-03T15:32:39.525114+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.isrss.com/nintendo/news",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 24,
+    "valid_feed": true,
+    "titles_complete": 24,
+    "summary_count": 24,
+    "image_count": 24,
+    "sample": [
+      {
+        "title": "跟皮克敏走進秋日花園！「PIKMIN：皮克敏秋季收穫祭」即將於旺角朗豪坊登場。",
+        "date": "Tue, 03 Nov 2026 15:00:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "Nintendo Switch 2 Monster Hunter Wilds 主機組合將於2026年12月4日（五）發售。下載序號（票券）也將於同日發售。",
+        "date": "Mon, 02 Nov 2026 11:00:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "《皮克敏4 Nintendo Switch 2 Edition + 大家來挑戰! 當多慮檢定》的體驗版開始發布。介紹Pikmin Day Direct公開的資訊。",
+        "date": "Mon, 02 Nov 2026 00:00:00 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-11-03T15:00:00+00:00",
+    "last_7_days": 8,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 0.77
+  },
+  {
+    "url": "https://rsshub.isrss.com/gamersky/news/ns",
+    "checked_at": "2026-11-03T15:32:42.292362+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.isrss.com/gamersky/news/ns",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 20,
+    "valid_feed": true,
+    "titles_complete": 20,
+    "summary_count": 20,
+    "image_count": 20,
+    "sample": [
+      {
+        "title": "任天堂：《时之笛RE》是从零重做 绝没偷懒",
+        "date": "Tue, 03 Nov 2026 14:12:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "NS2模拟器成功运行独占大作！DLSS5加持画面逼真",
+        "date": "Tue, 03 Nov 2026 07:50:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "曝《FF7启示》最新实机有大问题 NS2掌机画面被藏",
+        "date": "Tue, 03 Nov 2026 07:33:00 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-11-03T14:12:00+00:00",
+    "last_7_days": 20,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 0.78
+  }
+]
