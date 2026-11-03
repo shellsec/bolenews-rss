@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-02T22:22:31.020860+00:00",
+  "generated_at": "2026-11-03T03:33:42.925247+00:00",
   "source_url": "https://www.a9vg.com/",
   "items": [
     {
@@ -104,6 +104,18 @@
       "id": "1dd601d1df2ad2b9d7784e568b95c37d9a1998318791f3b844b675ee5d62802d",
       "title": "《恶魔城：贝尔蒙特的诅咒》简评：不像恶魔城，但终究是恶魔城 《恶魔城：贝尔蒙特的诅咒》凭借渐入佳境的经典恶魔城底蕴，为喜爱该题材的玩家带来了一场独特的冒险。也许它不叫《恶魔城》的话会获得更高的评价，但起码这个系列通过本作延续了下去，从这一点上来说就足够了。",
       "original_url": "https://www.a9vg.com/article/245481",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "metadata"
+    },
+    {
+      "id": "cc1012149857abc56e8d434e2efec24c42960f323abaceef8b5d36b267b7cf1a",
+      "title": "《异界揭踪》评测：不完美，却有独特的探索乐趣",
+      "original_url": "https://www.a9vg.com/article/246454",
       "summary": "",
       "content": "",
       "image_url": "",
@@ -332,18 +344,6 @@
       "id": "b90dc8e9c149ccab18c5d5ec07008931b5ecaa5b5f758fe400b546d7fdd27bc7",
       "title": "《影之刃零》最终预告片公开",
       "original_url": "https://www.a9vg.com/article/245890",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "evidence": "community",
-      "language": "zh-Hans",
-      "content_scope": "metadata"
-    },
-    {
-      "id": "59c09edd0526d7139fea8262b7add9629e1fbf5da35e44828cdccf8d26ed307a",
-      "title": "EA裁员400名员工，并关闭BioWare工作室",
-      "original_url": "https://www.a9vg.com/article/245884",
       "summary": "",
       "content": "",
       "image_url": "",
