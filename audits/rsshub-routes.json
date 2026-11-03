@@ -1,0 +1,494 @@
+[
+  {
+    "url": "https://rsshub.ktachibana.party/gamersky/news/ns",
+    "checked_at": "2026-11-03T08:25:29.227250+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.ktachibana.party/gamersky/news/ns",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 20,
+    "valid_feed": true,
+    "titles_complete": 20,
+    "summary_count": 20,
+    "image_count": 20,
+    "sample": [
+      {
+        "title": "NS2模拟器成功运行独占大作！DLSS5加持画面逼真",
+        "date": "Tue, 03 Nov 2026 07:50:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "曝《FF7启示》最新实机有大问题 NS2掌机画面被藏",
+        "date": "Tue, 03 Nov 2026 07:33:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "不是外包!《塞尔达时之笛RE》由任天堂本部开发",
+        "date": "Tue, 03 Nov 2026 06:48:00 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-11-03T07:50:00+00:00",
+    "last_7_days": 20,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 8.11
+  },
+  {
+    "url": "https://rsshub.ktachibana.party/nintendo/eshop/hk",
+    "checked_at": "2026-11-03T08:25:37.350159+00:00",
+    "error": "HTTP Error 503: Service Unavailable",
+    "seconds": 2.47
+  },
+  {
+    "url": "https://rsshub.ktachibana.party/ps/monthly-games",
+    "checked_at": "2026-11-03T08:25:39.818866+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.ktachibana.party/ps/monthly-games",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 3,
+    "valid_feed": true,
+    "titles_complete": 3,
+    "summary_count": 3,
+    "image_count": 3,
+    "sample": [
+      {
+        "title": "F1® 25",
+        "date": "",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "Hunt: Showdown 1896",
+        "date": "",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "Earth Defense Force: World Brothers 2",
+        "date": "",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": null,
+    "last_7_days": 0,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 1.31
+  },
+  {
+    "url": "https://rsshub.ktachibana.party/steam/news/730/schinese",
+    "checked_at": "2026-11-03T08:25:41.132087+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.ktachibana.party/steam/news/730/schinese",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 100,
+    "valid_feed": true,
+    "titles_complete": 100,
+    "summary_count": 100,
+    "image_count": 23,
+    "sample": [
+      {
+        "title": "《反恐精英》更新",
+        "date": "Wed, 28 Oct 2026 21:48:09 GMT",
+        "summary": true,
+        "image": false
+      },
+      {
+        "title": "《反恐精英》更新",
+        "date": "Thu, 22 Oct 2026 22:56:10 GMT",
+        "summary": true,
+        "image": false
+      },
+      {
+        "title": "《反恐精英》更新",
+        "date": "Wed, 14 Oct 2026 23:02:48 GMT",
+        "summary": true,
+        "image": false
+      }
+    ],
+    "latest": "2026-10-28T21:48:09+00:00",
+    "last_7_days": 1,
+    "duplicate_title_ratio": 0.72,
+    "seconds": 1.69
+  },
+  {
+    "url": "https://rsshub.ktachibana.party/a9vg/news",
+    "checked_at": "2026-11-03T08:25:42.815872+00:00",
+    "error": "HTTP Error 429: Too Many Requests",
+    "seconds": 0.66
+  },
+  {
+    "url": "https://rsshub.ktachibana.party/tgbus/list/news",
+    "checked_at": "2026-11-03T08:25:43.469454+00:00",
+    "error": "HTTP Error 429: Too Many Requests",
+    "seconds": 0.75
+  },
+  {
+    "url": "https://rsshub.ktachibana.party/diershoubing/news",
+    "checked_at": "2026-11-03T08:25:44.224370+00:00",
+    "error": "HTTP Error 429: Too Many Requests",
+    "seconds": 0.7
+  },
+  {
+    "url": "https://rsshub.ktachibana.party/gcores/news",
+    "checked_at": "2026-11-03T08:25:44.924837+00:00",
+    "error": "HTTP Error 429: Too Many Requests",
+    "seconds": 0.64
+  },
+  {
+    "url": "https://rsshub.ktachibana.party/yystv/docs",
+    "checked_at": "2026-11-03T08:25:45.566485+00:00",
+    "error": "HTTP Error 429: Too Many Requests",
+    "seconds": 0.64
+  },
+  {
+    "url": "https://rsshub.ktachibana.party/indienova/article",
+    "checked_at": "2026-11-03T08:25:46.208674+00:00",
+    "error": "HTTP Error 429: Too Many Requests",
+    "seconds": 0.64
+  },
+  {
+    "url": "https://rsshub.isrss.com/gamersky/news/ns",
+    "checked_at": "2026-11-03T08:25:29.229977+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.isrss.com/gamersky/news/ns",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 20,
+    "valid_feed": true,
+    "titles_complete": 20,
+    "summary_count": 20,
+    "image_count": 20,
+    "sample": [
+      {
+        "title": "NS2模拟器成功运行独占大作！DLSS5加持画面逼真",
+        "date": "Tue, 03 Nov 2026 07:50:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "曝《FF7启示》最新实机有大问题 NS2掌机画面被藏",
+        "date": "Tue, 03 Nov 2026 07:33:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "不是外包!《塞尔达时之笛RE》由任天堂本部开发",
+        "date": "Tue, 03 Nov 2026 06:48:00 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-11-03T07:50:00+00:00",
+    "last_7_days": 20,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 7.23
+  },
+  {
+    "url": "https://rsshub.isrss.com/nintendo/eshop/hk",
+    "checked_at": "2026-11-03T08:25:36.477371+00:00",
+    "error": "HTTP Error 503: Service Unavailable",
+    "seconds": 3.62
+  },
+  {
+    "url": "https://rsshub.isrss.com/ps/monthly-games",
+    "checked_at": "2026-11-03T08:25:40.105668+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.isrss.com/ps/monthly-games",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 3,
+    "valid_feed": true,
+    "titles_complete": 3,
+    "summary_count": 3,
+    "image_count": 3,
+    "sample": [
+      {
+        "title": "F1® 25",
+        "date": "",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "Hunt: Showdown 1896",
+        "date": "",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "Earth Defense Force: World Brothers 2",
+        "date": "",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": null,
+    "last_7_days": 0,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 1.59
+  },
+  {
+    "url": "https://rsshub.isrss.com/steam/news/730/schinese",
+    "checked_at": "2026-11-03T08:25:41.700853+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.isrss.com/steam/news/730/schinese",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 100,
+    "valid_feed": true,
+    "titles_complete": 100,
+    "summary_count": 100,
+    "image_count": 23,
+    "sample": [
+      {
+        "title": "《反恐精英》更新",
+        "date": "Wed, 28 Oct 2026 21:48:09 GMT",
+        "summary": true,
+        "image": false
+      },
+      {
+        "title": "《反恐精英》更新",
+        "date": "Thu, 22 Oct 2026 22:56:10 GMT",
+        "summary": true,
+        "image": false
+      },
+      {
+        "title": "《反恐精英》更新",
+        "date": "Wed, 14 Oct 2026 23:02:48 GMT",
+        "summary": true,
+        "image": false
+      }
+    ],
+    "latest": "2026-10-28T21:48:09+00:00",
+    "last_7_days": 1,
+    "duplicate_title_ratio": 0.72,
+    "seconds": 1.7
+  },
+  {
+    "url": "https://rsshub.isrss.com/a9vg/news",
+    "checked_at": "2026-11-03T08:25:43.405262+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.isrss.com/a9vg/news",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 15,
+    "valid_feed": true,
+    "titles_complete": 15,
+    "summary_count": 15,
+    "image_count": 15,
+    "sample": [
+      {
+        "title": "《异界揭踪》评测：不完美，却有独特的探索乐趣",
+        "date": "Tue, 03 Nov 2026 02:06:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "《影之刃零》72小时销量突破400万，Steam90%特别好评",
+        "date": "Mon, 02 Nov 2026 03:39:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "PlayStation携手《影之刃零》亮相上海豫园，非遗舞狮文化与游戏魅力精彩交融",
+        "date": "Sun, 01 Nov 2026 14:05:00 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-11-03T02:06:00+00:00",
+    "last_7_days": 13,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 7.75
+  },
+  {
+    "url": "https://rsshub.isrss.com/tgbus/list/news",
+    "checked_at": "2026-11-03T08:25:51.151884+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.isrss.com/tgbus/list/news",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 20,
+    "valid_feed": true,
+    "titles_complete": 20,
+    "summary_count": 20,
+    "image_count": 15,
+    "sample": [
+      {
+        "title": "《无主之地》系列宣布累计销量破亿套",
+        "date": "Tue, 03 Nov 2026 07:43:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "大热时装返场！《洛奇英雄传》返场狂欢限时馈赠今日开启！",
+        "date": "Tue, 03 Nov 2026 02:55:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "蓉城神仙局 《街头篮球》FSPL启程杯耀世变阵SW出奇制胜",
+        "date": "Mon, 02 Nov 2026 10:12:00 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-11-03T07:43:00+00:00",
+    "last_7_days": 10,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 7.11
+  },
+  {
+    "url": "https://rsshub.isrss.com/diershoubing/news",
+    "checked_at": "2026-11-03T08:25:58.262860+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.isrss.com/diershoubing/news",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 20,
+    "valid_feed": true,
+    "titles_complete": 20,
+    "summary_count": 20,
+    "image_count": 20,
+    "sample": [
+      {
+        "title": "《黑神话：钟馗》剧情恐怕不简单？制作人冯骥用表情回应玩家提问",
+        "date": "Tue, 03 Nov 2026 07:55:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "最新一期UK游戏销量榜：《COD：现代战争4》蝉联榜首",
+        "date": "Tue, 03 Nov 2026 07:15:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "《塞尔达传说》系列制作人解释《时之笛》重制版原因",
+        "date": "Tue, 03 Nov 2026 06:00:00 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-11-03T07:55:00+00:00",
+    "last_7_days": 20,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 2.8
+  },
+  {
+    "url": "https://rsshub.isrss.com/gcores/news",
+    "checked_at": "2026-11-03T08:26:01.058138+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.isrss.com/gcores/news",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 30,
+    "valid_feed": true,
+    "titles_complete": 30,
+    "summary_count": 30,
+    "image_count": 26,
+    "sample": [
+      {
+        "title": "《冰汽时代2》DLC3“激流”将于12月14日上线",
+        "date": "Tue, 03 Nov 2026 05:58:13 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "硬核音游《韵律源点Arcaea》国服现已上线",
+        "date": "Tue, 03 Nov 2026 05:49:35 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "RTX Spark加持！专为设计师打造的超轻薄AI智能体创作本：华硕ProArt 创16 RTX Spark测评",
+        "date": "Tue, 03 Nov 2026 05:39:59 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-11-03T05:58:13+00:00",
+    "last_7_days": 30,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 4.55
+  },
+  {
+    "url": "https://rsshub.isrss.com/yystv/docs",
+    "checked_at": "2026-11-03T08:26:05.613402+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.isrss.com/yystv/docs",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 12,
+    "valid_feed": true,
+    "titles_complete": 12,
+    "summary_count": 12,
+    "image_count": 12,
+    "sample": [
+      {
+        "title": "万智牌中文回归迈出第一步：大型赛事于北京开赛",
+        "date": "Sun, 01 Nov 2026 08:26:08 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "一个教你用老鼠屎滤水的游戏，提前预定了Steam爆款？",
+        "date": "Fri, 30 Oct 2026 08:26:08 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "《啪嗒砰》的精神续作，终于完整了",
+        "date": "Fri, 30 Oct 2026 08:26:08 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-11-01T08:26:08+00:00",
+    "last_7_days": 12,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 5.2
+  },
+  {
+    "url": "https://rsshub.isrss.com/indienova/article",
+    "checked_at": "2026-11-03T08:26:10.817013+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.isrss.com/indienova/article",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 12,
+    "valid_feed": true,
+    "titles_complete": 12,
+    "summary_count": 12,
+    "image_count": 12,
+    "sample": [
+      {
+        "title": "《千棋百计》如何用肉鸽解放国际象棋",
+        "date": "Fri, 30 Oct 2026 16:00:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "本周 Steam 值得关注的游戏 10.26 - 11.01（五）",
+        "date": "Thu, 29 Oct 2026 16:00:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "itch 一周游戏汇：10月19日-10月25日（上）",
+        "date": "Thu, 29 Oct 2026 16:00:00 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-10-30T16:00:00+00:00",
+    "last_7_days": 6,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 5.86
+  }
+]

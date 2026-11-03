@@ -1,0 +1,169 @@
+{
+  "sources": [
+    {
+      "id": "rsshub-nintendo-hk",
+      "name": "任天堂香港（RSSHub）",
+      "url": "https://rsshub.isrss.com/nintendo/news",
+      "category": "hot",
+      "language": "zh-Hant",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "switch1",
+        "switch2"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal feed metadata reading; RSSHub conversion is not republication permission; no bundled full articles or publisher images"
+    },
+    {
+      "id": "rsshub-nintendo-direct",
+      "name": "Nintendo Direct（RSSHub）",
+      "url": "https://rsshub.isrss.com/nintendo/direct",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "switch1",
+        "switch2"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal feed metadata reading; RSSHub conversion is not republication permission; no bundled full articles or publisher images"
+    },
+    {
+      "id": "rsshub-gamersky-switch",
+      "name": "游民星空 Switch（RSSHub）",
+      "url": "https://rsshub.isrss.com/gamersky/news/ns",
+      "category": "hot",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "switch1",
+        "switch2"
+      ],
+      "evidence": "community",
+      "rights_policy": "direct personal feed metadata reading; RSSHub conversion is not republication permission; no bundled full articles or publisher images"
+    },
+    {
+      "id": "rsshub-3dm-news",
+      "name": "3DM 游戏新闻（RSSHub）",
+      "url": "https://rsshub.isrss.com/3dmgame/news/game",
+      "category": "hot",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "evidence": "community",
+      "rights_policy": "direct personal feed metadata reading; RSSHub conversion is not republication permission; no bundled full articles or publisher images"
+    },
+    {
+      "id": "rsshub-tgbus-news",
+      "name": "电玩巴士（RSSHub）",
+      "url": "https://rsshub.isrss.com/tgbus/list/news",
+      "category": "hot",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "evidence": "community",
+      "rights_policy": "direct personal feed metadata reading; RSSHub conversion is not republication permission; no bundled full articles or publisher images"
+    },
+    {
+      "id": "rsshub-diershoubing-news",
+      "name": "二柄（第二手柄，RSSHub）",
+      "url": "https://rsshub.isrss.com/diershoubing/news",
+      "category": "hot",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "evidence": "community",
+      "rights_policy": "direct personal feed metadata reading; RSSHub conversion is not republication permission; no bundled full articles or publisher images"
+    },
+    {
+      "id": "rsshub-epic-free-zh",
+      "name": "Epic 免费游戏·中文/中国区（RSSHub）",
+      "url": "https://rsshub.isrss.com/epicgames/freegames/zh-CN/CN",
+      "category": "discovery",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "pc"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal feed metadata reading; RSSHub conversion is not republication permission; no bundled full articles or publisher images"
+    },
+    {
+      "id": "rsshub-epic-free-en",
+      "name": "Epic Free Games·English/US（RSSHub）",
+      "url": "https://rsshub.isrss.com/epicgames/freegames/en-US/US",
+      "category": "discovery",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "pc"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal feed metadata reading; RSSHub conversion is not republication permission; no bundled full articles or publisher images"
+    }
+  ],
+  "catalogs": [
+    {
+      "file": "games.json",
+      "version": 6,
+      "sources": 47,
+      "added": 8
+    },
+    {
+      "file": "switch.json",
+      "version": 8,
+      "sources": 58,
+      "added": 6
+    },
+    {
+      "file": "pc-handheld.json",
+      "version": 6,
+      "sources": 52,
+      "added": 5
+    },
+    {
+      "file": "playstation.json",
+      "version": 7,
+      "sources": 42,
+      "added": 3
+    },
+    {
+      "file": "xbox.json",
+      "version": 5,
+      "sources": 26,
+      "added": 3
+    }
+  ]
+}

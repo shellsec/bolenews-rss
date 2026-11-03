@@ -1,0 +1,70 @@
+[
+  {
+    "url": "https://rsshub.isrss.com/steam/news/730/english",
+    "checked_at": "2026-11-03T08:26:24.421990+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.isrss.com/steam/news/730/english",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 100,
+    "valid_feed": true,
+    "titles_complete": 100,
+    "summary_count": 100,
+    "image_count": 23,
+    "sample": [
+      {
+        "title": "Counter-Strike 2 Update",
+        "date": "Wed, 28 Oct 2026 21:48:09 GMT",
+        "summary": true,
+        "image": false
+      },
+      {
+        "title": "Counter-Strike 2 Update",
+        "date": "Thu, 22 Oct 2026 22:56:10 GMT",
+        "summary": true,
+        "image": false
+      },
+      {
+        "title": "Counter-Strike 2 Update",
+        "date": "Wed, 14 Oct 2026 23:02:48 GMT",
+        "summary": true,
+        "image": false
+      }
+    ],
+    "latest": "2026-10-28T21:48:09+00:00",
+    "last_7_days": 1,
+    "duplicate_title_ratio": 0.72,
+    "seconds": 1.66
+  },
+  {
+    "url": "https://rsshub.isrss.com/epicgames/freegames/en-US/US",
+    "checked_at": "2026-11-03T08:26:29.082292+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.isrss.com/epicgames/freegames/en-US/US",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 1,
+    "valid_feed": true,
+    "titles_complete": 1,
+    "summary_count": 1,
+    "image_count": 1,
+    "sample": [
+      {
+        "title": "Sorry We're Closed",
+        "date": "Thu, 29 Oct 2026 15:00:00 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-10-29T15:00:00+00:00",
+    "last_7_days": 1,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 1.41
+  },
+  {
+    "url": "https://rsshub.isrss.com/gamersky/news/ps5",
+    "checked_at": "2026-11-03T08:26:33.488889+00:00",
+    "error": "HTTP Error 503: Service Unavailable",
+    "seconds": 1.27
+  }
+]

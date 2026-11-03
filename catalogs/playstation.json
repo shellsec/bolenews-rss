@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 6,
+  "config_version": 7,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-02T14:21:22.360556+00:00",
+  "generated_at": "2026-11-03T08:29:02.365774+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -646,6 +646,51 @@
       ],
       "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; no code or binary redistribution",
       "evidence": "upstream"
+    },
+    {
+      "id": "rsshub-3dm-news",
+      "name": "3DM 游戏新闻（RSSHub）",
+      "url": "https://rsshub.isrss.com/3dmgame/news/game",
+      "category": "hot",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "evidence": "community",
+      "rights_policy": "direct personal feed metadata reading; RSSHub conversion is not republication permission; no bundled full articles or publisher images"
+    },
+    {
+      "id": "rsshub-tgbus-news",
+      "name": "电玩巴士（RSSHub）",
+      "url": "https://rsshub.isrss.com/tgbus/list/news",
+      "category": "hot",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "evidence": "community",
+      "rights_policy": "direct personal feed metadata reading; RSSHub conversion is not republication permission; no bundled full articles or publisher images"
+    },
+    {
+      "id": "rsshub-diershoubing-news",
+      "name": "二柄（第二手柄，RSSHub）",
+      "url": "https://rsshub.isrss.com/diershoubing/news",
+      "category": "hot",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "evidence": "community",
+      "rights_policy": "direct personal feed metadata reading; RSSHub conversion is not republication permission; no bundled full articles or publisher images"
     }
   ]
 }

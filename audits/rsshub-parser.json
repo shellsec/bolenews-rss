@@ -1,0 +1,60 @@
+{
+  "catalogs": [
+    {
+      "file": "games.json",
+      "sources": 47
+    },
+    {
+      "file": "switch.json",
+      "sources": 58
+    },
+    {
+      "file": "pc-handheld.json",
+      "sources": 52
+    },
+    {
+      "file": "playstation.json",
+      "sources": 42
+    },
+    {
+      "file": "xbox.json",
+      "sources": 26
+    }
+  ],
+  "existing_default_remote_update_accepted": true,
+  "parser": "BoleNews 0.1.4 native core",
+  "sources": [
+    {
+      "articles": 24,
+      "id": "rsshub-nintendo-hk"
+    },
+    {
+      "articles": 18,
+      "id": "rsshub-nintendo-direct"
+    },
+    {
+      "articles": 20,
+      "id": "rsshub-gamersky-switch"
+    },
+    {
+      "articles": 20,
+      "id": "rsshub-3dm-news"
+    },
+    {
+      "articles": 20,
+      "id": "rsshub-tgbus-news"
+    },
+    {
+      "articles": 20,
+      "id": "rsshub-diershoubing-news"
+    },
+    {
+      "articles": 1,
+      "id": "rsshub-epic-free-zh"
+    },
+    {
+      "articles": 1,
+      "id": "rsshub-epic-free-en"
+    }
+  ]
+}

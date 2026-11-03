@@ -145,20 +145,69 @@
       "default_enabled": false,
       "parser_verification": "tool-refresh-parser.json",
       "audit": "tool-refresh.md"
+    },
+    {
+      "date": "2026-11-03",
+      "sources_added": 8,
+      "source_ids": [
+        "rsshub-nintendo-hk",
+        "rsshub-nintendo-direct",
+        "rsshub-gamersky-switch",
+        "rsshub-3dm-news",
+        "rsshub-tgbus-news",
+        "rsshub-diershoubing-news",
+        "rsshub-epic-free-zh",
+        "rsshub-epic-free-en"
+      ],
+      "catalogs": [
+        {
+          "file": "games.json",
+          "version": 6,
+          "sources": 47,
+          "added": 8
+        },
+        {
+          "file": "switch.json",
+          "version": 8,
+          "sources": 58,
+          "added": 6
+        },
+        {
+          "file": "pc-handheld.json",
+          "version": 6,
+          "sources": 52,
+          "added": 5
+        },
+        {
+          "file": "playstation.json",
+          "version": 7,
+          "sources": 42,
+          "added": 3
+        },
+        {
+          "file": "xbox.json",
+          "version": 5,
+          "sources": 26,
+          "added": 3
+        }
+      ],
+      "default_enabled": false,
+      "audit": "rsshub.md",
+      "parser_verification": "rsshub-parser.json"
     }
   ],
-  "current_unique_catalog_sources": 107,
+  "current_unique_catalog_sources": 115,
   "current_catalogs": {
     "android": 7,
     "apple": 9,
-    "games": 39,
-    "pc-handheld": 47,
-    "playstation": 39,
-    "switch": 52,
+    "games": 47,
+    "pc-handheld": 52,
+    "playstation": 42,
+    "switch": 58,
     "tools-extra": 4,
     "tools": 64,
-    "xbox": 23
+    "xbox": 26
   },
   "current_tool_sources": 68,
-  "current_game_sources": 39
+  "current_game_sources": 47
 }

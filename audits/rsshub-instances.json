@@ -1,0 +1,494 @@
+[
+  {
+    "url": "https://rsshub.rssforever.com/nintendo/news",
+    "checked_at": "2026-11-03T08:24:44.946523+00:00",
+    "error": "The read operation timed out",
+    "seconds": 18.48
+  },
+  {
+    "url": "https://rsshub.rssforever.com/nintendo/direct",
+    "checked_at": "2026-11-03T08:25:03.429347+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.rssforever.com/nintendo/direct",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 18,
+    "valid_feed": true,
+    "titles_complete": 18,
+    "summary_count": 18,
+    "image_count": 18,
+    "sample": [
+      {
+        "title": "Pikmin Day Direct 11.1",
+        "date": "Sat, 31 Oct 2026 07:00:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "Nintendo Direct 9.9.2026",
+        "date": "Wed, 09 Sep 2026 07:00:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
+        "date": "Tue, 08 Sep 2026 07:00:00 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-10-31T07:00:00+00:00",
+    "last_7_days": 1,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 18.08
+  },
+  {
+    "url": "https://rsshub.rssforever.com/nintendo/system-update",
+    "checked_at": "2026-11-03T08:25:21.506858+00:00",
+    "error": "The read operation timed out",
+    "seconds": 18.41
+  },
+  {
+    "url": "https://rsshub.rssforever.com/3dmgame/news/game",
+    "checked_at": "2026-11-03T08:25:39.910091+00:00",
+    "error": "The read operation timed out",
+    "seconds": 18.41
+  },
+  {
+    "url": "https://rsshub.rssforever.com/epicgames/freegames/zh-CN/CN",
+    "checked_at": "2026-11-03T08:25:58.318200+00:00",
+    "error": "The read operation timed out",
+    "seconds": 18.41
+  },
+  {
+    "url": "https://rsshub.rssforever.com/jump/discount/switch/all",
+    "checked_at": "2026-11-03T08:26:16.719152+00:00",
+    "error": "The read operation timed out",
+    "seconds": 18.41
+  },
+  {
+    "url": "https://hub.slarker.me/nintendo/news",
+    "checked_at": "2026-11-03T08:24:44.948641+00:00",
+    "error": "The read operation timed out",
+    "seconds": 18.61
+  },
+  {
+    "url": "https://hub.slarker.me/nintendo/direct",
+    "checked_at": "2026-11-03T08:25:03.570139+00:00",
+    "error": "The read operation timed out",
+    "seconds": 18.52
+  },
+  {
+    "url": "https://hub.slarker.me/nintendo/system-update",
+    "checked_at": "2026-11-03T08:25:22.070933+00:00",
+    "error": "The read operation timed out",
+    "seconds": 18.47
+  },
+  {
+    "url": "https://hub.slarker.me/3dmgame/news/game",
+    "checked_at": "2026-11-03T08:25:40.550042+00:00",
+    "status": 200,
+    "final_url": "https://hub.slarker.me/3dmgame/news/game",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 20,
+    "valid_feed": true,
+    "titles_complete": 20,
+    "summary_count": 20,
+    "image_count": 19,
+    "sample": [
+      {
+        "title": "KRAFTON公布G-STAR 2026展台活动内容",
+        "date": "Tue, 03 Nov 2026 08:01:27 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "《电影院经理模拟器》计划11月7日登陆Steam 支持8人共同经营",
+        "date": "Tue, 03 Nov 2026 08:01:07 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "《使命召唤：现代战争4》DMZ首次单人剧情任务！疑似启用私人实例",
+        "date": "Tue, 03 Nov 2026 07:48:24 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-11-03T08:01:27+00:00",
+    "last_7_days": 20,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 1.27
+  },
+  {
+    "url": "https://hub.slarker.me/epicgames/freegames/zh-CN/CN",
+    "checked_at": "2026-11-03T08:25:41.807379+00:00",
+    "error": "The read operation timed out",
+    "seconds": 18.45
+  },
+  {
+    "url": "https://hub.slarker.me/jump/discount/switch/all",
+    "checked_at": "2026-11-03T08:26:00.271415+00:00",
+    "error": "The read operation timed out",
+    "seconds": 18.52
+  },
+  {
+    "url": "https://rsshub.ktachibana.party/nintendo/news",
+    "checked_at": "2026-11-03T08:24:44.948641+00:00",
+    "error": "HTTP Error 503: Service Unavailable",
+    "seconds": 16.12
+  },
+  {
+    "url": "https://rsshub.ktachibana.party/nintendo/direct",
+    "checked_at": "2026-11-03T08:25:01.078964+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.ktachibana.party/nintendo/direct",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 18,
+    "valid_feed": true,
+    "titles_complete": 18,
+    "summary_count": 18,
+    "image_count": 18,
+    "sample": [
+      {
+        "title": "Pikmin Day Direct 11.1",
+        "date": "Sat, 31 Oct 2026 07:00:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "Nintendo Direct 9.9.2026",
+        "date": "Wed, 09 Sep 2026 07:00:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
+        "date": "Tue, 08 Sep 2026 07:00:00 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-10-31T07:00:00+00:00",
+    "last_7_days": 1,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 1.52
+  },
+  {
+    "url": "https://rsshub.ktachibana.party/nintendo/system-update",
+    "checked_at": "2026-11-03T08:25:02.588582+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.ktachibana.party/nintendo/system-update",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 81,
+    "valid_feed": true,
+    "titles_complete": 81,
+    "summary_count": 81,
+    "image_count": 0,
+    "sample": [
+      {
+        "title": "23.0.1（2026年10月1日配信）",
+        "date": "Wed, 30 Sep 2026 15:00:00 GMT",
+        "summary": true,
+        "image": false
+      },
+      {
+        "title": "23.0.0（2026年9月10日配信）",
+        "date": "Wed, 09 Sep 2026 15:00:00 GMT",
+        "summary": true,
+        "image": false
+      },
+      {
+        "title": "22.5.0（2026年6月16日配信）",
+        "date": "Mon, 15 Jun 2026 15:00:00 GMT",
+        "summary": true,
+        "image": false
+      }
+    ],
+    "latest": "2026-09-30T15:00:00+00:00",
+    "last_7_days": 0,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 2.73
+  },
+  {
+    "url": "https://rsshub.ktachibana.party/3dmgame/news/game",
+    "checked_at": "2026-11-03T08:25:05.332337+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.ktachibana.party/3dmgame/news/game",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 20,
+    "valid_feed": true,
+    "titles_complete": 20,
+    "summary_count": 20,
+    "image_count": 19,
+    "sample": [
+      {
+        "title": "KRAFTON公布G-STAR 2026展台活动内容",
+        "date": "Tue, 03 Nov 2026 08:01:27 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "《电影院经理模拟器》计划11月7日登陆Steam 支持8人共同经营",
+        "date": "Tue, 03 Nov 2026 08:01:07 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "《使命召唤：现代战争4》DMZ首次单人剧情任务！疑似启用私人实例",
+        "date": "Tue, 03 Nov 2026 07:48:24 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-11-03T08:01:27+00:00",
+    "last_7_days": 20,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 5.19
+  },
+  {
+    "url": "https://rsshub.ktachibana.party/epicgames/freegames/zh-CN/CN",
+    "checked_at": "2026-11-03T08:25:10.513470+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.ktachibana.party/epicgames/freegames/zh-CN/CN",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 1,
+    "valid_feed": true,
+    "titles_complete": 1,
+    "summary_count": 1,
+    "image_count": 1,
+    "sample": [
+      {
+        "title": "《Sorry We’re Closed》",
+        "date": "Thu, 29 Oct 2026 15:00:00 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-10-29T15:00:00+00:00",
+    "last_7_days": 1,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 0.81
+  },
+  {
+    "url": "https://rsshub.ktachibana.party/jump/discount/switch/all",
+    "checked_at": "2026-11-03T08:25:11.326132+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.ktachibana.party/jump/discount/switch/all",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 10,
+    "valid_feed": true,
+    "titles_complete": 10,
+    "summary_count": 10,
+    "image_count": 10,
+    "sample": [
+      {
+        "title": "最终幻想7 重生-85%-￥39.82",
+        "date": "",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "最终幻想7 重制版 间奏-82%-￥46.6",
+        "date": "",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "最终幻想7-60%-￥32.5",
+        "date": "",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": null,
+    "last_7_days": 0,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 2.11
+  },
+  {
+    "url": "https://rsshub.isrss.com/nintendo/news",
+    "checked_at": "2026-11-03T08:24:44.948641+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.isrss.com/nintendo/news",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 24,
+    "valid_feed": true,
+    "titles_complete": 24,
+    "summary_count": 24,
+    "image_count": 24,
+    "sample": [
+      {
+        "title": "跟皮克敏走進秋日花園！「PIKMIN：皮克敏秋季收穫祭」即將於旺角朗豪坊登場。",
+        "date": "Tue, 03 Nov 2026 15:00:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "Nintendo Switch 2 Monster Hunter Wilds 主機組合將於2026年12月4日（五）發售。下載序號（票券）也將於同日發售。",
+        "date": "Mon, 02 Nov 2026 11:00:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "《皮克敏4 Nintendo Switch 2 Edition + 大家來挑戰! 當多慮檢定》的體驗版開始發布。介紹Pikmin Day Direct公開的資訊。",
+        "date": "Mon, 02 Nov 2026 00:00:00 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-11-03T15:00:00+00:00",
+    "last_7_days": 7,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 12.75
+  },
+  {
+    "url": "https://rsshub.isrss.com/nintendo/direct",
+    "checked_at": "2026-11-03T08:24:57.701692+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.isrss.com/nintendo/direct",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 18,
+    "valid_feed": true,
+    "titles_complete": 18,
+    "summary_count": 18,
+    "image_count": 18,
+    "sample": [
+      {
+        "title": "Pikmin Day Direct 11.1",
+        "date": "Sat, 31 Oct 2026 07:00:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "Nintendo Direct 9.9.2026",
+        "date": "Wed, 09 Sep 2026 07:00:00 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
+        "date": "Tue, 08 Sep 2026 07:00:00 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-10-31T07:00:00+00:00",
+    "last_7_days": 1,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 1.89
+  },
+  {
+    "url": "https://rsshub.isrss.com/nintendo/system-update",
+    "checked_at": "2026-11-03T08:24:59.599511+00:00",
+    "error": "HTTP Error 503: Service Unavailable",
+    "seconds": 2.27
+  },
+  {
+    "url": "https://rsshub.isrss.com/3dmgame/news/game",
+    "checked_at": "2026-11-03T08:25:01.852826+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.isrss.com/3dmgame/news/game",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 20,
+    "valid_feed": true,
+    "titles_complete": 20,
+    "summary_count": 20,
+    "image_count": 19,
+    "sample": [
+      {
+        "title": "《冰汽时代2》DLC《激流》12月14日登陆PC与主机",
+        "date": "Tue, 03 Nov 2026 08:15:21 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "KRAFTON公布G-STAR 2026展台活动内容",
+        "date": "Tue, 03 Nov 2026 08:01:27 GMT",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "《电影院经理模拟器》计划11月7日登陆Steam 支持8人共同经营",
+        "date": "Tue, 03 Nov 2026 08:01:07 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-11-03T08:15:21+00:00",
+    "last_7_days": 20,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 7.58
+  },
+  {
+    "url": "https://rsshub.isrss.com/epicgames/freegames/zh-CN/CN",
+    "checked_at": "2026-11-03T08:25:09.431293+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.isrss.com/epicgames/freegames/zh-CN/CN",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 1,
+    "valid_feed": true,
+    "titles_complete": 1,
+    "summary_count": 1,
+    "image_count": 1,
+    "sample": [
+      {
+        "title": "《Sorry We’re Closed》",
+        "date": "Thu, 29 Oct 2026 15:00:00 GMT",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": "2026-10-29T15:00:00+00:00",
+    "last_7_days": 1,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 0.8
+  },
+  {
+    "url": "https://rsshub.isrss.com/jump/discount/switch/all",
+    "checked_at": "2026-11-03T08:25:10.233491+00:00",
+    "status": 200,
+    "final_url": "https://rsshub.isrss.com/jump/discount/switch/all",
+    "content_type": "application/xml; charset=utf-8",
+    "root": "rss",
+    "items": 10,
+    "valid_feed": true,
+    "titles_complete": 10,
+    "summary_count": 10,
+    "image_count": 10,
+    "sample": [
+      {
+        "title": "最终幻想7 重生-85%-￥39.82",
+        "date": "",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "最终幻想7 重制版 间奏-82%-￥46.6",
+        "date": "",
+        "summary": true,
+        "image": true
+      },
+      {
+        "title": "最终幻想7-60%-￥32.5",
+        "date": "",
+        "summary": true,
+        "image": true
+      }
+    ],
+    "latest": null,
+    "last_7_days": 0,
+    "duplicate_title_ratio": 0.0,
+    "seconds": 4.62
+  }
+]

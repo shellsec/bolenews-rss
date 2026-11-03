@@ -30,4 +30,6 @@ NX2Apple: native Release Atom https://github.com/LNPANDY/NX2Apple/releases.atom 
 
 TsVitch: native Release Atom https://github.com/giovannimirulla/TsVitch/releases.atom . This homebrew IPTV player is listed disabled in tools, Switch and Apple catalogs with switch1/macos runtimes. Only software update information is subscribed; no playlists, channels, media or program binaries are mirrored.
 
+RSSHub supplement (2026-11-03): eight disabled opt-in sources in games and matching platform catalogs, using live-verified isRSS endpoints. Nintendo HK, Nintendo Direct, GamerSky Switch, 3DM, TGBUS, Diershoubing and Epic Chinese/English offers. Public instances can fail or rate-limit; no uptime or cross-instance failover guarantee. No article bodies/images are mirrored. See audits/rsshub.md. Refresh the desired catalog and choose sources to enable; no app rebuild is needed.
+
 The tools catalog is a 64-source selection. Additional practical sources are in the platform catalogs and `catalogs/tools-extra.json`; do not import every overlapping catalog blindly. New sources remain disabled until the reader chooses to enable them. Source audits distinguish recent app publications from release edits, dependency packages and canary builds.
