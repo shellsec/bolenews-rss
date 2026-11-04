@@ -28,4 +28,10 @@ for path in sorted((root/'feeds').glob('*.json')):
         assert isinstance(item.get('updated_at',''),str)
         assert isinstance(item.get('summary',''),str) and len(item.get('summary',''))<=241
         assert isinstance(item.get('tags',[]),list) and all(t in {'game_update','firmware_update','research'} for t in item.get('tags',[]))
+        links=item.get('download_links',[])
+        assert isinstance(links,list) and len(links)<=4
+        for link in links:
+            target=urlsplit(link['url'])
+            assert target.scheme=='https' and target.hostname in {'pan.baidu.com','pan.quark.cn','pan.xunlei.com'} and target.path.startswith('/s/')
+            assert not target.username and not target.password and target.port in (None,443) and len(link['url'])<=1024
 print('Catalog and public metadata JSON verified')

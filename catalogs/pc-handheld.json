@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 8,
+  "config_version": 9,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-04T13:56:24.088793+00:00",
+  "generated_at": "2026-11-04T14:21:48.040880+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -867,6 +867,23 @@
       ],
       "evidence": "upstream",
       "rights_policy": "direct personal feed metadata reading; RSSHub conversion is not republication permission; no bundled full articles or publisher images"
+    },
+    {
+      "id": "nsthwj-pc",
+      "name": "NS头号玩家 · PC 游戏",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/nsthwj-pc.json",
+      "category": "discovery",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "pc"
+      ],
+      "requiresConsent": false,
+      "rights_policy": "public game index metadata and short publisher descriptions; bodies and images read from original on device; no game files or protected download links mirrored"
     }
   ]
 }

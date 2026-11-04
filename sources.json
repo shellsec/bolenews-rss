@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 6,
+  "config_version": 7,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-04T13:56:24.083026+00:00",
+  "generated_at": "2026-11-04T14:21:48.023704+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -1025,6 +1025,25 @@
       "platforms": [],
       "rights_policy": "GNN non-commercial RSS metadata use with attribution and unchanged original links; https://user.gamer.com.tw/help/detail.php?sn=136 ; no bodies or images",
       "evidence": "community"
+    },
+    {
+      "id": "nsthwj-games",
+      "name": "NS头号玩家 · 综合游戏库（Switch / PC / PS4）",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/nsthwj.json",
+      "category": "discovery",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "switch1",
+        "pc",
+        "ps4"
+      ],
+      "requiresConsent": false,
+      "rights_policy": "public game index metadata and short publisher descriptions; bodies and images read from original on device; no game files or protected download links mirrored"
     }
   ]
 }

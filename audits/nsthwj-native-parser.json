@@ -1,0 +1,23 @@
+[
+  {
+    "items": 25,
+    "platform": "switch",
+    "sample_blocks": 7,
+    "sample_images": 1,
+    "sample_text_bytes": 365
+  },
+  {
+    "items": 36,
+    "platform": "pc",
+    "sample_blocks": 6,
+    "sample_images": 1,
+    "sample_text_bytes": 305
+  },
+  {
+    "items": 36,
+    "platform": "ps4",
+    "sample_blocks": 6,
+    "sample_images": 1,
+    "sample_text_bytes": 330
+  }
+]

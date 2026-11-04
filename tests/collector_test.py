@@ -134,6 +134,40 @@ class CollectorTest(unittest.TestCase):
             self.assertEqual(health["count"], 3)
             self.assertEqual(health["retained_count"], 2)
 
+    def test_nsthwj_platforms_index_and_no_fabricated_download(self):
+        games=[{"id":12,"name":"Game title","gameType":"switch","version":"1.2.0","gameSize":"2GB","summary":"Public game description","updateTime":"2026-11-04","picUrl":"https://example.com/a.jpg"},
+               {"id":13,"name":"Wrong platform","gameType":"pc"},
+               {"id":"../escape","name":"Bad ID","gameType":"switch"}]
+        body='<script>ignored()</script><script id="thwj-seo-bootstrap" type="application/json">'+c.json.dumps({"games":games})+'</script>'
+        rows=c.convert_nsthwj(body,c.SITES['nsthwj-switch'])
+        self.assertEqual(len(rows),1)
+        row=rows[0]
+        self.assertEqual(row['original_url'],'https://nsthwj.cn/game/switch/12')
+        self.assertEqual(row['platform'],['switch1'])
+        self.assertEqual(row['version'],'1.2.0')
+        self.assertEqual(row['updated_at'],'2026-11-04T00:00:00+08:00')
+        self.assertEqual(row['published_at'],'')
+        self.assertEqual(row['content'],'')
+        self.assertEqual(row['image_url'],'')
+        self.assertEqual(row['download_status'],'not_verified')
+        self.assertNotIn('download_links',row)
+        self.assertNotIn('game_update',row.get('tags',[]))
+        for platform in ('pc','ps4'):
+            games[0]['gameType']=platform
+            body='<script id="thwj-seo-bootstrap">'+c.json.dumps({"games":games[:1]})+'</script>'
+            parsed=c.convert_nsthwj(body,c.SITES['nsthwj-'+platform])
+            self.assertEqual(parsed[0]['platform'],[platform])
+        with self.assertRaises(ValueError):c.convert_nsthwj('<html>Broken index</html>',c.SITES['nsthwj-switch'])
+
+    def test_verified_nsthwj_share_links_expire_on_version_change(self):
+        url='https://nsthwj.cn/game/switch/137808'
+        links=c.nsthwj_download_links(url,'最新版本：1.0.0','2026-11-04')
+        self.assertEqual(len(links),2)
+        self.assertEqual({c.urllib.parse.urlsplit(x['url']).hostname for x in links},{'pan.baidu.com','pan.quark.cn'})
+        self.assertEqual(c.nsthwj_download_links(url,'最新版本：2.0.0','2026-11-04'),[])
+        self.assertEqual(c.nsthwj_download_links(url,'最新版本：1.0.0','2026-11-05'),[])
+        self.assertEqual(c.nsthwj_download_links('https://nsthwj.cn/game/switch/1','最新版本：1.0.0','2026-11-04'),[])
+
     def test_only_matching_metadata(self):
         html = '''<a href="/article/123"><img src="x">Switch 2 补丁</a>
           <a href="https://evil.test/article/123">Other site</a>

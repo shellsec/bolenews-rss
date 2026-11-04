@@ -40,6 +40,13 @@ SITES = {
                     "hosts": {"www.nintendo.com"}, "path": r"/tw/topics/article/[A-Za-z0-9_-]+",
                     "language": "zh-Hant"},
 }
+for _platform, _route in (("switch", "/"), ("pc", "/pc"), ("ps4", "/ps4")):
+    SITES["nsthwj-" + _platform] = {
+        "name": "NS头号玩家 " + _platform.upper(), "url": "https://nsthwj.cn" + _route,
+        "hosts": {"nsthwj.cn"}, "path": r"/game/" + _platform + r"/[0-9]+",
+        "format": "nsthwj", "platform": _platform,
+    }
+
 AGENT = "BoleNewsMetadata/0.1 (+https://github.com/shellsec/bolenews)"
 LIMIT = 2 * 1024 * 1024
 
@@ -116,6 +123,107 @@ def convert(html, site):
     parser = Links(site)
     parser.feed(html)
     return [metadata_tags(item) for item in parser.items.values()]
+
+
+class BootstrapData(HTMLParser):
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.active, self.parts = False, []
+    def handle_starttag(self, tag, attrs):
+        if tag == "script" and dict(attrs).get("id") == "thwj-seo-bootstrap":
+            self.active = True
+    def handle_endtag(self, tag):
+        if tag == "script":
+            self.active = False
+    def handle_data(self, text):
+        if self.active:
+            self.parts.append(text)
+
+
+def nsthwj_download_links(url, version, update_date):
+    """Only explicitly verified public share links for this exact game version/date."""
+    try:
+        path = ROOT / "resources/nsthwj-download-links.json"
+        if path.is_symlink() or path.stat().st_size > 256 * 1024:
+            return []
+        config = json.loads(path.read_text(encoding="utf-8"))
+        if config.get("schema_version") != 1:
+            return []
+        entry = config.get("entries", {}).get(url, {})
+        version = " ".join(html_entities.unescape(re.sub(r"<[^>]*>", " ", version)).split())[:80]
+        if entry.get("version") != version or entry.get("update_date") != update_date:
+            return []
+        links = []
+        for link in entry.get("links", [])[:4]:
+            target = link.get("url", "")
+            parsed = urllib.parse.urlsplit(target)
+            if (len(target) <= 1024 and parsed.scheme == "https" and parsed.hostname in {"pan.baidu.com", "pan.quark.cn", "pan.xunlei.com"}
+                    and not parsed.username and not parsed.password and parsed.port in (None,443) and parsed.path.startswith("/s/")):
+                links.append({"provider": {"pan.baidu.com":"百度网盘","pan.quark.cn":"夸克网盘","pan.xunlei.com":"迅雷网盘"}[parsed.hostname],
+                    "url": target, "extraction_code": str(link.get("extraction_code", ""))[:64]})
+        return links
+    except (OSError, ValueError, TypeError, KeyError):
+        return []
+
+
+def convert_nsthwj(body, site):
+    parser = BootstrapData()
+    parser.feed(body)
+    data = json.loads("".join(parser.parts))
+    if not isinstance(data, dict) or not isinstance(data.get("games"), list):
+        raise ValueError("Missing public game index bootstrap")
+    rows = {}
+    for game in data["games"][:100]:
+        if not isinstance(game, dict) or game.get("gameType") != site["platform"]:
+            continue
+        ident, name = str(game.get("id", "")), game.get("name")
+        if not ident.isdigit() or len(ident) > 12 or not isinstance(name, str) or not 1 <= len(name) <= 512:
+            continue
+        url = "https://nsthwj.cn/game/" + site["platform"] + "/" + ident
+        if url in rows:
+            continue
+        item = {"id": hashlib.sha256(url.encode()).hexdigest(), "title": name,
+                "original_url": url, "source_name": site["name"], "summary": clean_excerpt(game.get("summary", "")),
+                "summary_origin": "publisher_game_index", "content": "", "image_url": "", "published_at": "",
+                "content_scope": "summary", "language": "zh-Hans", "evidence": "community",
+                "platform": ["switch1" if site["platform"] == "switch" else site["platform"]],
+                "category": "discovery", "download_status": "not_verified"}
+        version = game.get("version", "")
+        if isinstance(version, str):
+            item["version"] = " ".join(html_entities.unescape(re.sub(r"<[^>]*>", " ", version)).split())[:80]
+        date = game.get("updateTime", "")
+        if isinstance(date, str) and re.fullmatch(r"[0-9]{4}-[0-9]{2}-[0-9]{2}", date):
+            try:
+                stamp = dt.datetime.strptime(date, "%Y-%m-%d").replace(tzinfo=dt.timezone(dt.timedelta(hours=8)))
+                # Preserve date precision and mark as an index update, never a release date.
+                item["updated_at"] = stamp.isoformat()
+                item["update_date_precision"] = "day"
+            except ValueError:
+                pass
+        links = nsthwj_download_links(url, version, date)
+        if links:
+            item["download_links"] = links
+            item["download_status"] = "public_browser_verified"
+        rows[url] = metadata_tags(item)
+    return list(rows.values())
+
+
+def combine_nsthwj(output):
+    items, generated = {}, []
+    for platform in ("switch", "pc", "ps4"):
+        path = output / ("nsthwj-" + platform + ".json")
+        if not path.exists():
+            continue
+        data = json.loads(path.read_text(encoding="utf-8"))
+        if data.get("status") != "ok":
+            continue
+        generated.append(data.get("generated_at", ""))
+        for item in data.get("items", [])[:100]:
+            items[item["original_url"]] = item
+    if items:
+        ordered = sorted(items.values(), key=lambda x: x.get("updated_at", ""), reverse=True)[:100]
+        atomic_json(output / "nsthwj.json", {"schema_version": 1, "status": "ok",
+            "generated_at": max(generated), "source_url": "https://nsthwj.cn/", "items": ordered})
 
 
 def metadata_tags(item):
@@ -342,7 +450,7 @@ def collect(key, output, summary_limit=12):
         urls = [site["url"]]
         if site.get("format") == "wordpress":
             urls.append(site["url"] + "&orderby=modified&order=desc")
-        converter = {"wordpress": convert_wordpress, "rss": convert_rss}.get(site.get("format"), convert)
+        converter = {"wordpress": convert_wordpress, "rss": convert_rss, "nsthwj": convert_nsthwj}.get(site.get("format"), convert)
         incoming, failures = {}, []
         for index, url in enumerate(urls):
             if not robots.can_fetch(AGENT, url):
@@ -382,6 +490,8 @@ def collect(key, output, summary_limit=12):
         items = items[:100]  # All supported clients accept at most 100 items per feed.
         description_health = fill_descriptions(items, cached, site, robots, summary_limit)
         health.update(description_health)
+        if site.get("format")=="nsthwj":
+            health.update(download_items=sum(bool(x.get("download_links")) for x in items), download_links=sum(len(x.get("download_links",[])) for x in items))
         atomic_json(path, {"schema_version": 1, "status": "ok", "generated_at": now,
                            "source_url": site["url"], "items": items})
         health.update(status="partial" if failures else "ok", count=len(items),
@@ -408,5 +518,7 @@ if __name__ == "__main__":
     args = cli.parse_args()
     keys = SITES if args.site == "all" else [args.site]
     results = [collect(key, args.output, args.summary_limit) for key in keys]
+    if any(key.startswith("nsthwj-") for key in keys):
+        combine_nsthwj(args.output)
     print(json.dumps(results, ensure_ascii=True, indent=2))
     raise SystemExit(0 if all(r["status"] == "ok" for r in results) else 1)

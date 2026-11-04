@@ -36,3 +36,6 @@ The tools catalog is a 64-source selection. Additional practical sources are in 
 
 
 Switch native rich reading (2026-11-04): source subscriptions remain unchanged. The new client preserves syndicated inline images and reads original public article text/images on demand, with local caching and original image/QR viewing. This requires replacing the NRO; refreshing this data repository alone cannot upgrade an older reader. Full articles and publisher images are not mirrored here. See [implementation and actual validation limits](audits/switch-rich-reader.md); hardware acceptance and blocked sources are not claimed passed.
+
+
+NSTHWJ（NS头号玩家）新增三个游戏平台源：Switch 25篇、PC 36篇、PS4 36篇。本轮逐篇核对公开页面原始网盘码，97篇共193码均解码成功，分享元数据按版本和更新日绑定。主目录有综合入口，游戏目录与对应平台目录有独立入口；新增项默认关闭，用户刷新源后自行开启。客户端正文资源二维码显示需要更新NRO；之后新增/变更条目若尚未复核资源码会提示未同步。NS45已移除。验收见[audits/nsthwj.md](audits/nsthwj.md)。
