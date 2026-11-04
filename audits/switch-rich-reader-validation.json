@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-04",
+  "client": "Switch NRO 0.1.4",
+  "ordered_text_images": true,
+  "original_image_qr_supported": true,
+  "supports_syndicated_rss_atom_images_by_default": true,
+  "article_fetch": "on open, asynchronous; public original HTML or known public WordPress endpoint",
+  "article_cache_ttl_hours": 6,
+  "cached_state_preserved": true,
+  "legacy_text_cache_migration": true,
+  "paragraph_text_limit_bytes": 131072,
+  "maximum_article_images": 32,
+  "response_limit_bytes": 2097152,
+  "image_max_pixels": 4000000,
+  "inline_image_dimension": 320,
+  "viewer_image_dimension": 960,
+  "inline_image_memory_entries": 12,
+  "viewer_image_memory_entries": 1,
+  "raw_image_disk_cache_mib": 80,
+  "native_tests": 13,
+  "app_diagnostic_views": [
+    23,
+    24,
+    25
+  ],
+  "app_original_qr_decode_render_verified": true,
+  "real_article": {
+    "blocks": 34,
+    "images": 9,
+    "test_qr_side": 656,
+    "text_bytes": 1395,
+    "url": "https://2468c.com/121803.html"
+  },
+  "switch_hardware_tested": false,
+  "known_unverified_site": "Game520 original/article API and RSS feed requests closed the connection in this environment; not certified readable on Switch",
+  "bundled_demo_news": false,
+  "full_article_or_publisher_images_mirrored_in_data_repo": false
+}
