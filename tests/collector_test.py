@@ -62,9 +62,9 @@ class CollectorTest(unittest.TestCase):
         self.assertLessEqual(len(c.clean_excerpt('中' * 1000)), 241)
 
     def test_public_description_cache_and_robots(self):
-        site=c.SITES['ns45']; robots=c.urllib.robotparser.RobotFileParser()
+        site=c.SITES['a9vg']; robots=c.urllib.robotparser.RobotFileParser()
         robots.parse(['User-agent: *', 'Allow: /'])
-        row={'title':'New game', 'original_url':'https://www.ns45.net/game/123.html', 'summary':''}
+        row={'title':'New game', 'original_url':'https://www.a9vg.com/article/123', 'summary':''}
         with patch.object(c,'fetch',return_value='<meta content="Publisher provided game introduction." name="description">') as f:
             health=c.fill_descriptions([row],{},site,robots,12)
             self.assertEqual(f.call_count,1)
@@ -76,7 +76,7 @@ class CollectorTest(unittest.TestCase):
             self.assertEqual(f.call_count,0)
         self.assertEqual(newer['summary'],row['summary'])
         robots=c.urllib.robotparser.RobotFileParser()
-        robots.parse(['User-agent: *', 'Disallow: /game/'])
+        robots.parse(['User-agent: *', 'Disallow: /article/'])
         with patch.object(c,'fetch') as f:
             c.fill_descriptions([{'title':'Other game','original_url':row['original_url'],'summary':''}],{},site,robots,12)
             self.assertEqual(f.call_count,0)
@@ -134,33 +134,13 @@ class CollectorTest(unittest.TestCase):
             self.assertEqual(health["count"], 3)
             self.assertEqual(health["retained_count"], 2)
 
-    def test_ns45_games_not_news(self):
-        site=c.SITES["ns45"]
-        self.assertEqual(site["url"], "https://www.ns45.net/")
-        page = '<a href="/news/123.html">News should not appear</a><div class="game-item" data-id="12" data-typeid="15" data-game-name="游戏"><div class="game-content"><h3 class="game-name">游戏标题</h3><p class="game-english-name">Game name</p><span class="meta-ver">1.2.0</span><span class="meta-size">1GB</span></div><div class="rank-date">今日更新</div></div><div class="nx-rank" data-id="13">Ranking excluded</div>'
-        rows=c.convert_games(page,site)
-        self.assertEqual(len(rows),1)
-        self.assertEqual(rows[0]["original_url"],"https://www.ns45.net/game/12.html")
-        self.assertEqual(rows[0]["platform"],["switch1"])
-        self.assertEqual(rows[0]["version"],"1.2.0")
-        self.assertEqual(rows[0]["published_at"],"")
-        self.assertEqual(rows[0]["content"],"")
-        self.assertNotIn("game_update",rows[0]["tags"])
-        with tempfile.TemporaryDirectory() as tmp:
-            responses=["User-agent: *\nAllow: /",page,'<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://www.ns45.net/game/12.html</loc></url></urlset>', '<div class="g-main">Public game description</div>']
-            with patch.object(c,"fetch",side_effect=responses):
-                health=c.collect("ns45",Path(tmp),summary_limit=0)
-            self.assertEqual(health["status"],"ok")
-            self.assertEqual(health["count"],1)
-            self.assertFalse(health["cloud_links_verified"])
-
     def test_only_matching_metadata(self):
-        html = '''<a href="/game/123.html"><img src="x">Switch 2 补丁</a>
-          <a href="https://evil.test/game/123.html">Other site</a>
-          <a href="/game/123.html">Switch 2 补丁</a>
-          <a href="/game/123.html">查看详细</a>
-          <script><a href="/game/456.html">Script link</a></script>'''
-        rows = c.convert(html, c.SITES["ns45"])
+        html = '''<a href="/article/123"><img src="x">Switch 2 补丁</a>
+          <a href="https://evil.test/article/123">Other site</a>
+          <a href="/article/123">Switch 2 补丁</a>
+          <a href="/article/123">查看详细</a>
+          <script><a href="/article/456">Script link</a></script>'''
+        rows = c.convert(html, c.SITES["a9vg"])
         self.assertEqual(len(rows), 1)
         self.assertEqual(rows[0]["title"], "Switch 2 补丁")
         self.assertEqual(rows[0]["published_at"], "")

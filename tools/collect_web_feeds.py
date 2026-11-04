@@ -30,8 +30,6 @@ SITES = {
     "gnn": {"name": "巴哈姆特 GNN", "url": "https://gnn.gamer.com.tw/rss.xml",
             "hosts": {"gnn.gamer.com.tw"}, "path": r"/detail\.php",
             "format": "rss", "language": "zh-Hant"},
-    "ns45": {"name": "NS45 游戏库", "url": "https://www.ns45.net/",
-             "hosts": {"www.ns45.net", "ns45.net"}, "path": r"/game/\d+\.html", "format": "ns45_games"},
     "gamer520": {"name": "Gamer520 public WordPress API (Switch category)",
                  "url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
                  "hosts": {"vip.gamers520.com"}, "path": r"/\d+\.html",
@@ -118,66 +116,6 @@ def convert(html, site):
     parser = Links(site)
     parser.feed(html)
     return [metadata_tags(item) for item in parser.items.values()]
-
-
-class GameCards(HTMLParser):
-    """Read visible game cards, never the separate news or ranking lists."""
-    def __init__(self, site):
-        super().__init__(convert_charrefs=True)
-        self.site, self.stack, self.current, self.items = site, [], None, {}
-
-    def handle_starttag(self, tag, attrs):
-        attrs = dict(attrs)
-        classes = attrs.get("class", "").split()
-        if tag in ("img", "br", "input", "meta", "link", "hr", "source", "wbr"):
-            return
-        self.stack.append((tag, classes))
-        if self.current is None and tag == "div" and "game-item" in classes:
-            ident = attrs.get("data-id", "")
-            if ident.isdigit() and len(ident) <= 12:
-                self.current = {"depth": len(self.stack), "id": ident,
-                    "name": attrs.get("data-game-name", ""), "typeid": attrs.get("data-typeid", ""),
-                    "parts": {}}
-
-    def handle_data(self, text):
-        if self.current and not any(t in ("script", "style") for t, _ in self.stack):
-            for _, classes in self.stack[self.current["depth"]:]:
-                for key in ("game-name", "game-english-name", "meta-size", "meta-ver", "rank-date"):
-                    if key in classes:
-                        self.current["parts"].setdefault(key, []).append(text)
-
-    def handle_endtag(self, tag):
-        matches = [i for i, (t, _) in enumerate(self.stack) if t == tag]
-        if not matches:
-            return
-        depth = matches[-1]
-        if self.current and depth < self.current["depth"]:
-            card = self.current
-            parts = {k: " ".join("".join(v).split()) for k, v in card["parts"].items()}
-            name = parts.get("game-name") or card["name"]
-            if name and len(name) <= 512 and len(self.items) < 100:
-                url = urllib.parse.urljoin(self.site["url"], "/game/" + card["id"] + ".html")
-                row = {"id": hashlib.sha256(url.encode()).hexdigest(), "title": name,
-                    "original_url": url, "summary": "", "content": "", "image_url": "",
-                    "published_at": "", "content_scope": "metadata", "language": "zh-Hans",
-                    "evidence": "community", "category": "discovery", "tags": []}
-                if card["typeid"] in ("15", "29"):
-                    row["platform"] = ["switch1" if card["typeid"] == "15" else "pc"]
-                if parts.get("meta-ver"):
-                    row["version"] = parts["meta-ver"][:80]
-                # Visible list facts only; 'today' is not fabricated publication time.
-                row["summary"] = " · ".join(parts[k] for k in ("game-english-name", "meta-size", "meta-ver") if parts.get(k))[:240]
-                row["content_scope"] = "summary" if row["summary"] else "metadata"
-                row["summary_origin"] = "publisher_game_card"
-                self.items.setdefault(url, row)
-            self.current = None
-        del self.stack[depth:]
-
-
-def convert_games(body, site):
-    parser = GameCards(site)
-    parser.feed(body)
-    return list(parser.items.values())
 
 
 def metadata_tags(item):
@@ -404,7 +342,7 @@ def collect(key, output, summary_limit=12):
         urls = [site["url"]]
         if site.get("format") == "wordpress":
             urls.append(site["url"] + "&orderby=modified&order=desc")
-        converter = {"wordpress": convert_wordpress, "rss": convert_rss, "ns45_games": convert_games}.get(site.get("format"), convert)
+        converter = {"wordpress": convert_wordpress, "rss": convert_rss}.get(site.get("format"), convert)
         incoming, failures = {}, []
         for index, url in enumerate(urls):
             if not robots.can_fetch(AGENT, url):
@@ -426,50 +364,6 @@ def collect(key, output, summary_limit=12):
                     break
         if not incoming:
             raise ValueError("; ".join(failures) or "No matching entries")
-        if site.get("format") == "ns45_games":
-            # Card IDs alone do not prove the static detail exists (many return 404).
-            sitemap_url = urllib.parse.urljoin(site["url"], "/sitemap.xml")
-            known = set()
-            if robots.can_fetch(AGENT, sitemap_url):
-                try:
-                    raw = fetch(sitemap_url, site)
-                    if "<!DOCTYPE" in raw.upper() or "<!ENTITY" in raw.upper():
-                        raise ValueError("Unsafe sitemap")
-                    known = {n.text for n in ET.fromstring(raw).iter() if n.tag.endswith("}loc")}
-                except Exception as error:
-                    failures.append("Game sitemap: " + str(error)[:120])
-            candidates = sorted(incoming.values(), key=lambda x: x["original_url"] not in known)
-            verified, rejected = {}, []
-            for item in candidates[:12]:
-                url = item["original_url"]
-                if not robots.can_fetch(AGENT, url):
-                    continue
-                if verified or rejected:
-                    time.sleep(0.3)
-                try:
-                    page = fetch(url, site)
-                    if not re.search(r'class=["\'][^"\']*\bg-main\b', page):
-                        raise ValueError("No game detail container")
-                    description = DescriptionMeta()
-                    description.feed(page)
-                    text = description.og_description or description.description
-                    if text and text != item["title"]:
-                        item.update(summary=text, summary_origin="publisher_description", content_scope="summary")
-                    item["detail_status"] = "public_page_verified"
-                    verified[url] = item
-                except Exception as error:
-                    rejected.append({"url": url, "error": str(error)[:120]})
-                    if isinstance(error, urllib.error.HTTPError) and error.code in (401,403,429):
-                        break
-            health["game_detail_checked"] = len(verified) + len(rejected)
-            health["game_detail_errors"] = rejected[:12]
-            health["unverified_game_cards"] = len(incoming) - len(verified)
-            health["cloud_links_verified"] = False
-            if len(verified) < len(incoming):
-                failures.append("Only verified public game details included; remaining cards unavailable or unchecked")
-            incoming = verified
-            if not incoming:
-                raise ValueError("No verified public game detail; do not substitute news")
         # Retain bounded last-good entries when a short upstream window drops them.
         previous = {}
         if path.exists():
