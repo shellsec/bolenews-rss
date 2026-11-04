@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 6,
+  "config_version": 7,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-03T08:29:02.365774+00:00",
+  "generated_at": "2026-11-04T13:27:48.361836+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -121,16 +121,19 @@
     },
     {
       "id": "example-ns45",
-      "name": "NS45 中文资讯",
+      "name": "NS45 游戏库",
       "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/ns45.json",
-      "category": "hot",
+      "category": "discovery",
       "language": "zh-Hans",
       "repo": "",
       "enabled": true,
       "images": false,
       "fullContent": false,
       "builtin": true,
-      "platforms": [],
+      "platforms": [
+        "switch1",
+        "pc"
+      ],
       "requiresConsent": false,
       "rights_policy": "public index metadata and original links only; no publisher images, article bodies or game files"
     },

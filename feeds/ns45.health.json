@@ -1,16 +1,66 @@
 {
   "source": "ns45",
-  "attempted_at": "2026-11-04T07:36:07.238946+00:00",
-  "status": "ok",
-  "summary_count": 17,
-  "summary_attempts": 3,
+  "attempted_at": "2026-11-04T13:24:54.794669+00:00",
+  "status": "partial",
+  "game_detail_checked": 12,
+  "game_detail_errors": [
+    {
+      "url": "https://www.ns45.net/game/65565.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.ns45.net/game/67224.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.ns45.net/game/67269.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.ns45.net/game/67271.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.ns45.net/game/67273.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.ns45.net/game/67312.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.ns45.net/game/67244.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.ns45.net/game/67245.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.ns45.net/game/67246.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.ns45.net/game/67247.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.ns45.net/game/67248.html",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "unverified_game_cards": 23,
+  "cloud_links_verified": false,
+  "summary_count": 1,
+  "summary_attempts": 0,
   "summary_missing": 0,
   "summary_errors": [],
-  "count": 17,
-  "fetched_count": 15,
-  "retained_count": 2,
+  "count": 1,
+  "fetched_count": 1,
+  "retained_count": 0,
   "input_urls": [
-    "https://www.ns45.com/news/"
+    "https://www.ns45.net/"
   ],
-  "dropped_by_limit": 0
+  "dropped_by_limit": 0,
+  "error": "Only verified public game details included; remaining cards unavailable or unchecked"
 }
