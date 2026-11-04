@@ -1,6 +1,6 @@
 {
   "source": "gamer520",
-  "attempted_at": "2026-11-04T07:36:11.763840+00:00",
+  "attempted_at": "2026-11-04T16:25:50.491520+00:00",
   "status": "ok",
   "robots_status": 403,
   "summary_count": 76,
@@ -16,5 +16,5 @@
     "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
     "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt&orderby=modified&order=desc"
   ],
-  "dropped_by_limit": 2
+  "dropped_by_limit": 1
 }

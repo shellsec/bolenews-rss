@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-04T14:20:46.810618+00:00",
+  "generated_at": "2026-11-04T16:26:13.973562+00:00",
   "source_url": "https://nsthwj.cn/ps4",
   "items": [
     {
@@ -21,11 +21,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.01 系统要求：≥ 5.05",
       "updated_at": "2026-11-03T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:47.377002+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -37,7 +36,8 @@
           "url": "https://pan.xunlei.com/s/VP5XASQNuT-K0-mdVv6Ri072A1?pwd=urfy",
           "extraction_code": "urfy"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:47.377002+00:00"
     },
     {
       "id": "dfc9a20e32837f17ccc3471a1cefdd8fea04f193d4d0ed6bd3d4eade19387e92",
@@ -56,11 +56,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.03 系统要求：≥ 5.05",
       "updated_at": "2026-11-03T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:47.978861+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -72,7 +71,8 @@
           "url": "https://pan.xunlei.com/s/VP5XDKQU9GRlMrWziQNlafgLA1?pwd=7qen",
           "extraction_code": "7qen"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:47.978861+00:00"
     },
     {
       "id": "976f222d4a8ea0268fe451befc9f8b15481615da0f6aa9fd5f788f4ab6de6d8d",
@@ -91,11 +91,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.02 系统要求：≥ 5.05",
       "updated_at": "2026-11-03T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:48.535084+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -107,7 +106,8 @@
           "url": "https://pan.xunlei.com/s/VP5X2npepkuC_vbIHKjvH7QZA1?pwd=ue6m",
           "extraction_code": "ue6m"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:48.535084+00:00"
     },
     {
       "id": "f181f5d3ee3d1f0d9348ee6b404396a8f2b8824a5b4ec2ec665465b597210021",
@@ -126,11 +126,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.00 系统要求：≥ 5.05",
       "updated_at": "2026-11-03T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:49.075527+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -142,7 +141,8 @@
           "url": "https://pan.xunlei.com/s/VP5WwIg4IxAqxSSPEctsh_MeA1?pwd=5dbc",
           "extraction_code": "5dbc"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:49.075527+00:00"
     },
     {
       "id": "fe8cabc067af6ce41b3edf5fe88cdc7b2bf568221929b20b7a5be43c166db2b1",
@@ -161,11 +161,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.06 系统要求：≥ 5.05",
       "updated_at": "2026-11-03T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:50.163920+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -177,7 +176,8 @@
           "url": "https://pan.xunlei.com/s/VP5Wiyh8e-JIigHiqhIsncfIA1?pwd=x4tm",
           "extraction_code": "x4tm"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:50.163920+00:00"
     },
     {
       "id": "dd2db4e0d6ebe739bfc5e55e0ad4a5b166f66e13c630860872352b5b2628c7f7",
@@ -196,11 +196,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.02 系统要求：≥ 5.05",
       "updated_at": "2026-11-03T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:50.740867+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -212,7 +211,8 @@
           "url": "https://pan.xunlei.com/s/VP5WQgrnKq-nQN_Dn0phDsBcA1?pwd=w7ii",
           "extraction_code": "w7ii"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:50.740867+00:00"
     },
     {
       "id": "697679c7db2684aac4ca0b52e286bed95d28b8410899ced0afc343b934c758c8",
@@ -231,11 +231,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.09 系统要求：≥ 5.05",
       "updated_at": "2026-11-03T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:51.284610+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -247,7 +246,8 @@
           "url": "https://pan.xunlei.com/s/VP5VeBMj_d9kdGBRDDrklvLiA1?pwd=rixh",
           "extraction_code": "rixh"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:51.284610+00:00"
     },
     {
       "id": "1951df577d0999dd1791bf999b117bf911c2e829ed3acc645bb1e75aee5f894c",
@@ -266,11 +266,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.02 系统要求：≥ 5.05",
       "updated_at": "2026-11-02T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:52.127496+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -282,7 +281,8 @@
           "url": "https://pan.xunlei.com/s/VP5Rr4hi0pqe0kyef3iIWR0yA1?pwd=s47c",
           "extraction_code": "s47c"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:52.127496+00:00"
     },
     {
       "id": "949dd61dac9e7b6644805a15644e6738d06592964d8338f24658ce70243faea1",
@@ -301,11 +301,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.05 系统要求：≥ 5.05",
       "updated_at": "2026-11-02T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:52.720880+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -317,7 +316,8 @@
           "url": "https://pan.xunlei.com/s/VP5RlWqaxOKD5aCTFgTQj-XzA1?pwd=26fj",
           "extraction_code": "26fj"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:52.720880+00:00"
     },
     {
       "id": "a0d92cf59b403943f8434bef661c58eec8b8e0a96f3a95348fc2268009585162",
@@ -336,11 +336,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.01 系统要求：≥ 5.05",
       "updated_at": "2026-11-02T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:53.341038+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -352,7 +351,8 @@
           "url": "https://pan.xunlei.com/s/VP5RjHN3R-OHkZOFCYekZV1VA1?pwd=5ixw",
           "extraction_code": "5ixw"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:53.341038+00:00"
     },
     {
       "id": "7e48999c0ab00f548031e154400578f50a3ea0c6a9eae757975d9111f2b5b07e",
@@ -371,11 +371,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.01 系统要求：≥ 5.05",
       "updated_at": "2026-11-02T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:53.914849+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -387,7 +386,8 @@
           "url": "https://pan.xunlei.com/s/VP5RgbWIkHxFAlLGboOGGIm2A1?pwd=hp7d",
           "extraction_code": "hp7d"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:53.914849+00:00"
     },
     {
       "id": "7d11aa4ed92a1827c061ebc4918e640a4335bbd97efd5f074cbe89666d20c00d",
@@ -406,11 +406,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.09 系统要求：≥ 5.05",
       "updated_at": "2026-11-02T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:54.521361+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -422,7 +421,8 @@
           "url": "https://pan.xunlei.com/s/VP5Re2HtdDdQuqwAnsakPOy0A1?pwd=nrqq",
           "extraction_code": "nrqq"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:54.521361+00:00"
     },
     {
       "id": "da2633b1317d99e65945147394360fe6d9134fc70c76e05bb73b87aa9a59092a",
@@ -441,11 +441,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.01 系统要求：≥ 5.05",
       "updated_at": "2026-11-02T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:55.096642+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -457,7 +456,8 @@
           "url": "https://pan.xunlei.com/s/VP5Rb0-_mrvMfMpXyZWe29vkA1?pwd=tzy8",
           "extraction_code": "tzy8"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:55.096642+00:00"
     },
     {
       "id": "5749a9d34d0a8fb98726c7d38a5dfb068a37aadaf53b1a1b2476c71519a33bd5",
@@ -476,11 +476,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.03 系统要求：≥ 5.05",
       "updated_at": "2026-11-02T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:55.716359+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -492,7 +491,8 @@
           "url": "https://pan.xunlei.com/s/VP5RXOc_DI3t4ZneyGKG-L7mA1?pwd=2tg6",
           "extraction_code": "2tg6"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:55.716359+00:00"
     },
     {
       "id": "3166908ec556eb394180b077548127f643210c507a70a02cc9b84c5e685d5694",
@@ -511,11 +511,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.10 系统要求：≥ 5.05",
       "updated_at": "2026-11-02T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:56.277085+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -527,7 +526,8 @@
           "url": "https://pan.xunlei.com/s/VP5RXTwLmrvMfMpXyZWdxtxIA1?pwd=6hvn",
           "extraction_code": "6hvn"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:56.277085+00:00"
     },
     {
       "id": "9c73bc2434b4af380cd110051f213868bcbfb3bd3aefcfc9fe0f55c85d2f6f34",
@@ -546,11 +546,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.05系统要求：≥ 5.05",
       "updated_at": "2026-11-02T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:56.852507+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -562,7 +561,8 @@
           "url": "https://pan.xunlei.com/s/VODtvZaj0KJDvS4rJg4_syeaA1?pwd=fvm4#",
           "extraction_code": "fvm4"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:56.852507+00:00"
     },
     {
       "id": "cc126236f624624b1aa803bfed21f4cd26d5963a35bb5cedcaeb786f92747198",
@@ -581,11 +581,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.07 系统要求：≥ 5.05",
       "updated_at": "2026-11-02T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:57.440576+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -597,7 +596,8 @@
           "url": "https://pan.xunlei.com/s/VP5ROSG9e2CEOvHnoiaL5q2eA1?pwd=qjn3",
           "extraction_code": "qjn3"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:57.440576+00:00"
     },
     {
       "id": "c46fc2983acfa814065550331209fbd91a379c894e93103d462c5f5b9caf7dce",
@@ -616,11 +616,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.02 系统要求：≥ 5.05",
       "updated_at": "2026-11-02T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:59.041968+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -632,7 +631,8 @@
           "url": "https://pan.xunlei.com/s/VP5RHDui1PPHJCbuHv-Tj8FoA1?pwd=ggz8",
           "extraction_code": "ggz8"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:59.041968+00:00"
     },
     {
       "id": "40709561d23c23ef50c3ed5f8e849231c934a8ba1d7475b32b5c1b67697186dd",
@@ -651,11 +651,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.01 系统要求：≥ 5.05",
       "updated_at": "2026-11-02T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:59.646376+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -667,7 +666,8 @@
           "url": "https://pan.xunlei.com/s/VP5RFBqXbELMJ2lYt_jPLa8hA1?pwd=vb36",
           "extraction_code": "vb36"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:20:59.646376+00:00"
     },
     {
       "id": "ed9174a7df954cbeb578e3f9bbbe4f617cf86999fe54298f13da103fa53c1424",
@@ -686,18 +686,18 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.01系统要求：≥ 5.05",
       "updated_at": "2026-11-02T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:21:00.254806+00:00",
       "download_links": [
         {
           "provider": "迅雷网盘",
           "url": "https://pan.xunlei.com/s/VOWQcIDhEa3V9nwrNWsbTAwRA1?pwd=ytfh#",
           "extraction_code": "ytfh"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:21:00.254806+00:00"
     },
     {
       "id": "2e830e97503abe9d0eeff010dc1f7e4aa3b9e7e2f7ca216159ca4d21eecd73d5",
@@ -716,11 +716,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.05 系统要求：≥ 5.05",
       "updated_at": "2026-11-01T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:21:00.829064+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -732,7 +731,8 @@
           "url": "https://pan.xunlei.com/s/VP5P_5xB5_v7qpgmnJ5x59R4A1?pwd=58vm",
           "extraction_code": "58vm"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:21:00.829064+00:00"
     },
     {
       "id": "22683f608607ae547795f65006bcff7faa0133e62970afa4843dcdd917ef7b98",
@@ -751,11 +751,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.02 系统要求：≥ 5.05",
       "updated_at": "2026-10-31T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:21:01.494075+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -767,7 +766,8 @@
           "url": "https://pan.xunlei.com/s/VP5HiXoVsRMUahe0U9M9NQUUA1?pwd=wpdk",
           "extraction_code": "wpdk"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:21:01.494075+00:00"
     },
     {
       "id": "e0d5307376eccc0d5efabce9e07cc0caa6ab8db6d9a9e2ff9114882efb5cb6d0",
@@ -786,11 +786,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.06 系统要求：≥ 5.05",
       "updated_at": "2026-10-31T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:21:02.380227+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -802,7 +801,8 @@
           "url": "https://pan.xunlei.com/s/VP5H45Y1WiWJMVhKIfKhk1vKA1?pwd=h5u8",
           "extraction_code": "h5u8"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:21:02.380227+00:00"
     },
     {
       "id": "d5068e037d5a6f3bb21a6566ca75cb0ff09c99c8caa5f3174d06226f4d720f9e",
@@ -821,11 +821,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.02 系统要求：≥ 5.05",
       "updated_at": "2026-10-29T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:21:02.969964+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -837,7 +836,8 @@
           "url": "https://pan.xunlei.com/s/VP5AP4W84T47atcvd85oaU0JA1?pwd=6bbv",
           "extraction_code": "6bbv"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:21:02.969964+00:00"
     },
     {
       "id": "c7c04f7c3122de3e262a1014bc8ec7b82cc732eca2361765deefe7dd5dc78543",
@@ -856,11 +856,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.02 系统要求：≥ 5.05",
       "updated_at": "2026-10-29T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:21:03.573967+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -872,7 +871,8 @@
           "url": "https://pan.xunlei.com/s/VP57CIu_yxooVPDcHw4ssil8A1?pwd=nkpw",
           "extraction_code": "nkpw"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:21:03.573967+00:00"
     },
     {
       "id": "28551aa7acbfa31b56457c6c8640650859baf57bb898ff3e39d1b2679599be04",
@@ -891,11 +891,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.04 系统要求：≥ 5.05",
       "updated_at": "2026-10-29T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:21:04.180925+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -907,7 +906,8 @@
           "url": "https://pan.xunlei.com/s/VP57TWIS3zFaI5wtHpeRz5ZBA1?pwd=ub3n",
           "extraction_code": "ub3n"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:21:04.180925+00:00"
     },
     {
       "id": "f8151851e415423998267c2391a1555aec2422c920cea97b3d5a1bf04081687d",
@@ -926,11 +926,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.09 系统要求：≥ 5.05",
       "updated_at": "2026-10-29T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:21:05.208539+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -942,7 +941,8 @@
           "url": "https://pan.xunlei.com/s/VP56ceh9yxooVPDcHw4sESsqA1?pwd=k5tg",
           "extraction_code": "k5tg"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:21:05.208539+00:00"
     },
     {
       "id": "56a355b810c18d7b6cd88812a96d925cf1a5009d214740cc5d1f7830411ee888",
@@ -961,11 +961,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.04 系统要求：≥ 5.05",
       "updated_at": "2026-10-29T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:21:05.810074+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -977,7 +976,8 @@
           "url": "https://pan.xunlei.com/s/VP56_c6kyqVeNR1vgWQD_9blA1?pwd=e6wa",
           "extraction_code": "e6wa"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:21:05.810074+00:00"
     },
     {
       "id": "f663ce179ff13bfeb6b8c8040e996ed1592d5a1f27f837beeddf4784ba43cf86",
@@ -996,11 +996,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.30系统要求：≥ 5.05",
       "updated_at": "2026-10-29T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:21:06.401935+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -1012,7 +1011,8 @@
           "url": "https://pan.xunlei.com/s/VODv1EUQIybsLhlfCVPn_0WwA1?pwd=aash#",
           "extraction_code": "aash"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:21:06.401935+00:00"
     },
     {
       "id": "8cf8ae45b29bc8589156e5fd830da9dcb406e5d0560efc76b1e8f5961b2796d1",
@@ -1031,11 +1031,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.07系统要求：≥ 5.05",
       "updated_at": "2026-10-28T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:21:06.976575+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -1047,7 +1046,8 @@
           "url": "https://pan.xunlei.com/s/VOWQc0FrhcjX3P-LeF1wkyb4A1?pwd=hnbg#",
           "extraction_code": "hnbg"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:21:06.976575+00:00"
     },
     {
       "id": "3ece911817b6bad9a59154f348b3213e791914e02e37f71d4c2db080983bae75",
@@ -1066,11 +1066,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.02 系统要求：≥ 5.05",
       "updated_at": "2026-10-28T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:21:07.551484+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -1082,7 +1081,8 @@
           "url": "https://pan.xunlei.com/s/VP51sTYCx0KtVdbfO8rFfakUA1?pwd=feku",
           "extraction_code": "feku"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:21:07.551484+00:00"
     },
     {
       "id": "3f9a4ce252031f348e5b085bf72684ec1fcf76e69ff5fe7e5f1b6e80e08d1f9e",
@@ -1101,11 +1101,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.47系统要求：≥ 5.05",
       "updated_at": "2026-10-27T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:21:08.158232+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -1117,7 +1116,8 @@
           "url": "https://pan.xunlei.com/s/VODehyfM5elOpUmMRh__zAPUA1?pwd=jdsy#",
           "extraction_code": "jdsy"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T16:26:15.355182+00:00"
     },
     {
       "id": "ab7c206e9352b578ccd33269d35767111a6f67f2e01edcdb64c85f804f09e3b3",
@@ -1136,11 +1136,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.02 系统要求：≥ 5.05",
       "updated_at": "2026-10-27T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:21:08.721720+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -1152,7 +1151,8 @@
           "url": "https://pan.xunlei.com/s/VP4wEKxKgpPn3R8iQlMUfeGaA1?pwd=444k",
           "extraction_code": "444k"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:21:08.721720+00:00"
     },
     {
       "id": "42b8b8b2789cbb5b327c38546792db5508d362e7d5a97253a9e55528d2c16a89",
@@ -1171,11 +1171,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.42 系统要求：≥ 5.05",
       "updated_at": "2026-10-27T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:21:09.622750+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -1187,7 +1186,8 @@
           "url": "https://pan.xunlei.com/s/VP4xF2octPrN7JdWjeo8Mv7xA1?pwd=upd5",
           "extraction_code": "upd5"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:21:09.622750+00:00"
     },
     {
       "id": "3fc836e8ca80cdab4938a057e7bd1eefb40630dfbf574e266d110f69e41a4b37",
@@ -1206,11 +1206,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.04 系统要求：≥ 5.05",
       "updated_at": "2026-10-27T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:21:10.228938+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -1222,7 +1221,8 @@
           "url": "https://pan.xunlei.com/s/VP4vsbabg7Y72kRyyruXJRwUA1?pwd=kgwb",
           "extraction_code": "kgwb"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:21:10.228938+00:00"
     },
     {
       "id": "032f25cb94913bf7fecf00777671d04555e66612c0554b6ecfc6f6bf8fb1be7e",
@@ -1241,11 +1241,10 @@
         "ps4"
       ],
       "category": "discovery",
-      "download_status": "original_qr_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.02 系统要求：≥ 5.05",
       "updated_at": "2026-10-27T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:21:10.800668+00:00",
       "download_links": [
         {
           "provider": "百度网盘",
@@ -1257,7 +1256,8 @@
           "url": "https://pan.xunlei.com/s/VP4vqFwhtaLwm8EOkJ2kSU9vA1?pwd=d34z",
           "extraction_code": "d34z"
         }
-      ]
+      ],
+      "summary_checked_at": "2026-11-04T14:21:10.800668+00:00"
     }
   ]
 }

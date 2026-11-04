@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-04T07:36:14.412172+00:00",
+  "generated_at": "2026-11-04T16:25:52.719552+00:00",
   "source_url": "https://www.a9vg.com/",
   "items": [
     {
@@ -15,7 +15,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T07:36:20.584529+00:00"
+      "summary_checked_at": "2026-11-04T16:25:59.895314+00:00"
     },
     {
       "id": "10170203b71618388d4261e526d39ae2f475ecad0ffeb3be97a55c2492c678a2",
@@ -28,7 +28,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T07:36:21.501978+00:00"
+      "summary_checked_at": "2026-11-04T16:26:01.390339+00:00"
     },
     {
       "id": "2838a1dbbff68f49f8765d7532ba8dc5f9e4d7f15f214c4d4d0542863472c486",
@@ -55,7 +55,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T07:36:22.296476+00:00"
+      "summary_checked_at": "2026-11-04T16:26:02.604425+00:00"
     },
     {
       "id": "d443e73893e48649df3c76de7158ef9daa8db6e2d4317ea6bc18926c22b8e8cb",
@@ -68,7 +68,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T07:36:23.233048+00:00"
+      "summary_checked_at": "2026-11-04T16:26:03.514772+00:00"
     },
     {
       "id": "438caa189fd677324f3eb98d948fccc0e605d3f9add7a94c9de7c395df94b629",
@@ -319,7 +319,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T07:36:23.891585+00:00"
+      "summary_checked_at": "2026-11-04T16:26:04.393589+00:00"
     },
     {
       "id": "28eae1d8be16f4f6648fd21f98fa20b0a77618b18b63584f61b60a95f27d51cc",
@@ -346,7 +346,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T07:36:24.660684+00:00"
+      "summary_checked_at": "2026-11-04T16:26:05.756855+00:00"
     },
     {
       "id": "655eddeafc21739f04d1f82db240da5a78e6dcafe0a13e3a4a14bdb4d40270fa",
@@ -372,7 +372,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T01:16:29.675433+00:00"
+      "summary_checked_at": "2026-11-04T16:25:54.019171+00:00"
     },
     {
       "id": "f20aeebc375d9ddfc9f4f461ded35e4b1b75f247f326e5b3ac5caff37c8445ea",
@@ -399,7 +399,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T01:16:30.729180+00:00"
+      "summary_checked_at": "2026-11-04T16:25:54.989953+00:00"
     },
     {
       "id": "5bd4486b124041b17ca2459677938eea0171102c6985cde457d3ce6ceb81de16",
@@ -482,7 +482,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T01:16:34.354010+00:00"
+      "summary_checked_at": "2026-11-04T16:25:55.880548+00:00"
     },
     {
       "id": "979b5ac62091f936a8fc75426cc5a4a46557dce413b89eb918a2abed6dda6594",
@@ -495,7 +495,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T01:16:34.912592+00:00"
+      "summary_checked_at": "2026-11-04T16:25:57.344960+00:00"
     },
     {
       "id": "9beea7f3a60a8a493e3b40c6775cf01ac189158daad179987104fea8ac163079",
@@ -508,7 +508,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T01:16:35.938965+00:00"
+      "summary_checked_at": "2026-11-04T16:25:58.107871+00:00"
     },
     {
       "id": "e4c5c3f96bfa3c43c6b6c4e908cb41482de46e0d8b7a7274df8c9c1fea1609cd",
@@ -549,7 +549,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T01:16:37.636990+00:00"
+      "summary_checked_at": "2026-11-04T16:25:59.074153+00:00"
     },
     {
       "id": "74e4cba70b600f200a6bc42400f5757cc1d8827a44345075795b32013a9e5992",
@@ -575,9 +575,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T07:36:15.565692+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T07:36:15.565692+00:00"
     },
     {
       "id": "36e0f7b1a3f6a51eb6aa72c1b8481bb20523e3bd0a82e6af5d5c8084d2e28fb2",
@@ -589,9 +589,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T07:36:16.306663+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T07:36:16.306663+00:00"
     },
     {
       "id": "98599a935fa2502d8288ad470d007b482a81b018903efa51dc06e76c07e0711e",
@@ -603,12 +603,12 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "tags": [
         "game_update"
       ],
-      "summary_checked_at": "2026-11-04T07:36:17.339006+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T07:36:17.339006+00:00"
     },
     {
       "id": "cd03f0939e3fa6c543beb9d31ca5ea53a061e90120d2d0f21be3c1e7a7f505ee",
@@ -620,9 +620,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T07:36:18.525133+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T07:36:18.525133+00:00"
     },
     {
       "id": "3d0d7b8ea8efa0ba4d8d990b76a6e3bd8c24f52f214e8c889c832114d75b9bfe",
@@ -634,9 +634,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T07:36:19.550629+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T07:36:19.550629+00:00"
     }
   ]
 }

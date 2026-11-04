@@ -1,9 +1,47 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-04T07:36:03.508973+00:00",
+  "generated_at": "2026-11-04T16:25:47.541442+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "魂斗罗：加鲁加行动.Contra: Operation Galuga",
+      "original_url": "https://2468c.com/105695.html",
+      "published_at": "2026-09-19T01:01:42Z",
+      "summary": "平台：PlayStation5 发行商：Konami 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：WayForward 发行日期：2024年3月12日 游戏版本：v01.000.003 游戏编号：PPSA15368 格式：文件压缩包/fpkg 平台...",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-04T11:01:29Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-04T16:25:49.278782+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "title": "海参2.Trepang2",
+      "original_url": "https://2468c.com/100260.html",
+      "published_at": "2025-04-12T07:04:13Z",
+      "summary": "发行商：Team17 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Trepang Studios 发行日期：2023-6-22 游戏版本：v01.000.000 游戏编号：PPSA15350 格式：文件压缩包 平台版本：适用使用4.xx及以上版本 ...",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-04T08:34:33Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-04T16:25:49.714023+00:00",
+      "summary_origin": "publisher_description"
+    },
     {
       "title": "远日点 Aphelion",
       "original_url": "https://2468c.com/121805.html",
@@ -11,7 +49,7 @@
       "summary": "平台：PlayStation5 发行商：DON'T NOD 语言：中文,日语,英语,德语,法语,西班牙语 开发商：DON'T NOD 发行日期：2026-04-28 游戏版本：v01.003.000 游戏编号：PPSA13446 格式：文件压缩包 平台版本：原适用使用12.xx及...",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-04T03:06:38Z",
@@ -20,8 +58,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-04T07:36:05.515563+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T07:36:05.515563+00:00"
     },
     {
       "title": "异形：夺命舰 进化版 Alien Rogue Incursion Evolved Edition",
@@ -30,7 +68,7 @@
       "summary": "平台：PlayStation5 发行商：Survios 语言：中文,日语,英语,德语,法语,西班牙语 开发商：Survios 发行日期：2025-09-30 游戏版本：v01.000.009 游戏编号：PPSA30391 格式：文件压缩包 平台版本：原适用使用10.xx及以上版本...",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-04T03:05:55Z",
@@ -39,8 +77,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-04T07:36:06.054474+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T07:36:06.054474+00:00"
     },
     {
       "title": "钥匙柜：回合制赛博朋克动作 Keylocker: Turn Based Cyberpunk Action",
@@ -1865,44 +1903,6 @@
       "source_name": "奥德彪计划 PS4 / PS5",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-04T01:18:14.048059+00:00"
-    },
-    {
-      "title": "红视 2 Redout 2",
-      "original_url": "https://2468c.com/115803.html",
-      "published_at": "2026-10-29T05:42:06Z",
-      "summary": "平台：PlayStation5 发行商：Saber Interactive 语言：中文,英语,日语,俄语,韩语,意大利语,法语,西班牙语 开发商：34BigThings 发行日期：2022-05-26 游戏版本：v01.107 DLC 游戏编号：PPSA05849 格式：文件压缩...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-29T05:43:12Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:18:15.577540+00:00"
-    },
-    {
-      "title": "破坏创造王 Wreckreation",
-      "original_url": "https://2468c.com/110756.html",
-      "published_at": "2026-10-29T05:40:44Z",
-      "summary": "平台：PlayStation5 发行商：THQ Nordic 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Three Fields Entertainment 发行日期：2025-10-28 游戏版本：v01.000/01.900.008 游戏编号...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-29T05:41:58Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:18:17.034676+00:00"
     }
   ]
 }
