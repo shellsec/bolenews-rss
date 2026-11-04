@@ -1,14 +1,14 @@
 {
   "source": "ns45",
-  "attempted_at": "2026-11-04T01:15:47.017982+00:00",
+  "attempted_at": "2026-11-04T07:36:07.238946+00:00",
   "status": "ok",
-  "summary_count": 14,
-  "summary_attempts": 14,
+  "summary_count": 17,
+  "summary_attempts": 3,
   "summary_missing": 0,
   "summary_errors": [],
-  "count": 14,
-  "fetched_count": 14,
-  "retained_count": 0,
+  "count": 17,
+  "fetched_count": 15,
+  "retained_count": 2,
   "input_urls": [
     "https://www.ns45.com/news/"
   ],

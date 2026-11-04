@@ -1,14 +1,14 @@
 {
   "source": "gnn",
-  "attempted_at": "2026-11-04T01:15:47.016947+00:00",
+  "attempted_at": "2026-11-04T07:36:06.295350+00:00",
   "status": "ok",
-  "summary_count": 60,
-  "summary_attempts": 35,
+  "summary_count": 78,
+  "summary_attempts": 1,
   "summary_missing": 0,
   "summary_errors": [],
-  "count": 60,
+  "count": 78,
   "fetched_count": 30,
-  "retained_count": 30,
+  "retained_count": 48,
   "input_urls": [
     "https://gnn.gamer.com.tw/rss.xml"
   ],

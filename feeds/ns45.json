@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-04T01:15:47.017982+00:00",
+  "generated_at": "2026-11-04T07:36:07.238946+00:00",
   "source_url": "https://www.ns45.com/news/",
   "items": [
     {
@@ -14,9 +14,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:15:47.794174+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:15:47.794174+00:00"
     },
     {
       "id": "e032e960798aa2c8a236cf1d47113113f3acca01f5e7e3b58e107090ac74c0f5",
@@ -28,9 +28,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:15:48.472328+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:15:48.472328+00:00"
     },
     {
       "id": "dda18bf5319579d5e6f2cdf0e0ab1f0bf820ff5f5169e5391ebd2914968a0979",
@@ -42,9 +42,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:15:49.158938+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:15:49.158938+00:00"
     },
     {
       "id": "70ecb0209e973ce409c96aca1e8c6de9663a6d76b0b4676376cf6f035b854133",
@@ -56,9 +56,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:15:49.876518+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:15:49.876518+00:00"
     },
     {
       "id": "225a34eadf5ad707b24be178c92819524dd651034b6a656d2190060ae5435bdf",
@@ -70,9 +70,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:15:50.561347+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:15:50.561347+00:00"
     },
     {
       "id": "e8485f12faa3ac1fb84319ff617fe5f63305c4580380230e7f87e77b3a351ad2",
@@ -84,9 +84,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:15:51.260036+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:15:51.260036+00:00"
     },
     {
       "id": "9cf22c0e5123df074b2f2f7cdf8451226de1a3a4f2b5d91e8dc957603192fd07",
@@ -98,9 +98,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:15:51.991106+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:15:51.991106+00:00"
     },
     {
       "id": "78076b6b19f0faa2c7f87bb0de0149afd5079c615189b46be3b03cc549747622",
@@ -112,9 +112,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:15:52.690285+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:15:52.690285+00:00"
     },
     {
       "id": "4414cdc94e520c711eb62f69e1980b951e9f745e75cff11c3a0f030c08ff4f3c",
@@ -154,9 +154,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:15:54.750247+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:15:54.750247+00:00"
     },
     {
       "id": "0f4a903c020d2c76d8b58fcd93e2771df0615d90ef1ea9e987f8d188a834b9c1",
@@ -168,9 +168,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:15:55.435890+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:15:55.435890+00:00"
     },
     {
       "id": "614de438ccb287332b370e5190cc1c8059c2af7b222a6bd3821273f02568bf8f",
@@ -182,9 +182,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:15:56.151490+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:15:56.151490+00:00"
     },
     {
       "id": "0aadfc4aeeeca47c537d7461e98332fd606916029222ccdbac5219be7e57f41f",
@@ -196,8 +196,50 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:15:56.861504+00:00"
+    },
+    {
+      "id": "5023c850b645a4302dbea105d7270a1394ae77b66a781480c2094c6d8a8a989a",
+      "title": "使命召唤23现代战争4NS2版输入延迟测试 对比PS5高出两倍",
+      "original_url": "https://www.ns45.com/news/66933.html",
+      "summary": "Digital Foundry实测显示，Switch2版使命召唤23现代战争4底座输入延迟81毫秒掌机100毫秒，对比PS5最高超出两倍。多人模式稳60帧单人战役30帧，官方暂未回应测试结果。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
       "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:15:56.861504+00:00",
+      "summary_checked_at": "2026-11-04T07:36:08.701175+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "3bd09d6561180ae4a76205e2b63cbb983efd27c93c904c575e7ebea46f771863",
+      "title": "NS2模拟器实现技术突破 马里奥赛车世界60帧流畅运行",
+      "original_url": "https://www.ns45.com/news/66932.html",
+      "summary": "PC端NS2模拟器迎来技术新进展，测试显示Switch2独占竞速游戏马里奥赛车世界，可在GTX1080显卡搭配16GB内存环境下实现60帧运行，模拟项目迭代效率较高，提醒玩家通过官方渠道购买正版游戏。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T07:36:09.839949+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "1cfb9be9f089977b84627a9511f3a98a0df17a0db45d6be098a2b755be0f504d",
+      "title": "PC端Switch2模拟器新突破 斯普拉遁涂击队60帧稳定运行",
+      "original_url": "https://www.ns45.com/news/66931.html",
+      "summary": "PC端Switch2模拟器迎来技术新突破，测试者成功实现斯普拉遁涂击队60帧稳定运行，公开对应测试硬件配置，模拟项目迭代效率较高，提醒玩家通过官方渠道购买正版游戏。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T07:36:10.971893+00:00",
       "summary_origin": "publisher_description"
     }
   ]

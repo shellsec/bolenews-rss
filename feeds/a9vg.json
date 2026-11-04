@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-04T01:16:11.769173+00:00",
+  "generated_at": "2026-11-04T07:36:14.412172+00:00",
   "source_url": "https://www.a9vg.com/",
   "items": [
     {
@@ -15,7 +15,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T01:16:12.509746+00:00"
+      "summary_checked_at": "2026-11-04T07:36:20.584529+00:00"
     },
     {
       "id": "10170203b71618388d4261e526d39ae2f475ecad0ffeb3be97a55c2492c678a2",
@@ -28,7 +28,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T01:16:13.078674+00:00"
+      "summary_checked_at": "2026-11-04T07:36:21.501978+00:00"
     },
     {
       "id": "2838a1dbbff68f49f8765d7532ba8dc5f9e4d7f15f214c4d4d0542863472c486",
@@ -40,9 +40,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:13.619912+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:13.619912+00:00"
     },
     {
       "id": "ebcd5380a9a5c5b0074f299d791706ddecbdb47418c57ca3e62a539fd2f9f2d9",
@@ -55,7 +55,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T01:16:14.363432+00:00"
+      "summary_checked_at": "2026-11-04T07:36:22.296476+00:00"
     },
     {
       "id": "d443e73893e48649df3c76de7158ef9daa8db6e2d4317ea6bc18926c22b8e8cb",
@@ -68,7 +68,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T01:16:15.015387+00:00"
+      "summary_checked_at": "2026-11-04T07:36:23.233048+00:00"
     },
     {
       "id": "438caa189fd677324f3eb98d948fccc0e605d3f9add7a94c9de7c395df94b629",
@@ -80,9 +80,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:15.592051+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:15.592051+00:00"
     },
     {
       "id": "7324af33926b67c6886aaa61fbd7d3d179ffa98776d9e28c32cc1183682dbd68",
@@ -94,9 +94,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:16.418407+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:16.418407+00:00"
     },
     {
       "id": "c7d119eef9a2d08c23317683790a498f7d585e211433743725265c421af79183",
@@ -108,9 +108,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:17.151431+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:17.151431+00:00"
     },
     {
       "id": "1dd601d1df2ad2b9d7784e568b95c37d9a1998318791f3b844b675ee5d62802d",
@@ -122,9 +122,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:17.870039+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:17.870039+00:00"
     },
     {
       "id": "cc1012149857abc56e8d434e2efec24c42960f323abaceef8b5d36b267b7cf1a",
@@ -136,9 +136,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:18.568124+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:18.568124+00:00"
     },
     {
       "id": "e3c47f61b887d4d7ba570b26f56790ab6ea5e816a6d044e988e3b83546791a4b",
@@ -150,9 +150,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:19.250186+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:19.250186+00:00"
     },
     {
       "id": "68708c579c67c93d4a7752b58b7c7bad070c4cf9b81e9cd76a57a8fe5fd1ecce",
@@ -164,9 +164,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:20.028239+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:20.028239+00:00"
     },
     {
       "id": "8f5f2728c373ed268286bd7c1f5c153c77ce5d5b1820d726ab2330481b3ff107",
@@ -178,9 +178,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:20.709506+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:20.709506+00:00"
     },
     {
       "id": "032e798e58925d477ac6991aa33c5b1116d169a1740c0e4b62d39c3577587192",
@@ -192,9 +192,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:21.409897+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:21.409897+00:00"
     },
     {
       "id": "e17f991a8211f7f3a69c4b3594c44b2b9ae2d070f9b0d86d1c0ec14a9395b1bb",
@@ -206,9 +206,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:22.095840+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:22.095840+00:00"
     },
     {
       "id": "8613820887142d63a31dcb0621ef1c1917c64b93293b0c3e31ba108197ad6dd6",
@@ -220,9 +220,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:22.764146+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:22.764146+00:00"
     },
     {
       "id": "a5df0b9f5f493696e0e88b514efbe43d974b373d8a4cffbddfae98bfbcd05267",
@@ -234,9 +234,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:23.430910+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:23.430910+00:00"
     },
     {
       "id": "3fe4bcb3334bb50cc3c9a32e5cc1975d959fb1f840db1a33e47bfc7355bbcf88",
@@ -248,9 +248,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:23.975041+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:23.975041+00:00"
     },
     {
       "id": "5318fb55aee797a8b3801872070d881e79d29dd10d004c62f81bd706ecd8c7ac",
@@ -262,9 +262,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:24.550575+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:24.550575+00:00"
     },
     {
       "id": "70910ece99e41c52486201817c8f3d12d93e53a74a5aec8f44e4ad77649f0a4e",
@@ -276,9 +276,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:25.153533+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:25.153533+00:00"
     },
     {
       "id": "c74c32c09411bb29da4ffa9f1df4c96aa40fe4bd21e035588205dec56c0565d5",
@@ -290,9 +290,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:25.758058+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:25.758058+00:00"
     },
     {
       "id": "8d478963dc939f5f37448f700032bb4ff5f523f9d4e04d00da0d618f19785f81",
@@ -304,9 +304,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:26.477218+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:26.477218+00:00"
     },
     {
       "id": "7201aebe2bcc878e86429348e2251ae89d42583094c83642a765ec4d5c73385a",
@@ -319,7 +319,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T01:16:27.206754+00:00"
+      "summary_checked_at": "2026-11-04T07:36:23.891585+00:00"
     },
     {
       "id": "28eae1d8be16f4f6648fd21f98fa20b0a77618b18b63584f61b60a95f27d51cc",
@@ -346,7 +346,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T01:16:28.557333+00:00"
+      "summary_checked_at": "2026-11-04T07:36:24.660684+00:00"
     },
     {
       "id": "655eddeafc21739f04d1f82db240da5a78e6dcafe0a13e3a4a14bdb4d40270fa",
@@ -359,7 +359,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-04T01:16:29.084389+00:00"
+      "summary_checked_at": "2026-11-04T07:36:30.588847+00:00"
     },
     {
       "id": "668e31641b54c0b1064d43165b647b37fff1f78791606fc59d1c7dc59af9c266",
@@ -425,9 +425,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:31.882305+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:31.882305+00:00"
     },
     {
       "id": "a193cf43dc3412198753e9efc1082dec6cd402f9aa59f3d28c39b7c335b1cfb2",
@@ -439,9 +439,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:32.536198+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:32.536198+00:00"
     },
     {
       "id": "e818ed02a93045cc7e7d7d3136b0e6df12e443987f90ffc834366b46712ab2c8",
@@ -453,9 +453,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:33.141323+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:33.141323+00:00"
     },
     {
       "id": "2d887f0d012851bcf7f911094c00d3ae42014945f849152248ec07195f95a3ce",
@@ -467,9 +467,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:33.688127+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:33.688127+00:00"
     },
     {
       "id": "76d6b1bd639744ac658fa7ce81c1716d1e10b99a14d80d4a58aa5596bb69d5d0",
@@ -520,9 +520,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:36.482481+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:36.482481+00:00"
     },
     {
       "id": "98e39ca73688786e94d63de9ae937ae8f5e926cd782cb20d71606be7ae48c1c0",
@@ -534,9 +534,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:37.067319+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:37.067319+00:00"
     },
     {
       "id": "4d8168a0e27f806b0ae52cc2551e572388bb754501df87cc71b9990dbcdd54d4",
@@ -561,8 +561,81 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:38.195791+00:00"
+    },
+    {
+      "id": "ce5d20dacd9289480bcc3922547f66b05e0e1332cefd932b4541ae12fd945f54",
+      "title": "《灾后修复师》“奠基拓展包”现已推出，开辟全新工程疆界！",
+      "original_url": "https://www.a9vg.com/article/246547",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
       "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:38.195791+00:00",
+      "summary_checked_at": "2026-11-04T07:36:15.565692+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "36e0f7b1a3f6a51eb6aa72c1b8481bb20523e3bd0a82e6af5d5c8084d2e28fb2",
+      "title": "《七日杀》将末日废土带到中国上海 WePlay",
+      "original_url": "https://www.a9vg.com/article/246532",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T07:36:16.306663+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "98599a935fa2502d8288ad470d007b482a81b018903efa51dc06e76c07e0711e",
+      "title": "《暗黑地牢2》开发团队确认亮相WePlay，全新DLC先导预告公布",
+      "original_url": "https://www.a9vg.com/article/246531",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "tags": [
+        "game_update"
+      ],
+      "summary_checked_at": "2026-11-04T07:36:17.339006+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "cd03f0939e3fa6c543beb9d31ca5ea53a061e90120d2d0f21be3c1e7a7f505ee",
+      "title": "《黎明杀机》将亮相WePlay，与玩家共庆恐怖十周年",
+      "original_url": "https://www.a9vg.com/article/246530",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T07:36:18.525133+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "3d0d7b8ea8efa0ba4d8d990b76a6e3bd8c24f52f214e8c889c832114d75b9bfe",
+      "title": "大作云集！《黎明杀机》《七日杀》《暗黑地牢2》确认参展2026上海WePlay，开发团队将到场与玩家见面",
+      "original_url": "https://www.a9vg.com/article/246529",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T07:36:19.550629+00:00",
       "summary_origin": "publisher_description"
     }
   ]

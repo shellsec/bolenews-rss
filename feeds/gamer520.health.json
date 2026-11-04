@@ -1,20 +1,16 @@
 {
   "source": "gamer520",
-  "attempted_at": "2026-11-04T01:15:57.276937+00:00",
+  "attempted_at": "2026-11-04T07:36:11.763840+00:00",
   "status": "ok",
   "robots_status": 403,
-  "summary_count": 75,
-  "summary_attempts": 25,
-  "summary_missing": 25,
+  "summary_count": 76,
+  "summary_attempts": 1,
+  "summary_missing": 24,
   "summary_errors": [
-    "HTTP Error 403: Forbidden",
-    "HTTP Error 403: Forbidden",
-    "HTTP Error 403: Forbidden",
-    "HTTP Error 403: Forbidden",
     "HTTP Error 403: Forbidden"
   ],
   "count": 100,
-  "fetched_count": 102,
+  "fetched_count": 101,
   "retained_count": 0,
   "input_urls": [
     "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",

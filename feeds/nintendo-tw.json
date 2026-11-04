@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-04T01:16:29.158272+00:00",
+  "generated_at": "2026-11-04T07:36:31.213181+00:00",
   "source_url": "https://www.nintendo.com/tw/topics",
   "items": [
     {
@@ -14,9 +14,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:29.780979+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:29.780979+00:00"
     },
     {
       "id": "03724e988d2e4dd3ab09e5d0c9e578001ab6ae833df0f8e179f75f83950b7d79",
@@ -28,9 +28,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:30.426493+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:30.426493+00:00"
     },
     {
       "id": "a1c0ae6118da5e43430f7907dd7711fd251c2f3868390ca10f6ac32175dd6c6c",
@@ -42,9 +42,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:31.150962+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:31.150962+00:00"
     },
     {
       "id": "6b454d692c1ba19286cbaed6daaa84e187b4ea2c298a234e33dcb2725e9d26db",
@@ -56,9 +56,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:32.001239+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:32.001239+00:00"
     },
     {
       "id": "9e716d761c8b8d371500abc43d45c8a2a776266181b1f7641f17f01479f3aec9",
@@ -70,9 +70,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:32.829912+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:32.829912+00:00"
     },
     {
       "id": "548018f0a97d60b4d144dd89c909d366e8c903d3cce25317623a702a17c782a8",
@@ -84,9 +84,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:33.484598+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:33.484598+00:00"
     },
     {
       "id": "5d6ae5e5d4d93e6a15a24121f376f8b8d08b7cab1eedf627408a57afde0239c8",
@@ -98,9 +98,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:34.136783+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:34.136783+00:00"
     },
     {
       "id": "cc94341e7a43a5ed87a427381c2d53dac91dea50e840b8c090fb04d0406e6f6a",
@@ -112,9 +112,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:34.774106+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:34.774106+00:00"
     },
     {
       "id": "49a2fbf640ee4ac6bf624ce56cd3322de02cc56887fc0c4abfb266e8ed4b7afe",
@@ -126,9 +126,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:36.394534+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:36.394534+00:00"
     },
     {
       "id": "c6f27f0278e54896cb458d673ad779caf1cc672a204c24008f73935723cf5b14",
@@ -140,9 +140,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:37.044023+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:37.044023+00:00"
     },
     {
       "id": "df53df15185adcfa25ca6935a13bd6ebd8bbbe36aae1874de9a0466f29faedb8",
@@ -154,9 +154,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:38.369642+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:38.369642+00:00"
     },
     {
       "id": "61c49f28c7eda1ad26aeb7438ae3280a44f7976499ef966887eee82dd9a5844e",
@@ -168,9 +168,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:38.992750+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:38.992750+00:00"
     },
     {
       "id": "0a906dd9d1a11fb0d32bab4ff8a1a349091efaae3ff77c770adf6ab6e72c12f6",
@@ -182,9 +182,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:39.660974+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:39.660974+00:00"
     },
     {
       "id": "cbe8f498b1de77721185fcf356be7faaa00f7418cfbb287cd8ebae22129d3f63",
@@ -196,9 +196,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:40.494534+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:40.494534+00:00"
     },
     {
       "id": "88e4b3422248c754510afecb820d79e45af2b66052d4cd439e6759c5e0437f06",
@@ -210,9 +210,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:41.306462+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:41.306462+00:00"
     },
     {
       "id": "8061da5502f89bf0b961359c5606e9c710b7d3ab1f8c53ef2ad80be508584743",
@@ -224,9 +224,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:41.994208+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:41.994208+00:00"
     },
     {
       "id": "1b583662dadc4df76b3e8b67138f2e9a9544b8ec0c63f5721e5b974b3358b62c",
@@ -238,9 +238,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:42.725103+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:42.725103+00:00"
     },
     {
       "id": "6dccca48765afde6405a54eaab0b6b6116f98b78d913b0a147352913de57a9b3",
@@ -252,9 +252,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:43.391998+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:43.391998+00:00"
     },
     {
       "id": "ab82c9a629cf05b0b8548bf088443192ae31621b96e9678ab18f86161a07bb4a",
@@ -266,9 +266,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:44.059070+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:44.059070+00:00"
     },
     {
       "id": "67739420b114001947fc1ca993acb1ba87bb02e24d673019f5e1f19e15f755bd",
@@ -280,9 +280,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:46.125208+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:46.125208+00:00"
     },
     {
       "id": "c9b7914b9a1f34ddabd21243686dde9f86d1287003ef4868d5af3911e17efd8d",
@@ -294,9 +294,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:47.588766+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:47.588766+00:00"
     },
     {
       "id": "ab2cf9602a7347f5f8eeedfc4eb4e72d754e9ca34ec98d4b5c038a4b7fb9cb47",
@@ -308,9 +308,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:49.641828+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:49.641828+00:00"
     },
     {
       "id": "3a024fc848d6779bf387fe433539de116e34994862b7e9423353aa181f39013c",
@@ -322,9 +322,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:50.828137+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:50.828137+00:00"
     },
     {
       "id": "76efee0b6f47776683c345ec5b052e39d8d13b8177de482851b166c7573b17c4",
@@ -336,9 +336,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-04T01:16:52.943716+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T01:16:52.943716+00:00"
     }
   ]
 }
