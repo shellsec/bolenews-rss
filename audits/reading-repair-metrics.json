@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-04",
+  "source_urls_checked": 115,
+  "nonempty_sources": 113,
+  "empty_sources": [
+    "bolemusic"
+  ],
+  "failed_sources": [
+    "rsshub-nintendo-hk"
+  ],
+  "articles_parsed": 1786,
+  "articles_with_feed_content_or_description": 1643,
+  "json_coverage": [
+    {
+      "source": "2468c",
+      "count": 100,
+      "summary_count": 100,
+      "summary_missing": 0,
+      "summary_errors": []
+    },
+    {
+      "source": "gnn",
+      "count": 60,
+      "summary_count": 60,
+      "summary_missing": 0,
+      "summary_errors": []
+    },
+    {
+      "source": "ns45",
+      "count": 14,
+      "summary_count": 14,
+      "summary_missing": 0,
+      "summary_errors": []
+    },
+    {
+      "source": "gamer520",
+      "count": 100,
+      "summary_count": 75,
+      "summary_missing": 25,
+      "summary_errors": [
+        "HTTP Error 403: Forbidden",
+        "HTTP Error 403: Forbidden",
+        "HTTP Error 403: Forbidden",
+        "HTTP Error 403: Forbidden",
+        "HTTP Error 403: Forbidden"
+      ]
+    },
+    {
+      "source": "a9vg",
+      "count": 41,
+      "summary_count": 28,
+      "summary_missing": 13,
+      "summary_errors": [
+        "Cross-site or non-HTTPS redirect rejected",
+        "Cross-site or non-HTTPS redirect rejected",
+        "Cross-site or non-HTTPS redirect rejected",
+        "Cross-site or non-HTTPS redirect rejected",
+        "Cross-site or non-HTTPS redirect rejected"
+      ]
+    },
+    {
+      "source": "nintendo-tw",
+      "count": 24,
+      "summary_count": 24,
+      "summary_missing": 0,
+      "summary_errors": []
+    }
+  ],
+  "native_tests": 13,
+  "collector_regressions": 11,
+  "web_gateway_tests": 21,
+  "controller_exit_diagnostic_passed": true,
+  "switch_hardware_tested": false
+}

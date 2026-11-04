@@ -26,5 +26,6 @@ for path in sorted((root/'feeds').glob('*.json')):
         assert item['title'] and item['original_url'].startswith('https://')
         assert not item.get('content') and not item.get('image_url')
         assert isinstance(item.get('updated_at',''),str)
+        assert isinstance(item.get('summary',''),str) and len(item.get('summary',''))<=241
         assert isinstance(item.get('tags',[]),list) and all(t in {'game_update','firmware_update','research'} for t in item.get('tags',[]))
 print('Catalog and public metadata JSON verified')

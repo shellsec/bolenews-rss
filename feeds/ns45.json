@@ -1,176 +1,204 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-04T00:43:00.928412+00:00",
+  "generated_at": "2026-11-04T01:15:47.017982+00:00",
   "source_url": "https://www.ns45.com/news/",
   "items": [
     {
       "id": "1fec7e3dc682072935f18b56cdba144085a39c6a4b76b292b888a236a0c73606",
       "title": "皮克敏4Switch2版11月12日正式发售 试玩版11月2日开放下载",
       "original_url": "https://www.ns45.com/news/66930.html",
-      "summary": "",
+      "summary": "任天堂正式公布皮克敏4Switch2版将于11月12日发售，11月2日率先上线试玩版且游玩进度可继承，作品新增专属模式与语音指令，原版玩家可通过升级包获取新版本内容。",
       "content": "",
       "image_url": "",
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "metadata"
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T01:15:47.794174+00:00",
+      "summary_origin": "publisher_description"
     },
     {
       "id": "e032e960798aa2c8a236cf1d47113113f3acca01f5e7e3b58e107090ac74c0f5",
       "title": "米哈游星布谷地官宣登陆Switch2 2027年正式上线",
       "original_url": "https://www.ns45.com/news/66929.html",
-      "summary": "",
+      "summary": "米哈游旗下生活模拟游戏星布谷地正式官宣2027年登陆任天堂Switch2平台，游戏主打星际田园玩法，包含种田钓鱼赶海等内容，支持场景自定义与多人社交互动。",
       "content": "",
       "image_url": "",
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "metadata"
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T01:15:48.472328+00:00",
+      "summary_origin": "publisher_description"
     },
     {
       "id": "dda18bf5319579d5e6f2cdf0e0ab1f0bf820ff5f5169e5391ebd2914968a0979",
       "title": "《塞尔达传说：时之笛重制版》容量公布 24.5GB登陆Switch2",
       "original_url": "https://www.ns45.com/news/66928.html",
-      "summary": "",
+      "summary": "任天堂eShop更新Switch2游戏容量信息，《塞尔达传说：时之笛重制版》最终下载大小为24.5GB，较此前预估值有所缩减，游戏11月5日正式发售，数字版玩家需预留对应存储空间。",
       "content": "",
       "image_url": "",
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "metadata"
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T01:15:49.158938+00:00",
+      "summary_origin": "publisher_description"
     },
     {
       "id": "70ecb0209e973ce409c96aca1e8c6de9663a6d76b0b4676376cf6f035b854133",
       "title": "米哈游星布谷地官宣2027年登陆Switch2 原神Switch版六年无进展",
       "original_url": "https://www.ns45.com/news/66927.html",
-      "summary": "",
+      "summary": "米哈游正式宣布生活模拟新作星布谷地将于2027年登陆Switch2平台，官方评论区玩家集中讨论原神Switch版进展，该版本2020年官宣至今仍无实质性上线消息。",
       "content": "",
       "image_url": "",
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "metadata"
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T01:15:49.876518+00:00",
+      "summary_origin": "publisher_description"
     },
     {
       "id": "225a34eadf5ad707b24be178c92819524dd651034b6a656d2190060ae5435bdf",
       "title": "首个Switch2模拟器Eden-NX2正式发布 可运行多款游戏",
       "original_url": "https://www.ns45.com/news/66926.html",
-      "summary": "",
+      "summary": "首款Switch2模拟器Eden-NX2由开发者Takoroka发布，已可启动马力欧赛车世界等多款游戏，当前版本运行存在卡顿画面故障，相关法律风险引发玩家群体广泛讨论。",
       "content": "",
       "image_url": "",
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "metadata"
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T01:15:50.561347+00:00",
+      "summary_origin": "publisher_description"
     },
     {
       "id": "e8485f12faa3ac1fb84319ff617fe5f63305c4580380230e7f87e77b3a351ad2",
       "title": "《塞尔达传说：时之笛》重制版实机截图泄露 多项改动细节曝光",
       "original_url": "https://www.ns45.com/news/66925.html",
-      "summary": "",
+      "summary": "《塞尔达传说：时之笛》重制版发售前夕因零售渠道提前流出实机截图，爆料玩家分享地图重做、战斗优化、系统升级等多项改动细节，相关信息尚未得到任天堂官方确认。",
       "content": "",
       "image_url": "",
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "metadata"
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T01:15:51.260036+00:00",
+      "summary_origin": "publisher_description"
     },
     {
       "id": "9cf22c0e5123df074b2f2f7cdf8451226de1a3a4f2b5d91e8dc957603192fd07",
       "title": "Switch2越狱工具ns2jb可提取马里奥赛车世界等游戏文件 破解进展详解",
       "original_url": "https://www.ns45.com/news/66078.html",
-      "summary": "",
+      "summary": "外媒消息显示Switch2越狱工具ns2jb已经投入使用，黑客成功提取马里奥赛车世界三角符文黄昏血族beta版游戏文件，工具存在不少使用限制。",
       "content": "",
       "image_url": "",
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "metadata"
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T01:15:51.991106+00:00",
+      "summary_origin": "publisher_description"
     },
     {
       "id": "78076b6b19f0faa2c7f87bb0de0149afd5079c615189b46be3b03cc549747622",
       "title": "Switch2 Lite爆料汇总 搭载三星8LPU+制程芯片功耗下降15%",
       "original_url": "https://www.ns45.com/news/66562.html",
-      "summary": "",
+      "summary": "外媒Daily Gadget传出Switch2 Lite相关爆料，新机计划使用三星8LPU+第二代8纳米工艺，芯片功耗降低15%，整机成本可以控制，本篇整理这份传闻里的硬件参数和产品定位信息。",
       "content": "",
       "image_url": "",
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "metadata"
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T01:15:52.690285+00:00",
+      "summary_origin": "publisher_description"
     },
     {
       "id": "4414cdc94e520c711eb62f69e1980b951e9f745e75cff11c3a0f030c08ff4f3c",
       "title": "怪物猎人荒野Switch2试玩帧率曝光 或推动全平台性能优化",
       "original_url": "https://www.ns45.com/news/66561.html",
-      "summary": "",
+      "summary": "海外媒体iXBT Games放出《怪物猎人：荒野》试玩版实测数据，Switch2平均45帧，Xbox Series S仅25帧，卡普空针对NS2的调校方案，有机会同步给到PC、PS5、Xbox全平台。",
       "content": "",
       "image_url": "",
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "metadata"
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T01:15:53.385676+00:00",
+      "summary_origin": "publisher_description"
     },
     {
       "id": "6b2920e3430134379b3500edbde46a187306e535dc43db65c9742bca9401afd6",
       "title": "Switch2漏洞曝光 任天堂紧急下架SmileBASIC4",
       "original_url": "https://www.ns45.com/news/66560.html",
-      "summary": "",
+      "summary": "Switch2被曝出存在漏洞，安全研究者放出ns2jb方案，任天堂快速在英国eShop下架编程游戏SmileBASIC4，商店页面返回404，本文讲解这套漏洞的技术细节与当前状态。",
       "content": "",
       "image_url": "",
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "metadata"
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T01:15:54.054613+00:00",
+      "summary_origin": "publisher_description"
     },
     {
       "id": "4bd7512078b1f2c7b016555417dd629556d558dd2920be16b1ac502819c72258",
       "title": "分析师警告Switch 2或涨至800美元 当前三千元价位性价比突出",
       "original_url": "https://www.ns45.com/news/57130.html",
-      "summary": "",
+      "summary": "受AI需求激增带动内存涨价影响，游戏硬件制造成本持续攀升，行业分析师警告Switch 2后续售价或涨至800美元，当前499美元定价性价比突出，为玩家购机决策提供实用参考。",
       "content": "",
       "image_url": "",
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "metadata"
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T01:15:54.750247+00:00",
+      "summary_origin": "publisher_description"
     },
     {
       "id": "0f4a903c020d2c76d8b58fcd93e2771df0615d90ef1ea9e987f8d188a834b9c1",
       "title": "《卧龙：苍天陨落完全版》9月3日登陆Switch2军旗系统实机演示公布",
       "original_url": "https://www.ns45.com/news/61234.html",
-      "summary": "",
+      "summary": "光荣特库摩公布《卧龙：苍天陨落完全版》Switch2版本实机演示，展示军旗系统核心玩法，该作9月3日正式发售，完整收录全部DLC内容，为系列首次登陆任天堂主机平台。",
       "content": "",
       "image_url": "",
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "metadata"
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T01:15:55.435890+00:00",
+      "summary_origin": "publisher_description"
     },
     {
       "id": "614de438ccb287332b370e5190cc1c8059c2af7b222a6bd3821273f02568bf8f",
       "title": "火焰纹章万缕千丝自动保存引争议 玩家遇到重打180回合情况",
       "original_url": "https://www.ns45.com/news/65459.html",
-      "summary": "",
+      "summary": "IGN满分作品火焰纹章万缕千丝的自动保存机制在日本游戏社区引发大量讨论，有玩家因为自动存档覆盖进度，需要重新完成180回合与外传关卡，不同玩家对这套存档设计持有不同看法。",
       "content": "",
       "image_url": "",
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "metadata"
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T01:15:56.151490+00:00",
+      "summary_origin": "publisher_description"
     },
     {
       "id": "0aadfc4aeeeca47c537d7461e98332fd606916029222ccdbac5219be7e57f41f",
       "title": "任天堂遭玩家集体诉讼拒退关税退款 法院驳回申请最新进展",
       "original_url": "https://www.ns45.com/news/55493.html",
-      "summary": "",
+      "summary": "任天堂遭美国玩家集体诉讼要求退还关税退款，7月21日提交驳回申请称交易已完成无退款义务，案件涉及Switch主机及配件涨价与美国关税政策变动。",
       "content": "",
       "image_url": "",
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "metadata"
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-04T01:15:56.861504+00:00",
+      "summary_origin": "publisher_description"
     }
   ]
 }

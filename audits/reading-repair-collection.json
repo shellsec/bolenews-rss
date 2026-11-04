@@ -1,0 +1,113 @@
+[
+  {
+    "source": "2468c",
+    "attempted_at": "2026-11-04T01:15:47.016330+00:00",
+    "status": "ok",
+    "summary_count": 100,
+    "summary_attempts": 100,
+    "summary_missing": 0,
+    "summary_errors": [],
+    "count": 100,
+    "fetched_count": 110,
+    "retained_count": 0,
+    "input_urls": [
+      "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
+      "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt&orderby=modified&order=desc"
+    ],
+    "dropped_by_limit": 11
+  },
+  {
+    "source": "gnn",
+    "attempted_at": "2026-11-04T01:15:47.016947+00:00",
+    "status": "ok",
+    "summary_count": 60,
+    "summary_attempts": 35,
+    "summary_missing": 0,
+    "summary_errors": [],
+    "count": 60,
+    "fetched_count": 30,
+    "retained_count": 30,
+    "input_urls": [
+      "https://gnn.gamer.com.tw/rss.xml"
+    ],
+    "dropped_by_limit": 0
+  },
+  {
+    "source": "ns45",
+    "attempted_at": "2026-11-04T01:15:47.017982+00:00",
+    "status": "ok",
+    "summary_count": 14,
+    "summary_attempts": 14,
+    "summary_missing": 0,
+    "summary_errors": [],
+    "count": 14,
+    "fetched_count": 14,
+    "retained_count": 0,
+    "input_urls": [
+      "https://www.ns45.com/news/"
+    ],
+    "dropped_by_limit": 0
+  },
+  {
+    "source": "gamer520",
+    "attempted_at": "2026-11-04T01:15:57.276937+00:00",
+    "status": "ok",
+    "robots_status": 403,
+    "summary_count": 75,
+    "summary_attempts": 25,
+    "summary_missing": 25,
+    "summary_errors": [
+      "HTTP Error 403: Forbidden",
+      "HTTP Error 403: Forbidden",
+      "HTTP Error 403: Forbidden",
+      "HTTP Error 403: Forbidden",
+      "HTTP Error 403: Forbidden"
+    ],
+    "count": 100,
+    "fetched_count": 102,
+    "retained_count": 0,
+    "input_urls": [
+      "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
+      "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt&orderby=modified&order=desc"
+    ],
+    "dropped_by_limit": 2
+  },
+  {
+    "source": "a9vg",
+    "attempted_at": "2026-11-04T01:16:11.769173+00:00",
+    "status": "ok",
+    "summary_count": 28,
+    "summary_attempts": 41,
+    "summary_missing": 13,
+    "summary_errors": [
+      "Cross-site or non-HTTPS redirect rejected",
+      "Cross-site or non-HTTPS redirect rejected",
+      "Cross-site or non-HTTPS redirect rejected",
+      "Cross-site or non-HTTPS redirect rejected",
+      "Cross-site or non-HTTPS redirect rejected"
+    ],
+    "count": 41,
+    "fetched_count": 40,
+    "retained_count": 1,
+    "input_urls": [
+      "https://www.a9vg.com/"
+    ],
+    "dropped_by_limit": 0
+  },
+  {
+    "source": "nintendo-tw",
+    "attempted_at": "2026-11-04T01:16:29.158272+00:00",
+    "status": "ok",
+    "summary_count": 24,
+    "summary_attempts": 24,
+    "summary_missing": 0,
+    "summary_errors": [],
+    "count": 24,
+    "fetched_count": 24,
+    "retained_count": 0,
+    "input_urls": [
+      "https://www.nintendo.com/tw/topics"
+    ],
+    "dropped_by_limit": 0
+  }
+]

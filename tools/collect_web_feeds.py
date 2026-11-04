@@ -23,7 +23,7 @@ import xml.etree.ElementTree as ET
 ROOT = Path(__file__).resolve().parents[1]
 SITES = {
     "2468c": {"name": "奥德彪计划 PS4 / PS5", "format": "wordpress",
-              "url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories",
+              "url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
               "hosts": {"2468c.com"}, "path": r"/\d+\.html",
               "platform_categories": {"ps4": {53, 112}, "ps5": {65, 111, 141, 146, 147}},
               "tool_categories": {111, 112}},
@@ -33,7 +33,7 @@ SITES = {
     "ns45": {"name": "NS45", "url": "https://www.ns45.com/news/",
              "hosts": {"www.ns45.com", "ns45.com"}, "path": r"/news/\d+\.html"},
     "gamer520": {"name": "Gamer520 public WordPress API (Switch category)",
-                 "url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories",
+                 "url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
                  "hosts": {"vip.gamers520.com"}, "path": r"/\d+\.html",
                  "format": "wordpress", "platforms": ["switch1"]},
     "a9vg": {"name": "A9VG", "url": "https://www.a9vg.com/",
@@ -140,6 +140,91 @@ def metadata_tags(item):
     return item
 
 
+class ExcerptText(HTMLParser):
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.parts, self.blocked = [], 0
+
+    def handle_starttag(self, tag, attrs):
+        if tag in ("script", "style", "noscript"):
+            self.blocked += 1
+        elif tag in ("p", "br", "div", "li") and not self.blocked:
+            self.parts.append(" ")
+
+    def handle_endtag(self, tag):
+        if tag in ("script", "style", "noscript"):
+            self.blocked = max(0, self.blocked - 1)
+        elif tag in ("p", "div", "li") and not self.blocked:
+            self.parts.append(" ")
+
+    def handle_data(self, text):
+        if not self.blocked:
+            self.parts.append(text)
+
+
+def clean_excerpt(value):
+    if not isinstance(value, str):
+        return ""
+    parser = ExcerptText()
+    parser.feed(value[:65536])
+    text = " ".join("".join(parser.parts).split())
+    text = re.sub(r"https?://\S+", "", text)
+    text = re.sub(r"\[\s*(?:…|\.\.\.)\s*\]", "…", text).strip()
+    if len(text.strip(".… ")) < 8:
+        return ""
+    return text[:240].rstrip() + ("…" if len(text) > 240 else "")
+
+
+class DescriptionMeta(HTMLParser):
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.description, self.og_description = "", ""
+
+    def handle_starttag(self, tag, attrs):
+        if tag != "meta":
+            return
+        attrs = dict(attrs)
+        key = attrs.get("property", attrs.get("name", "")).lower()
+        if key == "description":
+            self.description = clean_excerpt(attrs.get("content", ""))
+        elif key == "og:description":
+            self.og_description = clean_excerpt(attrs.get("content", ""))
+
+
+def fill_descriptions(items, previous, site, robots, limit):
+    pending, attempts, failures = [], 0, []
+    for item in items:
+        old = previous.get(item["original_url"], {})
+        unchanged = (old.get("title") == item["title"] and old.get("updated_at", "") == item.get("updated_at", ""))
+        if not item.get("summary") and unchanged:
+            for field in ("summary", "summary_origin", "summary_checked_at"):
+                if old.get(field):
+                    item[field] = old[field]
+        if not item.get("summary"):
+            pending.append(item)
+    pending.sort(key=lambda item: item.get("summary_checked_at", ""))
+    for item in pending[:limit]:
+        if not robots.can_fetch(AGENT, item["original_url"]):
+            continue
+        if attempts:
+            time.sleep(0.3)
+        attempts += 1
+        item["summary_checked_at"] = dt.datetime.now(dt.timezone.utc).isoformat()
+        try:
+            parser = DescriptionMeta()
+            parser.feed(fetch(item["original_url"], site))
+            text = parser.og_description or parser.description
+            if text and text != item["title"]:
+                item.update(summary=text, summary_origin="publisher_description", content_scope="summary")
+        except Exception as error:
+            failures.append(str(error)[:160])
+            if isinstance(error, urllib.error.HTTPError) and error.code in (401, 403, 429):
+                break
+    return {"summary_count": sum(bool(x.get("summary")) for x in items),
+            "summary_attempts": attempts, "summary_missing": sum(not x.get("summary") for x in items),
+            "summary_errors": failures[:5]}
+
+
 def wp_date(value):
     try:
         return dt.datetime.strptime(value, "%Y-%m-%dT%H:%M:%S").isoformat() + "Z"
@@ -169,6 +254,11 @@ def convert_wordpress(body, site):
                           "summary": "", "content": "", "image_url": "",
                           "content_scope": "metadata", "language": "zh-Hans",
                           "evidence": "community"}
+            excerpt = post.get("excerpt", {})
+            if isinstance(excerpt, dict) and not excerpt.get("protected", False):
+                summary = clean_excerpt(excerpt.get("rendered", ""))
+                if summary:
+                    item.update(summary=summary, summary_origin="publisher_excerpt", content_scope="summary")
             if modified and (not date or modified >= date):
                 item["updated_at"] = modified
             if site.get("platforms"):
@@ -226,10 +316,13 @@ def convert_rss(body, site):
                       "source_name": site["name"], "language": site["language"],
                       "summary": "", "content": "", "image_url": "",
                       "content_scope": "metadata", "evidence": "community"}
+        summary = clean_excerpt(entry.findtext("description", ""))
+        if summary:
+            items[url].update(summary=summary, summary_origin="publisher_feed_excerpt", content_scope="summary")
     return [metadata_tags(item) for item in items.values()]
 
 
-def collect(key, output):
+def collect(key, output, summary_limit=12):
     site = SITES[key]
     now = dt.datetime.now(dt.timezone.utc).isoformat()
     path = output / (key + ".json")
@@ -282,12 +375,15 @@ def collect(key, output):
                     previous = {x["original_url"]: x for x in cached["items"] if allowed(x["original_url"], site)}
             except (ValueError, KeyError, TypeError):
                 pass
+        cached = previous.copy()
         previous.update(incoming)
         items = [metadata_tags(item) for item in previous.values()]
         # Dated updates lead; undated index entries retain upstream order, not fake times.
         items.sort(key=lambda x: max(x.get("updated_at", ""), x.get("published_at", "")), reverse=True)
         total = len(items)
         items = items[:100]  # All supported clients accept at most 100 items per feed.
+        description_health = fill_descriptions(items, cached, site, robots, summary_limit)
+        health.update(description_health)
         atomic_json(path, {"schema_version": 1, "status": "ok", "generated_at": now,
                            "source_url": site["url"], "items": items})
         health.update(status="partial" if failures else "ok", count=len(items),
@@ -309,8 +405,10 @@ if __name__ == "__main__":
     cli = argparse.ArgumentParser(description=__doc__)
     cli.add_argument("--site", choices=["all", *SITES], required=True)
     cli.add_argument("--output", type=Path, default=ROOT / "feeds")
+    cli.add_argument("--summary-limit", type=int, choices=range(0, 101), default=12,
+                     help="Maximum missing public description requests per source (0..100)")
     args = cli.parse_args()
     keys = SITES if args.site == "all" else [args.site]
-    results = [collect(key, args.output) for key in keys]
+    results = [collect(key, args.output, args.summary_limit) for key in keys]
     print(json.dumps(results, ensure_ascii=True, indent=2))
     raise SystemExit(0 if all(r["status"] == "ok" for r in results) else 1)

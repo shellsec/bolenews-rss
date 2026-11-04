@@ -32,7 +32,7 @@ class CollectorTest(unittest.TestCase):
     def test_gnn_metadata_dates_and_provenance(self):
         payload = '''<rss><channel>
           <item><title>New &amp; Game</title><link>https://gnn.gamer.com.tw/detail.php?sn=12</link>
-          <pubDate>Mon, 02 Nov 2026 12:41:49 +0800</pubDate><description>private body</description></item>
+          <pubDate>Mon, 02 Nov 2026 12:41:49 +0800</pubDate><description>Publisher RSS excerpt</description></item>
           <item><title>Duplicate</title><link>https://gnn.gamer.com.tw/detail.php?sn=12</link></item>
           <item><title>Other domain</title><link>https://evil.test/detail.php?sn=13</link></item>
           <item><title>Unknown date</title><link>https://gnn.gamer.com.tw/detail.php?sn=14</link><pubDate>unknown</pubDate></item>
@@ -42,9 +42,44 @@ class CollectorTest(unittest.TestCase):
         self.assertEqual(rows[0]['published_at'], '2026-11-02T04:41:49Z')
         self.assertEqual(rows[1]['published_at'], '')
         self.assertEqual(rows[0]['source_name'], c.SITES['gnn']['name'])
-        self.assertTrue(all(not r['content'] and not r['image_url'] and not r['summary'] for r in rows))
+        self.assertTrue(all(not r['content'] and not r['image_url'] for r in rows))
+        self.assertEqual(rows[0]['summary'], 'Publisher RSS excerpt')
         with self.assertRaises(ValueError):
             c.convert_rss('<!DOCTYPE rss [<!ENTITY x "bad">]><rss/>', c.SITES['gnn'])
+
+    def test_publisher_excerpt_not_full_article(self):
+        payload = [{"title": {"rendered": "Game title"}, "link": "https://vip.gamers520.com/12.html",
+                    "excerpt": {"rendered": "<p>Publisher short introduction &amp; notes.</p><script>bad()</script>", "protected": False},
+                    "content": {"rendered": "Do not collect full article"}},
+                   {"title": {"rendered": "Protected"}, "link": "https://vip.gamers520.com/13.html",
+                    "excerpt": {"rendered": "Private description", "protected": True}}]
+        rows = c.convert_wordpress(c.json.dumps(payload), c.SITES['gamer520'])
+        self.assertEqual(rows[0]['summary'], 'Publisher short introduction & notes.')
+        self.assertEqual(rows[0]['content_scope'], 'summary')
+        self.assertEqual(rows[1]['summary'], '')
+        self.assertEqual(rows[0]['content'], '')
+        self.assertEqual(c.clean_excerpt('<p>[&hellip;]</p>'), '')
+        self.assertLessEqual(len(c.clean_excerpt('中' * 1000)), 241)
+
+    def test_public_description_cache_and_robots(self):
+        site=c.SITES['ns45']; robots=c.urllib.robotparser.RobotFileParser()
+        robots.parse(['User-agent: *', 'Allow: /'])
+        row={'title':'New game', 'original_url':'https://www.ns45.com/news/123.html', 'summary':''}
+        with patch.object(c,'fetch',return_value='<meta content="Publisher provided game introduction." name="description">') as f:
+            health=c.fill_descriptions([row],{},site,robots,12)
+            self.assertEqual(f.call_count,1)
+        self.assertEqual(health['summary_count'],1)
+        self.assertEqual(row['summary'],'Publisher provided game introduction.')
+        newer={'title':'New game','original_url':row['original_url'],'summary':''}
+        with patch.object(c,'fetch') as f:
+            c.fill_descriptions([newer],{row['original_url']:row},site,robots,12)
+            self.assertEqual(f.call_count,0)
+        self.assertEqual(newer['summary'],row['summary'])
+        robots=c.urllib.robotparser.RobotFileParser()
+        robots.parse(['User-agent: *', 'Disallow: /news/'])
+        with patch.object(c,'fetch') as f:
+            c.fill_descriptions([{'title':'Other game','original_url':row['original_url'],'summary':''}],{},site,robots,12)
+            self.assertEqual(f.call_count,0)
 
     def test_wordpress_public_metadata(self):
         payload = [{"title": {"rendered": "Switch &amp; Update"},
@@ -65,7 +100,7 @@ class CollectorTest(unittest.TestCase):
             with tempfile.TemporaryDirectory() as tmp:
                 error = c.urllib.error.HTTPError("https://vip.gamers520.com/robots.txt", code, "error", {}, None)
                 with patch.object(c, "fetch", side_effect=[error, payload, payload]) as f:
-                    result = c.collect("gamer520", Path(tmp))
+                    result = c.collect("gamer520", Path(tmp), summary_limit=0)
                     self.assertEqual(f.call_count, expected_calls)
                     self.assertEqual(result["status"], expected_status)
 
@@ -90,11 +125,11 @@ class CollectorTest(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             output = Path(tmp)
             with patch.object(c, "fetch", side_effect=["User-agent: *\nAllow: /", payload(1, "New game"), payload(2, "Old game 升补")]):
-                health = c.collect("gamer520", output)
+                health = c.collect("gamer520", output, summary_limit=0)
             self.assertEqual(health["count"], 2)
             self.assertEqual(health["status"], "ok")
             with patch.object(c, "fetch", side_effect=["User-agent: *\nAllow: /", payload(3, "Another game"), ValueError("timeout")]):
-                health = c.collect("gamer520", output)
+                health = c.collect("gamer520", output, summary_limit=0)
             self.assertEqual(health["status"], "partial")
             self.assertEqual(health["count"], 3)
             self.assertEqual(health["retained_count"], 2)
@@ -115,16 +150,16 @@ class CollectorTest(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             output = Path(tmp)
             with patch.object(c, "fetch", side_effect=["User-agent: *\nAllow: /", '<a href="/news/123.html">Example title</a>']):
-                self.assertEqual(c.collect("ns45", output)["status"], "ok")
+                self.assertEqual(c.collect("ns45", output, summary_limit=0)["status"], "ok")
             before = (output / "ns45.json").read_bytes()
             with patch.object(c, "fetch", side_effect=ValueError("TLS unavailable")):
-                self.assertEqual(c.collect("ns45", output)["status"], "unavailable")
+                self.assertEqual(c.collect("ns45", output, summary_limit=0)["status"], "unavailable")
             self.assertEqual((output / "ns45.json").read_bytes(), before)
 
     def test_robots_and_initial_failure(self):
         with tempfile.TemporaryDirectory() as tmp:
             with patch.object(c, "fetch", return_value="User-agent: *\nDisallow: /") as f:
-                result = c.collect("gamer520", Path(tmp))
+                result = c.collect("gamer520", Path(tmp), summary_limit=0)
                 self.assertEqual(f.call_count, 1)
                 self.assertEqual(result["status"], "unavailable")
             self.assertIn('"status": "unavailable"', (Path(tmp) / "gamer520.json").read_text())

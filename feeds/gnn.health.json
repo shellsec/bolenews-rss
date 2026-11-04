@@ -1,7 +1,11 @@
 {
   "source": "gnn",
-  "attempted_at": "2026-11-04T00:43:00.322438+00:00",
+  "attempted_at": "2026-11-04T01:15:47.016947+00:00",
   "status": "ok",
+  "summary_count": 60,
+  "summary_attempts": 35,
+  "summary_missing": 0,
+  "summary_errors": [],
   "count": 60,
   "fetched_count": 30,
   "retained_count": 30,

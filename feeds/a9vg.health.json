@@ -1,7 +1,17 @@
 {
   "source": "a9vg",
-  "attempted_at": "2026-11-04T00:43:04.836435+00:00",
+  "attempted_at": "2026-11-04T01:16:11.769173+00:00",
   "status": "ok",
+  "summary_count": 28,
+  "summary_attempts": 41,
+  "summary_missing": 13,
+  "summary_errors": [
+    "Cross-site or non-HTTPS redirect rejected",
+    "Cross-site or non-HTTPS redirect rejected",
+    "Cross-site or non-HTTPS redirect rejected",
+    "Cross-site or non-HTTPS redirect rejected",
+    "Cross-site or non-HTTPS redirect rejected"
+  ],
   "count": 41,
   "fetched_count": 40,
   "retained_count": 1,
