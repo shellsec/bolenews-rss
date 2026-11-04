@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-04T16:26:13.973562+00:00",
+  "generated_at": "2026-11-04T22:42:27.420846+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -317,6 +317,98 @@
       "updated_at": "2026-11-04T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-04T16:26:10.709103+00:00"
+    },
+    {
+      "id": "4daea3198a86bdd6a6489a80f459b858ee901d1bc4a1dfee70d6b256b1d96836",
+      "title": "[SS土星移植游戏]飞鸟120%：燃烧的学园祭|Asuka 120% Burning Fest. Limited",
+      "original_url": "https://nsthwj.cn/game/switch/137817",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "故事发生在一所名为“凉兰女子私立学校”的地方，这所学校专为上流社会的女儿们提供教育。该校的各个社团每年都会举办一场名为“社团竞技大赛”的武术比赛。每个角色都有自己独特的战斗风格，而且各社团的招式也各具特色。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-04T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-04T22:42:20.996150+00:00"
+    },
+    {
+      "id": "47b283da2c221e9f57e753830bea3df4db2194de2a20dd8962c17ec52b144752",
+      "title": "[SS土星移植游戏]口袋战士|Pocket Fighter",
+      "original_url": "https://nsthwj.cn/game/switch/137816",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "Capcom 的格斗游戏角色以幽默和可爱形象一同登场！ 这是一款非常简单的对战动作游戏，就算是不擅长玩格斗游戏的玩家也能透过简单操作，施展连串特别招式， 让可爱角色在画面横行！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-04T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-04T22:42:22.259673+00:00"
+    },
+    {
+      "id": "5304350a97de103364eede39ee63d4a3f767109bbe5b384d2b4e4f89ba073442",
+      "title": "[移植游戏]跑车浪漫旅3|GT赛车3|Gran Turismo 3",
+      "original_url": "https://nsthwj.cn/game/switch/137815",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 gt3r 进入游戏 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-04T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-04T22:42:23.567687+00:00"
+    },
+    {
+      "id": "58456e9713cdad856af8d29430f4710f2d5683880a8089fc6c87f1db8320b8e5",
+      "title": "我们是伊娃|We are Eva",
+      "original_url": "https://nsthwj.cn/game/switch/137814",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "在这款突破边界、充满创意的 2D 平台游戏中，你可以同时置身于多个维度，并随心所欲地穿梭其中！顺便介绍一下，我叫伊娃，我保证我们一定会玩得很开心！也可能不会……说不定我们俩都会遭受可怕的折磨……我怎么知道呢？我只是个电子游戏角色而已…… 你还在看吗？哇！就像我刚才说的，我叫伊娃，是你正在看的这款游戏的主角。没错，这款…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-04T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-04T22:42:24.638500+00:00"
     },
     {
       "id": "1634cb52da30aca03ce412d44f38bd8806cb53cb41e9ee4ab55a026d85e5ad70",
@@ -3285,147 +3377,7 @@
           "extraction_code": "jdsy"
         }
       ],
-      "summary_checked_at": "2026-11-04T16:26:15.355182+00:00"
-    },
-    {
-      "id": "ab7c206e9352b578ccd33269d35767111a6f67f2e01edcdb64c85f804f09e3b3",
-      "title": "永恒万圣节|永远的万圣节|Halloween Forever中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137609",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "Something mysterious is happening in the pumpkin patch this Halloween! You control Pumpkin Man, a humanoid pumpkin thing animated by occult forces on a quest t…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.02 系统要求：≥ 5.05",
-      "updated_at": "2026-10-27T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1P36NjgJrp8LUd8PPE8qaZg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP4wEKxKgpPn3R8iQlMUfeGaA1?pwd=444k",
-          "extraction_code": "444k"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:21:08.721720+00:00"
-    },
-    {
-      "id": "42b8b8b2789cbb5b327c38546792db5508d362e7d5a97253a9e55528d2c16a89",
-      "title": "救赎死神|Redemption Reapers中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137606",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "一支名为“摩斯”的异形大军突然现世，蹂躏百姓，毁灭诸国。 尝试与其对抗的诸多势力之中，有一支名为“灰鹰旅团”的小型佣兵团。 本作是一款描绘了这些受尽折磨的人们进行微不足道的抵抗的黑暗幻想风战略模拟游戏。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.42 系统要求：≥ 5.05",
-      "updated_at": "2026-10-27T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1GlNm0Q5EohHOIIlwOkEj2A?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP4xF2octPrN7JdWjeo8Mv7xA1?pwd=upd5",
-          "extraction_code": "upd5"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:21:09.622750+00:00"
-    },
-    {
-      "id": "3fc836e8ca80cdab4938a057e7bd1eefb40630dfbf574e266d110f69e41a4b37",
-      "title": "圣女战旗|Banner of the Maid中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137605",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "《圣女战旗 Banner of the Maid》是一款致敬战棋游戏黄金时代的王道日式SRPG游戏。在架空的法国大革命时期，扮演拥有独特才能的少女军官波利娜·波拿巴，率领军队突破重重难关，在暗流涌动的巴黎沙龙与硝烟弥漫的战场中，体验别样的英雄史诗。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.04 系统要求：≥ 5.05",
-      "updated_at": "2026-10-27T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1wRpLLgnEJMGfHPU2yoVu1Q?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP4vsbabg7Y72kRyyruXJRwUA1?pwd=kgwb",
-          "extraction_code": "kgwb"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:21:10.228938+00:00"
-    },
-    {
-      "id": "032f25cb94913bf7fecf00777671d04555e66612c0554b6ecfc6f6bf8fb1be7e",
-      "title": "拳击俱乐部2：快进未来|Punch Club 2: Fast Forward中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137604",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "在格斗管理模拟器《拳击俱乐部》的激爽续作中，训练、战斗，并走向巅峰！指导你的拳手，引领他成为终极冠军：选择不同的战斗风格，掌控他的日常训练，并像一位骄傲的前辈一样看他痛扁对手！",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.02 系统要求：≥ 5.05",
-      "updated_at": "2026-10-27T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1ZPwNiNWkthRQuYOZFSqGdw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP4vqFwhtaLwm8EOkJ2kSU9vA1?pwd=d34z",
-          "extraction_code": "d34z"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:21:10.800668+00:00"
+      "summary_checked_at": "2026-11-04T22:42:29.538894+00:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-04T16:25:49.835970+00:00",
+  "generated_at": "2026-11-04T22:42:04.844770+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
     {
@@ -81,10 +81,10 @@
       "summary": "日本獨立遊戲開發者 AU CREATE 旗下結合老虎機玩法與增量成長機制策略新作《宇宙拉霸（暫譯，原名：Space Lot）》登上 Steam 平台。 《宇宙拉霸》是一款透過轉動老虎機來成長宇宙，並將最初只有 3×3 的小型盤面逐步擴展至最大 9×7 的增量遊戲。玩家需要從左到右依序停止轉輪，讓 3 個以上相同的符號在橫向、縱向或對角線上連成一",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-04T16:25:50.247338+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T16:25:50.247338+00:00"
     },
     {
       "title": "TOEI GAMES 宣布首次參展 WePlay Expo 2026 將開放三款遊戲試玩",

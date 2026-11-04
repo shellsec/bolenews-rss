@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-04T16:26:06.940452+00:00",
+  "generated_at": "2026-11-04T22:42:19.272615+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -317,6 +317,98 @@
       "updated_at": "2026-11-04T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-04T16:26:10.709103+00:00"
+    },
+    {
+      "id": "4daea3198a86bdd6a6489a80f459b858ee901d1bc4a1dfee70d6b256b1d96836",
+      "title": "[SS土星移植游戏]飞鸟120%：燃烧的学园祭|Asuka 120% Burning Fest. Limited",
+      "original_url": "https://nsthwj.cn/game/switch/137817",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "故事发生在一所名为“凉兰女子私立学校”的地方，这所学校专为上流社会的女儿们提供教育。该校的各个社团每年都会举办一场名为“社团竞技大赛”的武术比赛。每个角色都有自己独特的战斗风格，而且各社团的招式也各具特色。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-04T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-04T22:42:20.996150+00:00"
+    },
+    {
+      "id": "47b283da2c221e9f57e753830bea3df4db2194de2a20dd8962c17ec52b144752",
+      "title": "[SS土星移植游戏]口袋战士|Pocket Fighter",
+      "original_url": "https://nsthwj.cn/game/switch/137816",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "Capcom 的格斗游戏角色以幽默和可爱形象一同登场！ 这是一款非常简单的对战动作游戏，就算是不擅长玩格斗游戏的玩家也能透过简单操作，施展连串特别招式， 让可爱角色在画面横行！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-04T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-04T22:42:22.259673+00:00"
+    },
+    {
+      "id": "5304350a97de103364eede39ee63d4a3f767109bbe5b384d2b4e4f89ba073442",
+      "title": "[移植游戏]跑车浪漫旅3|GT赛车3|Gran Turismo 3",
+      "original_url": "https://nsthwj.cn/game/switch/137815",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 gt3r 进入游戏 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-04T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-04T22:42:23.567687+00:00"
+    },
+    {
+      "id": "58456e9713cdad856af8d29430f4710f2d5683880a8089fc6c87f1db8320b8e5",
+      "title": "我们是伊娃|We are Eva",
+      "original_url": "https://nsthwj.cn/game/switch/137814",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "在这款突破边界、充满创意的 2D 平台游戏中，你可以同时置身于多个维度，并随心所欲地穿梭其中！顺便介绍一下，我叫伊娃，我保证我们一定会玩得很开心！也可能不会……说不定我们俩都会遭受可怕的折磨……我怎么知道呢？我只是个电子游戏角色而已…… 你还在看吗？哇！就像我刚才说的，我叫伊娃，是你正在看的这款游戏的主角。没错，这款…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-04T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-04T22:42:24.638500+00:00"
     },
     {
       "id": "dbf8850488bf84c5e880b98bc384a766995847d0253ae61dc4d1f399c9c77db9",
