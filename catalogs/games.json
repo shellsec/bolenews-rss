@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 9,
+  "config_version": 10,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-04T14:21:48.030070+00:00",
+  "generated_at": "2026-11-04T16:18:46.699410+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -798,6 +798,24 @@
       ],
       "requiresConsent": false,
       "rights_policy": "public game index metadata and short publisher descriptions; bodies and images read from original on device; no game files or protected download links mirrored"
+    },
+    {
+      "id": "fzgamer-archive",
+      "name": "方舟游戏 PC / Android（存量）",
+      "url": "https://www.fzgamer.com/feed/",
+      "category": "discovery",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
+      "update_status": "archive; publisher states old site no longer updates"
     }
   ]
 }
