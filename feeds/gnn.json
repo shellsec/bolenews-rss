@@ -1,9 +1,22 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-05T12:33:29.289367+00:00",
+  "generated_at": "2026-11-05T20:44:13.975660+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "毀滅倒數即將開始！《Apex 英雄》X 哥吉拉實機預告影片曝光 限定內容搶先揭曉",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314580",
+      "published_at": "2026-11-05T16:00:01Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "繼預告《Apex 英雄》新合作內容後，遊戲廠商 EA 與 Respawn 今（6）日正式揭開《Apex 英雄》最新合作企劃資訊，讓東寶旗下的經典怪獸哥吉拉進入暴風點。 《Apex 英雄》X 哥吉拉限定合作預定於 11 月 10 日在全平台登場，玩家能在哥吉拉肆虐後的混亂戰場中對抗勁敵，並運....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "CygamesEdge 首部作品《崩落之國》本日正式發售",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314579",
@@ -91,10 +104,10 @@
       "summary": "H2 Interactive 宣佈，於今日（11 月 5 日）正式發售由 Jagex Ltd 開發的開放世界生存角色扮演遊戲《符文世界：龍之荒野（RuneScape: Dragonwilds）》PlayStation 5 實體盒裝版，支援語言為繁體中文、簡體中文和英文。 【以下內容為廠商提供資料原文】 《RuneScape: Dragonwilds（符文世界：龍之荒野）》是一款可獨立遊玩的開放世界生存製作遊戲，與 MMORPG《",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-05T12:33:29.811674+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-05T12:33:29.811674+00:00"
     },
     {
       "title": "非對稱派對遊戲《我帶過的最差一屆》11 月 10 日發售 與朋友一起在課堂上搗亂！",
@@ -212,10 +225,10 @@
       "summary": "《天月麻雀》限定雀士「沫莉」今（5）日登場，覺醒幻裝及商城的幻裝禮包同步亮相。此外，可獲得稀有麻將桌裝飾物的「魔法占卜」活動亦再次開放，本次以科幻及機甲為主題，為玩家帶來不一樣的酷炫牌桌裝飾。 【以下內容為廠商提供資料原文】 飯桶神社的神之子——沫莉 登場！ 與常駐雀士「小鯉千代」同樣來自「飯桶神社",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-05T12:33:30.402400+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-05T12:33:30.402400+00:00"
     },
     {
       "title": "打開禁忌之門！《童話：王國復甦》新改版「藍鬍子的秘密地窖」上線",
@@ -1316,19 +1329,6 @@
       "tags": [
         "game_update"
       ]
-    },
-    {
-      "title": "前《英雄聯盟》世界冠軍中路 Toyz 今假釋出獄 直接由移民署解送強制出境、管制一定期間不得來臺",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314403",
-      "published_at": "2026-11-03T10:03:17Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "曾經贏得《英雄聯盟》世界冠軍的前 TPA 中路選手、香港籍實況主劉偉健（Toyz）先前因為販毒案經法院判處 4 年 2 個月定讞入監服刑，臺灣高等法院臺中分院於 10 月 20 日裁定假釋中交付保護管束，並由臺中檢察分署檢察官命令以驅逐出境代替保護管束，今（3）日移民署依規定將其提解出監，並依規定辦理強制出境且....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
     }
   ]
 }

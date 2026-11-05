@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-05T12:34:02.811336+00:00",
+  "generated_at": "2026-11-05T20:44:46.266155+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -72,6 +72,190 @@
       "updated_at": "2026-11-05T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-05T12:33:57.688227+00:00"
+    },
+    {
+      "id": "0eb5b98913198300c4a909a8bb11b7c379954bfd8bbb687a4effb30ab19a3548",
+      "title": "喵星大灾难|喵星浩劫|Cat-Astrophy中文",
+      "original_url": "https://nsthwj.cn/game/switch/137875",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《Cat-Astrophy》是一款快节奏动作 Roguelite，融合激烈战斗、精准平台跳跃和独特构筑，在程序生成的星球上展开冒险。每次挑战都带来全新的玩法，而死亡意味着永久结束。你能在这场猫咪灾难中生存下来吗？ Cat-Astrophy 将快节奏战斗、精准平台跳跃与独特构筑结合在一起，打造出一款太空动作类 Rogu…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.1",
+      "updated_at": "2026-11-05T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-05T20:44:35.268741+00:00"
+    },
+    {
+      "id": "e51c2203c6b26ffc4d6ee419a9a05cb21de155053ff614e1e54cd1b065fb1b8d",
+      "title": "龙骑士之墓：重制版|Dungeon Of Dragon Knight Remake中文",
+      "original_url": "https://nsthwj.cn/game/switch/137874",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "踏入一座被遗忘的古老地宫，寻找传说中的龙骑士遗迹。这不是一条坦途——每一块砖石都可能隐藏机关，每一个转角都可能潜伏着危险，而地宫的最深处，沉睡着龙骑士守护的圣物。 经典地牢爬行，焕新呈现 作为一款第一人称、走格子、即时战斗的经典地牢爬行 RPG，《龙骑士之墓重制版》忠实还原了老派地牢探索的精髓。你将以第一人称视角亲自…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-05T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-05T20:44:36.383245+00:00"
+    },
+    {
+      "id": "84205b807a3ccd3efcf490fdb926351e5a25ccf1b8d85a5621d5e1aec4565594",
+      "title": "神曲战姬：零域和鸣|Valkyrie Tune: Synthesis of Souls中文",
+      "original_url": "https://nsthwj.cn/game/switch/137873",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "本作品是由 Good Smile Company 开发的一款对美少女模型企划“神曲战姬：零域和鸣”进行世界观扩展的视觉小说游戏。 是一部能与不同角色进行交流，体验到超乎想象剧情的视觉小说游戏。 本故事最大的特点就是，可爱・笑容・治愈后紧接反转，拥有能够颠覆你价值观的“两面性”。 作品特色 ・本作是由石原章弘（Good…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-05T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-05T20:44:37.518482+00:00"
+    },
+    {
+      "id": "3c8453cd5601d52d2ebbb51256e9da609262162c207f6fade468a42f1bbab039",
+      "title": "无尽幻樱阁|Eternal Palace Sakura中文",
+      "original_url": "https://nsthwj.cn/game/switch/137872",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "磨利刀锋，踏入樱花飞舞的永恒迷宫——“无尽幻樱阁”吧！这里是无法安息的怪物四处徘徊的梦幻迷宫。在不断变化的领域中杀出重围，用奖励道具强化自己！以华丽的战斗与机智策略挑战“高难度内容”的 Roguelite 3D 动作游戏！ 《无尽幻樱阁》是一款 3D 动作 Roguelite 游戏。玩家可以探索樱花飞舞的迷宫、强化角…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-05T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-05T20:44:38.638145+00:00"
+    },
+    {
+      "id": "2748bb9d59b6f8b99c26e61e2e7343a13bc94543ec2627de0f9af2665ed19ec9",
+      "title": "[移植游戏]恶魔城：绝望的和声|Castlevania: Harmony of Despair",
+      "original_url": "https://nsthwj.cn/game/switch/137871",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.295.f206be8+",
+      "updated_at": "2026-11-05T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-05T20:44:40.003245+00:00"
+    },
+    {
+      "id": "ed365f75d100a8a07f7d88d4de2505cb10513b9b8f349fdf24bcbcefd3b219a5",
+      "title": "玩具熊的五夜后宫：姐妹地点|Five Nights at Freddy's: Sister Location",
+      "original_url": "https://nsthwj.cn/game/switch/3424",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "欢迎来到「马戏团宝贝」披萨世界！这里的家庭乐趣以及互动性远远超出了你以前所看到的*其他*的披萨乐园！这里有顶尖的动画艺人会让您的孩子开怀大笑，不仅如此我们还提供定制披萨餐饮，没有马戏团宝贝和朋友的聚会绝对是不完整的！ 现在招聘：深夜技术员。必须能够在狭窄的空间以及运行中的机械旁维持正常的工作且不会感到不适。如果您不幸…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.2",
+      "updated_at": "2026-11-05T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-05T20:44:41.067818+00:00"
+    },
+    {
+      "id": "adcf8f7810e4a010086cf0eda601c65aed70b6813f626913bfbb92157b772f3e",
+      "title": "[绅士游戏]爱之钥|アイカギ汉化",
+      "original_url": "https://nsthwj.cn/game/switch/5326",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "由于故事是独立的，您可以放心地独自享受这部作品。这是由黑太郎先生、剧本作家卢平R先生和工作人员传递的爱情故事。描绘与青梅竹马的女主角同居生活的《相花》，以及描绘此后同居生活的《相花～After Days～》。现在可以“随身携带”两件作品！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-05T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-05T20:44:42.464787+00:00"
+    },
+    {
+      "id": "031848fe3e8e8a5511e04a7b2f70e2d5aad27bc49ad4e16ea6886a1c159e0a50",
+      "title": "[移植游戏]恶魔城：暗之咒印|Castlevania: Curse of Darkness",
+      "original_url": "https://nsthwj.cn/game/switch/137870",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.5.0",
+      "updated_at": "2026-11-05T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-05T20:44:43.579172+00:00"
     },
     {
       "id": "5c983c1a9c782525718de55ba4639d3848a8c25b4d836e95d6f88dc7d186c26f",
@@ -2599,286 +2783,6 @@
         }
       ],
       "summary_checked_at": "2026-11-04T14:20:34.526286+00:00"
-    },
-    {
-      "id": "f4fdad32a584c8ebae9b0762fb857f5be1cae8b4bcf18980329befcd3b386ca2",
-      "title": "[移植游戏]死刑犯：罪恶起源|Condemned: Criminal Origins中文",
-      "original_url": "https://nsthwj.cn/game/switch/137755",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "是什么让一个普通人的心智扭曲，沦为连环杀手？ 伊森・托马斯探员被派驻至连环犯罪调查科，他必须找到这个问题的答案，并将社会中最恶劣的罪犯绳之以法。他的破案率在局里无人能及…… 或许，高得有些反常。 在调查不断增多的连环杀手案件时，托马斯探员发现，有某种未知力量正在扭曲那些被社会遗弃者的肉体与灵魂。流浪汉、瘾君子与精神失…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.2",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1wmtImG6x5JsX_kbhHeWDHA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/013679590656",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:35.687798+00:00"
-    },
-    {
-      "id": "7efb6d5558e1a8bb94754e0bf22deb187b82f420dd0fc29a01b6ee8a6d91ed06",
-      "title": "[移植游戏]宝可梦SA|Pokémon SA汉化",
-      "original_url": "https://nsthwj.cn/game/switch/137717",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "宝可梦SA作为B站UP主裘老板独立开发的高品质宝可梦同人作品，以小智的动画旅程为蓝本重写剧情。宝可梦SA手机版包含全世代上千只宝可梦，新增多种原创形态宝可梦，战斗系统结合原作最新设定，支持Mega、Z招式、极巨化等核心玩法，并引入明雷遇敌机制与动态天气系统，秘传技转为道具，解放宝可梦技能格。玩法十分丰富，堪称同人标杆。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：0.1.0-b46",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1QEnq99vqUh7IMiLI-hzqYw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/ef42b8ffba75",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:36.575329+00:00"
-    },
-    {
-      "id": "d775b061ffd08fa341dade241798d8f786f6ade5db803190f308e2b59bf98401",
-      "title": "[移植游戏]宝可梦：靛蓝|Pokémon Añil汉化",
-      "original_url": "https://nsthwj.cn/game/switch/137390",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.1.0",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1n_33DYzclsav-HpVhGA1rQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/dea627231e88",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:37.115605+00:00"
-    },
-    {
-      "id": "b97c0484bd7a38fe555428952e15668540c482bff4cec56a3980a1c3b9269c3e",
-      "title": "战国无双：真田丸|Samurai Warriors: Spirit of Sanada汉化",
-      "original_url": "https://nsthwj.cn/game/switch/3049",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "“战国无双”系列是以战国时代为舞台，操纵各种各样的武将，可以体验到一骑当千的爽快感，可以打败蜂拥而至的敌人。 作为系列的首次尝试，以一位武将为焦点的“战国无双真田丸”终于在Nintendo Switch中登场。被誉为“日之本一之兵”的武将真田幸村的48年，描写了他的一生。 以粉丝们要求很多的幸村的父亲真田昌幸为首，很…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.1 含1.0.1金手指",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1_ANjhm0Kt8_ehe5i0K6XRQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/18df81c71c74",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:37.677153+00:00"
-    },
-    {
-      "id": "97928269900cdeac90ebc145af548eff8ef3ef6b0451fa4a19374bb8130a2938",
-      "title": "八方旅人|歧路旅人|Octopath Traveler中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137763",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "八位旅行者的八次冒险之旅。化身为八个角色之一，踏上史诗般的旅程，穿越广阔而神奇的奥鲁斯特拉大陆，探索八位旅行者各自迷人的故事。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.01 系统要求：≥ 5.05",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1rTa9M4TZPKVJezby-NjxWw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5XASQNuT-K0-mdVv6Ri072A1?pwd=urfy",
-          "extraction_code": "urfy"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:47.377002+00:00"
-    },
-    {
-      "id": "dfc9a20e32837f17ccc3471a1cefdd8fea04f193d4d0ed6bd3d4eade19387e92",
-      "title": "瓢虫少女：巴黎围困|Miraculous: Paris Under Siege英文",
-      "original_url": "https://nsthwj.cn/game/ps4/137762",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "踏上奇迹少女和黑猫罗尔这对搭档最惊险的冒险之旅吧！随着黑魔蝶在城市各处释放出一波波恶棍，展开一场充满英雄主义的刺激冒险，边跑酷边战斗，敏捷地翻转腾挪，克敌致胜。你和你的朋友们将肩负拯救巴黎的重任！",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.03 系统要求：≥ 5.05",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1ec1LWmJ75AHZNb7XxdbNYQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5XDKQU9GRlMrWziQNlafgLA1?pwd=7qen",
-          "extraction_code": "7qen"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:47.978861+00:00"
-    },
-    {
-      "id": "976f222d4a8ea0268fe451befc9f8b15481615da0f6aa9fd5f788f4ab6de6d8d",
-      "title": "节奏萌芽|Rhythm Sprout中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137761",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "\"一款有着原创音乐和趣味故事的快节奏音游。 在音乐节拍构成的战斗中对抗一个个魅力十足的Boss，在丰富多彩的3D环境中伴着节奏奔跑。能给关卡“混音”的可选模式带来了无穷尽的挑战性和可重玩性。\" 你能阻止糖爸爸国王吗？",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.02 系统要求：≥ 5.05",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1Bm2abu5N0GqvFJlxRPPocQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5X2npepkuC_vbIHKjvH7QZA1?pwd=ue6m",
-          "extraction_code": "ue6m"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:48.535084+00:00"
-    },
-    {
-      "id": "f181f5d3ee3d1f0d9348ee6b404396a8f2b8824a5b4ec2ec665465b597210021",
-      "title": "星状|Stellatum英文",
-      "original_url": "https://nsthwj.cn/game/ps4/137760",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "Equip your battleship's guns, install faster engines, and increase the power of your reactor. Throw a barrage of rockets on hordes of enemy ships, burning ever…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.00 系统要求：≥ 5.05",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1tZFrR-2Iacx4eBiNH4G4Hw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5WwIg4IxAqxSSPEctsh_MeA1?pwd=5dbc",
-          "extraction_code": "5dbc"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:49.075527+00:00"
     }
   ]
 }

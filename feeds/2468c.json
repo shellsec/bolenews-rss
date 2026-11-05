@@ -1,9 +1,28 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-05T12:33:26.800968+00:00",
+  "generated_at": "2026-11-05T20:44:11.469133+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "真人快打1.Mortal Kombat 1",
+      "original_url": "https://2468c.com/99861.html",
+      "published_at": "2026-09-15T01:28:48Z",
+      "summary": "平台：PlayStation5 发行商：Warner Bros. Interactive Entertainment 语言：英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：NetherRealm Studios 发行日期：2023年9月14日 游戏版本：v01.001....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-05T13:20:41Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-05T20:44:13.630743+00:00",
+      "summary_origin": "publisher_description"
+    },
     {
       "title": "电车炫客 Denshattack!",
       "original_url": "https://2468c.com/121827.html",
@@ -239,7 +258,7 @@
       "summary": "平台：PlayStation5 发行商：Devolver Digital 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Leonard Menchiari, Flying Wild Hog 发行日期：2022年5月6日 游戏版本：v02.000.00...",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-05T00:10:02Z",
@@ -248,8 +267,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-05T12:33:28.970630+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-05T12:33:28.970630+00:00"
     },
     {
       "title": "魂斗罗：加鲁加行动.Contra: Operation Galuga",
@@ -1884,25 +1903,6 @@
       "source_name": "奥德彪计划 PS4 / PS5",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-04T01:17:53.163646+00:00"
-    },
-    {
-      "title": "侏罗纪世界：进化2 – 终极版.Jurassic World Evolution 2: Premium Edition",
-      "original_url": "https://2468c.com/113376.html",
-      "published_at": "2026-10-30T01:25:33Z",
-      "summary": "平台：PlayStation5 发行商：Frontier Developments 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Frontier Developments 发行日期：2021-11-9 游戏版本：v01.011.003 游戏编号：P...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-30T01:26:58Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:17:54.672828+00:00"
     }
   ]
 }
