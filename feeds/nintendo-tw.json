@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-05T03:34:53.116519+00:00",
+  "generated_at": "2026-11-05T12:33:53.659179+00:00",
   "source_url": "https://www.nintendo.com/tw/topics",
   "items": [
     {
@@ -339,6 +339,34 @@
       "content_scope": "metadata",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-04T01:16:52.943716+00:00"
+    },
+    {
+      "id": "fc265a1da14678645333642a907b1c0d6e889dfa17f16228c579891d6170e4a6",
+      "title": "Nintendo Switch 2《薩爾達傳說 時之笛》於本日發售。同時介紹周邊產品等最新資訊。2026.11.5",
+      "original_url": "https://www.nintendo.com/tw/topics/article/6AhAv55ZhTHRx80FlQALhoRo",
+      "summary": "Nintendo Switch 2《薩爾達傳說 時之笛》於本日發售。同時介紹周邊產品等最新資訊。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hant",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-05T12:33:54.192110+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "38790338f229909feac2a523cf17010f4dfc7ea8030b74c30ac1d29ad7fcab9c",
+      "title": "全新品牌「CygamesEdge」的首部作品：華麗壯闊的崩落型動作冒險遊戲《崩落之國》於今日開始發售。2026.11.5",
+      "original_url": "https://www.nintendo.com/tw/topics/article/GQF5c4rNCm5EeVkpjtUv4",
+      "summary": "全新品牌「CygamesEdge」的首部作品：華麗壯闊的崩落型動作冒險遊戲《崩落之國》於今日開始發售。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hant",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-05T12:33:54.731801+00:00",
+      "summary_origin": "publisher_description"
     }
   ]
 }

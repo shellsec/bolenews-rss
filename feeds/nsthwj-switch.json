@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-05T03:34:53.660372+00:00",
+  "generated_at": "2026-11-05T12:33:54.951221+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -49,6 +49,29 @@
       "updated_at": "2026-11-05T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-05T03:34:56.951520+00:00"
+    },
+    {
+      "id": "55e5bf0ce08fe3582df8aa029ceeb688d736737ca59eddb77521e17cfa9eadcb",
+      "title": "[移植游戏]闪克2|Shank 2汉化",
+      "original_url": "https://nsthwj.cn/game/switch/137757",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-05T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-05T12:33:57.688227+00:00"
     },
     {
       "id": "96d2edfb65685fe594c4aef673ade1074c7be3b8666ce79dfa8a8bd5f74521a0",
@@ -560,41 +583,6 @@
         }
       ],
       "summary_checked_at": "2026-11-04T14:20:34.526286+00:00"
-    },
-    {
-      "id": "55e5bf0ce08fe3582df8aa029ceeb688d736737ca59eddb77521e17cfa9eadcb",
-      "title": "[移植游戏]闪克2|Shank 2",
-      "original_url": "https://nsthwj.cn/game/switch/137757",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/168FVncaRW1P6kErN7iXgDQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/c89347a935e2",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:35.099612+00:00"
     },
     {
       "id": "f4fdad32a584c8ebae9b0762fb857f5be1cae8b4bcf18980329befcd3b386ca2",
