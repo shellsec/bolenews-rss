@@ -1,9 +1,55 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-04T22:42:27.420846+00:00",
+  "generated_at": "2026-11-05T03:34:59.947586+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "35ca4192ddc3ee63e55943e1fce00addf165ed0ee32c7d83085e066adb518d98",
+      "title": "虚妄之盒|Cubic Cosmos中文",
+      "original_url": "https://nsthwj.cn/game/switch/137818",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《虚妄之盒》是一款融合 Rougelike 卡牌构筑与下落式塔防玩法的快节奏卡牌战斗游戏。养成无敌大哥，打出超燃连击，爽到停不下来！ 爽快战斗，强力连击 - 打造无可匹敌的强力“大哥”，叠属性、上 BUFF，比 BOSS 更像 BOSS！ - 技能联动，超爽 combo，无限回合、大数字……皆有可能！ - 强力搭配，…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.1",
+      "updated_at": "2026-11-05T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-05T03:34:55.581776+00:00"
+    },
+    {
+      "id": "c042fe12fbbe5cbb998752620ecf349bd668ac925b69f45b76ef145fa234940f",
+      "title": "无光之海|Sunless Sea汉化",
+      "original_url": "https://nsthwj.cn/game/switch/2130",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《无光之海》不能算是一个精美的作品，墨绿色的海域，一艘孤独的小船，几个头像，一个简单的状态栏，零星的插画已经海量的文字组成了这个游戏全部的画面。但是，文本的深度以及克苏鲁的背景让许多玩家对于本作欲罢不能，一遍一遍地出海、死亡、再次探索，试图了解这个世界的更多。晦涩、深刻的文字既是让你接触这个作品的障碍，也是让人沉迷于…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0.6",
+      "updated_at": "2026-11-05T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-05T03:34:56.951520+00:00"
+    },
     {
       "id": "96d2edfb65685fe594c4aef673ade1074c7be3b8666ce79dfa8a8bd5f74521a0",
       "title": "[移植游戏]路易的鬼屋|路易吉洋馆|Luigi's Mansion",
@@ -3308,76 +3354,6 @@
         }
       ],
       "summary_checked_at": "2026-11-04T14:21:06.976575+00:00"
-    },
-    {
-      "id": "3ece911817b6bad9a59154f348b3213e791914e02e37f71d4c2db080983bae75",
-      "title": "索菲亚动物诊所：使命野生动物园|Sophia’s Animal Clinic: Mission Wildlife Park英文",
-      "original_url": "https://nsthwj.cn/game/ps4/137629",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "你的兽医冒险之旅从野生动物园开始！帮助那些受伤或生病的动物，比如马、鹿、鸭子、驴、山羊、兔子等等。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.02 系统要求：≥ 5.05",
-      "updated_at": "2026-10-28T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1TG3YNfLuE4m_jJoFJo3vLw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP51sTYCx0KtVdbfO8rFfakUA1?pwd=feku",
-          "extraction_code": "feku"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:21:07.551484+00:00"
-    },
-    {
-      "id": "3f9a4ce252031f348e5b085bf72684ec1fcf76e69ff5fe7e5f1b6e80e08d1f9e",
-      "title": "暗黑破坏神3：夺魂之镰|Diablo III: Eternal Collection汉化",
-      "original_url": "https://nsthwj.cn/game/ps4/12504",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.47系统要求：≥ 5.05",
-      "updated_at": "2026-10-27T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/16JfO4ZxjbEqkjfJPDYYwxg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VODehyfM5elOpUmMRh__zAPUA1?pwd=jdsy#",
-          "extraction_code": "jdsy"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T22:42:29.538894+00:00"
     }
   ]
 }

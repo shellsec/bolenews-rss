@@ -1,9 +1,55 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-04T22:42:19.272615+00:00",
+  "generated_at": "2026-11-05T03:34:53.660372+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "35ca4192ddc3ee63e55943e1fce00addf165ed0ee32c7d83085e066adb518d98",
+      "title": "虚妄之盒|Cubic Cosmos中文",
+      "original_url": "https://nsthwj.cn/game/switch/137818",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《虚妄之盒》是一款融合 Rougelike 卡牌构筑与下落式塔防玩法的快节奏卡牌战斗游戏。养成无敌大哥，打出超燃连击，爽到停不下来！ 爽快战斗，强力连击 - 打造无可匹敌的强力“大哥”，叠属性、上 BUFF，比 BOSS 更像 BOSS！ - 技能联动，超爽 combo，无限回合、大数字……皆有可能！ - 强力搭配，…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.1",
+      "updated_at": "2026-11-05T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-05T03:34:55.581776+00:00"
+    },
+    {
+      "id": "c042fe12fbbe5cbb998752620ecf349bd668ac925b69f45b76ef145fa234940f",
+      "title": "无光之海|Sunless Sea汉化",
+      "original_url": "https://nsthwj.cn/game/switch/2130",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《无光之海》不能算是一个精美的作品，墨绿色的海域，一艘孤独的小船，几个头像，一个简单的状态栏，零星的插画已经海量的文字组成了这个游戏全部的画面。但是，文本的深度以及克苏鲁的背景让许多玩家对于本作欲罢不能，一遍一遍地出海、死亡、再次探索，试图了解这个世界的更多。晦涩、深刻的文字既是让你接触这个作品的障碍，也是让人沉迷于…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0.6",
+      "updated_at": "2026-11-05T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-05T03:34:56.951520+00:00"
+    },
     {
       "id": "96d2edfb65685fe594c4aef673ade1074c7be3b8666ce79dfa8a8bd5f74521a0",
       "title": "[移植游戏]路易的鬼屋|路易吉洋馆|Luigi's Mansion",

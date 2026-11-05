@@ -1,9 +1,254 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-04T16:25:47.541442+00:00",
+  "generated_at": "2026-11-05T03:34:26.199392+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "电车炫客 Denshattack!",
+      "original_url": "https://2468c.com/121827.html",
+      "published_at": "2026-11-05T00:41:52Z",
+      "summary": "平台：PlayStation5 发行商：Fireshine Games 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Undercoders 发行日期：2026-06-17 游戏版本：v01.001.000 游戏编号：PPSA29952 格式：文件压...",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-05T00:41:52Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-05T03:34:28.290012+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "title": "怪物男孩与被诅咒的王国. Monster Boy and The Cursed Kingdom",
+      "original_url": "https://2468c.com/100957.html",
+      "published_at": "2026-11-05T00:35:38Z",
+      "summary": "平台：PlayStation5 发行商：FDG Entertainment 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：FDG Entertainment 发行日期：2019年7月25日 游戏版本：v01.000.004 游戏编号：PPSA0278...",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-05T00:36:59Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-05T03:34:28.840874+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "title": "格杀勿论.Wanted: Dead",
+      "original_url": "https://2468c.com/100071.html",
+      "published_at": "2026-11-05T00:30:26Z",
+      "summary": "平台：PlayStation5 发行商：110 Industries 语言：日语,英语,德语,意大利语,法语,西班牙语 开发商：Soleil Ltd. 发行日期：2023年2月14日 游戏版本：v01.001.000 游戏编号：PPSA05621 格式：文件压缩包/FPKG 平台...",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-05T00:35:56Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-05T03:34:29.438858+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "title": "流浪猫.Stray",
+      "original_url": "https://2468c.com/99155.html",
+      "published_at": "2026-11-05T00:32:59Z",
+      "summary": "平台：PlayStation5 发行商：Annapurna Interactive 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：BlueTwelve Studio 发行日期：2022年7月19日 游戏版本：v01.005.000 游戏编号：PPSA...",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-05T00:34:09Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-05T03:34:30.045694+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "title": "伤痕累累.Scars Above",
+      "original_url": "https://2468c.com/99971.html",
+      "published_at": "2026-11-05T00:26:37Z",
+      "summary": "平台：PlayStation5 发行商：Prime Matter 语言：中文,日语,英语,德语,韩语,意大利语,法语,西班牙语 开发商：Mad Head Games 发行日期：2023年2月28日 游戏版本：v01.003.00 游戏编号：PPSA08597 格式：文件压缩包/F...",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-05T00:28:02Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-05T03:34:30.693781+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "title": "中世纪王朝.Medieval Dynasty",
+      "original_url": "https://2468c.com/100268.html",
+      "published_at": "2026-11-05T00:24:40Z",
+      "summary": "平台：PlayStation5 发行商：Toplitz Productions 语言：中文,日语,英语,德语,俄语,意大利语,法语,西班牙语 开发商：Toplitz Productions 发行日期：2020年9月17日 游戏版本：v01.413.001 游戏编号：PPSA079...",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-05T00:26:03Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-05T03:34:31.243483+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "title": "影子武士3.Shadow Warrior 3",
+      "original_url": "https://2468c.com/100626.html",
+      "published_at": "2026-11-05T00:23:29Z",
+      "summary": "平台：PlayStation5 发行商：Devolver Digital 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Flying Wild Hog 发行日期：2022年3月1日 游戏版本：v01.000.002 游戏编号：PPSA07817 格式...",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-05T00:24:54Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-05T03:34:31.839540+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "title": "酉闪町2：昆仑X灵动2.Dusk Diver 2",
+      "original_url": "https://2468c.com/100533.html",
+      "published_at": "2026-11-05T00:22:33Z",
+      "summary": "平台：PlayStation5 发行商：Justdan International Co., Ltd. 语言：中文,日语,英语,德语,法语 开发商：Wanin International 发行日期：2022年2月24日 游戏版本：v01.000.000 游戏编号：PPSA0656...",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-05T00:23:24Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-05T03:34:32.473119+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "title": "你好,邻居2.Hello Neighbor 2",
+      "original_url": "https://2468c.com/100262.html",
+      "published_at": "2026-11-05T00:18:49Z",
+      "summary": "平台：PlayStation5 发行商：tinyBuild 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Eerie Guest, tinyBuild 发行日期：2022年12月6日 游戏版本：v01.000.000 游戏编号：PPSA07426 格...",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-05T00:19:24Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-05T03:34:33.063050+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "title": "猎人之路.Way of the Hunter",
+      "original_url": "https://2468c.com/100170.html",
+      "published_at": "2026-11-05T00:13:21Z",
+      "summary": "平台：PlayStation5 发行商：THQ Nordic 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Nine Rocks Games 发行日期：2022年8月17日 游戏版本：v01.000.000 游戏编号：PPSA05732 格式：文件压...",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-05T00:15:19Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-05T03:34:33.617702+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "title": "火车生活：铁路模拟器.Train Life: A Railway Simulator",
+      "original_url": "https://2468c.com/100122.html",
+      "published_at": "2026-11-05T00:12:01Z",
+      "summary": "平台：PlayStation5 发行商：Nacon 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Simteract 发行日期：2021年8月31日 游戏版本：v01.000.000 游戏编号：PPSA03851 格式：文件压缩包/FPKG 平台版本...",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-05T00:13:48Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-05T03:34:34.168647+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "title": "邪吟.The Chant",
+      "original_url": "https://2468c.com/100603.html",
+      "published_at": "2026-11-05T00:10:48Z",
+      "summary": "平台：PlayStation5 发行商：Prime Matter 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Brass Token 发行日期：2022年11月3日 游戏版本：v01.000.000 游戏编号：PPSA03618 格式：文件压缩包/...",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-05T00:11:46Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-05T03:34:34.748960+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "title": "黄泉之路.",
+      "original_url": "https://2468c.com/101030.html",
+      "published_at": "2026-11-05T00:08:57Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-05T00:10:02Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
     {
       "title": "魂斗罗：加鲁加行动.Contra: Operation Galuga",
       "original_url": "https://2468c.com/105695.html",
@@ -11,7 +256,7 @@
       "summary": "平台：PlayStation5 发行商：Konami 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：WayForward 发行日期：2024年3月12日 游戏版本：v01.000.003 游戏编号：PPSA15368 格式：文件压缩包/fpkg 平台...",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-04T11:01:29Z",
@@ -20,8 +265,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-04T16:25:49.278782+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T16:25:49.278782+00:00"
     },
     {
       "title": "海参2.Trepang2",
@@ -30,7 +275,7 @@
       "summary": "发行商：Team17 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Trepang Studios 发行日期：2023-6-22 游戏版本：v01.000.000 游戏编号：PPSA15350 格式：文件压缩包 平台版本：适用使用4.xx及以上版本 ...",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-04T08:34:33Z",
@@ -39,8 +284,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-04T16:25:49.714023+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-04T16:25:49.714023+00:00"
     },
     {
       "title": "远日点 Aphelion",
@@ -1656,253 +1901,6 @@
       "source_name": "奥德彪计划 PS4 / PS5",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-04T01:17:54.672828+00:00"
-    },
-    {
-      "title": "新战斗原始人：穴居人忍者 New Joe & Mac: Caveman Ninja",
-      "original_url": "https://2468c.com/112907.html",
-      "published_at": "2026-10-30T01:24:51Z",
-      "summary": "平台：PlayStation5 发行商：Microids 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Mr Nutz Studio 发行日期：2022-11-24 游戏版本：v01.003 游戏编号：PPSA02801 格式：文件压缩包/FPKG ...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-30T01:25:54Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:17:56.189643+00:00"
-    },
-    {
-      "title": "噗哟噗哟：俄罗斯方块2.Puyo Puyo Tetris 2",
-      "original_url": "https://2468c.com/113069.html",
-      "published_at": "2026-10-30T01:23:01Z",
-      "summary": "平台：PlayStation5 发行商：SEGA 语言：中文,英语,德语,意大利语,法语,西班牙语 开发商：SEGA 发行日期：2020-12-8 游戏版本：v01.320 游戏编码：PPSA01530 格式：文件压缩包/exFAT/FPKG 平台版本：适用使用2.xx及以上版本...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-30T01:24:31Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:17:57.699814+00:00"
-    },
-    {
-      "title": "侠盗猎车手：三部曲 – 最终版.Grand Theft Auto: The Trilogy – The Definitive Edition",
-      "original_url": "https://2468c.com/82256.html",
-      "published_at": "2026-10-30T01:20:11Z",
-      "summary": "平台：PlayStation5 发行商：Rockstar Games 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Rockstar Games 发行日期：2021年11月11日 游戏版本：v1.007 游戏编号： PPSA03524（Grand T...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-30T01:22:46Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:17:59.173936+00:00"
-    },
-    {
-      "title": "羊蹄山之魂.Ghost of Yotei",
-      "original_url": "https://2468c.com/110062.html",
-      "published_at": "2026-10-15T09:26:52Z",
-      "summary": "平台：PlayStation5 发行商：Sony Interactive Entertainment 语言：中文,日语,英语,韩语 开发商：Sucker Punch Productions 发行日期：2025-10-2 游戏版本：v01.512/v02.002 游戏编号：PPSA...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-29T09:28:24Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:18:00.637869+00:00"
-    },
-    {
-      "title": "速度与激情：街机版 Fast & Furious: Arcade Edition",
-      "original_url": "https://2468c.com/115792.html",
-      "published_at": "2026-10-29T06:02:06Z",
-      "summary": "平台：PlayStation5 发行商：GameMill Entertainment 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Cradle Games 发行日期：2025-10-24 游戏版本：v01.001 游戏编号：PPSA30138 格式...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-29T06:08:11Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:18:02.160545+00:00"
-    },
-    {
-      "title": "北方之灵 2 Spirit of the North 2",
-      "original_url": "https://2468c.com/111030.html",
-      "published_at": "2026-10-29T06:04:49Z",
-      "summary": "平台：PlayStation5 发行商：Silver Lining Interactive 语言：中文,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Infuse Studio 发行日期：2025-05-08 游戏版本：v01.002/01.017 游戏编号：PPSA...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-29T06:05:34Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:18:03.607097+00:00"
-    },
-    {
-      "title": "绝对魔权 Absolum",
-      "original_url": "https://2468c.com/111539.html",
-      "published_at": "2026-10-29T06:03:57Z",
-      "summary": "平台：PlayStation5 发行商：Dotemu, Gamirror Games 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Guard Crush, Supamonks, Dotemu 发行日期：2025年10月9日 游戏版本：v01.002...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-29T06:04:06Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:18:05.050246+00:00"
-    },
-    {
-      "title": "阿加莎·克里斯蒂：尼罗河上的惨案 Agatha Christie Death on The Nile",
-      "original_url": "https://2468c.com/111242.html",
-      "published_at": "2026-10-29T06:01:52Z",
-      "summary": "平台：PlayStation5 发行商：Microids 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Microids Studio Lyon 发行日期：2025-09-25 游戏版本：v01.000.000 游戏编号：PPSA27765 格式：文...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-29T06:03:00Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:18:06.512325+00:00"
-    },
-    {
-      "title": "世界摩托车锦标赛25.MotoGP 25",
-      "original_url": "https://2468c.com/115229.html",
-      "published_at": "2026-10-29T05:58:33Z",
-      "summary": "平台：PlayStation5 发行商：Milestone S.r.l. 语言：中文,日语,英语,德语,意大利语,法语,西班牙语 开发商：Milestone S.r.l. 发行日期：2025-4-30 游戏版本：v01.013 游戏编码：PPSA25319 格式：文件压缩包/FP...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-29T05:59:51Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:18:08.055583+00:00"
-    },
-    {
-      "title": "尼克德里克：魔法世界 – 导演剪辑版 Nikoderiko: The Magical World – Director’s Cut",
-      "original_url": "https://2468c.com/113263.html",
-      "published_at": "2026-10-29T05:52:34Z",
-      "summary": "平台：PlayStation5 发行商：MY.GAMES 语言：中文,英语,德语,俄语,韩语,法语,西班牙语 开发商：VEA Games 发行日期：2025-04-15 游戏版本：v01.000.012 游戏编号：PPSA23760 格式：文件压缩包/FPKG 平台版本：原适用使...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-29T05:54:01Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:18:09.528213+00:00"
-    },
-    {
-      "title": "双截龙：再临 – 豪华版 Double Dragon Revive",
-      "original_url": "https://2468c.com/110147.html",
-      "published_at": "2026-10-29T05:51:29Z",
-      "summary": "平台：PlayStation5 发行商：Arc System Works 语言：中文,英语,德语,意大利语,法语,西班牙语,日语 开发商：YUKE’S 发行日期：2025-10-23 游戏版本：v01.000/v01.030 游戏编号：PPSA23000 格式：文件压缩包/EXF...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-29T05:52:19Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:18:11.073231+00:00"
-    },
-    {
-      "title": "最后一口气 One Last Breath",
-      "original_url": "https://2468c.com/115805.html",
-      "published_at": "2026-10-29T05:48:39Z",
-      "summary": "平台：PlayStation5 发行商：Catness Game Studios 语言：中文,英语,日语,俄语,韩语,意大利语,法语,西班牙语 开发商：Moonatic Studios 发行日期：2024-03-28 游戏版本：v02.000 游戏编号：PPSA18172 格式：...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-29T05:50:33Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:18:12.568801+00:00"
-    },
-    {
-      "title": "吸血鬼：避世血族 2 Vampire: The Masquerade – Bloodlines 2",
-      "original_url": "https://2468c.com/110221.html",
-      "published_at": "2026-10-29T05:47:24Z",
-      "summary": "平台：PlayStation5 发行商：Paradox Interactive 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：The Chinese Room 发行日期：2025-10-21 游戏版本：v01.003/ 01.013 DLC 游戏编号...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-29T05:48:32Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:18:14.048059+00:00"
     }
   ]
 }

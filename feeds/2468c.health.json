@@ -1,6 +1,17 @@
 {
   "source": "2468c",
-  "attempted_at": "2026-11-04T22:42:04.650879+00:00",
-  "status": "unavailable",
-  "error": "HTTP Error 500: Internal Server Error"
+  "attempted_at": "2026-11-05T03:34:26.199392+00:00",
+  "status": "ok",
+  "summary_count": 99,
+  "summary_attempts": 12,
+  "summary_missing": 1,
+  "summary_errors": [],
+  "count": 100,
+  "fetched_count": 111,
+  "retained_count": 0,
+  "input_urls": [
+    "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
+    "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt&orderby=modified&order=desc"
+  ],
+  "dropped_by_limit": 13
 }

@@ -1,9 +1,105 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-04T22:42:05.419025+00:00",
+  "generated_at": "2026-11-05T03:34:35.611576+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "光环 战斗进化|汉化中文|移植版|",
+      "original_url": "https://vip.gamers520.com/125333.html",
+      "published_at": "2026-11-04T21:00:54Z",
+      "summary": "《光环：战斗进化》（Halo: Combat Evolved）是由Bungie开发、微软游戏工作发售的划时代第一人称射击游戏（FPS），最初作为Xbox主机的首发护航大作推出，随后推出了PC版及重制版 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-05T02:33:09Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "闪客2|移植版|",
+      "original_url": "https://vip.gamers520.com/125335.html",
+      "published_at": "2026-11-04T21:01:04Z",
+      "summary": "《闪客2》（Shank 2）是由 Klei Entertainment 开发、EA 发行的经典 2D 美漫风格横版动作过关游戏。 游戏延续了前作标志性的硬派血腥美学与流畅连招系统，玩家继续扮演前退役杀 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-05T02:33:07Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "闪客1|移植版|",
+      "original_url": "https://vip.gamers520.com/125337.html",
+      "published_at": "2026-11-04T21:01:14Z",
+      "summary": "《Shank》是一款让经典横版动作闯关游戏重焕新生的作品。在这款由屡获殊荣的开发团队 Klei Entertainment 打造、风格极其狂野火爆的游戏中， 你将扮演主角 Shank，在充斥着大量敌人 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-05T02:33:05Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "寂静岭PT|移植版|",
+      "original_url": "https://vip.gamers520.com/125339.html",
+      "published_at": "2026-11-04T21:05:17Z",
+      "summary": "游戏采用了极为创新的“无限循环走廊”设计，玩家将在栋看似平常却充满诡异气氛的住宅走廊中不断循环行走。 随着每一次走廊的重置，环境细节、声音效果与超自然现象会层层递进，配合逼真的视觉效果与极具压迫感的声 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-05T02:33:03Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "但丁的地狱|汉化中文|移植版|",
+      "original_url": "https://vip.gamers520.com/125341.html",
+      "published_at": "2026-11-04T21:06:42Z",
+      "summary": "游戏背景设定在第三次十字军东征时期，主角但丁为了从冥王路西法手中救回未婚妻比阿特丽斯的灵魂， 手持死神的镰刀并借助圣十字架的力量，纵身杀入地狱。玩家将依次闯过地狱的九层苦难圈（包括地狱边境、色欲、暴食 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-05T02:33:02Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "死亡空间1|汉化中文|移植版|",
+      "original_url": "https://vip.gamers520.com/125343.html",
+      "published_at": "2026-11-04T21:10:40Z",
+      "summary": "游戏背景设定在 26 世纪的深空，玩家扮演工程师艾萨克·克拉克（Isaac Clarke）， 前往失去联系的大型采矿星舰“石村号”（USG Ishimura）执行维修任务，却发现船员已被未知的外星异变 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-05T02:32:49Z",
+      "platform": [
+        "switch1"
+      ]
+    },
     {
       "title": "战国无双 真田丸|汉化中文|本体+1.0.1升补+汉化补丁+金手指|解压即撸|",
       "original_url": "https://vip.gamers520.com/125265.html",
@@ -482,7 +578,7 @@
         "game_update"
       ],
       "version": "1.26.60",
-      "summary_checked_at": "2026-11-04T01:16:05.216614+00:00"
+      "summary_checked_at": "2026-11-05T03:34:38.287667+00:00"
     },
     {
       "title": "真人快打9|移植版|",
@@ -1615,106 +1711,6 @@
       "platform": [
         "switch1"
       ]
-    },
-    {
-      "title": "超级马里奥赛车Wii|移植版|",
-      "original_url": "https://vip.gamers520.com/124207.html",
-      "published_at": "2026-10-16T21:58:16Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-18T02:36:28Z",
-      "platform": [
-        "switch1"
-      ],
-      "summary_checked_at": "2026-11-04T01:16:26.042157+00:00"
-    },
-    {
-      "title": "圣斗士星矢 斗士之魂|移植版|",
-      "original_url": "https://vip.gamers520.com/124193.html",
-      "published_at": "2026-10-16T22:58:08Z",
-      "summary": "封面上的游戏名为 《圣斗士星矢：斗士之魂》（英文：Saint Seiya: Soldiers’ Soul / 日文：聖闘士星矢 ソルジャーズ・ソウル）。 1. 游戏基本信息与平台现状 开发 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-17T16:30:14Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "终极街头霸王4|中文|移植版|NSP|",
-      "original_url": "https://vip.gamers520.com/124191.html",
-      "published_at": "2026-10-16T22:50:11Z",
-      "summary": "凭借《Ultra Street Fighter IV》把世界上最伟大的格斗游戏发展到全新水平。 延续系列的卓越传说，五位新角色和六个新关卡，令战斗增加更多乐器。 重新调整游戏平衡，令游戏玩法超越过去的 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-17T16:20:04Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "百事超人|移植版|NSP|",
-      "original_url": "https://vip.gamers520.com/124187.html",
-      "published_at": "2026-10-16T22:00:33Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-17T03:27:22Z",
-      "platform": [
-        "switch1"
-      ],
-      "summary_checked_at": "2026-11-04T01:16:27.175928+00:00"
-    },
-    {
-      "title": "红警2尤里的复仇|移植版|NSP|",
-      "original_url": "https://vip.gamers520.com/124185.html",
-      "published_at": "2026-10-16T22:00:22Z",
-      "summary": "关于这款游戏 在《命令与征服：红色警戒 2》中，苏联部队入侵美国领土，全球陷入冲突之中。你是最高指挥官。使用绝密技术武装自己，带领苏联或盟军部队走向胜利。 此外，在《命令与征服：尤里的复仇》资料片中， …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-17T02:59:02Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "终极幸运之塔|官方中文|本体+1.23升补|NSZ|",
-      "original_url": "https://vip.gamers520.com/111963.html",
-      "published_at": "2026-10-15T22:11:19Z",
-      "summary": "下载在底部 这是一场与众不同的 Roguelite 冒险，即使没能逃出危险塔楼，也能体验一把诙谐有趣的卡通小剧场。勇敢的主角，前进吧！ Lucky Tower Ultimate 关于这款游戏 冯·万斯 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-16T18:09:03Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ],
-      "version": "1.23"
     }
   ]
 }
