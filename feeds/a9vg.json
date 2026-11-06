@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-06T01:39:56.711236+00:00",
+  "generated_at": "2026-11-06T09:32:17.808478+00:00",
   "source_url": "https://www.a9vg.com/",
   "items": [
     {
@@ -15,7 +15,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-06T01:39:59.635802+00:00"
+      "summary_checked_at": "2026-11-06T09:32:26.292677+00:00"
     },
     {
       "id": "10170203b71618388d4261e526d39ae2f475ecad0ffeb3be97a55c2492c678a2",
@@ -28,7 +28,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-06T01:40:02.404640+00:00"
+      "summary_checked_at": "2026-11-06T09:32:27.129734+00:00"
     },
     {
       "id": "2838a1dbbff68f49f8765d7532ba8dc5f9e4d7f15f214c4d4d0542863472c486",
@@ -55,7 +55,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-06T01:40:03.387863+00:00"
+      "summary_checked_at": "2026-11-06T09:32:27.967850+00:00"
     },
     {
       "id": "d443e73893e48649df3c76de7158ef9daa8db6e2d4317ea6bc18926c22b8e8cb",
@@ -68,7 +68,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-06T01:40:04.352534+00:00"
+      "summary_checked_at": "2026-11-06T09:32:29.711206+00:00"
     },
     {
       "id": "438caa189fd677324f3eb98d948fccc0e605d3f9add7a94c9de7c395df94b629",
@@ -319,7 +319,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-06T01:40:05.203391+00:00"
+      "summary_checked_at": "2026-11-06T09:32:30.893705+00:00"
     },
     {
       "id": "28eae1d8be16f4f6648fd21f98fa20b0a77618b18b63584f61b60a95f27d51cc",
@@ -346,7 +346,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-06T01:40:06.753321+00:00"
+      "summary_checked_at": "2026-11-06T09:32:32.256841+00:00"
     },
     {
       "id": "655eddeafc21739f04d1f82db240da5a78e6dcafe0a13e3a4a14bdb4d40270fa",
@@ -359,7 +359,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-06T01:40:07.755374+00:00"
+      "summary_checked_at": "2026-11-06T09:32:33.392300+00:00"
     },
     {
       "id": "668e31641b54c0b1064d43165b647b37fff1f78791606fc59d1c7dc59af9c266",
@@ -508,7 +508,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-05T20:44:32.095752+00:00"
+      "summary_checked_at": "2026-11-06T09:32:24.714255+00:00"
     },
     {
       "id": "e4c5c3f96bfa3c43c6b6c4e908cb41482de46e0d8b7a7274df8c9c1fea1609cd",
@@ -549,7 +549,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-06T01:39:58.175140+00:00"
+      "summary_checked_at": "2026-11-06T09:32:25.473945+00:00"
     },
     {
       "id": "74e4cba70b600f200a6bc42400f5757cc1d8827a44345075795b32013a9e5992",
@@ -679,6 +679,46 @@
       "content_scope": "metadata",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-05T20:44:18.819760+00:00"
+    },
+    {
+      "id": "02e4d0da3fdadc640d17d1a572efe7487a73ad324576cfaa1f5f033efff34159",
+      "title": "EA 在 Steam 上线25 款 PC 经典游戏，包括《暴力摩托》和《银河飞将》系列的 7 款周年纪念版",
+      "original_url": "https://www.a9vg.com/article/246640",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-06T09:32:20.368924+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "fbe6d9b9389fa4f980574b9795018ddbf92a4be96c71eaa44984bbad7786e825",
+      "title": "索尼26-27财年Q2财报 PS5全球总出货量达到9790万台",
+      "original_url": "https://www.a9vg.com/article/246642",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "metadata",
+      "summary_checked_at": "2026-11-06T09:32:22.617188+00:00"
+    },
+    {
+      "id": "bc9a5d4bfb656cbff57b962c5d712232435bb8eb876b0cb22adc387f173403f4",
+      "title": "任天堂 26-27财年Q2财报 Switch2销量2635万台",
+      "original_url": "https://www.a9vg.com/article/246641",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "metadata",
+      "summary_checked_at": "2026-11-06T09:32:23.365376+00:00"
     }
   ]
 }

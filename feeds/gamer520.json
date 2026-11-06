@@ -1,9 +1,57 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-06T01:39:54.113824+00:00",
+  "generated_at": "2026-11-06T09:32:14.919397+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "龙骑士之墓 重制版 Dungeon Of Dragon Knight Remake|官方中文|NSZ|",
+      "original_url": "https://vip.gamers520.com/125430.html",
+      "published_at": "2026-11-05T21:00:09Z",
+      "summary": "一款地宫角色扮演解谜冒险类游戏。你和你的探险小队被一个女巫诱导到一座地下城， 你需要通过各种机关陷阱和怪物的考验，才能解开层层谜题，找到最终隐藏的秘密。",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-06T02:12:10Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "神曲战姬 零域和鸣 Valkyrie Tune Synthesis of Souls|官方中文|NSZ|",
+      "original_url": "https://vip.gamers520.com/125433.html",
+      "published_at": "2026-11-05T21:01:18Z",
+      "summary": "本作品是由Good Smile Company开发的一款对美少女模型企划“神曲战姬：零域和鸣”进行世界观扩展的视觉小说游戏。 扮演一名从冷冻休眠中苏醒后的少年，和6名美少女一起， 在各式各样的“青春（ …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-06T02:12:08Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "无尽幻樱阁 Eternal Palace Sakura|官方中文|NSZ|",
+      "original_url": "https://vip.gamers520.com/125435.html",
+      "published_at": "2026-11-05T21:00:22Z",
+      "summary": "磨利刀锋，踏入樱花飞舞的永恒迷宫——“无尽幻樱阁”吧！这里是无法安息的怪物四处徘徊的梦幻迷宫。在不断变化的领域中杀出重围，用奖励道具强化自己！以华丽的战斗与机智策略挑战“高难度内容”的 Rogueli …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-06T02:11:58Z",
+      "platform": [
+        "switch1"
+      ]
+    },
     {
       "title": "光环 战斗进化|汉化中文|移植版|",
       "original_url": "https://vip.gamers520.com/125333.html",
@@ -730,7 +778,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-04T01:16:09.320177+00:00"
+      "summary_checked_at": "2026-11-06T09:32:17.626241+00:00"
     },
     {
       "title": "火影忍者 忍者崛起|移植版|",
@@ -1663,54 +1711,6 @@
         "game_update"
       ],
       "version": "1.0.1"
-    },
-    {
-      "title": "失落的奥德赛|移植版|",
-      "original_url": "https://vip.gamers520.com/124231.html",
-      "published_at": "2026-10-18T19:00:38Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-19T01:44:57Z",
-      "platform": [
-        "switch1"
-      ],
-      "summary_checked_at": "2026-11-04T01:16:23.773076+00:00"
-    },
-    {
-      "title": "愤怒的小鸟 星球大战2|移植版|",
-      "original_url": "https://vip.gamers520.com/124203.html",
-      "published_at": "2026-10-16T22:59:32Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-18T02:36:59Z",
-      "platform": [
-        "switch1"
-      ],
-      "summary_checked_at": "2026-11-04T01:16:24.891381+00:00"
-    },
-    {
-      "title": "泽诺尼亚传奇2|移植版|",
-      "original_url": "https://vip.gamers520.com/124205.html",
-      "published_at": "2026-10-16T22:59:19Z",
-      "summary": "很久以前，曾在小小屏幕上点燃热血的冒险，如今再次开启。 在所有人失去记忆的“圣夜”之后，和背负不同命运的四位英雄一起， 踏上寻找世界树泪之结晶的旅程吧。追寻遗失记忆与古老真相的经典动作RPG《泽诺尼亚 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-18T02:36:56Z",
-      "platform": [
-        "switch1"
-      ]
     }
   ]
 }

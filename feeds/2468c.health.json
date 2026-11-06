@@ -1,13 +1,13 @@
 {
   "source": "2468c",
-  "attempted_at": "2026-11-06T01:39:50.216258+00:00",
+  "attempted_at": "2026-11-06T09:32:03.775034+00:00",
   "status": "ok",
-  "summary_count": 100,
-  "summary_attempts": 3,
-  "summary_missing": 0,
+  "summary_count": 98,
+  "summary_attempts": 12,
+  "summary_missing": 2,
   "summary_errors": [],
   "count": 100,
-  "fetched_count": 112,
+  "fetched_count": 110,
   "retained_count": 0,
   "input_urls": [
     "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
