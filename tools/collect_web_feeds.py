@@ -209,8 +209,12 @@ def convert_nsthwj(body, site):
 
 
 def combine_nsthwj(output):
-    items, generated = {}, []
-    for platform in ("switch", "pc", "ps4"):
+    limit = 100
+    platforms = ("switch", "pc", "ps4")
+    items, reserved, generated = {}, {}, []
+    def updated(item):
+        return item.get("updated_at", "")
+    for platform in platforms:
         path = output / ("nsthwj-" + platform + ".json")
         if not path.exists():
             continue
@@ -218,10 +222,15 @@ def combine_nsthwj(output):
         if data.get("status") != "ok":
             continue
         generated.append(data.get("generated_at", ""))
-        for item in data.get("items", [])[:100]:
-            items[item["original_url"]] = item
+        platform_items = sorted(data.get("items", []), key=updated, reverse=True)[:limit]
+        items.update((item["original_url"], item) for item in platform_items)
+        for item in platform_items[:limit // len(platforms)]:
+            reserved[item["original_url"]] = item
     if items:
-        ordered = sorted(items.values(), key=lambda x: x.get("updated_at", ""), reverse=True)[:100]
+        # Fill unused platform slots with the newest remaining entries.
+        remaining = (item for url, item in items.items() if url not in reserved)
+        extras = sorted(remaining, key=updated, reverse=True)[:limit - len(reserved)]
+        ordered = sorted([*reserved.values(), *extras], key=updated, reverse=True)
         atomic_json(output / "nsthwj.json", {"schema_version": 1, "status": "ok",
             "generated_at": max(generated), "source_url": "https://nsthwj.cn/", "items": ordered})
 

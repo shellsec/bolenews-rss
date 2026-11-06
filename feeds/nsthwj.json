@@ -1006,50 +1006,6 @@
       "update_date_precision": "day"
     },
     {
-      "id": "2391a426235ec4c9bb05ab251bd86c8cc51b4534a7ed4ae7501e59651d56d465",
-      "title": "弗莱明庄园命案|Death at Fleming Manor",
-      "original_url": "https://nsthwj.cn/game/pc/137834",
-      "source_name": "NS头号玩家 PC",
-      "summary": "“你的工作是填写死亡证明。” 调查1959年英国庄园中发生的神秘死亡事件。探索阴森的现场，分析证据，并填写死亡证明和急救报告。这是一款法医推理游戏，画面风格灵感来自20世纪60年代的欧洲侦探漫画。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.26386449",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "77004975633f6ed6d426d5c1a384003246218c8f4e2eecb4baf678a33672a974",
-      "title": "神之披风|Deus Mantle",
-      "original_url": "https://nsthwj.cn/game/pc/137833",
-      "source_name": "NS头号玩家 PC",
-      "summary": "制作、建造、打怪兽、发现新技术，探索无限的程序生成世界！ 深入未知世界，揭开古老的秘密并返回家园。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.26385244",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
       "id": "96d2edfb65685fe594c4aef673ade1074c7be3b8666ce79dfa8a8bd5f74521a0",
       "title": "[移植游戏]路易的鬼屋|路易吉洋馆|Luigi's Mansion",
       "original_url": "https://nsthwj.cn/game/switch/137808",
@@ -1456,1230 +1412,6 @@
       "summary_checked_at": "2026-11-04T22:42:24.638500+00:00"
     },
     {
-      "id": "1634cb52da30aca03ce412d44f38bd8806cb53cb41e9ee4ab55a026d85e5ad70",
-      "title": "博赫尼采：心灵深处|Bohnice: Within The Mind",
-      "original_url": "https://nsthwj.cn/game/pc/137806",
-      "source_name": "NS头号玩家 PC",
-      "summary": "扮演调查记者，探索布拉格博尼采废弃的精神病院。揭开黑暗秘密，利用便携式收音机探测超自然活动，并拍摄照片，收集揭示医院恐怖过去的证据。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1TXmSn9Nm7LMxN3-3Zz9fKA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/e63626e8df1d",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "8f63528fac54f3306396b1cdda94e3b11362060edf50e229f68f94ff7142b550",
-      "title": "午夜航班|Night Plane",
-      "original_url": "https://nsthwj.cn/game/pc/137805",
-      "source_name": "NS头号玩家 PC",
-      "summary": "《夜间航班》是一款职场模拟恐怖游戏，你将扮演飞机乘务员，在一架注定难逃厄运的飞机上工作。你需要检查机票、服务乘客，并决定谁可以留在飞机上——因为恶魔正混迹于无辜者之中。当然，管理层只会两手一摊：这事归你管。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1k8gVtxCTbx7tmsGC21jkZw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/d76ea2a398cd",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "202db28ff80bf810739c37d6b25271df37a8a738d30faa80c38cbf5584c0a6dd",
-      "title": "昼颜|HIRUGAO",
-      "original_url": "https://nsthwj.cn/game/pc/137804",
-      "source_name": "NS头号玩家 PC",
-      "summary": "这是一款悬疑心理惊悚视觉小说，玩家将在女人、男人、刑警等多位人物的视角之间往返，追查发生于 2000 年城市中的连环杀人案。在实景背景与剪影角色构成的经典画面风格之中，故事将随选项分歧，错误的选择会直接导向 Game Over。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1KQqbCZ-bBr-KjwGw_M3bpw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/5219b79b25ed",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "3efaba7038170f95882a1283d50340ceb267d86e905ab67679daef1bd1c52db8",
-      "title": "公考模拟器—数量关系",
-      "original_url": "https://nsthwj.cn/game/pc/137803",
-      "source_name": "NS头号玩家 PC",
-      "summary": "《公考模拟器—数量关系部分》，可以作为数量系统学习的工具，并不仅仅是刷题，有详细的知识点介绍和思路步骤分解，并且为了提高掌握熟练程度，题干、数据和选项都会随机生成，同一类型题目可以反复练习，直到掌握为止，这也是本软件所建议的学习方法，只了解用处不大，需要反复练习直至掌握和熟练。 可以配合其他学习视频或app，不会产生互相干扰情况。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1AldjHFw_aiyKRbvKZk6haA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/9944505b46cd",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "64889fa67032628f7696f8c65eb2c5cef630208c55b3b1035dd4ef474dee9bb9",
-      "title": "模因盲盒|MemeticBox",
-      "original_url": "https://nsthwj.cn/game/pc/137802",
-      "source_name": "NS头号玩家 PC",
-      "summary": "A brutal voxel gore sandbox. Every body is built from blocks you can shoot, slice, burn and blow apart. Play God: hurl people, strike them with lightning, hang them or impale them on spikes. Or grab a gun for Police raids, zombie waves and…",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1KRq-9IpDpB0VJdZ2zxLwCw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/30869446e73b",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "a11642116081474198915e2a29b8ed6e11eb75984a183cec0c3ad2016e84767f",
-      "title": "遗体净身师|The Gassal",
-      "original_url": "https://nsthwj.cn/game/pc/137801",
-      "source_name": "NS头号玩家 PC",
-      "summary": "逝者通过神圣的葬礼仪式找到安息——被清洗、包裹，并准备踏上最后的旅程。作为一名净身师，你的职责是以精准与敬意完成这一仪式。但在无人指导的情况下，你能否真正履行这项神圣的任务？",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1RMdZdGjtTEUfFN0oM7RinQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/f3d277f9508f",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "cfadc3c86c2b8d17f708bf68c85cec34d6682365e5eee6ad4e1c5f57b57488b5",
-      "title": "迷魂幻境|Ecstatica",
-      "original_url": "https://nsthwj.cn/game/pc/137800",
-      "source_name": "NS头号玩家 PC",
-      "summary": "《Ecstatica》是一款极具开创性的生存恐怖冒险游戏，故事发生在惨遭恶魔诅咒的中世纪村庄提里奇。探索完全由椭球体构建的世界，潜行避开或奋力击退梦魇般的怪物，解开谜题，破除诅咒。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1HG9U-agVp470VXOVx2iyWg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/4615535d7eb3",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "287744c5ea0ee91cf5df93971429ee74c0723a7ed0aa0eb2d2cb369992ed4dc5",
-      "title": "迷魂幻境2|Ecstatica II",
-      "original_url": "https://nsthwj.cn/game/pc/137799",
-      "source_name": "NS头号玩家 PC",
-      "summary": "《Ecstatica II》是一款暗黑奇幻动作冒险游戏，舞台是一个由椭球体构建的独特世界。你将化身王子，重返血色苍穹下惨遭恶魔洗劫的王国。施展法术，挥刃迎敌，修复破碎的上古之印，解救女巫艾克斯塔蒂卡。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/16m9fBtuTvbf4G3pfDuKiOg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/44d3c3cd0b85",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "52dff1c32f6afc9ac885a794f0f2f20d02f9f8e4c1133a9bbee18c1b56638fed",
-      "title": "掌声资本家|Clapitalism",
-      "original_url": "https://nsthwj.cn/game/pc/137798",
-      "source_name": "NS头号玩家 PC",
-      "summary": "让一次鼓掌汇聚成全球喝彩。Clapitalism是一款增量游戏：招募观众、增强掌声，逐步填满更大的场馆。返场时将本轮成果转化为永久名望，再次出发，打造更盛大的演出。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1FrX0DxJpOie7fiT2PPMY8w?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/3388c83d58d0",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "9652d5b9f0d3a3e8f475d7ee5f02adf863d00205112e04e1bb735031e55c9eaf",
-      "title": "放置篮球|Idle Hoops",
-      "original_url": "https://nsthwj.cn/game/pc/137797",
-      "source_name": "NS头号玩家 PC",
-      "summary": "一款增量放置类篮球游戏。投篮得分，组建一支最后签下真山羊的阵容，在你离开时让球队继续得分。赢下总冠军，把你的球衣挂上穹顶，从自家车道一路打到太空球场。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1TJe9KUQcNgiTHaerrB-epw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/4a2c41f41370",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "d8e1d77e8d162f03568f1ec45c28d3648205ca39fa31d3916f2d2ffa1f5d8df0",
-      "title": "我想抱抱那只鳄鱼！|I Wani Hug that Gator!",
-      "original_url": "https://nsthwj.cn/game/pc/137796",
-      "source_name": "NS头号玩家 PC",
-      "summary": "I Wani Hug that Gator! Is a choice-driven narrative about teenagers struggling to find their way. Help Inco, loser highschooler extraordinaire, navigate his budding friendships (and romance!) while surviving being the only human in a dinosa…",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1-x-iakGg6V0NR2o4Zm_xIA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/58b26738d3fc",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "0814446129c971db0895294a002cc0a7ef47c903d38d7e645a4704e1e9cb55c8",
-      "title": "皇牌空战零：贝尔卡战争|ACE COMBAT ZERO: THE BELKAN WAR",
-      "original_url": "https://nsthwj.cn/game/pc/137795",
-      "source_name": "NS头号玩家 PC",
-      "summary": "在“ACE COMBAT ZERO: THE BELKAN WAR”中，搭载了透过在任务累积“攻击与否”的单纯选择，行动指标“ACE STYLE”会产生变动的独创“ACE STYLE量表系统”，为系列独一无二的作品。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/192NiAFDTPPQe0p2DaLkRwQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/4c7640d6e227",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "7056abea6be57e7dc3b6eb547ceccee22526c4056a1d09b5c4b4cbb40d818b56",
-      "title": "狼人传说：众神意志|Volkolak: The Will of Gods",
-      "original_url": "https://nsthwj.cn/game/pc/137794",
-      "source_name": "NS头号玩家 PC",
-      "summary": "Volkolak: The Will of Gods is an epic 2D soulsvania in a dark Slavic fantasy setting, with hand-drawn animation. Explore an enchanted world full of secrets and enemies. Your choices will lead to several endings: become a warrior, a werewolf…",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/10kNBWsnVVFlIQq9KABEpJw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/d87c0d1e803a",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "9b81c2144ea4c5a00b346cf652efcf5a6f328eba0e69816afae08cc429408f5c",
-      "title": "泡泡镇餐厅物语|PAO PAO",
-      "original_url": "https://nsthwj.cn/game/pc/137793",
-      "source_name": "NS头号玩家 PC",
-      "summary": "欢迎来到这座可爱的海滨小镇！从零开始经营你梦想中的餐厅，烹饪一道道美味佳肴；单人掌勺或最多 4 人协作，让后厨高效运转。工作之余，田间耕种、出海垂钓、探索森林，或在小镇悠闲漫步——每一天都有新鲜事，让这里成为你的温馨小家！",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1lL9FqYuW-iTZeAQEZKmOzg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/5d903df33304",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "1cc44bb4f83013764ba4716fab14cac5475db4a238fd9bdce950e0024fb8fa2b",
-      "title": "羊驼整理大作战：超载！|SORT THEM ALPACAS: OVERLOAD!",
-      "original_url": "https://nsthwj.cn/game/pc/137792",
-      "source_name": "NS头号玩家 PC",
-      "summary": "在这款略带混乱的第一人称收集游戏中，分拣 5,000 只羊驼毛绒玩具！用分拣赚来的钱购买丰富多样的升级内容，发现 5 种隐藏能力，每种能力都有专属的疯狂升级！",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1HYH7J7QwN6_QgYqOl1pOBA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/c9d3c41a2f39",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "d2f30b67bf55af01f30e572dec098e09cd2e3c614ea8717397a9ed3eeb16ce92",
-      "title": "尖牙乐园|Fangtopia",
-      "original_url": "https://nsthwj.cn/game/pc/137791",
-      "source_name": "NS头号玩家 PC",
-      "summary": "在《尖牙乐园》中尽情张牙舞爪，在这款休闲放松的拼图解谜游戏中，你将需要拼凑各式各样的地形并为友好的妖魔鬼怪们打造一片属于怪物们的乐园。在温馨惬意的氛围中尽情设计一个无忧无虑的可爱世界。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1uyiisOp1P4gAFMUr6eXpfw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/339d289bfb52",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "8c2481dfe0914f0ab8732a132c09d17a8f529e761b239b8aad54cfbe5d89145a",
-      "title": "警报：女权崛起|A.L.A.R.M. - Autistic Lovely Assassins Rise of the Matriarchy",
-      "original_url": "https://nsthwj.cn/game/pc/137790",
-      "source_name": "NS头号玩家 PC",
-      "summary": "夺回 Yachimu！化身 Nyx Draven，在被 Olivia 的腐化统治的破碎世界中醒来。攻破愈发危险的敌人营地，营救盟友，驱散迷雾，夺回失地。掌握忍者战斗技巧，改造大地，骑上悬浮滑板，还能跳舞跳到敌人死！",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1BfdF5UghQ3EjlmfVhxeeKw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/1d686db0d6e9",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "d84605da394b4154c5958243b4e2872d41a34678c498d7f9d1ff2ceaf17d24a3",
-      "title": "生命与暗影：天穹召唤|Life & Shadow: Celestial Call",
-      "original_url": "https://nsthwj.cn/game/pc/137789",
-      "source_name": "NS头号玩家 PC",
-      "summary": "你被困在一位痴迷于星辰的教授位于克利尔维尔山顶的天文台中。 白天制定生存计划，夜晚直面地下的黑暗。 你能打破仪式，揭开谜团吗？",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1jneREFslMu8pqZafUORABw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/388ee270f951",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "5ac541ea3329c029e4915b8f4c4495b481699f7f14571583e1e21fa02c24753f",
-      "title": "玛雅岛|Maja Island",
-      "original_url": "https://nsthwj.cn/game/pc/137788",
-      "source_name": "NS头号玩家 PC",
-      "summary": "驾驶你可靠的小船航行在神秘的开放世界岛屿上，收集资源来升级它，并与Maja对决。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/16daOTDhY1pNtncp5LjFDbw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/005988ba1e8e",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "b300a4453da39e6df9a49a407c37c79e61f58fe7c407105c3516cd6a84b80f6d",
-      "title": "星际美味餐厅|Space Savory",
-      "original_url": "https://nsthwj.cn/game/pc/137787",
-      "source_name": "NS头号玩家 PC",
-      "summary": "在一个不太遥远的星系中... 一家卫生状况堪忧的餐馆，充满了黑暗的秘密和黑色幽默，位于宇宙虚无的中心。 欢迎来到 Space Savory。别被外表欺骗——宇宙中最美味的味道就在这里烹饪。 (仅限于可观测部分。)",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1aUYlPehKd5UWOmAvS-QnIg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/ae98c9920867",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "ae11d28d546df2e497c4aa73c3931a9347aba76f1fea2bcd84c60570b6134644",
-      "title": "坚持人生地下城|Life Is a Dungeon: Lean into It.",
-      "original_url": "https://nsthwj.cn/game/pc/137786",
-      "source_name": "NS头号玩家 PC",
-      "summary": "宝箱、战斗、矿石、材料——冒险者会追寻什么，取决于各自的性情。选定目的地，引导自动前进的冒险者，权衡抄近路与绕行的风险，并选择兼具能力与坏习惯的技能来成长。这是一款地下城Roguelite RPG。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1NDiKDr6icXWnycal5n-Pmw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/66d6a2447d55",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "0e10dc1ba6ea95f5c9c507a4a7a1a32aa0641535dc0c6bdfdc2810fe15608617",
-      "title": "扭蛋电玩城|Capsule Arcade",
-      "original_url": "https://nsthwj.cn/game/pc/137785",
-      "source_name": "NS头号玩家 PC",
-      "summary": "在霓虹闪烁的扭蛋店里整理收纳的第一人称治愈游戏。打开扭蛋，把216个可爱公仔摆进展示柜，让星空扭蛋馆六层楼的机器一台台重新亮起来。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1WVfLmaly2U7pDDlCTLePhw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/d827880c66f2",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "650165357f29fa101db5a4a7c0e53291df584a53f55a5006cc22c7f1ce61f38d",
-      "title": "资金到位|Fully Funded",
-      "original_url": "https://nsthwj.cn/game/pc/137784",
-      "source_name": "NS头号玩家 PC",
-      "summary": "和好友一起练习自营交易公司的期货考核。共用一个账户，同类的规则（每日亏损限额、追踪回撤、盈利目标），带指标和画线工具的专业级图表，外加满屋子的东西——谁把账户搞爆了，就拿东西砸谁。全部通过后，还能在无尽的实盘账户里一直交易下去。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1Y92ER5UkNSZDMVHiuyHRtw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/5d5096c6b8cc",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "588f6ffb4cd5e440e1f0ced754372630938d77a52f83147debf366142bd093cb",
-      "title": "天道绘卷——修仙地图模拟器",
-      "original_url": "https://nsthwj.cn/game/pc/137783",
-      "source_name": "NS头号玩家 PC",
-      "summary": "生成一卷属于你的修仙世界。看人族与妖族修士修炼、突破、探索秘境，见证宗门的兴起、分裂与覆灭。你可以静观岁月，也可以化身天道，赐福修士、改变灵气、投放灵宝，改写世界的命运。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1guVky87QuGd1G5nXP0KM0w?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/bd933128b14a",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "93b053fc6362d3c5f9ee275d4f0ff9c10e168d558991baccba65b0a9b8ffaf4a",
-      "title": "东方万象牌 ~ Touhou Bansho Cards ~|Touhou Bansho Cards",
-      "original_url": "https://nsthwj.cn/game/pc/137782",
-      "source_name": "NS头号玩家 PC",
-      "summary": "将战斗贯彻到底！既然已经出牌，就没有停手的理由。一次接着一次，把“连击”推得更高。让伤害越过界限，直到挡在面前的敌人被一口气轰穿！《东方万象牌》是一款 Roguelike 卡牌游戏。探索「万象牌廊」，在不同选择中把牌组推向更凶狠的方向。击败盘踞其中的残影，营救被卷入异变的少女，逐步揭开异变的真相。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1Lti2CDfMkjqxqcN_YkKV8g?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/f6aa293dccae",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "cc50d158ca56bde41bfb99428b8054d670514ffbc07c957151a9f700d041b885",
-      "title": "变废为宝|Trash to Cash",
-      "original_url": "https://nsthwj.cn/game/pc/137781",
-      "source_name": "NS头号玩家 PC",
-      "summary": "《变废为宝》是一款超级解压、惊喜不断的翻垃圾桶增量游戏。翻找垃圾寻找宝藏，也许下一个垃圾大王就是你。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1k0C-JKaZBEVfsdJ67qbAsw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/58974946ec04",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "ab51749e8e83e8d22beb1d2c30b05c0a2bf0f2e260e441d0abe0493e649f3d6c",
-      "title": "老师，她真生气了！|Teach, She's Really Mad!",
-      "original_url": "https://nsthwj.cn/game/pc/137780",
-      "source_name": "NS头号玩家 PC",
-      "summary": "上课偷玩手机给女友回消息，别被老师抓包！在这款搞笑的第一人称潜行游戏里，边打字边留意老师；老师来查课桌时，赶紧藏好手机。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1uoSIoE7tNaLFqdPq1JYrMA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/577dd4e01483",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "753ab772d655e66fd43a45217595fd40db975c8a7f64563bb56e3247efa62439",
-      "title": "诡笑乐园|Giggleland",
-      "original_url": "https://nsthwj.cn/game/pc/137779",
-      "source_name": "NS头号玩家 PC",
-      "summary": "Tolie isn’t allowed to leave the house. One night she wakes up alone in Giggleland, to a voice over the park speakers: her father is waiting for her at the information booth. A first-person psychological horror game in eight chapters. This…",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1e3yFGvE92R4lj1eA6GlMeg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/03cdf6e7a619",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "47343876c1541cd1e2e6ef2163359dfddeb56b19a471d39795a0b3bd79a1fe65",
-      "title": "表情包整理大作战|Emoji : Tidy Up",
-      "original_url": "https://nsthwj.cn/game/pc/137778",
-      "source_name": "NS头号玩家 PC",
-      "summary": "整理混乱的 Emoji 世界！在这里，你需要观察、分类2100个各种可爱的表情，让它们回到属于自己的位置。数百种风格各异的 Emoji 等待你的整理，每一次移动都带来满满的满足感。享受整齐排列的治愈瞬间，打造属于你的完美 Emoji 收藏空间！",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1W3U1-3ouKp4sLzjdROJoOA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/6bb1571fe40c",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "e385a8006ac723f69a7ce3c7b5febdd2fb78e4056264ec61e20c2de0f77c783c",
-      "title": "丧尸粉碎机|Shreddead",
-      "original_url": "https://nsthwj.cn/game/pc/137777",
-      "source_name": "NS头号玩家 PC",
-      "summary": "ShredDead 是一款轻松短小的增量式僵尸粉碎游戏，专注于成长进度，没有失败条件。击败无尽尸潮，收集战利品，发展技能树，并让僵尸不断进化。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1UdjqIUaWzr6sEFt1PUmYQA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/2d984e8f906d",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "703f412108ce91597ce398dbb2a82230c70aeea5bb3153f6d50a06b871087c24",
-      "title": "噩梦边境|Nightmare Frontier",
-      "original_url": "https://nsthwj.cn/game/pc/137776",
-      "source_name": "NS头号玩家 PC",
-      "summary": "全新首款Tactical Extraction Looter游戏！直面具象化的恐惧——Dreadweaver，靠勇气与领导力生存下去！带领一队Scavengers，踏入架空1900年代惨遭覆灭的West Coast都市。深入险境、迎战怪物，搜刮战利品，最终活着撤离。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "v1.1.0.1814",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1FpzQ8dKu1LqG-HYLhLYI-g?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/bff4b904873a",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "9f5b41f35fdfb58cfca0e9d0e9b199a862b6bf1360816ad582d3dac94ac7f8d1",
-      "title": "冥河：外神来袭|Stygian: Outer Gods",
-      "original_url": "https://nsthwj.cn/game/pc/137775",
-      "source_name": "NS头号玩家 PC",
-      "summary": "深入一个穷凶极恶的世界，这款融合RPG元素的生存恐怖游戏将挑战你作为个体的存在。揭开千年之前的谜团，在理智岌岌可危的处境下使用自身技能面对外神。每一颗子弹与每一次的决定都将左右你的命运，你是否能够坚持到最后？",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "v1.0",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1RaBNRN0KI8mOo2FfWuUv0A?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/08b75cd03aad",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "4be205b7b0eed70b46dc486897b2a57e289b11aafa5d6a24a699b78baff0862f",
-      "title": "魔法少女急救室|Magical Girl ER",
-      "original_url": "https://nsthwj.cn/game/pc/137774",
-      "source_name": "NS头号玩家 PC",
-      "summary": "A medical simulation where you examine and treat magical girls injured in kaiju disasters. With limited hospital beds and stamina, decide who to accept, who to refuse, and which treatment to choose.",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1nmbUq43gHEdmS9Ypxx5v-g?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/1d9fd542b26b",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "28b1ed0e5274eb57f548c93425401f523d0e873aba6e647bc66c7169841eb5f1",
-      "title": "美德与重锤|Virtue and a Sledgehammer",
-      "original_url": "https://nsthwj.cn/game/pc/137773",
-      "source_name": "NS头号玩家 PC",
-      "summary": "在这部叙事类探索游戏中，你可以回到故乡，亲自用一柄大锤去摧毁一切。去直面你的过去吧，在令人崩溃的故事中体会“自己已不再属于从小长大的故乡”的感觉。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1u0DXSXD92Dpk5rVn1eQHSA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/c311ab4b3e14",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "7ad150f5ebd94ae651f1a347085b3b9aef4c8b548dc48119f58bbe891b698a84",
-      "title": "神探狗狗 : 汪者归来|Dog Man: Bark in Action",
-      "original_url": "https://nsthwj.cn/game/pc/137772",
-      "source_name": "NS头号玩家 PC",
-      "summary": "携手神探狗狗和他的超级伙伴，踏上超级酷炫的全新冒险旅程！操作多达 10 位各具特殊能力的伙伴，一起来体验刺激 BOSS 战、超炫新发明，保证乐趣无穷、精彩不断！",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1BJg0O_HcCqg9MofTfxFHSQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/a521f9a86bd7",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "7e8de5524439da8a7f06df3397d2936da762f2b22bae9bb9f60a5eb6c50dc82f",
-      "title": "爪爪伙伴：专注时光|Pawnie: Focus Pals",
-      "original_url": "https://nsthwj.cn/game/pc/137771",
-      "source_name": "NS头号玩家 PC",
-      "summary": "《Pawnie: Focus Pals》是一款提升生产力的桌面伴侣。Pawnie常驻于Windows系统桌面，直观映射用户的努力付出，并通过正向激励系统与环境个性化定制，助力用户提升专注力与身心健康。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1W70C4A6JTYHcfs1BZXNULg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/dfb5cec4b32c",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
       "id": "dbf8850488bf84c5e880b98bc384a766995847d0253ae61dc4d1f399c9c77db9",
       "title": "[移植游戏]使命召唤9：黑色行动2[360移植版]|Call of Duty: Black Ops II",
       "original_url": "https://nsthwj.cn/game/switch/137764",
@@ -2783,6 +1515,1331 @@
         }
       ],
       "summary_checked_at": "2026-11-04T14:20:34.526286+00:00"
+    },
+    {
+      "id": "f4fdad32a584c8ebae9b0762fb857f5be1cae8b4bcf18980329befcd3b386ca2",
+      "title": "[移植游戏]死刑犯：罪恶起源|Condemned: Criminal Origins中文",
+      "original_url": "https://nsthwj.cn/game/switch/137755",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "是什么让一个普通人的心智扭曲，沦为连环杀手？ 伊森・托马斯探员被派驻至连环犯罪调查科，他必须找到这个问题的答案，并将社会中最恶劣的罪犯绳之以法。他的破案率在局里无人能及…… 或许，高得有些反常。 在调查不断增多的连环杀手案件时，托马斯探员发现，有某种未知力量正在扭曲那些被社会遗弃者的肉体与灵魂。流浪汉、瘾君子与精神失…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.0.2",
+      "updated_at": "2026-11-03T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1wmtImG6x5JsX_kbhHeWDHA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/013679590656",
+          "extraction_code": ""
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:35.687798+00:00"
+    },
+    {
+      "id": "7efb6d5558e1a8bb94754e0bf22deb187b82f420dd0fc29a01b6ee8a6d91ed06",
+      "title": "[移植游戏]宝可梦SA|Pokémon SA汉化",
+      "original_url": "https://nsthwj.cn/game/switch/137717",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "宝可梦SA作为B站UP主裘老板独立开发的高品质宝可梦同人作品，以小智的动画旅程为蓝本重写剧情。宝可梦SA手机版包含全世代上千只宝可梦，新增多种原创形态宝可梦，战斗系统结合原作最新设定，支持Mega、Z招式、极巨化等核心玩法，并引入明雷遇敌机制与动态天气系统，秘传技转为道具，解放宝可梦技能格。玩法十分丰富，堪称同人标杆。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：0.1.0-b46",
+      "updated_at": "2026-11-03T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1QEnq99vqUh7IMiLI-hzqYw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/ef42b8ffba75",
+          "extraction_code": ""
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:36.575329+00:00"
+    },
+    {
+      "id": "d775b061ffd08fa341dade241798d8f786f6ade5db803190f308e2b59bf98401",
+      "title": "[移植游戏]宝可梦：靛蓝|Pokémon Añil汉化",
+      "original_url": "https://nsthwj.cn/game/switch/137390",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.1.0",
+      "updated_at": "2026-11-03T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1n_33DYzclsav-HpVhGA1rQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/dea627231e88",
+          "extraction_code": ""
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:37.115605+00:00"
+    },
+    {
+      "id": "b97c0484bd7a38fe555428952e15668540c482bff4cec56a3980a1c3b9269c3e",
+      "title": "战国无双：真田丸|Samurai Warriors: Spirit of Sanada汉化",
+      "original_url": "https://nsthwj.cn/game/switch/3049",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "“战国无双”系列是以战国时代为舞台，操纵各种各样的武将，可以体验到一骑当千的爽快感，可以打败蜂拥而至的敌人。 作为系列的首次尝试，以一位武将为焦点的“战国无双真田丸”终于在Nintendo Switch中登场。被誉为“日之本一之兵”的武将真田幸村的48年，描写了他的一生。 以粉丝们要求很多的幸村的父亲真田昌幸为首，很…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.0.1 含1.0.1金手指",
+      "updated_at": "2026-11-03T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1_ANjhm0Kt8_ehe5i0K6XRQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/18df81c71c74",
+          "extraction_code": ""
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:37.677153+00:00"
+    },
+    {
+      "id": "97928269900cdeac90ebc145af548eff8ef3ef6b0451fa4a19374bb8130a2938",
+      "title": "八方旅人|歧路旅人|Octopath Traveler中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137763",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "八位旅行者的八次冒险之旅。化身为八个角色之一，踏上史诗般的旅程，穿越广阔而神奇的奥鲁斯特拉大陆，探索八位旅行者各自迷人的故事。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.01 系统要求：≥ 5.05",
+      "updated_at": "2026-11-03T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1rTa9M4TZPKVJezby-NjxWw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5XASQNuT-K0-mdVv6Ri072A1?pwd=urfy",
+          "extraction_code": "urfy"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:47.377002+00:00"
+    },
+    {
+      "id": "dfc9a20e32837f17ccc3471a1cefdd8fea04f193d4d0ed6bd3d4eade19387e92",
+      "title": "瓢虫少女：巴黎围困|Miraculous: Paris Under Siege英文",
+      "original_url": "https://nsthwj.cn/game/ps4/137762",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "踏上奇迹少女和黑猫罗尔这对搭档最惊险的冒险之旅吧！随着黑魔蝶在城市各处释放出一波波恶棍，展开一场充满英雄主义的刺激冒险，边跑酷边战斗，敏捷地翻转腾挪，克敌致胜。你和你的朋友们将肩负拯救巴黎的重任！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.03 系统要求：≥ 5.05",
+      "updated_at": "2026-11-03T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1ec1LWmJ75AHZNb7XxdbNYQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5XDKQU9GRlMrWziQNlafgLA1?pwd=7qen",
+          "extraction_code": "7qen"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:47.978861+00:00"
+    },
+    {
+      "id": "976f222d4a8ea0268fe451befc9f8b15481615da0f6aa9fd5f788f4ab6de6d8d",
+      "title": "节奏萌芽|Rhythm Sprout中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137761",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "\"一款有着原创音乐和趣味故事的快节奏音游。 在音乐节拍构成的战斗中对抗一个个魅力十足的Boss，在丰富多彩的3D环境中伴着节奏奔跑。能给关卡“混音”的可选模式带来了无穷尽的挑战性和可重玩性。\" 你能阻止糖爸爸国王吗？",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.02 系统要求：≥ 5.05",
+      "updated_at": "2026-11-03T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Bm2abu5N0GqvFJlxRPPocQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5X2npepkuC_vbIHKjvH7QZA1?pwd=ue6m",
+          "extraction_code": "ue6m"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:48.535084+00:00"
+    },
+    {
+      "id": "f181f5d3ee3d1f0d9348ee6b404396a8f2b8824a5b4ec2ec665465b597210021",
+      "title": "星状|Stellatum英文",
+      "original_url": "https://nsthwj.cn/game/ps4/137760",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "Equip your battleship's guns, install faster engines, and increase the power of your reactor. Throw a barrage of rockets on hordes of enemy ships, burning ever…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.00 系统要求：≥ 5.05",
+      "updated_at": "2026-11-03T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1tZFrR-2Iacx4eBiNH4G4Hw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5WwIg4IxAqxSSPEctsh_MeA1?pwd=5dbc",
+          "extraction_code": "5dbc"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:49.075527+00:00"
+    },
+    {
+      "id": "fe8cabc067af6ce41b3edf5fe88cdc7b2bf568221929b20b7a5be43c166db2b1",
+      "title": "鳄鱼侦探布罗格：乱斗酒吧|Brok the Investigator: The Brawl Bar中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137758",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "《鳄鱼侦探布罗格：乱斗吧》是狂野热烈的横板清关游戏！ 赶快来接受这些疯狂的挑战，战胜危险的对手，登上地下酒吧的顶点，结识意想不到的朋友吧！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.06 系统要求：≥ 5.05",
+      "updated_at": "2026-11-03T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1K1bQv9H3rV9XyN13I7ZvLg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5Wiyh8e-JIigHiqhIsncfIA1?pwd=x4tm",
+          "extraction_code": "x4tm"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:50.163920+00:00"
+    },
+    {
+      "id": "dd2db4e0d6ebe739bfc5e55e0ad4a5b166f66e13c630860872352b5b2628c7f7",
+      "title": "鳄鱼侦探布罗格：尾诞节，新的圣诞|Brok: Natal Tail, A New Christmas中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137716",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "这是一篇背景设定在《鳄鱼侦探布罗格》世界中的圣诞故事，以独立视觉小说的形式呈现。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.02 系统要求：≥ 5.05",
+      "updated_at": "2026-11-03T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1BRs2lDWCrBdW0DGu_w8Qfw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5WQgrnKq-nQN_Dn0phDsBcA1?pwd=w7ii",
+          "extraction_code": "w7ii"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:50.740867+00:00"
+    },
+    {
+      "id": "697679c7db2684aac4ca0b52e286bed95d28b8410899ced0afc343b934c758c8",
+      "title": "铁血机甲：反攻|Metal Suits: Counter-Attack中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137715",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "你不该惹他！失去一切所爱后，凯文化身愤怒的赛博格归来。用毁灭性般多样化的战斗装甲释放混乱，体验这款爆炸性的高速动作平台游戏！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.09 系统要求：≥ 5.05",
+      "updated_at": "2026-11-03T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Xc3nHR6dBRs7Sk4LLfUsTg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5VeBMj_d9kdGBRDDrklvLiA1?pwd=rixh",
+          "extraction_code": "rixh"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:51.284610+00:00"
+    },
+    {
+      "id": "6fb17b5e5daa3eab0920c31ff32c0fad2877b99c3ceb375aa81eb2ae5bf3d49d",
+      "title": "制服女友|制服カノジョ汉化",
+      "original_url": "https://nsthwj.cn/game/switch/9539",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "“因为你的告白已经扩散了！” 在大城市的学校经历了非常严重的失恋。 “我的青春，完全结束了。” 虽然每天都过着绝望的日子，但是因为转校到九州而完全改变了！ “周围只有美女！？！？” 转校地是以博多美人闻名的福冈。 被与市中心的差距所压倒的话，会遇到许斐痒。 “你喜欢制服吗？” 非常适合穿制服的同学“kanojo”。…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-02T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1v68yMYXw0RsV9Aoccadjjw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/12d2daf24329",
+          "extraction_code": ""
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:38.235919+00:00"
+    },
+    {
+      "id": "1951df577d0999dd1791bf999b117bf911c2e829ed3acc645bb1e75aee5f894c",
+      "title": "终结者2D：命运未定|Terminator 2D: No Fate中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137714",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "以街机操控风格和超赞像素画面畅享《终结者2》的惊心动魄！本作将电影中广为人知的场景与原创游戏场景和多重结局融为一炉，为你讲述一个独一无二的故事，让你来决定人类命运的走向。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.02 系统要求：≥ 5.05",
+      "updated_at": "2026-11-02T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1FDKNCGbwGrI3D2Tlr9VC0A?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5Rr4hi0pqe0kyef3iIWR0yA1?pwd=s47c",
+          "extraction_code": "s47c"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:52.127496+00:00"
+    },
+    {
+      "id": "949dd61dac9e7b6644805a15644e6738d06592964d8338f24658ce70243faea1",
+      "title": "火星2120|Mars 2120英文",
+      "original_url": "https://nsthwj.cn/game/ps4/137713",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "这款混合了近战和远程格斗的 Metroidvania 游戏，灵感来自《超级 Metroid》、《恶魔城：夜之交响曲》或《Guacamelee》等经典游戏！帮助 \"十三 \"安娜-夏洛特（Anna \"Thirteen\" Charlotte）穿越火星的秘密。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.05 系统要求：≥ 5.05",
+      "updated_at": "2026-11-02T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Y91shtgUGAeqM4VnHX1tyw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5RlWqaxOKD5aCTFgTQj-XzA1?pwd=26fj",
+          "extraction_code": "26fj"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:52.720880+00:00"
+    },
+    {
+      "id": "a0d92cf59b403943f8434bef661c58eec8b8e0a96f3a95348fc2268009585162",
+      "title": "弗拉德马戏团：堕入疯狂|Vlad Circus: Descend Into Madness英文",
+      "original_url": "https://nsthwj.cn/game/ps4/137712",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "Vlad Circus: Descend into Madness考验你的理智，在你逃离噩梦与苦难交织的迷宫途中设下种种挑战。 在慢烧脑谜题、轻生存机制及死规则行动中考验自己的头脑。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.01 系统要求：≥ 5.05",
+      "updated_at": "2026-11-02T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/18ReCPcVg1iyDFb5eS0a6pw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5RjHN3R-OHkZOFCYekZV1VA1?pwd=5ixw",
+          "extraction_code": "5ixw"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:53.341038+00:00"
+    },
+    {
+      "id": "7e48999c0ab00f548031e154400578f50a3ea0c6a9eae757975d9111f2b5b07e",
+      "title": "飙马野娘|芭比马术之旅|Barbie: Horse Trails中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137711",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "快呀！扮演两位Barbie™，进入冒险之中，骑着马儿吉祥穿越坎特伯雷步道公园。成为小小园林官，探索令人惊叹的野生动物，抓拍不可思议的照片。与好友一起寻找收藏品，为Barbie和吉祥换上闪耀外观。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.01 系统要求：≥ 5.05",
+      "updated_at": "2026-11-02T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1k0ZeoGwCyYX1zXC18ZCkJQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5RgbWIkHxFAlLGboOGGIm2A1?pwd=hp7d",
+          "extraction_code": "hp7d"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:53.914849+00:00"
+    },
+    {
+      "id": "7d11aa4ed92a1827c061ebc4918e640a4335bbd97efd5f074cbe89666d20c00d",
+      "title": "午夜赤霞|Cabernet中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137710",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "《Cabernet》是一款以19世纪东欧世界为背景的2D剧情类角色扮演游戏。年轻的吸血鬼吉德·丽莎将在一群毫无戒心的镇民之中，以不死之身开启新生活。你会选择维持人性，还是毅然走上恐怖的吸血鬼之路？",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.09 系统要求：≥ 5.05",
+      "updated_at": "2026-11-02T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/15Qy5HGzPi4VMN6kPCNPdhw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5Re2HtdDdQuqwAnsakPOy0A1?pwd=nrqq",
+          "extraction_code": "nrqq"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:54.521361+00:00"
+    },
+    {
+      "id": "da2633b1317d99e65945147394360fe6d9134fc70c76e05bb73b87aa9a59092a",
+      "title": "宇宙汉堡王|Godlike Burger中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137709",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "在《宇宙汉堡王》中开全星系最疯狂的餐厅！采用多种狡诈的方式击晕、毒倒和击杀顾客……然后把他们变成汉堡肉馅！别担心：只要你手段够高，外星人顾客会源源不断地光临，因为同类的肉实在是太美味了！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.01 系统要求：≥ 5.05",
+      "updated_at": "2026-11-02T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1KJGGyvp-KKeCgT-sfMP5Hg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5Rb0-_mrvMfMpXyZWe29vkA1?pwd=tzy8",
+          "extraction_code": "tzy8"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:55.096642+00:00"
+    },
+    {
+      "id": "5749a9d34d0a8fb98726c7d38a5dfb068a37aadaf53b1a1b2476c71519a33bd5",
+      "title": "月球着陆：超越|Lunar Lander Beyond英文",
+      "original_url": "https://nsthwj.cn/game/ps4/137707",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "Guide a roster of colorful pilots, eclectic advisors and state-of-the-art landers through a taxing series of missions. Deliver cargo, retrieve resources, and r…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.03 系统要求：≥ 5.05",
+      "updated_at": "2026-11-02T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1aFgU_2xHs5kmGqDQlJIDSg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5RXOc_DI3t4ZneyGKG-L7mA1?pwd=2tg6",
+          "extraction_code": "2tg6"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:55.716359+00:00"
+    },
+    {
+      "id": "3166908ec556eb394180b077548127f643210c507a70a02cc9b84c5e685d5694",
+      "title": "永远的超级食肉男孩|Super Meat Boy Forever中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137706",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "Super Meat Boy is back! This time around Meat Boy is always running, literally it's an auto-runner. You will jump, dive, slide and punch your way through bruta…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.10 系统要求：≥ 5.05",
+      "updated_at": "2026-11-02T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1QQtnu2vH0WhDKPgUH2yeQA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5RXTwLmrvMfMpXyZWdxtxIA1?pwd=6hvn",
+          "extraction_code": "6hvn"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:56.277085+00:00"
+    },
+    {
+      "id": "9c73bc2434b4af380cd110051f213868bcbfb3bd3aefcfc9fe0f55c85d2f6f34",
+      "title": "上行战场|The Ascent中文",
+      "original_url": "https://nsthwj.cn/game/ps4/12726",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "《上行战场》是一款动作射击类的ARPG游戏，同时支持单机和多人联机。游戏背景设定在一个未来的赛博朋克风格世界。在这里，超级企业上行集团掌控着你和其他所有人。但他们却因不明原因突然倒闭，一切归于混沌。活下去，是你唯一的目标！游戏支持中文。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.05系统要求：≥ 5.05",
+      "updated_at": "2026-11-02T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1XCXDkP_h45GfTtA4zBmrjQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VODtvZaj0KJDvS4rJg4_syeaA1?pwd=fvm4#",
+          "extraction_code": "fvm4"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:56.852507+00:00"
+    },
+    {
+      "id": "cc126236f624624b1aa803bfed21f4cd26d5963a35bb5cedcaeb786f92747198",
+      "title": "弹珠之旅！超激|Marble It Up! Ultra中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137705",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "滚动、回弹、助推，一路狂飙，在终极弹球平台游戏《Marble It Up! Ultra》中赢得胜利。通过完成大量战役追赶好友及全球优秀玩家创造的记录——或者在紧张刺激的多人游戏混战中和他们展开正面较量。准备好开始游戏吧！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.07 系统要求：≥ 5.05",
+      "updated_at": "2026-11-02T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1KHVDon7AaEFfoVGSGDZOSw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5ROSG9e2CEOvHnoiaL5q2eA1?pwd=qjn3",
+          "extraction_code": "qjn3"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:57.440576+00:00"
+    },
+    {
+      "id": "c46fc2983acfa814065550331209fbd91a379c894e93103d462c5f5b9caf7dce",
+      "title": "星球大战前传1：绝地力量之战|Star Wars: Episode I - Jedi Power Battles中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137703",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "勇闯这款速度与激情并存的光剑动作游戏，夺回希德王宫。您将支配原力，手握值得信赖的光剑，抵御来自《星球大战前传1：幽灵的威胁》中由战斗机器人、毁灭者机器人、刺客和各种生物组成的军团。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.02 系统要求：≥ 5.05",
+      "updated_at": "2026-11-02T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1s_cJV9iq6A6LE1hSZiCwbg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5RHDui1PPHJCbuHv-Tj8FoA1?pwd=ggz8",
+          "extraction_code": "ggz8"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:59.041968+00:00"
+    },
+    {
+      "id": "40709561d23c23ef50c3ed5f8e849231c934a8ba1d7475b32b5c1b67697186dd",
+      "title": "飞屋环游记：重制版|Disney•Pixar Up英文",
+      "original_url": "https://nsthwj.cn/game/ps4/137702",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "体验原本推出于 PSP™ (PlayStation®Portable) 主机的 Disney•Pixar Up，本作在多方面获得增强，不仅提升渲染效能，也新增了回转、快速存档和自订影像滤镜等多项功能。 改编自同名的 Disney•Pixar 动画电影，《天外奇迹》电玩游戏将带领玩家跟着卡尔费迪逊及他的年轻搭档野外探险…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.01 系统要求：≥ 5.05",
+      "updated_at": "2026-11-02T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1UXuulevAoX3X0a4qndsPoA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5RFBqXbELMJ2lYt_jPLa8hA1?pwd=vb36",
+          "extraction_code": "vb36"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:20:59.646376+00:00"
+    },
+    {
+      "id": "ed9174a7df954cbeb578e3f9bbbe4f617cf86999fe54298f13da103fa53c1424",
+      "title": "浪漫沙加开拓者：重制版|SaGa Frontier Remastered中文",
+      "original_url": "https://nsthwj.cn/game/ps4/14167",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "《SaGa Frontier》这款RPG于1997年发售，至今仍深受玩家喜爱。如今提升畫質，並加入新要素，以全新面貌復甦！主角新增为八人，他们的故事将进一步进化。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.01系统要求：≥ 5.05",
+      "updated_at": "2026-11-02T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VOWQcIDhEa3V9nwrNWsbTAwRA1?pwd=ytfh#",
+          "extraction_code": "ytfh"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:21:00.254806+00:00"
+    },
+    {
+      "id": "2e830e97503abe9d0eeff010dc1f7e4aa3b9e7e2f7ca216159ca4d21eecd73d5",
+      "title": "COGEN：大凤羽空和刻之剑|Cogen: Sword of Rewind中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137693",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "回溯时光，前进。 回到死亡3秒前突破障碍，全新2D动作游戏在此登场。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.05 系统要求：≥ 5.05",
+      "updated_at": "2026-11-01T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/17g_3MERCTTD0Ye_qJD6f7g?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5P_5xB5_v7qpgmnJ5x59R4A1?pwd=58vm",
+          "extraction_code": "58vm"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:21:00.829064+00:00"
+    },
+    {
+      "id": "22683f608607ae547795f65006bcff7faa0133e62970afa4843dcdd917ef7b98",
+      "title": "浪漫沙加：吟游诗人之歌高清版|Romancing SaGa: Minstrel Song Remastered中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137683",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "《Romancing SaGa -Minstrel Song-》推出追加新元素与便利功能的Remastered版！ 带来更深刻的故事内容及更畅快的冒险体验！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.02 系统要求：≥ 5.05",
+      "updated_at": "2026-10-31T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1uMdlkz-N-NVo6YtKHlxBcA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5HiXoVsRMUahe0U9M9NQUUA1?pwd=wpdk",
+          "extraction_code": "wpdk"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:21:01.494075+00:00"
+    },
+    {
+      "id": "e0d5307376eccc0d5efabce9e07cc0caa6ab8db6d9a9e2ff9114882efb5cb6d0",
+      "title": "辐射谷物语|原子庄稼|Atomicrops中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137677",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "双摇杆轻度Rogue类弹幕游戏，既要种植作物，又要保卫末日废土的最后一座农庄。培育变异作物，升级武器，与小镇居民结为连理，消灭所有企图糟蹋农庄的变种怪物！噫哈！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.06 系统要求：≥ 5.05",
+      "updated_at": "2026-10-31T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1DoGA8Y-dskHW0riy_P63kg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5H45Y1WiWJMVhKIfKhk1vKA1?pwd=h5u8",
+          "extraction_code": "h5u8"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:21:02.380227+00:00"
+    },
+    {
+      "id": "d5068e037d5a6f3bb21a6566ca75cb0ff09c99c8caa5f3174d06226f4d720f9e",
+      "title": "九年阴影|9 Years of Shadows中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137664",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "努力战斗冲破人为的黑暗，将美丽的色彩返还给世界。跟随年轻战士欧罗巴，以及她的幽灵童年玩伴阿皮诺踏上旅程。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.02 系统要求：≥ 5.05",
+      "updated_at": "2026-10-29T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1JZkT1flU9-Sni12Ob9Wm4w?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP5AP4W84T47atcvd85oaU0JA1?pwd=6bbv",
+          "extraction_code": "6bbv"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:21:02.969964+00:00"
+    },
+    {
+      "id": "c7c04f7c3122de3e262a1014bc8ec7b82cc732eca2361765deefe7dd5dc78543",
+      "title": "百重幻境|Centum中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137661",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "事出必有因。你被困住了，你必须逃走。但逃脱，真的是你的目标吗？叙事冒险游戏《Centum》的故事走向无法预测。一切都可能是谎言。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.02 系统要求：≥ 5.05",
+      "updated_at": "2026-10-29T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1pe3-o5CG-HnN_4wSMM49Hw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP57CIu_yxooVPDcHw4ssil8A1?pwd=nkpw",
+          "extraction_code": "nkpw"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:21:03.573967+00:00"
+    },
+    {
+      "id": "28551aa7acbfa31b56457c6c8640650859baf57bb898ff3e39d1b2679599be04",
+      "title": "狂野星球复仇记|Revenge of the Savage Planet中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137659",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "《狂野星球复仇记》(Revenge of the Savage Planet) 是一款欢乐的讽刺科幻冒险游戏。在游戏中，你可以跳跃、射击，收集各种物品，探索五彩斑斓的外星世界，解锁新装备和升级物品，同时揭开各种隐藏的秘密。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.04 系统要求：≥ 5.05",
+      "updated_at": "2026-10-29T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1tLJOsRyc4OeGbDotN6zcmw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP57TWIS3zFaI5wtHpeRz5ZBA1?pwd=ub3n",
+          "extraction_code": "ub3n"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:21:04.180925+00:00"
+    },
+    {
+      "id": "f8151851e415423998267c2391a1555aec2422c920cea97b3d5a1bf04081687d",
+      "title": "自由战争：重制版|Freedom Wars Remastered中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137657",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "徒刑 100 万年「夺回至关重要事物」的一战正要展开。 人类生存之罪为──「100 万年徒刑」。在资源匮乏、已面目全非的未来，在一切都受到严格控管的超级监控社会，参加名为“志愿服务”的危险战斗活动，并为赢得真正的自由而战。 ・活着即是「罪」 在资源匮乏的遥远未来，活着本身就是一种「罪」。作为一名被判处 100 万年徒…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.09 系统要求：≥ 5.05",
+      "updated_at": "2026-10-29T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1jx2USuVwzOpkkXm5RL5xCw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP56ceh9yxooVPDcHw4sESsqA1?pwd=k5tg",
+          "extraction_code": "k5tg"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:21:05.208539+00:00"
+    },
+    {
+      "id": "56a355b810c18d7b6cd88812a96d925cf1a5009d214740cc5d1f7830411ee888",
+      "title": "预兆景象|Omensight中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137656",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "Omensight是一个动作皆谋杀侦探式游戏。你是先驱者，一个强大无比的神秘战士。你目睹了世界的毁灭。为了防止末日的发生，你必须重复这一天，以揭开无神女祭司被谋杀的谜底，因为她的死亡是促成末日的启示。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.04 系统要求：≥ 5.05",
+      "updated_at": "2026-10-29T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1MYJ514bUYPbK27xNxTsrbw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP56_c6kyqVeNR1vgWQD_9blA1?pwd=e6wa",
+          "extraction_code": "e6wa"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:21:05.810074+00:00"
+    },
+    {
+      "id": "f663ce179ff13bfeb6b8c8040e996ed1592d5a1f27f837beeddf4784ba43cf86",
+      "title": "真人快打11|Mortal Kombat 11中文",
+      "original_url": "https://nsthwj.cn/game/ps4/12997",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "《真人快打》经典系列隆重回归，现在就来一睹这叹为观止的新作吧。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.30系统要求：≥ 5.05",
+      "updated_at": "2026-10-29T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1jp1V2mnAMrnKjETQnhV5gg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VODv1EUQIybsLhlfCVPn_0WwA1?pwd=aash#",
+          "extraction_code": "aash"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:21:06.401935+00:00"
+    },
+    {
+      "id": "8cf8ae45b29bc8589156e5fd830da9dcb406e5d0560efc76b1e8f5961b2796d1",
+      "title": "蓝火|Blue Fire中文",
+      "original_url": "https://nsthwj.cn/game/ps4/14111",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "Explore the fallen world of Penumbra in this precision 3D metroidvania platformer. Slash fierce enemies, conquer deadly traps, uncover ancient temples, and mas…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.07系统要求：≥ 5.05",
+      "updated_at": "2026-10-28T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1fcfVPvu2CD8nXm6b-BwqgQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VOWQc0FrhcjX3P-LeF1wkyb4A1?pwd=hnbg#",
+          "extraction_code": "hnbg"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:21:06.976575+00:00"
+    },
+    {
+      "id": "3ece911817b6bad9a59154f348b3213e791914e02e37f71d4c2db080983bae75",
+      "title": "索菲亚动物诊所：使命野生动物园|Sophia’s Animal Clinic: Mission Wildlife Park英文",
+      "original_url": "https://nsthwj.cn/game/ps4/137629",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "你的兽医冒险之旅从野生动物园开始！帮助那些受伤或生病的动物，比如马、鹿、鸭子、驴、山羊、兔子等等。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.02 系统要求：≥ 5.05",
+      "updated_at": "2026-10-28T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1TG3YNfLuE4m_jJoFJo3vLw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP51sTYCx0KtVdbfO8rFfakUA1?pwd=feku",
+          "extraction_code": "feku"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:21:07.551484+00:00"
+    },
+    {
+      "id": "3f9a4ce252031f348e5b085bf72684ec1fcf76e69ff5fe7e5f1b6e80e08d1f9e",
+      "title": "暗黑破坏神3：夺魂之镰|Diablo III: Eternal Collection汉化",
+      "original_url": "https://nsthwj.cn/game/ps4/12504",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.47系统要求：≥ 5.05",
+      "updated_at": "2026-10-27T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/16JfO4ZxjbEqkjfJPDYYwxg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VODehyfM5elOpUmMRh__zAPUA1?pwd=jdsy#",
+          "extraction_code": "jdsy"
+        }
+      ],
+      "summary_checked_at": "2026-11-05T20:44:47.979297+00:00"
+    },
+    {
+      "id": "ab7c206e9352b578ccd33269d35767111a6f67f2e01edcdb64c85f804f09e3b3",
+      "title": "永恒万圣节|永远的万圣节|Halloween Forever中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137609",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "Something mysterious is happening in the pumpkin patch this Halloween! You control Pumpkin Man, a humanoid pumpkin thing animated by occult forces on a quest t…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "public_browser_verified",
+      "version": "最新版本：1.02 系统要求：≥ 5.05",
+      "updated_at": "2026-10-27T00:00:00+08:00",
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1P36NjgJrp8LUd8PPE8qaZg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "迅雷网盘",
+          "url": "https://pan.xunlei.com/s/VP4wEKxKgpPn3R8iQlMUfeGaA1?pwd=444k",
+          "extraction_code": "444k"
+        }
+      ],
+      "summary_checked_at": "2026-11-04T14:21:08.721720+00:00"
     }
   ]
 }
