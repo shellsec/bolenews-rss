@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-06T17:34:44.522730+00:00",
+  "generated_at": "2026-11-06T23:17:31.334590+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -11,7 +11,7 @@
       "summary": "平台：PlayStation5 发行商：Sold Out 语言：中文,日语,英语,德语,韩语,意大利语,法语,西班牙语 开发商：Frontier Developments 发行日期：2020年11月10日 游戏版本：v1.017.000 游戏编号：PPSA01736 格式：文件压...",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-06T12:24:20Z",
@@ -20,8 +20,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-06T17:34:46.251322+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-06T17:34:46.251322+00:00"
     },
     {
       "title": "异形：夺命舰 进化版 Alien Rogue Incursion Evolved Edition",
@@ -258,7 +258,7 @@
       "summary": "平台：PlayStation4 发行商：PQube 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Migami Games 发行日期：2025-06-19 游戏版本：v1.07 游戏编号：CUSA52329 格式：PKG 平台版本：适用使用5.xx及...",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-06T01:58:57Z",
@@ -267,8 +267,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-06T17:34:46.691272+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-06T17:34:46.691272+00:00"
     },
     {
       "title": "玩具总动员：复古大集合！ Toy Story: Retro Roundup",
@@ -277,7 +277,7 @@
       "summary": "平台：PlayStation4 发行商：Atari 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Digital Eclipse 发行日期：2026-10-15 游戏版本：v1.03 游戏编号：CUSA56931 格式：PKG 平台版本：适用使用5....",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-06T01:56:18Z",
@@ -286,8 +286,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-06T17:34:47.118712+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-06T17:34:47.118712+00:00"
     },
     {
       "title": "使命召唤：现代战争 2 Call of Duty: Modern Warfare 2",
