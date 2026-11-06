@@ -21,11 +21,23 @@
         "switch1"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.1",
       "updated_at": "2026-11-05T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-05T03:34:55.581776+00:00"
+      "summary_checked_at": "2026-11-05T03:34:55.581776+00:00",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1HIhyPHHThpw_KnRM9dPTlw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/c8d2c81b4934",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "c042fe12fbbe5cbb998752620ecf349bd668ac925b69f45b76ef145fa234940f",
@@ -44,11 +56,23 @@
         "switch1"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.0.0.6",
       "updated_at": "2026-11-05T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-05T03:34:56.951520+00:00"
+      "summary_checked_at": "2026-11-05T03:34:56.951520+00:00",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1ZypFn42VvPBqW037_T40_A?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/f52567181968",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "55e5bf0ce08fe3582df8aa029ceeb688d736737ca59eddb77521e17cfa9eadcb",
@@ -67,11 +91,23 @@
         "switch1"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.0.0",
       "updated_at": "2026-11-05T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-05T12:33:57.688227+00:00"
+      "summary_checked_at": "2026-11-05T12:33:57.688227+00:00",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/168FVncaRW1P6kErN7iXgDQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/c89347a935e2",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "0eb5b98913198300c4a909a8bb11b7c379954bfd8bbb687a4effb30ab19a3548",
@@ -90,11 +126,23 @@
         "switch1"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.0.1",
       "updated_at": "2026-11-05T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-05T20:44:35.268741+00:00"
+      "summary_checked_at": "2026-11-05T20:44:35.268741+00:00",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1rr7iDhl4MO1i5j0sm04rEw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/f51189caa12c",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "e51c2203c6b26ffc4d6ee419a9a05cb21de155053ff614e1e54cd1b065fb1b8d",
@@ -113,11 +161,23 @@
         "switch1"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.0.0",
       "updated_at": "2026-11-05T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-05T20:44:36.383245+00:00"
+      "summary_checked_at": "2026-11-05T20:44:36.383245+00:00",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1hN_X_ZEQUPfb-N8XmJTRKw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/7a407e55dde4",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "84205b807a3ccd3efcf490fdb926351e5a25ccf1b8d85a5621d5e1aec4565594",
@@ -136,11 +196,18 @@
         "switch1"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.0.0",
       "updated_at": "2026-11-05T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-05T20:44:37.518482+00:00"
+      "summary_checked_at": "2026-11-05T20:44:37.518482+00:00",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1uRSM8u4q5fgBb43w5P0DGg?pwd=thwj",
+          "extraction_code": "thwj"
+        }
+      ]
     },
     {
       "id": "3c8453cd5601d52d2ebbb51256e9da609262162c207f6fade468a42f1bbab039",
@@ -159,11 +226,23 @@
         "switch1"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.0.0",
       "updated_at": "2026-11-05T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-05T20:44:38.638145+00:00"
+      "summary_checked_at": "2026-11-05T20:44:38.638145+00:00",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1_jax2XOhzOtyxxQVL5EbcA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/77aa4c7a32da",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "2748bb9d59b6f8b99c26e61e2e7343a13bc94543ec2627de0f9af2665ed19ec9",
@@ -182,11 +261,23 @@
         "switch1"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：0.295.f206be8+",
       "updated_at": "2026-11-05T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-05T20:44:40.003245+00:00"
+      "summary_checked_at": "2026-11-05T20:44:40.003245+00:00",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1-URWt9IHOvFQXheZINNpKg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/707072d80696",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "ed365f75d100a8a07f7d88d4de2505cb10513b9b8f349fdf24bcbcefd3b219a5",
@@ -205,11 +296,23 @@
         "switch1"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.0.2",
       "updated_at": "2026-11-05T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-05T20:44:41.067818+00:00"
+      "summary_checked_at": "2026-11-05T20:44:41.067818+00:00",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1CGgRm-QcElAhsPLkmW3j0A?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/d6072039b42f",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "adcf8f7810e4a010086cf0eda601c65aed70b6813f626913bfbb92157b772f3e",
@@ -228,11 +331,23 @@
         "switch1"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.0.0",
       "updated_at": "2026-11-05T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-05T20:44:42.464787+00:00"
+      "summary_checked_at": "2026-11-05T20:44:42.464787+00:00",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1U6EQu9238OaSkXapdPBXYA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/76837c9e19c8",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "031848fe3e8e8a5511e04a7b2f70e2d5aad27bc49ad4e16ea6886a1c159e0a50",
@@ -251,11 +366,23 @@
         "switch1"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：0.5.0",
       "updated_at": "2026-11-05T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-05T20:44:43.579172+00:00"
+      "summary_checked_at": "2026-11-05T20:44:43.579172+00:00",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/18xing7O39b74hqJtay23bQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/85c0600f3dde",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "5c983c1a9c782525718de55ba4639d3848a8c25b4d836e95d6f88dc7d186c26f",
@@ -274,10 +401,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "v2.0.5.0",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1caD3N7xRytBrFNO6p7LK-Q?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/b629f819083c",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "8bd1c3013af84e80f01942a7d83baed60e2310c0853b4f66e2d9565a0545164f",
@@ -296,10 +435,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26250239",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Ifqw7YR1fYQOB_0s3D5NjA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/9f46b3ea3a12",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "50e5b0100ee9bafb8e68bcd6184c2d60c42bfd4bad0ab7a17187b30c353bc883",
@@ -318,10 +469,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26034848",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1dZ3RT3A__YDyumf7qs6ejw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/a34e6cfe744b",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "613706892b8d970a310ad8489472da5dea8eb946fd8c506e96e23eb4eb6cad0c",
@@ -340,10 +503,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26354065",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1WEoJ0unhlfNWe6h1hY1pgw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/a2ac7c0214a4",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "9c8691e7940fe0f110f50911bf9ad661be20c272cc96ffa933553e3ff1335092",
@@ -362,10 +537,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26352248",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1wvpkCK1KDo_DYxAsYFNeJQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/395cf736d85e",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "048aa9b6d1fa0df17bdc02e4acbff2e3bc98d97a5ac85d034940f01116d22ac5",
@@ -384,10 +571,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26336386",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/13knqsdzJ0yERHZSP6GFLjA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/275a5587964b",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "75d5df8bc1c90df0bb4c7e85cd706126f94c3e3b53dd3251e6856ed32c6c6561",
@@ -406,10 +605,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26332841",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1m04x9HCNYmydc4E_2ffIbw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/aae281518f99",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "5295957c9ee72131a4ddec352a965fed54458e16e04335d1afc9aa77f7392339",
@@ -428,10 +639,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26358800",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Q4Gu3RUdgTfhDNBLYoMpug?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/56bbfd88d2d2",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "3d2289b0df86f6a7e2373bec0be753d1272cf5556ec6fe316de3c53f748ad441",
@@ -450,10 +673,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26392043",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1ku-qWs-5Iv7GYH3OlSbvCw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/b26ea431d177",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "8ed49c1b0552821db93a3b1e47b0d5cd627d15349ebc12d9ba45991a1d1046a9",
@@ -472,10 +707,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26388194",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1BpUhIXuc3ja378qX68pQ5w?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/0dc281cc216a",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "6758b580b48d0afb7529e3dcacc32ac748eb2e4460fa09afecad8070a5488eaa",
@@ -494,10 +741,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26377603",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1pTHhoRpwvWnx5g3ERImSkQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/e0a226804085",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "ed915ff7e2e2b3556d4de009193b1dcb8eb49364aa651049dddda6323e791936",
@@ -516,10 +775,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26386685",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1M6-fQBhcRKCrZY97BvQiFg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/0473e3f0cd50",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "188d3a10288be8c24c65f384e73cffe3e1a08643abacaa3958d32f72c9d47402",
@@ -538,10 +809,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26379652",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/19Lck_fDjKrcI94KFBHPLFw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/7a44524edaac",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "ef95ba6d0cab2e1e9172441a6e19bfdc3351f641c548b6e416a9f632fcf172ef",
@@ -560,10 +843,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26262254",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1q1VpiSOMwGCNLjUjgTNZZw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/aea553eb2f73",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "30e849179f63b188be7312565c124bde004649c3237c815813e8b047c3fcd134",
@@ -582,10 +877,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.25383814",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1c2F2rSrmXpd7_EELQOgHAA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/3c884b27e31d",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "5d0ca1673ae4be41e8b09e5473392d67ccc3c3238bc1b2eecbd8db6e1ec25f41",
@@ -604,10 +911,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.25525577",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1CxUQJ9XLV3PxCvCohCkuCA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/a95415c1075e",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "47dd065a75afc67259344da28970283ae1e47b9598341bc654740f697588e669",
@@ -626,10 +945,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26383455",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1G8PKS4Vk8e0A-xWPTImbGw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/fded41662667",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "2fb5b68d747db9990ce967322ca84c587d85e6bac0dfdec62a889bae70f3a3d4",
@@ -648,10 +979,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26390422",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/10uQrNblpVO6EYkI8FouUkw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/ec5aacce51ce",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "539ed2abad64e6efcf3432c0e186628b2d75ea4d12cc3521af76fced034d8e72",
@@ -670,10 +1013,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26386629",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1FlIt8f_49rOcN1bCyz5vxg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/832022f5647e",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "e948e2927b8e45f70f81d4c60bdb68e61f5a853d82bdfaf4abc177dfeb6f4e9e",
@@ -692,10 +1047,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26010787",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1BlTgK0pHzap6Xj2oDNsJlg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/8c8c1cb2f5a9",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "1a07b051409893180e43307527bd076c865713e4283ac810930af22b6376c4cd",
@@ -714,10 +1081,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26382248",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1hCNEe0Pd_gCyWZvGXHvzaQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/e5993ac04f8d",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "3e24a3b65dd68d4a750d0c2191e789b4ee1f892eba91199f05621e296c4c6253",
@@ -736,10 +1115,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26379000",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Fqath18X8-9yIr7d4aAAxg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/f877fe5bd374",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "c94c2a1f6b0d25b8c399f7a01981ac5e576606c13b9f8633fa0e667cd4e157e1",
@@ -758,10 +1149,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26314819",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1_irzUM-bLHkgy2rTGpsMSw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/f8dec926854e",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "7f05c72281c000c920dcdabf5790597ba3fad97374f41671bb1099fd76be5bd1",
@@ -780,10 +1183,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26386087",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1PT2n4bhTl_HUZ_GInqlzXw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/3e9b10273a01",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "5550e22574912e35740fc08c7c3449520fb66ac0d0c553a95440f5a8ebeaeb49",
@@ -802,10 +1217,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26369564",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1DT8Hy_UQyCmrYwDJSGc1TA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/b90b0c0483d1",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "e901cf0300cbdb9bdf17102f27fa32776034f2109050f88de1bc5ef2a369c485",
@@ -824,10 +1251,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26375082",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1ngTtm838P4z36yUZym-1rw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/fa774a37f5a1",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "998f4f9ede44743b071e82033a783ac75e5241df5e8ee1e8343b49c6fb5721f0",
@@ -846,10 +1285,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26215175",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1KMy7bSM-XIYaGQJtgkgJ-Q?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/c2f96bc80bbc",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "5b3f5f1667b5a54c4176c6c2268e6f44356dd40c4ea162565753a265d66691d7",
@@ -868,10 +1319,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26398929",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1mTYCsrxXMfllAlkpQArVZQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/e17b03506057",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "3b619e91c849d7992a78efbc36ae9b9146a12e77761dea257b43a0c4c7083a96",
@@ -890,10 +1353,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26382031",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/16neL8AhTkgHbzL0_X--Reg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/30fd1ad899c5",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "805c26236a236d27ae3e15d9c246a3cb72703306d961da345dea8770003fd29f",
@@ -912,10 +1387,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26367792",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/17Cpe7q9Ww1fXsT190T9pZA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/4c0268308bd3",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "1ffdbd3580ba5a0dcfbee913244c688be9dbdd13a2fb70c1a61622f351127f61",
@@ -934,10 +1421,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26404445",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1jCSuZMzIdHaSkD5tCXrqGQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/344b3c06836f",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "898444aa5cbda62de22f98fa8964bc1980ce732f329ae3641195a2173656ac29",
@@ -956,10 +1455,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26404352",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Y4WDhR5C0P3567KVmZgW9Q?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/71119f10abf7",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "1365d0391f5308c7f8615e9e4be8db8a85195f1e5624f7d6ce19b14789f36f4c",
@@ -978,10 +1489,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26400292",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1PSKLcMShl9PDZFgiSrrsgQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/c3b3956e6fd3",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "7088da257198e7eb339dd23c19241805c41211679c98d1a6e0d7ec096076d073",
@@ -1000,10 +1523,22 @@
         "pc"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "Build.26383331",
       "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Ph8NkhbMcDJ6n0I4ZWOuBQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/fe3ff1dd8514",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "96d2edfb65685fe594c4aef673ade1074c7be3b8666ce79dfa8a8bd5f74521a0",
@@ -1267,11 +1802,23 @@
         "switch1"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：0.1.0",
       "updated_at": "2026-11-04T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T16:26:08.486266+00:00"
+      "summary_checked_at": "2026-11-04T16:26:08.486266+00:00",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1x7viysSeHTy1bj_RK08TMA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/1299a0b421cd",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "49d36f78a786de7a6d3134aa08c6407a125fb5aa729cd881820516193e70ff89",
@@ -1290,11 +1837,23 @@
         "switch1"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.0.0",
       "updated_at": "2026-11-04T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T16:26:09.448860+00:00"
+      "summary_checked_at": "2026-11-04T16:26:09.448860+00:00",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Tc7LF6kohBMsQt7t0U6K1A?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/bf8a8d071db8",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "35b8b3aedbd8443f78b0d2b681046fc8d86d36e70d72a2a1749b5832fa0b3ca2",
@@ -1313,11 +1872,23 @@
         "switch1"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：0.1",
       "updated_at": "2026-11-04T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T16:26:10.709103+00:00"
+      "summary_checked_at": "2026-11-04T16:26:10.709103+00:00",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1YKPIXXCcVaKxtql2vgIdOg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/e4a448ae59bd",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "4daea3198a86bdd6a6489a80f459b858ee901d1bc4a1dfee70d6b256b1d96836",
@@ -1336,11 +1907,23 @@
         "switch1"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.0.0",
       "updated_at": "2026-11-04T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T22:42:20.996150+00:00"
+      "summary_checked_at": "2026-11-04T22:42:20.996150+00:00",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/18-Lwai4atEgsLndZfpy_2Q?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/66a14cc15851",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "47b283da2c221e9f57e753830bea3df4db2194de2a20dd8962c17ec52b144752",
@@ -1359,11 +1942,23 @@
         "switch1"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.0.0",
       "updated_at": "2026-11-04T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T22:42:22.259673+00:00"
+      "summary_checked_at": "2026-11-04T22:42:22.259673+00:00",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1tfEqh57cYiknUIskMMqWJw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/e751918235ee",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "5304350a97de103364eede39ee63d4a3f767109bbe5b384d2b4e4f89ba073442",
@@ -1382,11 +1977,23 @@
         "switch1"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.0.0",
       "updated_at": "2026-11-04T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T22:42:23.567687+00:00"
+      "summary_checked_at": "2026-11-04T22:42:23.567687+00:00",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1c7-KUArM2tiAJERRiFFwLA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/8eb9dca413e2",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "58456e9713cdad856af8d29430f4710f2d5683880a8089fc6c87f1db8320b8e5",
@@ -1405,11 +2012,23 @@
         "switch1"
       ],
       "category": "discovery",
-      "download_status": "not_verified",
+      "download_status": "public_browser_verified",
       "version": "最新版本：1.0.0",
       "updated_at": "2026-11-04T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T22:42:24.638500+00:00"
+      "summary_checked_at": "2026-11-04T22:42:24.638500+00:00",
+      "download_links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1GvsnBzwhvVVrzt5djwJBvg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/02db3bfe6f6f",
+          "extraction_code": ""
+        }
+      ]
     },
     {
       "id": "dbf8850488bf84c5e880b98bc384a766995847d0253ae61dc4d1f399c9c77db9",

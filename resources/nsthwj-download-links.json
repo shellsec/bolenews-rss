@@ -222,10 +222,10 @@
       ]
     },
     "https://nsthwj.cn/game/switch/137757": {
-      "verified_at": "2026-11-04T15:01:18.933190+00:00",
+      "verified_at": "2026-11-06T00:47:05.556741+00:00",
       "method": "original public webpage QR screenshot decoded",
       "version": "最新版本：1.0.0",
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-05",
       "links": [
         {
           "provider": "百度网盘",
@@ -239,8 +239,8 @@
         }
       ],
       "capture_sha256": [
-        "21387ba7d93745deb5ee38cea26928c52aa0a45b04e78aaeb9f2472db0d001fb",
-        "d9e4a50655d01ff9db3e0908028c86f0f8756070c7600f300c343b488e00ec64"
+        "3eb8a5e7231356429d899f5953ee996703d0d3291e4e96ca2e50d49d24772c04",
+        "e9d2221a38954083ac045c94c20f109f9b0d6bbf376a2a4c252a87238a35bdca"
       ]
     },
     "https://nsthwj.cn/game/switch/137755": {
@@ -2127,6 +2127,1166 @@
       "capture_sha256": [
         "9febdfd7384816f5b20d49afcf6c30928b6e365834ba1f976363b0b47148dc26",
         "f2eeffff51ce0a98a9641937bdf8f46cd4d6ac7705b9cc21bd95009f574d14f2"
+      ]
+    },
+    "https://nsthwj.cn/game/switch/137818": {
+      "verified_at": "2026-11-06T00:47:05.663942+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "最新版本：1.1",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1HIhyPHHThpw_KnRM9dPTlw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/c8d2c81b4934",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "04d96db9c91a434cc25ce3244bdb2e7afa6ed1d8eeafada1e0abbdf3bb07d6f2",
+        "662b3d47180c515d818b2022b352fc7c6f3157634073bd782822f16758fda81c"
+      ]
+    },
+    "https://nsthwj.cn/game/switch/2130": {
+      "verified_at": "2026-11-06T00:47:06.212403+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "最新版本：1.0.0.6",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1ZypFn42VvPBqW037_T40_A?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/f52567181968",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "edc84a89072abe485766a95d4fff8da2416c80907065a5178abd6f9b236c1198",
+        "8b4fa5e1100d2672d5e52a1768a71687c3726ff213f355dca1781622d1ab0ba5"
+      ]
+    },
+    "https://nsthwj.cn/game/switch/137875": {
+      "verified_at": "2026-11-06T00:47:08.677817+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "最新版本：1.0.1",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1rr7iDhl4MO1i5j0sm04rEw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/f51189caa12c",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "504634dda14ca89f99b55ea07851f58c5ebdfc0d14b037bd5effdd5f7c350ab1",
+        "d7f8ef1113473c25503b6b133b02a7806dc05f7bb887df7a1c10dc890d867884"
+      ]
+    },
+    "https://nsthwj.cn/game/switch/137873": {
+      "verified_at": "2026-11-06T00:47:08.729638+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "最新版本：1.0.0",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1uRSM8u4q5fgBb43w5P0DGg?pwd=thwj",
+          "extraction_code": "thwj"
+        }
+      ],
+      "capture_sha256": [
+        "a8d5a674f5f3e7ef6a74e3ac1a07bb060f2849dbfa83c16dbda4c798493963b5"
+      ]
+    },
+    "https://nsthwj.cn/game/switch/137874": {
+      "verified_at": "2026-11-06T00:47:09.696114+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "最新版本：1.0.0",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1hN_X_ZEQUPfb-N8XmJTRKw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/7a407e55dde4",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "d4c3bb0b7c85af3fbb389bb7e58c40695fe03042bd0408ae412b5b9a4871ff69",
+        "d182c0b540c4ceaa5cce60999919f639fb93411cab81784e2830ea58aea90694"
+      ]
+    },
+    "https://nsthwj.cn/game/switch/137872": {
+      "verified_at": "2026-11-06T00:47:11.454882+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "最新版本：1.0.0",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1_jax2XOhzOtyxxQVL5EbcA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/77aa4c7a32da",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "e95c7c697b053174826f6ee47c8fe73247895b681b8716446083e2dbf1b804d4",
+        "004aff8984bd791d063ec04cbea722482a54538e3287b5ea7a08e83a5814f935"
+      ]
+    },
+    "https://nsthwj.cn/game/switch/137871": {
+      "verified_at": "2026-11-06T00:47:11.499222+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "最新版本：0.295.f206be8+",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1-URWt9IHOvFQXheZINNpKg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/707072d80696",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "656d63959326fe945bc54d29f2090996c75d5a4ea19b84bfb74d706b69690022",
+        "ca7b2c050d8bea1bb757295512ed8495ea342d64ad744dddc939b9bb42fcbf1a"
+      ]
+    },
+    "https://nsthwj.cn/game/switch/3424": {
+      "verified_at": "2026-11-06T00:47:11.936130+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "最新版本：1.0.2",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1CGgRm-QcElAhsPLkmW3j0A?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/d6072039b42f",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "f89fcd1c606924baeaebc7eae8acf6480f1b018981495c0e3a7e3db0a09e0677",
+        "33f879ab2426505a44b72ff2061fde21adf7510a4fd67c33acca56ff614f90b7"
+      ]
+    },
+    "https://nsthwj.cn/game/switch/137870": {
+      "verified_at": "2026-11-06T00:47:14.186293+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "最新版本：0.5.0",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/18xing7O39b74hqJtay23bQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/85c0600f3dde",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "94435f0cb4096098d14ed26ced29f82e3e3cde2aeb48f9a0f49f6f98aa0f4a0e",
+        "c41ae0f11bdbdd970dd5ac211bbcae57e138562a53b79b42a3fe5f03fa270dbc"
+      ]
+    },
+    "https://nsthwj.cn/game/switch/5326": {
+      "verified_at": "2026-11-06T00:47:14.357832+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "最新版本：1.0.0",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1U6EQu9238OaSkXapdPBXYA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/76837c9e19c8",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "5bb365811b03807943f2cb7e75122662042803b47e7174a3389b7527206b0c80",
+        "41f5f38aceec56df5aed33d9a59c069ab18ec23d3455b0647248d929e772ac3d"
+      ]
+    },
+    "https://nsthwj.cn/game/switch/137813": {
+      "verified_at": "2026-11-06T00:47:14.781576+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "最新版本：0.1.0",
+      "update_date": "2026-11-04",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1x7viysSeHTy1bj_RK08TMA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/1299a0b421cd",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "8091eaf154e55e45a32740e4a190d65245c1b59f903fac2a9ee3fbd7675b2591",
+        "542a4c1fa9260b47dc87dc52d44eaf6908da03cf873afe9fe9280b7665204f45"
+      ]
+    },
+    "https://nsthwj.cn/game/switch/137810": {
+      "verified_at": "2026-11-06T00:47:17.362334+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "最新版本：0.1",
+      "update_date": "2026-11-04",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1YKPIXXCcVaKxtql2vgIdOg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/e4a448ae59bd",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "e08a5a9eb9e5c3895b5d6789c18d665cafd43991f7287f9819e2810d28e6ace8",
+        "15251cf2c8a1d894b293951814434a4e2ae89cdbe24281c277cc645433d766e2"
+      ]
+    },
+    "https://nsthwj.cn/game/switch/137812": {
+      "verified_at": "2026-11-06T00:47:17.500451+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "最新版本：1.0.0",
+      "update_date": "2026-11-04",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Tc7LF6kohBMsQt7t0U6K1A?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/bf8a8d071db8",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "ea7ac87a4a68793eae704fc7c072643b24b2e4e29642bbbe62c81c2f0b52c577",
+        "231daad8ad7b7ba32d2e8943369d97c39b9ffc8d2bfa44f92dd0b57c3ad93dfb"
+      ]
+    },
+    "https://nsthwj.cn/game/switch/137817": {
+      "verified_at": "2026-11-06T00:47:17.765545+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "最新版本：1.0.0",
+      "update_date": "2026-11-04",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/18-Lwai4atEgsLndZfpy_2Q?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/66a14cc15851",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "6c5a6d9d50ced75d59efa15d700140811eb5d75f5a8fbd7a6a7429c716e3ff6e",
+        "c90d3fb805abfcd5e52ccc239bbe1ba5377e72fca3a1bfe1840e0acf362f2730"
+      ]
+    },
+    "https://nsthwj.cn/game/switch/137814": {
+      "verified_at": "2026-11-06T00:47:19.774987+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "最新版本：1.0.0",
+      "update_date": "2026-11-04",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1GvsnBzwhvVVrzt5djwJBvg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/02db3bfe6f6f",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "908d5363bdc32dcd6b1e70368751c4d6f62c5ca19b10588364c6bf40c54fdce9",
+        "c0c3ff0039663a2b6e812e0620e41b6fdc2c0664e3f15c50c50a37dbf0f87751"
+      ]
+    },
+    "https://nsthwj.cn/game/switch/137815": {
+      "verified_at": "2026-11-06T00:47:20.307415+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "最新版本：1.0.0",
+      "update_date": "2026-11-04",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1c7-KUArM2tiAJERRiFFwLA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/8eb9dca413e2",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "28154bac5cfc1dcf75d6ee1065d9021f3ae596a5062394a9a67e152b44982dc7",
+        "e131fa6b635554892f2aa58283617ab8d9df7820a4e64edc5644e1a65d1f25d4"
+      ]
+    },
+    "https://nsthwj.cn/game/switch/137816": {
+      "verified_at": "2026-11-06T00:47:20.369062+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "最新版本：1.0.0",
+      "update_date": "2026-11-04",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1tfEqh57cYiknUIskMMqWJw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/e751918235ee",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "67ad490279fefe90ff245b9fc6da3b8239f93941d799ed3a8d5fd8952ded552a",
+        "9dccd44f0592c62a76216b4df5b933d4d43bb3870609ab1d1feae9f9c38e7746"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137867": {
+      "verified_at": "2026-11-06T00:47:22.529444+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26250239",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Ifqw7YR1fYQOB_0s3D5NjA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/9f46b3ea3a12",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "4375b9af59f5c2a43b71f146f9cf8fee1db2df9b6247b5b65f479bd4d3a14c7b",
+        "b407eee8cfd32df5a10a4b69926fe8c0698019f450c722e534f38b9d3e5d733c"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/134541": {
+      "verified_at": "2026-11-06T00:47:22.591877+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "v2.0.5.0",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1caD3N7xRytBrFNO6p7LK-Q?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/b629f819083c",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "8865b835cb4e1359d51fb8d32e5fbc0f49164e39602eeac730b5a16e56ca38c4",
+        "7ce95057d90a50b23f4d624eb470ec9138d2fe33f9b7be00aa16d8b51d6e76d7"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137866": {
+      "verified_at": "2026-11-06T00:47:23.178705+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26034848",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1dZ3RT3A__YDyumf7qs6ejw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/a34e6cfe744b",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "d8fefdb3036e155a1e62faa3d88543d344832f1eabc3ddfd29f947fdc8e37a3f",
+        "a7b644c28788e440cdd7adefcb4526d002ee5f103e91716665675706b9a49eb3"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137864": {
+      "verified_at": "2026-11-06T00:47:24.829224+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26352248",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1wvpkCK1KDo_DYxAsYFNeJQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/395cf736d85e",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "3333427628c4ceeac83434314b68100b92eee518de21fb6a19eb921000857b92",
+        "fd28edd7d9e1cd0729e46ace410de24056fcc900a44cf807710ded4c7bd98cdb"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137865": {
+      "verified_at": "2026-11-06T00:47:25.059166+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26354065",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1WEoJ0unhlfNWe6h1hY1pgw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/a2ac7c0214a4",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "688d625b93cc247e8a7fc27f0588808898a91bf2e751f0abdeda0a23939bc3f0",
+        "43232a6441a692b81b65da5e33541eac3dc20a1d1fea75bd75e8319297d3f3ad"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137863": {
+      "verified_at": "2026-11-06T00:47:25.327997+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26336386",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/13knqsdzJ0yERHZSP6GFLjA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/275a5587964b",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "5be5bd5f0f10d766a8c4677febd23199ef5b5663ea6d786be5a19aa12453d123",
+        "781b72d7a82bfe45a3589709418e0633abc8172e373f1893ac44014a664f4254"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137862": {
+      "verified_at": "2026-11-06T00:47:26.972393+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26332841",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1m04x9HCNYmydc4E_2ffIbw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/aae281518f99",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "94c0a723a60db20c38f3eba7bf0d96b01d2bb3de0bea1521310d953c0ac1cfb9",
+        "4ad0c9c77079b0c065687e60e724abe4a8f09bb56e9f945ed40dae470c64bfaa"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137861": {
+      "verified_at": "2026-11-06T00:47:27.420394+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26358800",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Q4Gu3RUdgTfhDNBLYoMpug?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/56bbfd88d2d2",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "88cb8f048f99031cf101c1f9589e301d12a95ede926d49727fdd2aee8a74efbc",
+        "f6be59415a2a36d445125b3ca29555a5d12440a9e37a6da45a0b3e6312f407bd"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137860": {
+      "verified_at": "2026-11-06T00:47:27.454109+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26392043",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1ku-qWs-5Iv7GYH3OlSbvCw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/b26ea431d177",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "b2c4156dc27f8060df46c7aa22deed63a8c86e1658920f769f8a362a16334a58",
+        "4adc8678f5c5c02f6a46b9ab460437b7eb6d40514ffed96934fb805c038ad1a2"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137859": {
+      "verified_at": "2026-11-06T00:47:29.005061+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26388194",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1BpUhIXuc3ja378qX68pQ5w?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/0dc281cc216a",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "75b7696f39f2cb38886f321b587ebf10355d2d484d2cf6b784136548066f3563",
+        "b70ba52c5d977568502995689957f0e19424ace4c949e1b09f1b50a7093ef34b"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137858": {
+      "verified_at": "2026-11-06T00:47:29.810947+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26377603",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1pTHhoRpwvWnx5g3ERImSkQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/e0a226804085",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "c7e07f4cf92a5c0ea357167d469dc1d952cfe357c97e4cb5492219d27f67140b",
+        "e32fe2413d6d067088ce6c41930b8be882b0f32e326e85396b9f49904bea30a9"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137857": {
+      "verified_at": "2026-11-06T00:47:29.837791+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26386685",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1M6-fQBhcRKCrZY97BvQiFg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/0473e3f0cd50",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "2144736c70b100ac3c8bcf087b1b02b139e45f37e1521fddaf414de1f5ea1402",
+        "58ec287e01315b29328955f766e5474cc204d55c8776bcc602272fafbd5361ff"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137856": {
+      "verified_at": "2026-11-06T00:47:31.058421+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26379652",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/19Lck_fDjKrcI94KFBHPLFw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/7a44524edaac",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "bb45c75d38d375796a311456be40b5fccc69f932927286d82af0d086fde8f4ac",
+        "c590d63e4ff4abab32a4a016e841d004459dd9f0cac5e9168b6d61cbb50033f1"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137854": {
+      "verified_at": "2026-11-06T00:47:32.088285+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.25383814",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1c2F2rSrmXpd7_EELQOgHAA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/3c884b27e31d",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "a08e4d63aeb550671925bfd21cac906c89dd92c0be7755cb7d324bdda4f47188",
+        "8ebd3ef8232fc057a84356f78f1f90ba4ed1d00ebc2597f40c9f449cd6422d4c"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137855": {
+      "verified_at": "2026-11-06T00:47:32.158686+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26262254",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1q1VpiSOMwGCNLjUjgTNZZw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/aea553eb2f73",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "3919ce5001c256763bb99fd24c82fe6455e96a2f36604190334ad9295a76efc7",
+        "ff36a8a4d4771ce1e7286ecdef72125a065a58b630f860c19916844664c9902f"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137853": {
+      "verified_at": "2026-11-06T00:47:33.152364+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.25525577",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1CxUQJ9XLV3PxCvCohCkuCA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/a95415c1075e",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "897ffb5cddceb214ad67fdf13653117f7adb7a8ac362fc72e3cf20f434c2c711",
+        "373437c3ee29672f16a493140a8a6b10476e2c999efa332988b50988b5f406d6"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137851": {
+      "verified_at": "2026-11-06T00:47:34.569013+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26390422",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/10uQrNblpVO6EYkI8FouUkw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/ec5aacce51ce",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "af4f6137df44dddf4cd85222336b77f772e8f638c874964e001688434fcc6a47",
+        "0c8f68c2b0e43e14e1abb2d10e0d65de70393a61d36eb3e73d153d24d6898120"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137852": {
+      "verified_at": "2026-11-06T00:47:34.621313+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26383455",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1G8PKS4Vk8e0A-xWPTImbGw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/fded41662667",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "56b41af8fda8491e1c5c845a42e92663dab9d07264aa19bcc677fc868c25369f",
+        "bd1b95188054319370edccc283f0ce86029b672c33956eaa6316b798de504d77"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137850": {
+      "verified_at": "2026-11-06T00:47:35.187161+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26386629",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1FlIt8f_49rOcN1bCyz5vxg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/832022f5647e",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "9a51fb4ec3bb3f541c6304c2f449ac5d729ab0e92d9b91f4b578823ce2f277f7",
+        "4133cd021becbeaa81acc185e5b5c4e98ec021bdc8b45bce4068b59b714b70f6"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137848": {
+      "verified_at": "2026-11-06T00:47:36.868793+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26382248",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1hCNEe0Pd_gCyWZvGXHvzaQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/e5993ac04f8d",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "ff91289bcf33d13ecc208d78e67db54f144e64cc6aa7a0de754ff0bd965c58fe",
+        "135b9b6e12a4cec551cb03a54c3690f6f72eee2de13abbc22df6e41c31b7836f"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137849": {
+      "verified_at": "2026-11-06T00:47:36.900601+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26010787",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1BlTgK0pHzap6Xj2oDNsJlg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/8c8c1cb2f5a9",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "1ffff1a8412cff744b08b00cfe5783b4675afb74351e8212e4b59e4340384554",
+        "a31b883bb3eee141721ee054d30267a36c01136400dd1e9ccfb88786c1c0874c"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137847": {
+      "verified_at": "2026-11-06T00:47:37.288722+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26379000",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Fqath18X8-9yIr7d4aAAxg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/f877fe5bd374",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "db63fa29171f88d8a581dae38dc4d0623184b0d5981ff14b775007a899030884",
+        "c782ba317964ad711014309d185c47d1566f1b5faab3d235734ef67d9705a6d2"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137846": {
+      "verified_at": "2026-11-06T00:47:39.178762+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26314819",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1_irzUM-bLHkgy2rTGpsMSw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/f8dec926854e",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "635306b50b9a307d4f4b6267023c4aae57f17effceb9df8d73fa90d2952f717a",
+        "ffa8fba4bbd3d44eb78c4803198d2f0fb07fc6894a9e1de63762e9e3f218d1ab"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137845": {
+      "verified_at": "2026-11-06T00:47:39.277428+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26386087",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1PT2n4bhTl_HUZ_GInqlzXw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/3e9b10273a01",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "c3c8adc3d4abf3a99742da639789c185b6479d6dacc45b2fe6a3270cd045a270",
+        "10a90914294307a9497df6f6b309149ff787dae4e07f03bfac095fd35b2db9da"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137844": {
+      "verified_at": "2026-11-06T00:47:39.362657+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26369564",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1DT8Hy_UQyCmrYwDJSGc1TA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/b90b0c0483d1",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "820fb2f4e0502a8aa3bf17969248bd2981d51977a6e721111fae9f8068816727",
+        "32f35541525ce28b4bbd449ed0fe02502992054ffc1b27d24b718d5630b2b31a"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137843": {
+      "verified_at": "2026-11-06T00:47:41.432272+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26375082",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1ngTtm838P4z36yUZym-1rw?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/fa774a37f5a1",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "464b52b18cdac65c912c40dbef37691768fe58aca995c19697aa248b82186b81",
+        "7e2922c2130c03c315035f9f6f0d48d144c9a7a241dfc8c3e96fc585ee7e65c1"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137841": {
+      "verified_at": "2026-11-06T00:47:41.465302+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26398929",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1mTYCsrxXMfllAlkpQArVZQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/e17b03506057",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "a9c46ee9142962f16472026e47e87fbbfd9c29e755f0cf42fe7d380302ebf06e",
+        "0967bdcd766e1d6a68e5ed561289d044c18c423d870272e9e8824e805dc8c5e5"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137842": {
+      "verified_at": "2026-11-06T00:47:41.612477+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26215175",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1KMy7bSM-XIYaGQJtgkgJ-Q?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/c2f96bc80bbc",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "6832d9b20fd8f5007d55cd6d910a8df06caf4ffcb9f635d9bb94ba26c39d8d0b",
+        "4c4c4af4ff4bdbf70548d0bc3dc8c69b7aabff615c201d097cf214fe346eb2fb"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137839": {
+      "verified_at": "2026-11-06T00:47:43.494511+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26367792",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/17Cpe7q9Ww1fXsT190T9pZA?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/4c0268308bd3",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "cc6b355a79b08a1a5b11682384be3f8b33e66a444909b966a4cc97253a6ffd1e",
+        "70073d21cec1f74738d37c1ee7f438f1d540ad03cf0c928c2547ca16da0537b8"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137840": {
+      "verified_at": "2026-11-06T00:47:43.744859+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26382031",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/16neL8AhTkgHbzL0_X--Reg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/30fd1ad899c5",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "c1f220df9fa726a5fbf704aace8760a83c602bb386dc9270381a13663d9b6b5a",
+        "d35c718d3b9f613817f68cd8faf9e4dbf17643898e07e1b566de210de628f8bf"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137838": {
+      "verified_at": "2026-11-06T00:47:43.813082+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26404445",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1jCSuZMzIdHaSkD5tCXrqGQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/344b3c06836f",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "d21839f6cee12b36ef5f05e073b84eaad9295a45c3cf58b296cf9a65b147715b",
+        "1360937bc6a80178e7d7ad0f52356653a376f0c4a0b5fe86a28dca5b89419f06"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137835": {
+      "verified_at": "2026-11-06T00:47:46.210184+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26383331",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Ph8NkhbMcDJ6n0I4ZWOuBQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/fe3ff1dd8514",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "3399faa575997e79e33ed4550a5cbee8d9bebf7a64477b1ce4113a82e884b4e8",
+        "6ac5142e04fcdc4d9b48cb70242e34122f5115e915f2cbde8f4ac269d0c3089c"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137836": {
+      "verified_at": "2026-11-06T00:47:46.266864+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26400292",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1PSKLcMShl9PDZFgiSrrsgQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/c3b3956e6fd3",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "450d84b7e7e8018be3061ac5ab769f10cb2198b3c372624dda01e1d319d84d39",
+        "4063e638a18698e56a21d2f75aa5c9482716bfc030138d55cd744d73480c9bee"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137837": {
+      "verified_at": "2026-11-06T00:47:46.368759+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26404352",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Y4WDhR5C0P3567KVmZgW9Q?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/71119f10abf7",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "315c6c5998b9ce7145b86f7d57bcf9e292c6b513ec43ef872bcea236ad0c93d4",
+        "17a04a5f00b869a4ac602c59817cc2b29cc7003817a81bc07ab2c63b856a37cd"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137833": {
+      "verified_at": "2026-11-06T00:47:48.574348+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26385244",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1jDjXbBg5c1gjjRlm6RtKGg?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/27087f6b02b8",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "d0970df678183ab6778dea6c5f799665752088d8defc90ebc96d4561b7d0e47e",
+        "b4f2e8a1bb70133baa618f956b63da26f44caf004d6ad230efb1f5d8a85fbff4"
+      ]
+    },
+    "https://nsthwj.cn/game/pc/137834": {
+      "verified_at": "2026-11-06T00:47:48.730332+00:00",
+      "method": "original public webpage QR screenshot decoded",
+      "version": "Build.26386449",
+      "update_date": "2026-11-05",
+      "links": [
+        {
+          "provider": "百度网盘",
+          "url": "https://pan.baidu.com/s/1WTP51nvHXQ8IkcXJ-_H5IQ?pwd=thwj",
+          "extraction_code": "thwj"
+        },
+        {
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/0b2e01172ecf",
+          "extraction_code": ""
+        }
+      ],
+      "capture_sha256": [
+        "76e64a3f12a22e502f4f2d384aa0a147da7e04ad6fab0d854da0e6780f16b4f9",
+        "b247b1415d7bfe5c401ee8ad4488349215e5005f321f7dfc276fca10d27bbe4e"
       ]
     }
   }

@@ -159,6 +159,23 @@ class CollectorTest(unittest.TestCase):
             self.assertEqual(parsed[0]['platform'],[platform])
         with self.assertRaises(ValueError):c.convert_nsthwj('<html>Broken index</html>',c.SITES['nsthwj-switch'])
 
+    def test_combined_nsthwj_reserves_space_for_older_platforms(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            for platform, date, count in (("switch", "2026-11-06", 80),
+                                          ("pc", "2026-11-05", 45),
+                                          ("ps4", "2026-11-04", 12)):
+                items = [{"original_url": f"https://nsthwj.cn/game/{platform}/{i}",
+                          "updated_at": date} for i in range(count)]
+                c.atomic_json(output / f"nsthwj-{platform}.json",
+                              {"status": "ok", "generated_at": date, "items": items})
+            c.combine_nsthwj(output)
+            items = c.json.loads((output / "nsthwj.json").read_text(encoding="utf-8"))["items"]
+            self.assertEqual(len(items), 100)
+            self.assertEqual(sum("/switch/" in item["original_url"] for item in items), 55)
+            self.assertEqual(sum("/pc/" in item["original_url"] for item in items), 33)
+            self.assertEqual(sum("/ps4/" in item["original_url"] for item in items), 12)
+
     def test_verified_nsthwj_share_links_expire_on_version_change(self):
         url='https://nsthwj.cn/game/switch/137808'
         links=c.nsthwj_download_links(url,'最新版本：1.0.0','2026-11-04')
