@@ -1,6 +1,6 @@
 {
   "source": "gnn",
-  "attempted_at": "2026-11-06T09:32:12.604952+00:00",
+  "attempted_at": "2026-11-06T17:34:47.253938+00:00",
   "status": "ok",
   "summary_count": 100,
   "summary_attempts": 3,
@@ -12,5 +12,5 @@
   "input_urls": [
     "https://gnn.gamer.com.tw/rss.xml"
   ],
-  "dropped_by_limit": 30
+  "dropped_by_limit": 22
 }

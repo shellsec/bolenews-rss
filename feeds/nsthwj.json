@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-06T09:32:47.156869+00:00",
+  "generated_at": "2026-11-06T17:35:16.590465+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -118,6 +118,98 @@
       "updated_at": "2026-11-06T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-06T09:32:43.214463+00:00"
+    },
+    {
+      "id": "d38095ecd0ab9c49cd11862eb053f6934b037ba9a387923dd6e39b4878f60a8b",
+      "title": "[移植游戏]日在校园HQ|School Days HQ中文",
+      "original_url": "https://nsthwj.cn/game/switch/137692",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "在第二学期的开始时，诚在去学校的火车上第一次看到了美丽的琴音。从那以后，看着她阅读就成了他平日里单调生活中为数不多的乐趣所在。 他并非想与她交往，甚至也不希望被她注意到。只是远远地看着她，就能让他的日子变得明亮一些——当然，他并不相信人们所说的那种魅力…… 一天，诚的同班同学世海看到了他手机里的琴音的照片，从而发现了…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.3.12",
+      "updated_at": "2026-11-06T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-06T17:35:11.061327+00:00"
+    },
+    {
+      "id": "1e787e037834c2275f7d5fc1bfc29dd15bfee22b5028e06c676e9de044079d73",
+      "title": "[移植游戏]寂静岭5：归乡|Silent Hill: Homecoming",
+      "original_url": "https://nsthwj.cn/game/switch/137900",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-06T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-06T17:35:12.260732+00:00"
+    },
+    {
+      "id": "5b4e0558185eb6889ded5acda09c59418e053dc38ed76ec217af8acba88d4edc",
+      "title": "[移植游戏]班卓熊大冒险3：改造大作战|Banjo-Kazooie: Nuts & Bolts",
+      "original_url": "https://nsthwj.cn/game/switch/137901",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-06T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-06T17:35:13.302970+00:00"
+    },
+    {
+      "id": "f0ce9c01e8b94c2dabcc29811c3f3cbb30e5a1ff412ce9d3f2e0204a470dc125",
+      "title": "黑寡妇：充能|黑寡妇：重启|Black Widow: Recharged中文",
+      "original_url": "https://nsthwj.cn/game/switch/5139",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "由蜘蛛侠主演的原创经典双摇杆射击游戏回归了！正好赶上万圣节，《黑寡妇：充能》对现代游戏玩法进行了重新构想，具有生动的视觉效果，强大的新能力，并配有屡获殊荣的视频游戏作曲家 Megan McDuffee 创作的另一首原声音乐。 在老式街机模式中，努力争取得到高分，让自己的名字列在排行榜的榜首，这样你就有资本跟其他人吹牛…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.2含1.0.2金手指",
+      "updated_at": "2026-11-06T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-06T17:35:14.513390+00:00"
     },
     {
       "id": "356fa7be0f52f84a7c9f6939c51ed71951b899572e84447fe3fc2eac3e222baf",
@@ -602,6 +694,236 @@
       "version": "Build.26296703",
       "updated_at": "2026-11-06T00:00:00+08:00",
       "update_date_precision": "day"
+    },
+    {
+      "id": "e747014908f082cb87b930bc046d5a2c7b62ae42a7fcd84911855086132d8d3d",
+      "title": "但丁的地狱|Dante's Inferno汉化",
+      "original_url": "https://nsthwj.cn/game/ps4/137904",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "《但丁的地狱》（Dante's Inferno）又译为《神曲：地狱篇》中，将为游戏动作玩家们带来一段史诗般的新旅程。玩家在游戏中将扮演但丁，为了营救他最爱的比阿特丽斯而奋战，与意想不到的各种妖魔交手。 游戏改编自意大利诗人但丁的代表作《神曲》三部曲之一《地狱篇》。与原著不同的是，原著里但丁是一个吟游诗人，而女主叫贝缇…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.04 系统要求：≥ 5.05",
+      "updated_at": "2026-11-06T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-06T17:35:17.887309+00:00"
+    },
+    {
+      "id": "36d68e4567fbe7e05d0e479b1510a74156c2acd7c42672d4a06140d6b6b8fae9",
+      "title": "[PS2转PS4]王国之心2|Kingdom Hearts II汉化",
+      "original_url": "https://nsthwj.cn/game/ps4/137352",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "在前作里留下一个让人遗憾的结局，相信是不少玩家对王国之心最不能接受的地方；而在经过多年的酝酿，这款由 SQUARE ENIX 与迪士尼合作的角色扮演游戏，终于推出续作王国之心 2，带给玩家一个完整的结尾。 寻友之旅再开 在前作中，Sora 为了世界和平，不得不抛下米老鼠国王与好友 Riku 而将门关上；不过关门前国王…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.00 系统要求：≥ 6.72",
+      "updated_at": "2026-11-06T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-06T17:35:18.857587+00:00"
+    },
+    {
+      "id": "4bf3e2aa94aee5300cd21122bfeb6d58882cf378cce32ab337d05b19615ae87d",
+      "title": "吾妻邸怪谈|Kwaidan中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137909",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "无缝结合了3D动作游戏和点击互动式冒险游戏，Kwaidan提供了一种怀旧而又全新的体验。 探索古老的日本庄园，解决那里设置的各种聪明难题，并与妖魔鬼怪战斗。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.00 系统要求：≥ 5.05",
+      "updated_at": "2026-11-06T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-06T17:35:19.832966+00:00"
+    },
+    {
+      "id": "55c7e8264e07ce934c20978cad1e12dcdfd843c482839ac5b6494d6e69b8aab9",
+      "title": "异教徒 + 毁灭巫师|Heretic + Hexen中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137908",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "重返经典，体验两款“黑暗魔法射击游戏”流派开山之作的终极重制版。通过此次增强复刻，《Heretic™》+《Hexen™》以更强大的面貌回归，支持的平台和语言比以往更加全面，无论是新玩家还是老粉丝都能畅玩。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.03 系统要求：≥ 5.05",
+      "updated_at": "2026-11-06T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-06T17:35:21.032059+00:00"
+    },
+    {
+      "id": "bfaadab921c287c6dd3e7b64c6963afb60e9485aa8516628653578bd5fa8a1c7",
+      "title": "乌鸦国度|乌鸦之国|Crow Country中文",
+      "original_url": "https://nsthwj.cn/game/ps4/14456",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "这一年是1990年。爱德华·鸦神秘失踪已经两年了，他的主题公园“乌鸦之国”突然关闭已经过去两年了。但你——玛拉·森——的到来打破了此处的沉寂。如果你想要答案，你必须冒险深入到黑暗的乌鸦之国去探寻……",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.01系统要求：≥ 5.05",
+      "updated_at": "2026-11-06T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-06T17:35:22.075874+00:00"
+    },
+    {
+      "id": "fe9bc6f36548ae0a2f2dabf9aad862fe69ba8fbc69f2cf75418ab15fb0418441",
+      "title": "AAA级动态场景|AAA Dynamic Scenes中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137907",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "AAA Dynamic Scenes 是一个丰富动画的景观集合，将您的荧幕转变为一扇通往多样风景和时间流逝的非凡窗口。 沉浸于大气的月光山谷，探索充满活力的骷髅舞蹈，欣赏沐浴在霓虹灯光中的未来大都市，或进入令人惊叹的宇宙景观——每个场景都为想像力提供了一场盛宴。 此外，这个集合可以作为荧幕保护程式，将日期和时间显示在…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.04 系统要求：≥ 5.05",
+      "updated_at": "2026-11-06T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-06T17:35:24.387743+00:00"
+    },
+    {
+      "id": "ae11c38502bfa6c1b09591ec7e3b239330cbf831e6950e4ee675e7fe3ba9a20a",
+      "title": "毁灭之空|Sky of Destruction中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137906",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "《Sky of Destruction》是一款由两人团队开发的俯视射击游戏。 享受敌方建筑物丰富的爆炸效果和物理破坏。 爆炸和全面毁灭！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.00 系统要求：≥ 5.05",
+      "updated_at": "2026-11-06T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-06T17:35:25.419731+00:00"
+    },
+    {
+      "id": "7a9e6a06faa8c640d46d8bf558fcc7220dd09bdfb6426c3a962e0766b5bbfcb2",
+      "title": "妙探闯通关：魔鬼剧场 - 重制版|Sam & Max: The Devil's Playhouse英文",
+      "original_url": "https://nsthwj.cn/game/ps4/137905",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "The last game in the episodic Sam & Max trilogy, beautifully remastered! As the intergalactic villains who seek the Devil’s Toybox close in and Max’s psychic a…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.06 系统要求：≥ 5.05",
+      "updated_at": "2026-11-06T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-06T17:35:26.407470+00:00"
+    },
+    {
+      "id": "1223332568b036bfb281923ec7e091d2e764385c5dd7c8de7c33e24c211f325b",
+      "title": "失落的遗迹|Lost Ruins中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137903",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "《失落的遗迹》是一款2D横板过关生存动作游戏，玩家在其中扮演一名苏醒于怪异陌生土地的失忆JK。探索黑暗、凶险的世界，与“丑恶”的怪物战斗，打倒“巨大”的Boss吧！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.02 系统要求：≥ 5.05",
+      "updated_at": "2026-11-06T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-06T17:35:27.380017+00:00"
+    },
+    {
+      "id": "f830a85bbf4bfeb6a42e440d9dd167ca368819a3821d68c036333c10c4470f6c",
+      "title": "狼之编年史|Chronicles of the Wolf中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137902",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "在《Chronicles of the Wolf》中猎杀传说中的热沃当怪兽！化身马泰奥·隆巴多，踏上一段史诗级的冒险旅程，探索大型城堡、直面凶残头目、揭开重重谜团。更有传奇配音大师 Robert Belgrade 倾情献声，以及其他嘉宾特别出场！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.07 系统要求：≥ 5.05",
+      "updated_at": "2026-11-06T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-06T17:35:28.335950+00:00"
     },
     {
       "id": "35ca4192ddc3ee63e55943e1fce00addf165ed0ee32c7d83085e066adb518d98",
@@ -1847,11 +2169,11 @@
       "summary_checked_at": "2026-11-04T22:42:23.567687+00:00"
     },
     {
-      "id": "58456e9713cdad856af8d29430f4710f2d5683880a8089fc6c87f1db8320b8e5",
-      "title": "我们是伊娃|We are Eva",
-      "original_url": "https://nsthwj.cn/game/switch/137814",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "在这款突破边界、充满创意的 2D 平台游戏中，你可以同时置身于多个维度，并随心所欲地穿梭其中！顺便介绍一下，我叫伊娃，我保证我们一定会玩得很开心！也可能不会……说不定我们俩都会遭受可怕的折磨……我怎么知道呢？我只是个电子游戏角色而已…… 你还在看吗？哇！就像我刚才说的，我叫伊娃，是你正在看的这款游戏的主角。没错，这款…",
+      "id": "15f0b3d5ea323f2144e43ab5d8e2ffd0396464fa7b1482c1609cde933717d061",
+      "title": "最后一击|The Last Shot中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137767",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "An adventurous engineer, a diesel-punk world divided by endless conflict, and a whole lot of colossal guns. Sounds like a good time! With massive war machines…",
       "summary_origin": "publisher_description",
       "content": "",
       "image_url": "",
@@ -1860,131 +2182,14 @@
       "language": "zh-Hans",
       "evidence": "community",
       "platform": [
-        "switch1"
+        "ps4"
       ],
       "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
+      "download_status": "not_verified",
+      "version": "最新版本：1.01 系统要求：≥ 5.05",
       "updated_at": "2026-11-04T00:00:00+08:00",
       "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1GvsnBzwhvVVrzt5djwJBvg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/02db3bfe6f6f",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T22:42:24.638500+00:00"
-    },
-    {
-      "id": "dbf8850488bf84c5e880b98bc384a766995847d0253ae61dc4d1f399c9c77db9",
-      "title": "[移植游戏]使命召唤9：黑色行动2[360移植版]|Call of Duty: Black Ops II",
-      "original_url": "https://nsthwj.cn/game/switch/137764",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1N4I8YU6EN5MV6-c-n4WF_A?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/802744f357fb",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:33.404829+00:00"
-    },
-    {
-      "id": "86770d57e606e56b3190901fb879cc81a14d75983061a6ebb4a179e59f59df6d",
-      "title": "[移植游戏]死亡空间[360移植版]|Dead Space汉化",
-      "original_url": "https://nsthwj.cn/game/switch/137759",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Dead Space 进入游戏 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1qpo8EPoLm32EYmDsBpWylg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/45d101c5a0f4",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:33.965259+00:00"
-    },
-    {
-      "id": "12f442cd87cbfd84c7ccfc5b18a053cfe74994c975ab849837f77366a4b5ba70",
-      "title": "[移植游戏]但丁的地狱|Dante's Inferno汉化",
-      "original_url": "https://nsthwj.cn/game/switch/137468",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1A6wFwWXHQtJSiKciPYOhgQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/7cb5fcccb677",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:34.526286+00:00"
+      "summary_checked_at": "2026-11-06T17:35:29.381192+00:00"
     },
     {
       "id": "97928269900cdeac90ebc145af548eff8ef3ef6b0451fa4a19374bb8130a2938",
@@ -2750,391 +2955,6 @@
         }
       ],
       "summary_checked_at": "2026-11-04T14:21:01.494075+00:00"
-    },
-    {
-      "id": "e0d5307376eccc0d5efabce9e07cc0caa6ab8db6d9a9e2ff9114882efb5cb6d0",
-      "title": "辐射谷物语|原子庄稼|Atomicrops中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137677",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "双摇杆轻度Rogue类弹幕游戏，既要种植作物，又要保卫末日废土的最后一座农庄。培育变异作物，升级武器，与小镇居民结为连理，消灭所有企图糟蹋农庄的变种怪物！噫哈！",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.06 系统要求：≥ 5.05",
-      "updated_at": "2026-10-31T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1DoGA8Y-dskHW0riy_P63kg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5H45Y1WiWJMVhKIfKhk1vKA1?pwd=h5u8",
-          "extraction_code": "h5u8"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:21:02.380227+00:00"
-    },
-    {
-      "id": "d5068e037d5a6f3bb21a6566ca75cb0ff09c99c8caa5f3174d06226f4d720f9e",
-      "title": "九年阴影|9 Years of Shadows中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137664",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "努力战斗冲破人为的黑暗，将美丽的色彩返还给世界。跟随年轻战士欧罗巴，以及她的幽灵童年玩伴阿皮诺踏上旅程。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.02 系统要求：≥ 5.05",
-      "updated_at": "2026-10-29T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1JZkT1flU9-Sni12Ob9Wm4w?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5AP4W84T47atcvd85oaU0JA1?pwd=6bbv",
-          "extraction_code": "6bbv"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:21:02.969964+00:00"
-    },
-    {
-      "id": "c7c04f7c3122de3e262a1014bc8ec7b82cc732eca2361765deefe7dd5dc78543",
-      "title": "百重幻境|Centum中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137661",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "事出必有因。你被困住了，你必须逃走。但逃脱，真的是你的目标吗？叙事冒险游戏《Centum》的故事走向无法预测。一切都可能是谎言。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.02 系统要求：≥ 5.05",
-      "updated_at": "2026-10-29T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1pe3-o5CG-HnN_4wSMM49Hw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP57CIu_yxooVPDcHw4ssil8A1?pwd=nkpw",
-          "extraction_code": "nkpw"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:21:03.573967+00:00"
-    },
-    {
-      "id": "28551aa7acbfa31b56457c6c8640650859baf57bb898ff3e39d1b2679599be04",
-      "title": "狂野星球复仇记|Revenge of the Savage Planet中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137659",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "《狂野星球复仇记》(Revenge of the Savage Planet) 是一款欢乐的讽刺科幻冒险游戏。在游戏中，你可以跳跃、射击，收集各种物品，探索五彩斑斓的外星世界，解锁新装备和升级物品，同时揭开各种隐藏的秘密。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.04 系统要求：≥ 5.05",
-      "updated_at": "2026-10-29T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1tLJOsRyc4OeGbDotN6zcmw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP57TWIS3zFaI5wtHpeRz5ZBA1?pwd=ub3n",
-          "extraction_code": "ub3n"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:21:04.180925+00:00"
-    },
-    {
-      "id": "f8151851e415423998267c2391a1555aec2422c920cea97b3d5a1bf04081687d",
-      "title": "自由战争：重制版|Freedom Wars Remastered中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137657",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "徒刑 100 万年「夺回至关重要事物」的一战正要展开。 人类生存之罪为──「100 万年徒刑」。在资源匮乏、已面目全非的未来，在一切都受到严格控管的超级监控社会，参加名为“志愿服务”的危险战斗活动，并为赢得真正的自由而战。 ・活着即是「罪」 在资源匮乏的遥远未来，活着本身就是一种「罪」。作为一名被判处 100 万年徒…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.09 系统要求：≥ 5.05",
-      "updated_at": "2026-10-29T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1jx2USuVwzOpkkXm5RL5xCw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP56ceh9yxooVPDcHw4sESsqA1?pwd=k5tg",
-          "extraction_code": "k5tg"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:21:05.208539+00:00"
-    },
-    {
-      "id": "56a355b810c18d7b6cd88812a96d925cf1a5009d214740cc5d1f7830411ee888",
-      "title": "预兆景象|Omensight中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137656",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "Omensight是一个动作皆谋杀侦探式游戏。你是先驱者，一个强大无比的神秘战士。你目睹了世界的毁灭。为了防止末日的发生，你必须重复这一天，以揭开无神女祭司被谋杀的谜底，因为她的死亡是促成末日的启示。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.04 系统要求：≥ 5.05",
-      "updated_at": "2026-10-29T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1MYJ514bUYPbK27xNxTsrbw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP56_c6kyqVeNR1vgWQD_9blA1?pwd=e6wa",
-          "extraction_code": "e6wa"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:21:05.810074+00:00"
-    },
-    {
-      "id": "f663ce179ff13bfeb6b8c8040e996ed1592d5a1f27f837beeddf4784ba43cf86",
-      "title": "真人快打11|Mortal Kombat 11中文",
-      "original_url": "https://nsthwj.cn/game/ps4/12997",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "《真人快打》经典系列隆重回归，现在就来一睹这叹为观止的新作吧。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.30系统要求：≥ 5.05",
-      "updated_at": "2026-10-29T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1jp1V2mnAMrnKjETQnhV5gg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VODv1EUQIybsLhlfCVPn_0WwA1?pwd=aash#",
-          "extraction_code": "aash"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:21:06.401935+00:00"
-    },
-    {
-      "id": "8cf8ae45b29bc8589156e5fd830da9dcb406e5d0560efc76b1e8f5961b2796d1",
-      "title": "蓝火|Blue Fire中文",
-      "original_url": "https://nsthwj.cn/game/ps4/14111",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "Explore the fallen world of Penumbra in this precision 3D metroidvania platformer. Slash fierce enemies, conquer deadly traps, uncover ancient temples, and mas…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.07系统要求：≥ 5.05",
-      "updated_at": "2026-10-28T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1fcfVPvu2CD8nXm6b-BwqgQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VOWQc0FrhcjX3P-LeF1wkyb4A1?pwd=hnbg#",
-          "extraction_code": "hnbg"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:21:06.976575+00:00"
-    },
-    {
-      "id": "3ece911817b6bad9a59154f348b3213e791914e02e37f71d4c2db080983bae75",
-      "title": "索菲亚动物诊所：使命野生动物园|Sophia’s Animal Clinic: Mission Wildlife Park英文",
-      "original_url": "https://nsthwj.cn/game/ps4/137629",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "你的兽医冒险之旅从野生动物园开始！帮助那些受伤或生病的动物，比如马、鹿、鸭子、驴、山羊、兔子等等。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.02 系统要求：≥ 5.05",
-      "updated_at": "2026-10-28T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1TG3YNfLuE4m_jJoFJo3vLw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP51sTYCx0KtVdbfO8rFfakUA1?pwd=feku",
-          "extraction_code": "feku"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:21:07.551484+00:00"
-    },
-    {
-      "id": "3f9a4ce252031f348e5b085bf72684ec1fcf76e69ff5fe7e5f1b6e80e08d1f9e",
-      "title": "暗黑破坏神3：夺魂之镰|Diablo III: Eternal Collection汉化",
-      "original_url": "https://nsthwj.cn/game/ps4/12504",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.47系统要求：≥ 5.05",
-      "updated_at": "2026-10-27T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/16JfO4ZxjbEqkjfJPDYYwxg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VODehyfM5elOpUmMRh__zAPUA1?pwd=jdsy#",
-          "extraction_code": "jdsy"
-        }
-      ],
-      "summary_checked_at": "2026-11-06T09:32:48.635304+00:00"
-    },
-    {
-      "id": "ab7c206e9352b578ccd33269d35767111a6f67f2e01edcdb64c85f804f09e3b3",
-      "title": "永恒万圣节|永远的万圣节|Halloween Forever中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137609",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "Something mysterious is happening in the pumpkin patch this Halloween! You control Pumpkin Man, a humanoid pumpkin thing animated by occult forces on a quest t…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.02 系统要求：≥ 5.05",
-      "updated_at": "2026-10-27T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1P36NjgJrp8LUd8PPE8qaZg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP4wEKxKgpPn3R8iQlMUfeGaA1?pwd=444k",
-          "extraction_code": "444k"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:21:08.721720+00:00"
     }
   ]
 }

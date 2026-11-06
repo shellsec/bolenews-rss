@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-06T09:32:34.634268+00:00",
+  "generated_at": "2026-11-06T17:35:09.177235+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -118,6 +118,98 @@
       "updated_at": "2026-11-06T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-06T09:32:43.214463+00:00"
+    },
+    {
+      "id": "d38095ecd0ab9c49cd11862eb053f6934b037ba9a387923dd6e39b4878f60a8b",
+      "title": "[移植游戏]日在校园HQ|School Days HQ中文",
+      "original_url": "https://nsthwj.cn/game/switch/137692",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "在第二学期的开始时，诚在去学校的火车上第一次看到了美丽的琴音。从那以后，看着她阅读就成了他平日里单调生活中为数不多的乐趣所在。 他并非想与她交往，甚至也不希望被她注意到。只是远远地看着她，就能让他的日子变得明亮一些——当然，他并不相信人们所说的那种魅力…… 一天，诚的同班同学世海看到了他手机里的琴音的照片，从而发现了…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.3.12",
+      "updated_at": "2026-11-06T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-06T17:35:11.061327+00:00"
+    },
+    {
+      "id": "1e787e037834c2275f7d5fc1bfc29dd15bfee22b5028e06c676e9de044079d73",
+      "title": "[移植游戏]寂静岭5：归乡|Silent Hill: Homecoming",
+      "original_url": "https://nsthwj.cn/game/switch/137900",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-06T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-06T17:35:12.260732+00:00"
+    },
+    {
+      "id": "5b4e0558185eb6889ded5acda09c59418e053dc38ed76ec217af8acba88d4edc",
+      "title": "[移植游戏]班卓熊大冒险3：改造大作战|Banjo-Kazooie: Nuts & Bolts",
+      "original_url": "https://nsthwj.cn/game/switch/137901",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-06T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-06T17:35:13.302970+00:00"
+    },
+    {
+      "id": "f0ce9c01e8b94c2dabcc29811c3f3cbb30e5a1ff412ce9d3f2e0204a470dc125",
+      "title": "黑寡妇：充能|黑寡妇：重启|Black Widow: Recharged中文",
+      "original_url": "https://nsthwj.cn/game/switch/5139",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "由蜘蛛侠主演的原创经典双摇杆射击游戏回归了！正好赶上万圣节，《黑寡妇：充能》对现代游戏玩法进行了重新构想，具有生动的视觉效果，强大的新能力，并配有屡获殊荣的视频游戏作曲家 Megan McDuffee 创作的另一首原声音乐。 在老式街机模式中，努力争取得到高分，让自己的名字列在排行榜的榜首，这样你就有资本跟其他人吹牛…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.2含1.0.2金手指",
+      "updated_at": "2026-11-06T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-06T17:35:14.513390+00:00"
     },
     {
       "id": "35ca4192ddc3ee63e55943e1fce00addf165ed0ee32c7d83085e066adb518d98",
@@ -1510,41 +1602,6 @@
         {
           "provider": "夸克网盘",
           "url": "https://pan.quark.cn/s/16cf2a33e16e",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "d38095ecd0ab9c49cd11862eb053f6934b037ba9a387923dd6e39b4878f60a8b",
-      "title": "[移植游戏]日在校园HQ|School Days HQ中文",
-      "original_url": "https://nsthwj.cn/game/switch/137692",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "在第二学期的开始时，诚在去学校的火车上第一次看到了美丽的琴音。从那以后，看着她阅读就成了他平日里单调生活中为数不多的乐趣所在。 他并非想与她交往，甚至也不希望被她注意到。只是远远地看着她，就能让他的日子变得明亮一些——当然，他并不相信人们所说的那种魅力…… 一天，诚的同班同学世海看到了他手机里的琴音的照片，从而发现了…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "original_qr_verified",
-      "version": "最新版本：0.3.12",
-      "updated_at": "2026-11-01T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-04T14:20:43.459847+00:00",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1IK7y1R5XkS2DVHja8u6c5A?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/9c5aa95414e2",
           "extraction_code": ""
         }
       ]
