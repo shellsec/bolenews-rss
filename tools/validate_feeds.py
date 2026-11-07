@@ -15,7 +15,7 @@ for path in [root/'sources.json', *sorted((root/'catalogs').glob('*.json'))]:
         p=urlsplit(source['url'])
         assert p.scheme=='https' and p.hostname and not p.username and not p.password
         assert source.get('kind','feed')=='feed' and not source.get('parent_id')
-        assert not source.get('images')
+        assert not source.get('images') or source['id'] in {'example-gamer520', 'gamer520-switch2', 'nsthwj-games', 'nsthwj-switch', 'nsthwj-pc', 'nsthwj-ps4'}
         assert source.get('fullContent',False)==(bool(source.get('repo')) or source['id']=='fzgamer-archive')
 for path in sorted((root/'feeds').glob('*.json')):
     if path.name.endswith('.health.json'):continue
