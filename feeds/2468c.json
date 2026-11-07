@@ -1,9 +1,28 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-07T10:28:25.385147+00:00",
+  "generated_at": "2026-11-07T16:55:07.043279+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "换影循迹 Bionic Bay",
+      "original_url": "https://2468c.com/121875.html",
+      "published_at": "2026-11-07T15:13:54Z",
+      "summary": "平台：PlayStation5 发行商：Kepler Interactive 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Psychoflow Studio 发行日期：2025-04-16 游戏版本：v01.000.008 游戏编号：PPSA237...",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-07T15:13:54Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-07T16:55:08.759560+00:00",
+      "summary_origin": "publisher_description"
+    },
     {
       "title": "光环：战役进化 – 高级版 Halo Campaign Evolved Premium Edition",
       "original_url": "https://2468c.com/120875.html",
@@ -11,7 +30,7 @@
       "summary": "平台：PlayStation5 发行商：Xbox Game Studios 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Halo Studios 发行日期：2026-07-23 游戏版本：v17.661.002 游戏编号：PPSA28038 格式：...",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-07T05:04:48Z",
@@ -20,8 +39,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-07T10:28:27.474168+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-07T10:28:27.474168+00:00"
     },
     {
       "title": "奥特罗斯 Ultros",
@@ -30,7 +49,7 @@
       "summary": "平台：PlayStation5 发行商：Kepler Interactive 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：El Huervo 发行日期：2024-02-13 游戏版本：v01.380 游戏编号：PPSA16280 格式：文件压缩包/...",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-07T04:26:44Z",
@@ -39,8 +58,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-07T10:28:28.035869+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-07T10:28:28.035869+00:00"
     },
     {
       "title": "梦中影 Afterdream",
@@ -49,7 +68,7 @@
       "summary": "平台：PlayStation4 发行商：Feardemic 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Jesse Makkonen 发行日期：2023-10-26 游戏版本：v1.01 游戏编号：CUSA45692 格式：PKG 平台版本：适用使...",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-07T04:22:01Z",
@@ -58,8 +77,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-07T10:28:28.597411+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-07T10:28:28.597411+00:00"
     },
     {
       "title": "怪兽竞技场 Sportal",
@@ -68,7 +87,7 @@
       "summary": "平台：PlayStation4 发行商：Retrovibe 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Sleepwalking Potatoes 发行日期：2026-06-11 游戏版本：v1.01 游戏编号：CUSA58764 格式：PKG 平...",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-07T04:19:27Z",
@@ -77,8 +96,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-07T10:28:29.170202+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-07T10:28:29.170202+00:00"
     },
     {
       "title": "芜菁山 Turnip Mountain",
@@ -87,7 +106,7 @@
       "summary": "平台：PlayStation4 发行商：JanduSoft 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Luke Sanderson 发行日期：2026-07-30 游戏版本：v1.02 游戏编号：CUSA59067 格式：PKG 平台版本：适用使...",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-07T04:16:56Z",
@@ -96,8 +115,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-07T10:28:29.748790+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-07T10:28:29.748790+00:00"
     },
     {
       "title": "墨西哥忍者 Mexican Ninja",
@@ -106,7 +125,7 @@
       "summary": "平台：PlayStation4 发行商：Amber 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Madbricks 发行日期：2026-08-20 游戏版本：v1.04 游戏编号：CUSA58811 格式：PKG 平台版本：适用使用5.xx及以上版...",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-07T04:14:24Z",
@@ -115,8 +134,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-07T10:28:30.324536+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-07T10:28:30.324536+00:00"
     },
     {
       "title": "四叶草深渊 Clover Pit Unholy Edition",
@@ -125,7 +144,7 @@
       "summary": "平台：PlayStation4 发行商：Future Friends Games 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Panik Arcade 发行日期：2025-09-26 游戏版本：v1.01 游戏编号：CUSA58411 格式：PKG...",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-07T04:11:25Z",
@@ -134,8 +153,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-07T10:28:30.901969+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-07T10:28:30.901969+00:00"
     },
     {
       "title": "过山车之星.Planet Coaster",
@@ -1884,25 +1903,6 @@
       "source_name": "奥德彪计划 PS4 / PS5",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-04T01:17:20.564463+00:00"
-    },
-    {
-      "title": "塞伯利亚之谜：世界之前.Syberia: The World Before",
-      "original_url": "https://2468c.com/112835.html",
-      "published_at": "2026-10-31T00:47:42Z",
-      "summary": "平台：PlayStation5 发行商：Microids Studio Paris 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Microids Studio Paris 发行日期：2022-3-19 游戏版本：v01.003.000 游戏编号：P...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-31T00:48:43Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:17:21.945601+00:00"
     }
   ]
 }
