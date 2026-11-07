@@ -1,9 +1,22 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-06T23:17:33.530606+00:00",
+  "generated_at": "2026-11-07T02:56:31.291133+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "T1 挺進四強！《英雄聯盟》2026 世界大賽四強賽名單確定 明日由 IG 與 GEN 搶奪決賽門票",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314652",
+      "published_at": "2026-11-07T01:56:13Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "《英雄聯盟》2026 世界大賽八強賽最後一場比賽今（7）日稍早告一段落，LCK 第三種子 T1 擊敗 LEC 第三種子 KC 獲勝，四強隊伍名單正式底定。 《英雄聯盟》2026 世界大賽八強賽程於今日進入第四天，由 T1 和 KC 進行五戰三勝的對....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "《RO 仙境傳說 Online》ROS 世界總決賽今日曼谷開戰 台灣代表隊「幻影旅團」首戰將迎戰巴西隊",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314651",
@@ -1307,19 +1320,6 @@
       "source_name": "巴哈姆特 GNN",
       "language": "zh-Hant",
       "summary": "戰遊網（Wargaming.net）宣布，旗下《戰車世界》系列將與 Legendary Entertainment 展開合作，帶來一系列以《沙丘：第三部（Dune: Part Three）》為靈感的獨家遊戲內容，為奧斯卡金像獎提名導演 Denis Villeneuve 執導的史詩三部曲寫下震撼人心的終章。這場爭....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "《薩爾達傳說 時之笛》開發人員訪談 回顧經典名作誕生的轉捩點",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314479",
-      "published_at": "2026-11-04T11:10:16Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "由開發人員親自分享，任天堂研發理念與堅持的專欄「開發人員訪談」第 24 集邀請到於 11 月 5 日（四）發售的 Nintendo Switch 2 軟體《薩爾達傳說 時之笛》開發人員來進行訪談。 本作是在 Nintendo 64 上發售之《薩爾達傳說 時之....",
       "content": "",
       "image_url": "",
       "content_scope": "summary",
