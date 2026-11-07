@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 12,
+  "config_version": 13,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-07T03:47:35.237031+00:00",
+  "generated_at": "2026-11-07T04:29:55.132970+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -982,6 +982,91 @@
       ],
       "requiresConsent": false,
       "rights_policy": "public index metadata and original links only; no publisher images, article bodies or game files"
+    },
+    {
+      "id": "nintendolife-switch2",
+      "name": "Nintendo Life · Switch 2",
+      "url": "https://www.nintendolife.com/feeds/latest/tags/switch-2",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "switch2"
+      ],
+      "evidence": "community",
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "nintendoeverything-switch2",
+      "name": "Nintendo Everything · Switch 2",
+      "url": "https://nintendoeverything.com/category/switch-2/feed/",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "switch2"
+      ],
+      "evidence": "community",
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "hblauncher-switch2",
+      "name": "HBLauncher（Switch 2 启动器与 SDK）",
+      "url": "https://github.com/ravensclawx/HBLauncher/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "ravensclawx/HBLauncher",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch2"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "ftpd-sb-switch2",
+      "name": "ftpd-sb（Switch 2 SmileBASIC FTP）",
+      "url": "https://github.com/ravensclawx/ftpd-sb/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "ravensclawx/ftpd-sb",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch2"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "mac2jb",
+      "name": "mac2jb（Switch 2 配套工具 · macOS）",
+      "url": "https://github.com/cpypwn/mac2jb/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "cpypwn/mac2jb",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "macos"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
     }
   ]
 }
