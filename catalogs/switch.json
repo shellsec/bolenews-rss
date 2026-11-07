@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 11,
+  "config_version": 12,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-04T14:21:48.035528+00:00",
+  "generated_at": "2026-11-07T03:47:35.237031+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -965,6 +965,23 @@
       ],
       "requiresConsent": false,
       "rights_policy": "public game index metadata and short publisher descriptions; bodies and images read from original on device; no game files or protected download links mirrored"
+    },
+    {
+      "id": "gamer520-switch2",
+      "name": "Gamer520 Switch 2 更新",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/gamer520-switch2.json",
+      "category": "hot",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "switch2"
+      ],
+      "requiresConsent": false,
+      "rights_policy": "public index metadata and original links only; no publisher images, article bodies or game files"
     }
   ]
 }
