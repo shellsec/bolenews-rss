@@ -1,9 +1,124 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-07T02:56:55.443864+00:00",
+  "generated_at": "2026-11-07T10:29:01.184239+00:00",
   "source_url": "https://nsthwj.cn/ps4",
   "items": [
+    {
+      "id": "c37d880ce437effb27e9995785950932cadfaed42593f958bbd1c7cb17a2847d",
+      "title": "美好生活|The Good Life中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137913",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "来自纽约的摄影师娜奥米出发前去调查田园小镇“雨林镇”，以及它为什么被称为“世界第一幸福的小镇”。但她发现，这个小镇和它的居民，都隐藏着一些奇“喵”的秘密。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.15系统要求：≥ 5.05",
+      "updated_at": "2026-11-07T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-07T10:29:03.691974+00:00"
+    },
+    {
+      "id": "660ccc7803b7ba368c40524d6189ca5ba7dc75331e1adcb20dbb47abe3119610",
+      "title": "[VR游戏]噢! 我好神VR|O! My Genesis VR中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137912",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "透过 VR，可以体验刺激的枪战、接近真实的赛车。但除此之外，透过玩家自己的双手，还可以做什么呢？在这里，我们有另一个答案：你可以体验作为创世神，去管理属于你自己的星球。 这些惊喜就在这个作品-“O! My Genesis”！ 在这个作品中，玩家扮演宇宙的创世神，透过自己的双手来管理星球。你将面临来自于宇宙环境中，各种…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.03 系统要求：≥ 5.05",
+      "updated_at": "2026-11-07T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-07T10:29:05.035339+00:00"
+    },
+    {
+      "id": "728de3a12828e20f1d71de3925b33c34c5746cf11c4421eb622ad504a0b0cdf3",
+      "title": "革命曲途|No Straight Roads中文",
+      "original_url": "https://nsthwj.cn/game/ps4/13729",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "在NO STRAIGHT ROADS中组建一支摇滚乐队，终结EDM帝国，这款摇滚动作冒险游戏融合了节奏鲜明的第三人称战斗风格和美妙的音乐！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.05系统要求：≥ 5.05",
+      "updated_at": "2026-11-07T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-07T10:29:06.349123+00:00"
+    },
+    {
+      "id": "f97ac81d2597008b614e39f165c261f38eddad67b055215d936edca8fe69aa71",
+      "title": "幻日夜羽：湛海耀光|Yohane the Parhelion: Blaze in the DeepBlue中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137911",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "《幻日夜羽》是《Love Live!》系列第2部《Love Live! Sunshine!!》的官方衍生作品。 本作则是以夜羽的世界为舞台的探索型2D动作游戏《幻日夜羽 -湛海耀光-》。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.01 系统要求：≥ 5.05",
+      "updated_at": "2026-11-07T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-07T10:29:08.922583+00:00"
+    },
+    {
+      "id": "472ee5b0c47df82567f2c3e6ebba363f90bada216ce0e7769cd0af93b263add1",
+      "title": "战壕惊魂|Conscript中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137910",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "在第一次世界大战肆虐的战火中，你是一位孤身奋战的法国士兵。战壕如同迷宫般错综曲折、危机四伏，资源和补给非常有限，还有各种复杂的谜题需要解开。你能否克服重重挑战，在人类历史上最残酷、最恐怖的冲突中生存下来？来《CONSCRIPT》体验对经典生存恐怖游戏的全新诠释。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.02 系统要求：≥ 5.05",
+      "updated_at": "2026-11-07T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-07T10:29:10.316217+00:00"
+    },
     {
       "id": "e747014908f082cb87b930bc046d5a2c7b62ae42a7fcd84911855086132d8d3d",
       "title": "但丁的地狱|Dante's Inferno汉化",
@@ -1370,7 +1485,7 @@
           "extraction_code": "jdsy"
         }
       ],
-      "summary_checked_at": "2026-11-07T02:56:57.208858+00:00"
+      "summary_checked_at": "2026-11-07T10:29:11.404464+00:00"
     },
     {
       "id": "ab7c206e9352b578ccd33269d35767111a6f67f2e01edcdb64c85f804f09e3b3",

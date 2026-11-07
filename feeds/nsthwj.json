@@ -1,9 +1,124 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-07T02:56:55.443864+00:00",
+  "generated_at": "2026-11-07T10:29:01.184239+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "c37d880ce437effb27e9995785950932cadfaed42593f958bbd1c7cb17a2847d",
+      "title": "美好生活|The Good Life中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137913",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "来自纽约的摄影师娜奥米出发前去调查田园小镇“雨林镇”，以及它为什么被称为“世界第一幸福的小镇”。但她发现，这个小镇和它的居民，都隐藏着一些奇“喵”的秘密。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.15系统要求：≥ 5.05",
+      "updated_at": "2026-11-07T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-07T10:29:03.691974+00:00"
+    },
+    {
+      "id": "660ccc7803b7ba368c40524d6189ca5ba7dc75331e1adcb20dbb47abe3119610",
+      "title": "[VR游戏]噢! 我好神VR|O! My Genesis VR中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137912",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "透过 VR，可以体验刺激的枪战、接近真实的赛车。但除此之外，透过玩家自己的双手，还可以做什么呢？在这里，我们有另一个答案：你可以体验作为创世神，去管理属于你自己的星球。 这些惊喜就在这个作品-“O! My Genesis”！ 在这个作品中，玩家扮演宇宙的创世神，透过自己的双手来管理星球。你将面临来自于宇宙环境中，各种…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.03 系统要求：≥ 5.05",
+      "updated_at": "2026-11-07T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-07T10:29:05.035339+00:00"
+    },
+    {
+      "id": "728de3a12828e20f1d71de3925b33c34c5746cf11c4421eb622ad504a0b0cdf3",
+      "title": "革命曲途|No Straight Roads中文",
+      "original_url": "https://nsthwj.cn/game/ps4/13729",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "在NO STRAIGHT ROADS中组建一支摇滚乐队，终结EDM帝国，这款摇滚动作冒险游戏融合了节奏鲜明的第三人称战斗风格和美妙的音乐！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.05系统要求：≥ 5.05",
+      "updated_at": "2026-11-07T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-07T10:29:06.349123+00:00"
+    },
+    {
+      "id": "f97ac81d2597008b614e39f165c261f38eddad67b055215d936edca8fe69aa71",
+      "title": "幻日夜羽：湛海耀光|Yohane the Parhelion: Blaze in the DeepBlue中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137911",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "《幻日夜羽》是《Love Live!》系列第2部《Love Live! Sunshine!!》的官方衍生作品。 本作则是以夜羽的世界为舞台的探索型2D动作游戏《幻日夜羽 -湛海耀光-》。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.01 系统要求：≥ 5.05",
+      "updated_at": "2026-11-07T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-07T10:29:08.922583+00:00"
+    },
+    {
+      "id": "472ee5b0c47df82567f2c3e6ebba363f90bada216ce0e7769cd0af93b263add1",
+      "title": "战壕惊魂|Conscript中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137910",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "在第一次世界大战肆虐的战火中，你是一位孤身奋战的法国士兵。战壕如同迷宫般错综曲折、危机四伏，资源和补给非常有限，还有各种复杂的谜题需要解开。你能否克服重重挑战，在人类历史上最残酷、最恐怖的冲突中生存下来？来《CONSCRIPT》体验对经典生存恐怖游戏的全新诠释。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.02 系统要求：≥ 5.05",
+      "updated_at": "2026-11-07T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-07T10:29:10.316217+00:00"
+    },
     {
       "id": "31633b9810b265263417d2b1e5435ae40218727b573210c19b6f30ae5660688b",
       "title": "虚空奇旅|Journey to the Void中文",
@@ -2785,176 +2900,6 @@
         }
       ],
       "summary_checked_at": "2026-11-04T14:20:57.440576+00:00"
-    },
-    {
-      "id": "c46fc2983acfa814065550331209fbd91a379c894e93103d462c5f5b9caf7dce",
-      "title": "星球大战前传1：绝地力量之战|Star Wars: Episode I - Jedi Power Battles中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137703",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "勇闯这款速度与激情并存的光剑动作游戏，夺回希德王宫。您将支配原力，手握值得信赖的光剑，抵御来自《星球大战前传1：幽灵的威胁》中由战斗机器人、毁灭者机器人、刺客和各种生物组成的军团。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.02 系统要求：≥ 5.05",
-      "updated_at": "2026-11-02T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1s_cJV9iq6A6LE1hSZiCwbg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5RHDui1PPHJCbuHv-Tj8FoA1?pwd=ggz8",
-          "extraction_code": "ggz8"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:59.041968+00:00"
-    },
-    {
-      "id": "40709561d23c23ef50c3ed5f8e849231c934a8ba1d7475b32b5c1b67697186dd",
-      "title": "飞屋环游记：重制版|Disney•Pixar Up英文",
-      "original_url": "https://nsthwj.cn/game/ps4/137702",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "体验原本推出于 PSP™ (PlayStation®Portable) 主机的 Disney•Pixar Up，本作在多方面获得增强，不仅提升渲染效能，也新增了回转、快速存档和自订影像滤镜等多项功能。 改编自同名的 Disney•Pixar 动画电影，《天外奇迹》电玩游戏将带领玩家跟着卡尔费迪逊及他的年轻搭档野外探险…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.01 系统要求：≥ 5.05",
-      "updated_at": "2026-11-02T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1UXuulevAoX3X0a4qndsPoA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5RFBqXbELMJ2lYt_jPLa8hA1?pwd=vb36",
-          "extraction_code": "vb36"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:59.646376+00:00"
-    },
-    {
-      "id": "ed9174a7df954cbeb578e3f9bbbe4f617cf86999fe54298f13da103fa53c1424",
-      "title": "浪漫沙加开拓者：重制版|SaGa Frontier Remastered中文",
-      "original_url": "https://nsthwj.cn/game/ps4/14167",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "《SaGa Frontier》这款RPG于1997年发售，至今仍深受玩家喜爱。如今提升畫質，並加入新要素，以全新面貌復甦！主角新增为八人，他们的故事将进一步进化。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.01系统要求：≥ 5.05",
-      "updated_at": "2026-11-02T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VOWQcIDhEa3V9nwrNWsbTAwRA1?pwd=ytfh#",
-          "extraction_code": "ytfh"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:21:00.254806+00:00"
-    },
-    {
-      "id": "2e830e97503abe9d0eeff010dc1f7e4aa3b9e7e2f7ca216159ca4d21eecd73d5",
-      "title": "COGEN：大凤羽空和刻之剑|Cogen: Sword of Rewind中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137693",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "回溯时光，前进。 回到死亡3秒前突破障碍，全新2D动作游戏在此登场。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.05 系统要求：≥ 5.05",
-      "updated_at": "2026-11-01T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/17g_3MERCTTD0Ye_qJD6f7g?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5P_5xB5_v7qpgmnJ5x59R4A1?pwd=58vm",
-          "extraction_code": "58vm"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:21:00.829064+00:00"
-    },
-    {
-      "id": "22683f608607ae547795f65006bcff7faa0133e62970afa4843dcdd917ef7b98",
-      "title": "浪漫沙加：吟游诗人之歌高清版|Romancing SaGa: Minstrel Song Remastered中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137683",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "《Romancing SaGa -Minstrel Song-》推出追加新元素与便利功能的Remastered版！ 带来更深刻的故事内容及更畅快的冒险体验！",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.02 系统要求：≥ 5.05",
-      "updated_at": "2026-10-31T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1uMdlkz-N-NVo6YtKHlxBcA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5HiXoVsRMUahe0U9M9NQUUA1?pwd=wpdk",
-          "extraction_code": "wpdk"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:21:01.494075+00:00"
     }
   ]
 }
