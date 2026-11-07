@@ -1,9 +1,22 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-07T16:55:08.976634+00:00",
+  "generated_at": "2026-11-07T20:59:07.729311+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "《RO 仙境傳說》明年迎接 25 週年 GRAVITY 預告 11 款《仙境傳說》遊戲新作同步籌備中",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314657",
+      "published_at": "2026-11-07T20:33:24Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "GRAVITY 集團董事長北村佳紀週六在泰國曼谷舉辦的「RO FESTA 2026」記者會上發表全新願景「Beyond Ragnarok」，預告 2027 年 GRAVITY 將迎接《RO 仙境傳說》25 週年，他們將努力推動品牌從單一遊戲專案全面轉型為全球化生態體系；他同時表示，目前集團正同步規劃 11 款全....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "《RO 仙境傳說》2026 ROS 世界總決賽落幕！台灣「幻影旅團」獲得亞軍、泰國 MORNING STAR 衛冕冠軍",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314656",
@@ -13,10 +26,10 @@
       "summary": "格雷維蒂互動旗下 PC 遊戲《RO 仙境傳說 Online》ROS 群星聯賽世界總決賽今晚結果出爐，台灣代表隊「幻影旅團」在冠亞軍決賽面對前兩年世界冠軍、泰國強權 MORNING STAR，「幻影旅團」積極思考戰術因應，可惜最終還是輸給了 MORNING STAR，幻影旅團拿下亞軍與獎金兩萬美元。 ，「幻影旅團」獲得亞軍 比賽採雙敗淘汰制。幻影旅團在今日比賽",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-07T16:55:09.340650+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-07T16:55:09.340650+00:00"
     },
     {
       "title": "【電玩瘋】手機週報《No Man&#039;s Sky》、《拉娜之星 2》與《WellDiver》等遊戲",
@@ -1313,19 +1326,6 @@
       "evidence": "community",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-04T16:25:50.247338+00:00"
-    },
-    {
-      "title": "TOEI GAMES 宣布首次參展 WePlay Expo 2026 將開放三款遊戲試玩",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314484",
-      "published_at": "2026-11-04T11:30:43Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "東映株式會社旗下遊戲業務品牌「TOEI GAMES」宣布，將參加預定於 11 月 21 日至 11 月 22 日在上海國家會展中心舉辦的「WePlay Expo 2026」。 這是 TOEI GAMES 首次參展 WePlay Expo，也是首次亮相大中華地區的遊戲展，官方透露屆時將開放《....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
     }
   ]
 }

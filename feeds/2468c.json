@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-07T16:55:07.043279+00:00",
+  "generated_at": "2026-11-07T20:59:05.664663+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -11,7 +11,7 @@
       "summary": "平台：PlayStation5 发行商：Kepler Interactive 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Psychoflow Studio 发行日期：2025-04-16 游戏版本：v01.000.008 游戏编号：PPSA237...",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-07T15:13:54Z",
@@ -20,8 +20,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-07T16:55:08.759560+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-07T16:55:08.759560+00:00"
     },
     {
       "title": "光环：战役进化 – 高级版 Halo Campaign Evolved Premium Edition",
