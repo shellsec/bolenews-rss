@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-08T06:59:36.006883+00:00",
+  "generated_at": "2026-11-08T07:31:22.491037+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -11,7 +11,7 @@
       "summary": "平台：PlayStation4 发行商：Konami Digital Entertainment 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Konami Digital Entertainment 发行日期：2020-09-10 游戏版本：v1....",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-08T01:21:22Z",
@@ -20,8 +20,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-08T06:59:38.247666+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-08T06:59:38.247666+00:00"
     },
     {
       "title": "苍穹雷霆 3 Azure Striker GUNVOLT 3",
@@ -30,7 +30,7 @@
       "summary": "平台：PlayStation4 发行商：INTI CREATES CO, LTD 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Inti Creates 发行日期：2022-12-15 游戏版本：v1.01 游戏编号：CUSA33135 格式：PKG...",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-08T01:09:23Z",
@@ -39,8 +39,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-08T06:59:38.946476+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-08T06:59:38.946476+00:00"
     },
     {
       "title": "潮流特警队 Fashion Police Squad",
@@ -49,7 +49,7 @@
       "summary": "平台：PlayStation4 发行商：No More Robots 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Mopeful Games 发行日期：2023-02-02 游戏版本：v1.02 游戏编号：CUSA33305 格式：PKG 平台版本...",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-08T01:07:02Z",
@@ -58,8 +58,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-08T06:59:39.586918+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-08T06:59:39.586918+00:00"
     },
     {
       "title": "刺客信条：英灵殿 – 终极版.Assassin’s Creed Valhalla Ultimate Edition",
@@ -68,7 +68,7 @@
       "summary": "平台：PlayStation4 发行商：Ubisoft 语言：中文,日语,英语,韩语 开发商：Ubisoft Montreal 发行日期：2020年11月10日 游戏版本：v8.00/v9.00 (全DLC) 游戏编号：CUSA18524 格式：PKG 平台版本：适用使用5.xx...",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-08T01:04:17Z",
@@ -77,8 +77,8 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-08T06:59:40.252946+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-08T06:59:40.252946+00:00"
     },
     {
       "title": "换影循迹 Bionic Bay",

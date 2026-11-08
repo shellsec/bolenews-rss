@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-08T06:59:40.619057+00:00",
+  "generated_at": "2026-11-08T07:31:24.325087+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
     {
@@ -39,10 +39,10 @@
       "summary": "「這應該可以成為大家旅遊的理由吧！」日本搖滾樂團 GLAY 於昨晚（7 日）在大阪城展演廳展開全新巡演「GLAY ARENA TOUR 2026-2027 “EXOFIRE”」，主唱 TERU 驚喜宣布，將於 2027 年 3 月 6 日、7 日在台北流行音樂中心連唱兩天的消息。 GLAY 為日本傳奇搖滾樂團，1988 年成立的他們，出道至今打造出無數人氣歌曲，並為像是《鑽石王牌》、《KURO",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-08T06:59:41.164825+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-08T06:59:41.164825+00:00"
     },
     {
       "title": "2D 像素放置新作《RO 仙境傳說：GO》導入戰前流派策略 預告將推大規模 GvG 公會戰",
