@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-08T15:24:08.321621+00:00",
+  "generated_at": "2026-11-08T20:37:56.092399+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -348,6 +348,29 @@
       "updated_at": "2026-11-08T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-08T15:24:03.767099+00:00"
+    },
+    {
+      "id": "62891c012a19207317d69a055e5002bf4deaef8a7096bf42c813edb469282f1f",
+      "title": "[移植游戏]求生之路|Left 4 Dead中文",
+      "original_url": "https://nsthwj.cn/game/switch/137975",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-08T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-08T20:37:53.734878+00:00"
     },
     {
       "id": "8abf145588e0b108b6f729d0c3be6b5089da48dc5f93dc8149137b4498ce3313",
@@ -942,6 +965,52 @@
       "version": "Build.26502230",
       "updated_at": "2026-11-08T00:00:00+08:00",
       "update_date_precision": "day"
+    },
+    {
+      "id": "4170d2a2e89bd446eaf65e53ebe48a41f1569414045688851b6fe2c375a7c0c1",
+      "title": "旺达与巨像：重制版|Shadow of the Colossus中文",
+      "original_url": "https://nsthwj.cn/game/ps4/12517",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "最后的一击 - 是那么令人痛心。 为了拯救少女的性命，汪达毫不畏惧地与比自己要巨大几十倍的巨像对峙，以智慧与勇气不断进行挑战。 一心一意为了“拯救少女”的他即将面对的，究竟是希望，抑或是…… 自 2005 年 PlayStation®2 发售以来，受到世界各地极高评价的“汪达与巨像”，将完全重制并于 PlayStat…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.00 系统要求：≥ 5.05",
+      "updated_at": "2026-11-08T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-08T20:37:57.581689+00:00"
+    },
+    {
+      "id": "cb84d01748e12e37c2f635abc4ef6932989ec48400e003ebcdcc75034e6bbe8f",
+      "title": "墨西哥忍者|Mexican Ninja中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137976",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "这是一款疯狂的快节奏roguelike清版动作游戏，充满了粗犷、嚣张和超酷的元素！在这款复古2.5D街机风作品中，化身独一无二的墨西哥忍者，在新东京的街头杀出一条血路。还等什么呢？菜鸟忍者，让我瞧瞧你的本事吧！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.04 系统要求：≥ 5.05",
+      "updated_at": "2026-11-08T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-08T20:37:58.533403+00:00"
     },
     {
       "id": "87f0be5a2063752820b6292806e7e0a2408d8ef60ffeb3cf9488dbb2437dae56",
@@ -1971,41 +2040,6 @@
       "summary_checked_at": "2026-11-05T20:44:40.003245+00:00"
     },
     {
-      "id": "ed365f75d100a8a07f7d88d4de2505cb10513b9b8f349fdf24bcbcefd3b219a5",
-      "title": "玩具熊的五夜后宫：姐妹地点|Five Nights at Freddy's: Sister Location",
-      "original_url": "https://nsthwj.cn/game/switch/3424",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "欢迎来到「马戏团宝贝」披萨世界！这里的家庭乐趣以及互动性远远超出了你以前所看到的*其他*的披萨乐园！这里有顶尖的动画艺人会让您的孩子开怀大笑，不仅如此我们还提供定制披萨餐饮，没有马戏团宝贝和朋友的聚会绝对是不完整的！ 现在招聘：深夜技术员。必须能够在狭窄的空间以及运行中的机械旁维持正常的工作且不会感到不适。如果您不幸…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.2",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1CGgRm-QcElAhsPLkmW3j0A?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/d6072039b42f",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-05T20:44:41.067818+00:00"
-    },
-    {
       "id": "15f0b3d5ea323f2144e43ab5d8e2ffd0396464fa7b1482c1609cde933717d061",
       "title": "最后一击|The Last Shot中文",
       "original_url": "https://nsthwj.cn/game/ps4/137767",
@@ -2482,76 +2516,6 @@
         }
       ],
       "summary_checked_at": "2026-11-04T14:20:55.096642+00:00"
-    },
-    {
-      "id": "5749a9d34d0a8fb98726c7d38a5dfb068a37aadaf53b1a1b2476c71519a33bd5",
-      "title": "月球着陆：超越|Lunar Lander Beyond英文",
-      "original_url": "https://nsthwj.cn/game/ps4/137707",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "Guide a roster of colorful pilots, eclectic advisors and state-of-the-art landers through a taxing series of missions. Deliver cargo, retrieve resources, and r…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.03 系统要求：≥ 5.05",
-      "updated_at": "2026-11-02T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1aFgU_2xHs5kmGqDQlJIDSg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5RXOc_DI3t4ZneyGKG-L7mA1?pwd=2tg6",
-          "extraction_code": "2tg6"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:55.716359+00:00"
-    },
-    {
-      "id": "3166908ec556eb394180b077548127f643210c507a70a02cc9b84c5e685d5694",
-      "title": "永远的超级食肉男孩|Super Meat Boy Forever中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137706",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "Super Meat Boy is back! This time around Meat Boy is always running, literally it's an auto-runner. You will jump, dive, slide and punch your way through bruta…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.10 系统要求：≥ 5.05",
-      "updated_at": "2026-11-02T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1QQtnu2vH0WhDKPgUH2yeQA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5RXTwLmrvMfMpXyZWdxtxIA1?pwd=6hvn",
-          "extraction_code": "6hvn"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:56.277085+00:00"
     }
   ]
 }

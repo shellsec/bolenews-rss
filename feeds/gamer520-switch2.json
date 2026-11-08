@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-08T15:23:27.771436+00:00",
+  "generated_at": "2026-11-08T20:37:36.498147+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=1493&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {

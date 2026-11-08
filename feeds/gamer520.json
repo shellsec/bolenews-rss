@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-08T15:23:24.682419+00:00",
+  "generated_at": "2026-11-08T20:37:33.882976+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -1598,7 +1598,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-04T01:16:21.581066+00:00"
+      "summary_checked_at": "2026-11-08T20:37:36.305255+00:00"
     },
     {
       "title": "东东不死传说2023版|移植版|",

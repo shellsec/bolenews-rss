@@ -1,9 +1,55 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-08T15:24:08.321621+00:00",
+  "generated_at": "2026-11-08T20:37:56.092399+00:00",
   "source_url": "https://nsthwj.cn/ps4",
   "items": [
+    {
+      "id": "4170d2a2e89bd446eaf65e53ebe48a41f1569414045688851b6fe2c375a7c0c1",
+      "title": "旺达与巨像：重制版|Shadow of the Colossus中文",
+      "original_url": "https://nsthwj.cn/game/ps4/12517",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "最后的一击 - 是那么令人痛心。 为了拯救少女的性命，汪达毫不畏惧地与比自己要巨大几十倍的巨像对峙，以智慧与勇气不断进行挑战。 一心一意为了“拯救少女”的他即将面对的，究竟是希望，抑或是…… 自 2005 年 PlayStation®2 发售以来，受到世界各地极高评价的“汪达与巨像”，将完全重制并于 PlayStat…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.00 系统要求：≥ 5.05",
+      "updated_at": "2026-11-08T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-08T20:37:57.581689+00:00"
+    },
+    {
+      "id": "cb84d01748e12e37c2f635abc4ef6932989ec48400e003ebcdcc75034e6bbe8f",
+      "title": "墨西哥忍者|Mexican Ninja中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137976",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "这是一款疯狂的快节奏roguelike清版动作游戏，充满了粗犷、嚣张和超酷的元素！在这款复古2.5D街机风作品中，化身独一无二的墨西哥忍者，在新东京的街头杀出一条血路。还等什么呢？菜鸟忍者，让我瞧瞧你的本事吧！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.04 系统要求：≥ 5.05",
+      "updated_at": "2026-11-08T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-08T20:37:58.533403+00:00"
+    },
     {
       "id": "c37d880ce437effb27e9995785950932cadfaed42593f958bbd1c7cb17a2847d",
       "title": "美好生活|The Good Life中文",
@@ -1531,7 +1577,7 @@
           "extraction_code": "jdsy"
         }
       ],
-      "summary_checked_at": "2026-11-08T15:24:11.126297+00:00"
+      "summary_checked_at": "2026-11-08T20:37:59.425500+00:00"
     },
     {
       "id": "ab7c206e9352b578ccd33269d35767111a6f67f2e01edcdb64c85f804f09e3b3",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-08T15:23:46.074119+00:00",
+  "generated_at": "2026-11-08T20:37:51.986377+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -348,6 +348,29 @@
       "updated_at": "2026-11-08T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-08T15:24:03.767099+00:00"
+    },
+    {
+      "id": "62891c012a19207317d69a055e5002bf4deaef8a7096bf42c813edb469282f1f",
+      "title": "[移植游戏]求生之路|Left 4 Dead中文",
+      "original_url": "https://nsthwj.cn/game/switch/137975",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-08T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-08T20:37:53.734878+00:00"
     },
     {
       "id": "31633b9810b265263417d2b1e5435ae40218727b573210c19b6f30ae5660688b",
