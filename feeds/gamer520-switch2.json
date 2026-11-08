@@ -1,9 +1,105 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-08T00:47:30.131252+00:00",
+  "generated_at": "2026-11-08T06:59:44.611018+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=1493&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "黄昏血族 The Duskbloods|官方英文|测试版|NUP|",
+      "original_url": "https://vip.gamers520.com/125543.html",
+      "published_at": "2026-11-07T22:00:09Z",
+      "summary": "化身为「黄昏血族」的一员，施展血之力赋予你的超凡异能，投身最多八人同场的线上战斗。* 当「人类黄昏」降临，血族应召而战。你将与其他血族结成短暂的同盟，并肩迎敌，也会与宿敌激烈交锋，争夺获得「初始之血」 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-08T01:40:19Z",
+      "platform": [
+        "switch2"
+      ]
+    },
+    {
+      "title": "生化危机4 重制版 黄金版.Resident Evil 4 Remake Gold Edition|豪华中文|NUP|",
+      "original_url": "https://vip.gamers520.com/125544.html",
+      "published_at": "2026-11-07T21:01:23Z",
+      "summary": "成功逃脱并战胜死亡的快感。一切在此集结。 包含《Resident Evil 4 Gold Edition》本篇、追加剧情 DLC“逆命殊途”以及追加DLC组合“额外内容扩展包”在内的“Gold Edi …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-08T01:40:17Z",
+      "platform": [
+        "switch2"
+      ]
+    },
+    {
+      "title": "识质存在 豪华版 PRAGMATA Deluxe Edition|官方中文|NUP|",
+      "original_url": "https://vip.gamers520.com/125547.html",
+      "published_at": "2026-11-07T21:02:21Z",
+      "summary": "【早购特典内容】 ・休服装「新派武士道」 ・戴安娜服装「新派女忍者」 分别为休和戴安娜换上以战国时代英勇无畏的武士，以及在暗处活动的迷人忍者为主题的服装游玩吧。 ※早购特典有可能在日后提供其他获取方式 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-08T01:40:16Z",
+      "platform": [
+        "switch2"
+      ]
+    },
+    {
+      "title": "轨道双子星 数字豪华版.Orbitals Digital Deluxe|官方中文|NUP|",
+      "original_url": "https://vip.gamers520.com/125549.html",
+      "published_at": "2026-11-07T21:03:17Z",
+      "summary": "– 《軌道雙子星》遊戲本體 – 數位美術設定集*（收錄滿滿復古動畫風格的概念圖與插畫） – 《軌道雙子星》數位遊戲原聲帶* – 兩套專屬角色服裝（麻希與 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-08T01:40:15Z",
+      "platform": [
+        "switch2"
+      ]
+    },
+    {
+      "title": "异度神剑X 终极版 Xenoblade Chronicles X Definitive Edition|官方中文|NUP|",
+      "original_url": "https://vip.gamers520.com/125551.html",
+      "published_at": "2026-11-07T21:05:56Z",
+      "summary": "《Xenoblade X》的「终极版」这次要在 Nintendo Switch 登场。 2015 年发售的 Wii U 专用游戏软体、开放世界 RPG《Xenoblade X》于 Nintendo S …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-08T01:40:13Z",
+      "platform": [
+        "switch2"
+      ]
+    },
+    {
+      "title": "荒野大镖客 救赎 Red Dead Redemption|官方中文|NUP|",
+      "original_url": "https://vip.gamers520.com/125553.html",
+      "published_at": "2026-11-07T21:10:22Z",
+      "summary": "體驗開創遊戲世代的史詩西部荒野冒險 昔日亡命之徒約翰．瑪斯頓遭到聯邦探員以家人要挾，不得不去追捕那些自己以前曾經稱兄道弟的幫派罪犯。 體驗瑪斯頓在幅員遼闊的美國西部和墨西哥的旅程， 看他如何在這部 2 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-08T01:39:33Z",
+      "platform": [
+        "switch2"
+      ]
+    },
     {
       "title": "极速融合 Fast Fusion|官方中文|V1.4.0|NUP|",
       "original_url": "https://vip.gamers520.com/125505.html",

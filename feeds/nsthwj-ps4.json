@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-08T00:47:52.122976+00:00",
+  "generated_at": "2026-11-08T07:00:17.557007+00:00",
   "source_url": "https://nsthwj.cn/ps4",
   "items": [
     {
@@ -118,6 +118,52 @@
       "updated_at": "2026-11-07T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-07T10:29:10.316217+00:00"
+    },
+    {
+      "id": "3bb2971b266784a3b6217243944ecbc767941add26a325ff309fa7b245891273",
+      "title": "小骨：英雄杀手|Skul: The Hero Slayer中文",
+      "original_url": "https://nsthwj.cn/game/ps4/12933",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "Skul：The Hero Slayer是2D Rogue Lite动作平台游戏。负责魔王城平安的小骷髅“Skul”，为了拯救被人类捉住的魔王，一个人独自对抗帝国军队开始冒险。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.23系统要求：≥ 5.05",
+      "updated_at": "2026-11-07T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-08T07:00:21.177007+00:00"
+    },
+    {
+      "id": "3a04b64daa9d707d663249d8c08ceeecec51cacaf28689962e45c42d5f7778ea",
+      "title": "幻想生活i：转圈圈的龙和偷取时间的少女|Fantasy Life i: The Girl Who Steals Time中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137914",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "钓钓鱼，做做菜，建设建设岛屿，去广阔的大地图和伙伴们一起与怪物战斗……踏入这款慢生活角色扮演游戏的幻想世界，自由切换14种各有特色的职业，随心所欲地享受每一次冒险带来的惊喜吧！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.50 系统要求：≥ 5.05",
+      "updated_at": "2026-11-07T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-08T07:00:24.228941+00:00"
     },
     {
       "id": "e747014908f082cb87b930bc046d5a2c7b62ae42a7fcd84911855086132d8d3d",
@@ -1485,7 +1531,7 @@
           "extraction_code": "jdsy"
         }
       ],
-      "summary_checked_at": "2026-11-08T00:47:53.849736+00:00"
+      "summary_checked_at": "2026-11-08T07:00:25.404301+00:00"
     },
     {
       "id": "ab7c206e9352b578ccd33269d35767111a6f67f2e01edcdb64c85f804f09e3b3",

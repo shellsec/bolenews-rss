@@ -1,9 +1,124 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-08T00:47:52.122976+00:00",
+  "generated_at": "2026-11-08T07:00:17.557007+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "9283555c211ff3bf0e4324a799e22988ed6933535a79625d6da13d9e42419efc",
+      "title": "[移植游戏]宝可梦无限融合丰缘|Pokémon Infinite Fusion: Hoenn",
+      "original_url": "https://nsthwj.cn/game/switch/137940",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "宝可梦无限融合是一款玩法丰富的精灵养成类战斗冒险游戏，游戏采用了复古的像素画风打造，在游戏中有着超多的Q萌小精灵等你来捕捉，每一只精灵都拥有不同的属性和能力，玩家们可以收集、组建一支强大的队伍进行冒险。游戏主要是以神奇宝贝作为主题创新开发的像素风格冒险游戏。口袋妖怪无限融合的游戏画面就是简单经典的的像素风格，努力的提…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.3.2-b5",
+      "updated_at": "2026-11-08T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-08T07:00:04.181644+00:00"
+    },
+    {
+      "id": "e2fe22b3fb6449d01b0e29fa1f9b7c8e6e72212c22d8c5698ee3f0c956ec7800",
+      "title": "[移植游戏]宝可梦蛋白石|Pokémon Opal中文",
+      "original_url": "https://nsthwj.cn/game/switch/137939",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "舞台是充满西部荒野风格的**塞菲拉双地区**。主角从布里萨镇启程，收到好友来信踏上冒险。梦中出现神秘星体宝可梦，预示灾厄降临；反派组织「加特林队」暗中搅动秩序，你需要集齐 16 枚道馆徽章，穿越两片风格迥异的大陆，揭开星体宝可梦的秘密，阻止世界走向毁灭。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.1.0-b11",
+      "updated_at": "2026-11-08T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-08T07:00:07.781186+00:00"
+    },
+    {
+      "id": "6ef29eec8fa733d014748cd5c6b7829cb0e57b1c4bb92950fa1030279d5c5497",
+      "title": "[移植游戏]宝可梦Z|Pokémon Z中文",
+      "original_url": "https://nsthwj.cn/game/switch/137938",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "舞台是300 年前的古代卡洛斯地区（XY 时代之前），围绕卡洛斯大战争、终极武器、Aster Zephyr 国王的往事展开，解开远古时代被埋没的历史谜团。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.1.0-b5",
+      "updated_at": "2026-11-08T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-08T07:00:09.493119+00:00"
+    },
+    {
+      "id": "51eeb74216f657b580d5b8f6108801603b2d98ac34e42694a957fa5c9c78715a",
+      "title": "[移植游戏]爱丽丝：疯狂回归|Alice: Madness Returns",
+      "original_url": "https://nsthwj.cn/game/switch/137937",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Alice: Madness Returns 进入游戏 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-08T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-08T07:00:10.902391+00:00"
+    },
+    {
+      "id": "fd4b395df5f2bce70255217eebd18b841ab5513dac25bd6228ae8a9057d9327c",
+      "title": "PSV模拟器[附带464款游戏]",
+      "original_url": "https://nsthwj.cn/game/switch/137429",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Vuta3K 进入模拟器 [主机提前联网] 4.进入后提示安装固件点击 A键 确认安装 5.选择 下载并安装固件（约350MB） 按 A键 6.耐心等待进度条安装完毕 [需要的时间有些久]…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.41",
+      "updated_at": "2026-11-08T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-08T07:00:12.437948+00:00"
+    },
     {
       "id": "87f0be5a2063752820b6292806e7e0a2408d8ef60ffeb3cf9488dbb2437dae56",
       "title": "巨龙宝藏整理师|Gildoria - Organize a Dragon's Hoard",
@@ -602,6 +717,52 @@
       "updated_at": "2026-11-07T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-07T10:29:10.316217+00:00"
+    },
+    {
+      "id": "3bb2971b266784a3b6217243944ecbc767941add26a325ff309fa7b245891273",
+      "title": "小骨：英雄杀手|Skul: The Hero Slayer中文",
+      "original_url": "https://nsthwj.cn/game/ps4/12933",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "Skul：The Hero Slayer是2D Rogue Lite动作平台游戏。负责魔王城平安的小骷髅“Skul”，为了拯救被人类捉住的魔王，一个人独自对抗帝国军队开始冒险。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.23系统要求：≥ 5.05",
+      "updated_at": "2026-11-07T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-08T07:00:21.177007+00:00"
+    },
+    {
+      "id": "3a04b64daa9d707d663249d8c08ceeecec51cacaf28689962e45c42d5f7778ea",
+      "title": "幻想生活i：转圈圈的龙和偷取时间的少女|Fantasy Life i: The Girl Who Steals Time中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137914",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "钓钓鱼，做做菜，建设建设岛屿，去广阔的大地图和伙伴们一起与怪物战斗……踏入这款慢生活角色扮演游戏的幻想世界，自由切换14种各有特色的职业，随心所欲地享受每一次冒险带来的惊喜吧！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.50 系统要求：≥ 5.05",
+      "updated_at": "2026-11-07T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-08T07:00:24.228941+00:00"
     },
     {
       "id": "31633b9810b265263417d2b1e5435ae40218727b573210c19b6f30ae5660688b",
@@ -1965,181 +2126,6 @@
       "summary_checked_at": "2026-11-04T16:26:08.486266+00:00"
     },
     {
-      "id": "49d36f78a786de7a6d3134aa08c6407a125fb5aa729cd881820516193e70ff89",
-      "title": "[SS土星移植游戏]土星炸弹人|Saturn Bomberman",
-      "original_url": "https://nsthwj.cn/game/switch/137812",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "《Saturn Bomberman》是Hudson Soft为Sega Saturn平台开发的动作游戏。作为《Bomberman》系列的第十二部作品，它于1996年7月19日在日本首次发行，1997年5月1日在欧洲上市，1997年9月4日在北美推出。这款游戏的最大亮点在于支持最多10名玩家通过多个控制器同时进行游戏。…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1Tc7LF6kohBMsQt7t0U6K1A?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/bf8a8d071db8",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T16:26:09.448860+00:00"
-    },
-    {
-      "id": "35b8b3aedbd8443f78b0d2b681046fc8d86d36e70d72a2a1749b5832fa0b3ca2",
-      "title": "[移植游戏]龙珠Z：武道会3高清版|Dragon Ball Z: Budokai 3 HD",
-      "original_url": "https://nsthwj.cn/game/switch/137810",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：0.1",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1YKPIXXCcVaKxtql2vgIdOg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/e4a448ae59bd",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T16:26:10.709103+00:00"
-    },
-    {
-      "id": "4daea3198a86bdd6a6489a80f459b858ee901d1bc4a1dfee70d6b256b1d96836",
-      "title": "[SS土星移植游戏]飞鸟120%：燃烧的学园祭|Asuka 120% Burning Fest. Limited",
-      "original_url": "https://nsthwj.cn/game/switch/137817",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "故事发生在一所名为“凉兰女子私立学校”的地方，这所学校专为上流社会的女儿们提供教育。该校的各个社团每年都会举办一场名为“社团竞技大赛”的武术比赛。每个角色都有自己独特的战斗风格，而且各社团的招式也各具特色。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/18-Lwai4atEgsLndZfpy_2Q?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/66a14cc15851",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T22:42:20.996150+00:00"
-    },
-    {
-      "id": "47b283da2c221e9f57e753830bea3df4db2194de2a20dd8962c17ec52b144752",
-      "title": "[SS土星移植游戏]口袋战士|Pocket Fighter",
-      "original_url": "https://nsthwj.cn/game/switch/137816",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "Capcom 的格斗游戏角色以幽默和可爱形象一同登场！ 这是一款非常简单的对战动作游戏，就算是不擅长玩格斗游戏的玩家也能透过简单操作，施展连串特别招式， 让可爱角色在画面横行！",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1tfEqh57cYiknUIskMMqWJw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/e751918235ee",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T22:42:22.259673+00:00"
-    },
-    {
-      "id": "5304350a97de103364eede39ee63d4a3f767109bbe5b384d2b4e4f89ba073442",
-      "title": "[移植游戏]跑车浪漫旅3|GT赛车3|Gran Turismo 3",
-      "original_url": "https://nsthwj.cn/game/switch/137815",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 gt3r 进入游戏 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1c7-KUArM2tiAJERRiFFwLA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/8eb9dca413e2",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T22:42:23.567687+00:00"
-    },
-    {
       "id": "15f0b3d5ea323f2144e43ab5d8e2ffd0396464fa7b1482c1609cde933717d061",
       "title": "最后一击|The Last Shot中文",
       "original_url": "https://nsthwj.cn/game/ps4/137767",
@@ -2686,76 +2672,6 @@
         }
       ],
       "summary_checked_at": "2026-11-04T14:20:56.277085+00:00"
-    },
-    {
-      "id": "9c73bc2434b4af380cd110051f213868bcbfb3bd3aefcfc9fe0f55c85d2f6f34",
-      "title": "上行战场|The Ascent中文",
-      "original_url": "https://nsthwj.cn/game/ps4/12726",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "《上行战场》是一款动作射击类的ARPG游戏，同时支持单机和多人联机。游戏背景设定在一个未来的赛博朋克风格世界。在这里，超级企业上行集团掌控着你和其他所有人。但他们却因不明原因突然倒闭，一切归于混沌。活下去，是你唯一的目标！游戏支持中文。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.05系统要求：≥ 5.05",
-      "updated_at": "2026-11-02T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1XCXDkP_h45GfTtA4zBmrjQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VODtvZaj0KJDvS4rJg4_syeaA1?pwd=fvm4#",
-          "extraction_code": "fvm4"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:56.852507+00:00"
-    },
-    {
-      "id": "cc126236f624624b1aa803bfed21f4cd26d5963a35bb5cedcaeb786f92747198",
-      "title": "弹珠之旅！超激|Marble It Up! Ultra中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137705",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "滚动、回弹、助推，一路狂飙，在终极弹球平台游戏《Marble It Up! Ultra》中赢得胜利。通过完成大量战役追赶好友及全球优秀玩家创造的记录——或者在紧张刺激的多人游戏混战中和他们展开正面较量。准备好开始游戏吧！",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.07 系统要求：≥ 5.05",
-      "updated_at": "2026-11-02T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1KHVDon7AaEFfoVGSGDZOSw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5ROSG9e2CEOvHnoiaL5q2eA1?pwd=qjn3",
-          "extraction_code": "qjn3"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:57.440576+00:00"
     }
   ]
 }

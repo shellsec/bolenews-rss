@@ -1,9 +1,85 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-08T00:47:24.306742+00:00",
+  "generated_at": "2026-11-08T06:59:36.006883+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "实况足球 2021 （多版本合集）Pro Evolution Soccer 2021",
+      "original_url": "https://2468c.com/108946.html",
+      "published_at": "2026-11-08T01:20:59Z",
+      "summary": "平台：PlayStation4 发行商：Konami Digital Entertainment 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Konami Digital Entertainment 发行日期：2020-09-10 游戏版本：v1....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-08T01:21:22Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-08T06:59:38.247666+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "title": "苍穹雷霆 3 Azure Striker GUNVOLT 3",
+      "original_url": "https://2468c.com/121881.html",
+      "published_at": "2026-11-08T01:09:23Z",
+      "summary": "平台：PlayStation4 发行商：INTI CREATES CO, LTD 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Inti Creates 发行日期：2022-12-15 游戏版本：v1.01 游戏编号：CUSA33135 格式：PKG...",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-08T01:09:23Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-08T06:59:38.946476+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "title": "潮流特警队 Fashion Police Squad",
+      "original_url": "https://2468c.com/121879.html",
+      "published_at": "2026-11-08T01:07:02Z",
+      "summary": "平台：PlayStation4 发行商：No More Robots 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Mopeful Games 发行日期：2023-02-02 游戏版本：v1.02 游戏编号：CUSA33305 格式：PKG 平台版本...",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-08T01:07:02Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-08T06:59:39.586918+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "title": "刺客信条：英灵殿 – 终极版.Assassin’s Creed Valhalla Ultimate Edition",
+      "original_url": "https://2468c.com/64482.html",
+      "published_at": "2026-11-08T01:03:59Z",
+      "summary": "平台：PlayStation4 发行商：Ubisoft 语言：中文,日语,英语,韩语 开发商：Ubisoft Montreal 发行日期：2020年11月10日 游戏版本：v8.00/v9.00 (全DLC) 游戏编号：CUSA18524 格式：PKG 平台版本：适用使用5.xx...",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-08T01:04:17Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-08T06:59:40.252946+00:00",
+      "summary_origin": "publisher_description"
+    },
     {
       "title": "换影循迹 Bionic Bay",
       "original_url": "https://2468c.com/121875.html",
@@ -1827,82 +1903,6 @@
       "source_name": "奥德彪计划 PS4 / PS5",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-04T01:17:14.467156+00:00"
-    },
-    {
-      "title": "葛叶雷道 复刻版：超力兵团奇谭.Raidou Remastered: The Mystery of the Soulless Army",
-      "original_url": "https://2468c.com/112700.html",
-      "published_at": "2026-10-31T00:52:33Z",
-      "summary": "平台：PlayStation5 发行商：SEGA 语言：中文,日语,英语,德语,韩语,意大利语,法语,西班牙语 开发商：ATLUS 发行日期：2025-6-19 游戏版本：v01.000.000 游戏编号：PPSA15366 格式：文件压缩包/FPKG 平台版本：适用使用5.xx...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-31T00:53:50Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:17:16.054291+00:00"
-    },
-    {
-      "title": "勇敢小骑士.The Plucky Squire",
-      "original_url": "https://2468c.com/112833.html",
-      "published_at": "2026-10-31T00:51:36Z",
-      "summary": "平台：PlayStation5 发行商：Devolver Digital 语言：中文,日语,英语,德语,俄语,韩语,法语,西班牙语 开发商：All Possible Futures 发行日期：2024-9-17 游戏版本：v02.002.000 游戏编号：PPSA15319 格式...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-31T00:52:45Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:17:17.513844+00:00"
-    },
-    {
-      "title": "奇巫妙森.Wytchwood",
-      "original_url": "https://2468c.com/112695.html",
-      "published_at": "2026-10-31T00:50:21Z",
-      "summary": "平台：PlayStation5 发行商：Whitethorn Digital 语言：中文,日语,英语,德语,韩语,意大利语,法语,西班牙语 开发商：Alientrap 发行日期：2021-12-9 游戏版本：v01.000.005 游戏编号：PPSA05721 格式：文件压缩包/...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-31T00:51:21Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:17:19.133845+00:00"
-    },
-    {
-      "title": "JOJO 的奇妙冒险：群星之战 重制版 – 数字豪华版 JoJo’s Bizarre Adventure: All-Star Battle R – Digital Deluxe Edition",
-      "original_url": "https://2468c.com/112785.html",
-      "published_at": "2026-10-31T00:48:23Z",
-      "summary": "平台：PlayStation5 发行商：Bandai Namco Entertainment 语言：中文,日语,英语,德语,意大利语,法语,西班牙语 开发商：CyberConnect2 Co Ltd 发行日期：2022-09-01 游戏版本：v2.330.000 DLC 游戏编号...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-31T00:50:01Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:17:20.564463+00:00"
     }
   ]
 }
