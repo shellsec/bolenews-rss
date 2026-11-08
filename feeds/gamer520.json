@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-07T20:59:08.399269+00:00",
+  "generated_at": "2026-11-08T00:47:27.397028+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -1349,7 +1349,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-04T01:16:17.151431+00:00"
+      "summary_checked_at": "2026-11-08T00:47:29.953441+00:00"
     },
     {
       "title": "星球田园诗Farlands|官方中文|NSP|",

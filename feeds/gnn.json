@@ -1,9 +1,36 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-07T20:59:07.729311+00:00",
+  "generated_at": "2026-11-08T00:47:26.490141+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "《RO 仙境傳說》UGC 平台「RAGLAND」首度曝光！上千款官方素材任你蓋城鎮、打造屬於自己的米德加爾特",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314659",
+      "published_at": "2026-11-07T22:50:53Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "GRAVITY 旗下 Game Max 此次在「RO FESTA 2026」現場記者會中，新公開《RO 仙境傳說》次世代玩家創作平台「RAGLAND」，將將提供玩家與創作者「無程式碼」的遊戲創作環境，讓創作者能夠自由打造屬於自己的《RO 仙境傳說》世界。 「RAGLAND」 GRAVITY Game Max 產品負責人 Narut Poovorakit 表示，RAGLAND 是一款讓玩家能親自運用《RO 仙境傳說》IP 進行創作、販",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_checked_at": "2026-11-08T00:47:27.044057+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "title": "集結《RO》、《格鬥天王》、《魔力寶貝》等作品！GRAVITY 公開新 H5 平台「AIWAN」",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314658",
+      "published_at": "2026-11-07T21:27:58Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "GRAVITY 新公開以「免下載、免安裝、免更新」為核心訴求的次世代 H5 遊戲平台「AIWAN」，以旗下 IP《RO 仙境傳說》為中心來擴展，並結合包括《格鬥天王：拳面出擊》、《魔力寶貝：永恆初心》等作品，讓玩家「免下載、免安裝、免更新」就可輕鬆遊玩。 GRAVITY 新公開以「免下....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "《RO 仙境傳說》明年迎接 25 週年 GRAVITY 預告 11 款《仙境傳說》遊戲新作同步籌備中",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314657",
@@ -1299,33 +1326,6 @@
       "content_scope": "summary",
       "evidence": "community",
       "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "《楓之谷覺醒者養成》正式在《楓之谷世界》上線 新內容「玩家交易所」同步開放",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314486",
-      "published_at": "2026-11-04T11:39:27Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "由韓國一人獨立遊戲團隊 Tigerworks 所開發放置型動作 RPG《楓之谷覺醒者養成（原稱：你已覺醒）》正式在《楓之谷世界（MapleStory Worlds）》上線，大型改版同步登場，並支援繁體中文。 【以下內容為廠商提供資料原文】 【遊....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "結合老虎機 × 增量機制遊戲《宇宙拉霸》登陸 Steam 平台",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314485",
-      "published_at": "2026-11-04T11:35:28Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "日本獨立遊戲開發者 AU CREATE 旗下結合老虎機玩法與增量成長機制策略新作《宇宙拉霸（暫譯，原名：Space Lot）》登上 Steam 平台。 《宇宙拉霸》是一款透過轉動老虎機來成長宇宙，並將最初只有 3×3 的小型盤面逐步擴展至最大 9×7 的增量遊戲。玩家需要從左到右依序停止轉輪，讓 3 個以上相同的符號在橫向、縱向或對角線上連成一",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "evidence": "community",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T16:25:50.247338+00:00"
     }
   ]
 }
