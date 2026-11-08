@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-08T07:31:24.886362+00:00",
+  "generated_at": "2026-11-08T15:23:24.682419+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -1582,7 +1582,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-04T01:16:20.491030+00:00"
+      "summary_checked_at": "2026-11-08T15:23:27.524619+00:00"
     },
     {
       "title": "侠盗猎车手 GTA4|官方中文|移植版|",

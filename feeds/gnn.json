@@ -1,9 +1,22 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-08T07:31:24.325087+00:00",
+  "generated_at": "2026-11-08T15:23:24.132404+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "《寶可夢》臺灣紀念球聯盟賽於南港舉行 快閃店等 30 週年紀念活動同場亮相",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314665",
+      "published_at": "2026-11-08T11:37:53Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "由 The Pokémon Company 主辦的「2026-27 Pokémon Asia Championship Series Taiwan Premier Ball League（寶可夢亞洲錦標賽系列 臺灣紀念球聯盟賽）」於 11 月 7 日至 8 日在台北南港展覽館 2 館....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "《南家三姊妹 從今以後》宣布 2027 年 4 月開播 前導視覺圖與宣傳影片同步公開",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314664",
@@ -1306,19 +1319,6 @@
       "source_name": "巴哈姆特 GNN",
       "language": "zh-Hant",
       "summary": "由 Level Infinite 與 SHIFT UP 聯手開發的美少女槍戰動作遊戲《勝利女神：妮姬》（PC／iOS／Android）今日針對 PC Launcher 腳本檔案可能被第三方竄改的異常情況發布公告，除了對於此次的情況致歉之外，也釋出 PC 啟動器安全事件及後續措施說明及 PC 啟動器安全性問題手動檢....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "《肌肉魔法使-MASHLE-》真人版電影 前田真劍佑領銜主演馬修 福田雄一負責執導",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314492",
-      "published_at": "2026-11-05T02:23:26Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "由甲本一所著漫畫作品《肌肉魔法使-MASHLE-》，官方繼昨日宣布真人版電影的消息後，今天宣布主角馬修將由前田真劍佑（新田真劍佑）主演的消息，並且找來福田雄一執導本作。 在《肌肉魔法使-MASHLE-》的故事中的魔法界，是個任何人都會使用魔法、並且以使用魔....",
       "content": "",
       "image_url": "",
       "content_scope": "summary",

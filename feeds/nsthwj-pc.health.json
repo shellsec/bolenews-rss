@@ -1,18 +1,18 @@
 {
   "source": "nsthwj-pc",
-  "attempted_at": "2026-11-08T07:31:56.037499+00:00",
+  "attempted_at": "2026-11-08T15:24:04.967599+00:00",
   "status": "ok",
   "summary_count": 100,
   "summary_attempts": 0,
   "summary_missing": 0,
   "summary_errors": [],
-  "download_items": 56,
-  "download_links": 112,
+  "download_items": 29,
+  "download_links": 58,
   "count": 100,
   "fetched_count": 36,
   "retained_count": 64,
   "input_urls": [
     "https://nsthwj.cn/pc"
   ],
-  "dropped_by_limit": 0
+  "dropped_by_limit": 27
 }
