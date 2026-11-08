@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 11,
+  "config_version": 12,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-07T15:11:55.230306+00:00",
+  "generated_at": "2026-11-08T06:53:48.112053+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -406,8 +406,8 @@
       "language": "zh-Hant",
       "repo": "",
       "enabled": false,
-      "images": false,
-      "fullContent": false,
+      "images": true,
+      "fullContent": true,
       "builtin": true,
       "platforms": [],
       "rights_policy": "direct_personal_feed_reading; no_bundled_articles_or_publisher_images; republication_permission_not_established",

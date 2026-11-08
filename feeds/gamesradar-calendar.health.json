@@ -1,0 +1,16 @@
+{
+  "source": "gamesradar-calendar",
+  "attempted_at": "2026-11-08T06:53:48.317885+00:00",
+  "status": "ok",
+  "summary_count": 19,
+  "summary_attempts": 0,
+  "summary_missing": 0,
+  "summary_errors": [],
+  "count": 19,
+  "fetched_count": 19,
+  "retained_count": 0,
+  "input_urls": [
+    "https://www.gamesradar.com/video-game-release-dates/"
+  ],
+  "dropped_by_limit": 0
+}

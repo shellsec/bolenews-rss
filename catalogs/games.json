@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 13,
+  "config_version": 14,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-07T15:11:55.228223+00:00",
+  "generated_at": "2026-11-08T06:53:48.109956+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -256,8 +256,8 @@
       "language": "zh-Hant",
       "repo": "",
       "enabled": false,
-      "images": false,
-      "fullContent": false,
+      "images": true,
+      "fullContent": true,
       "builtin": true,
       "platforms": [],
       "rights_policy": "direct_personal_feed_reading; no_bundled_articles_or_publisher_images; republication_permission_not_established",
@@ -867,6 +867,21 @@
       ],
       "evidence": "community",
       "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images"
+    },
+    {
+      "id": "gamesradar-calendar",
+      "name": "GamesRadar 全平台发售表",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/gamesradar-calendar.json",
+      "category": "launches",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": true,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [],
+      "evidence": "community",
+      "rights_policy": "release facts grouped by original calendar section; original image URLs read on demand; publisher attribution and original links retained"
     }
   ]
 }

@@ -38,6 +38,10 @@ SITES = {
                  "url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=1493&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
                  "hosts": {"vip.gamers520.com"}, "path": r"/\d+\.html",
                  "format": "wordpress", "platforms": ["switch2"]},
+    "gamesradar-calendar": {"name": "GamesRadar 全平台发售表",
+                 "url": "https://www.gamesradar.com/video-game-release-dates/",
+                 "hosts": {"www.gamesradar.com"}, "path": r"/video-game-release-dates/",
+                 "format": "calendar", "max_bytes": 4 * 1024 * 1024},
     "a9vg": {"name": "A9VG", "url": "https://www.a9vg.com/",
              "hosts": {"www.a9vg.com"}, "path": r"/article/\d+"},
     "nintendo-tw": {"name": "Nintendo Taiwan", "url": "https://www.nintendo.com/tw/topics",
@@ -78,9 +82,10 @@ def fetch(url, site):
         urllib.request.HTTPSHandler(context=ssl.create_default_context()))
     req = urllib.request.Request(url, headers={"User-Agent": AGENT})
     with opener.open(req, timeout=20) as response:
-        body = response.read(LIMIT + 1)
-        if len(body) > LIMIT:
-            raise ValueError("Response exceeds 2 MiB")
+        limit = site.get("max_bytes", LIMIT)
+        body = response.read(limit + 1)
+        if len(body) > limit:
+            raise ValueError("Response exceeds configured byte limit")
         return body.decode(response.headers.get_content_charset() or "utf-8", errors="strict")
 
 
@@ -441,6 +446,92 @@ def convert_rss(body, site):
     return [metadata_tags(item) for item in items.values()]
 
 
+class ReleaseCalendar(HTMLParser):
+    """Read the publisher's dated game lists, excluding editorial prose and widgets."""
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.depth = 0
+        self.heading = None
+        self.section = None
+        self.sections = []
+        self.line = None
+        self.line_has_title = False
+
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        if tag == "div":
+            if attrs.get("id") == "article-body":
+                self.depth = 1
+            elif self.depth:
+                self.depth += 1
+        if not self.depth:
+            return
+        if tag == "h3":
+            self.section = None
+            anchor = attrs.get("id", "")
+            if re.fullmatch(r"section-[a-z0-9-]+", anchor):
+                self.heading = {"anchor": anchor, "title": [], "games": [], "image": ""}
+        if tag == "li" and self.section is not None:
+            self.line = []
+            self.line_has_title = False
+        if tag == "strong" and self.line is not None:
+            self.line_has_title = True
+        if tag == "img" and self.section is not None and not self.section["image"]:
+            image = attrs.get("src", "")
+            if urllib.parse.urlsplit(image).hostname == "cdn.mos.cms.futurecdn.net" and image.startswith("https://"):
+                self.section["image"] = image
+
+    def handle_data(self, text):
+        if self.depth and self.heading is not None:
+            self.heading["title"].append(text)
+        if self.depth and self.line is not None:
+            self.line.append(text)
+
+    def handle_endtag(self, tag):
+        if not self.depth:
+            return
+        if tag == "h3" and self.heading is not None:
+            self.heading["title"] = " ".join("".join(self.heading["title"]).split())
+            self.section = self.heading
+            self.sections.append(self.section)
+            self.heading = None
+        if tag == "li" and self.line is not None:
+            line = " ".join("".join(self.line).split())
+            # Keep explicitly unknown platforms such as (TBC) as well.
+            if self.section is not None and self.line_has_title and re.search(r"\([^)]*\)", line):
+                self.section["games"].append(line)
+            self.line = None
+        if tag == "div":
+            self.depth -= 1
+
+
+def convert_calendar(body, site):
+    parser = ReleaseCalendar()
+    parser.feed(body)
+    items = []
+    for section in parser.sections:
+        games = list(dict.fromkeys(section["games"]))
+        if not games:
+            continue
+        title = "GamesRadar · " + section["title"]
+        content = "<h2>" + html_entities.escape(title) + "</h2>"
+        content += "<p>发售安排按原站列示，平台、抢先体验及待定标记均保留。日期请以发行商公告为准。</p>"
+        image = section["image"]
+        if image:
+            content += '<img src="' + html_entities.escape(image, quote=True) + '" alt="GamesRadar calendar illustration">'
+        content += "<ul>" + "".join("<li>" + html_entities.escape(game) + "</li>" for game in games) + "</ul>"
+        url = site["url"] + "#" + section["anchor"]
+        content += '<p>来源：<a href="' + url + '">GamesRadar 原始发售表</a></p>'
+        items.append({"title": title, "original_url": url, "published_at": "",
+                      "summary": str(len(games)) + " 款游戏的发售安排，包含原站列出的平台、日期及待定标记。",
+                      "content": content, "image_url": image, "content_scope": "full_feed",
+                      "source_name": site["name"], "language": "en", "evidence": "community",
+                      "category": "launches", "game_count": len(games)})
+    if not items:
+        raise ValueError("Calendar sections or platform-tagged games are missing")
+    return items
+
+
 def collect(key, output, summary_limit=12):
     site = SITES[key]
     now = dt.datetime.now(dt.timezone.utc).isoformat()
@@ -463,7 +554,7 @@ def collect(key, output, summary_limit=12):
         urls = [site["url"]]
         if site.get("format") == "wordpress":
             urls.append(site["url"] + "&orderby=modified&order=desc")
-        converter = {"wordpress": convert_wordpress, "rss": convert_rss, "nsthwj": convert_nsthwj}.get(site.get("format"), convert)
+        converter = {"wordpress": convert_wordpress, "rss": convert_rss, "nsthwj": convert_nsthwj, "calendar": convert_calendar}.get(site.get("format"), convert)
         incoming, failures = {}, []
         for index, url in enumerate(urls):
             if not robots.can_fetch(AGENT, url):
@@ -487,7 +578,7 @@ def collect(key, output, summary_limit=12):
             raise ValueError("; ".join(failures) or "No matching entries")
         # Retain bounded last-good entries when a short upstream window drops them.
         previous = {}
-        if path.exists():
+        if path.exists() and site.get("format") != "calendar":
             try:
                 cached = json.loads(path.read_text(encoding="utf-8"))
                 if cached.get("status") == "ok":

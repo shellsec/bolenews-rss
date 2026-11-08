@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 6,
+  "config_version": 7,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-04T16:18:46.699410+00:00",
+  "generated_at": "2026-11-08T06:53:48.108897+00:00",
   "sources": [
     {
       "id": "lemuroid",
@@ -65,8 +65,8 @@
       "language": "zh-Hant",
       "repo": "",
       "enabled": false,
-      "images": false,
-      "fullContent": false,
+      "images": true,
+      "fullContent": true,
       "builtin": true,
       "platforms": [],
       "rights_policy": "direct_personal_feed_reading; no_bundled_articles_or_publisher_images; republication_permission_not_established",

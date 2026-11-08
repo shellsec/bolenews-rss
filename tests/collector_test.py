@@ -10,6 +10,24 @@ spec.loader.exec_module(c)
 
 
 class CollectorTest(unittest.TestCase):
+    def test_calendar_keeps_tbc_platforms_and_excludes_surrounding_widgets(self):
+        html = """<div><li><strong>Outside</strong> (PC)</li></div>
+        <div id="article-body"><h3 id="section-tbc-2029"><span>TBC 2029</span></h3>
+        <ul><li><strong>Unknown platform</strong> (TBC) - TBC 2029</li>
+        <li><strong>Switch game</strong> (NS2, PC) - March 2</li></ul></div>
+        <div><li><strong>Advertisement</strong> (PC)</li></div>"""
+        rows = c.convert_calendar(html, c.SITES["gamesradar-calendar"])
+        self.assertEqual(len(rows), 1)
+        self.assertEqual(rows[0]["game_count"], 2)
+        self.assertIn("(TBC)", rows[0]["content"])
+        self.assertIn("(NS2, PC)", rows[0]["content"])
+        self.assertNotIn("Outside", rows[0]["content"])
+        self.assertNotIn("Advertisement", rows[0]["content"])
+        self.assertEqual(rows[0]["published_at"], "")
+        self.assertTrue(rows[0]["original_url"].endswith("#section-tbc-2029"))
+        with self.assertRaises(ValueError):
+            c.convert_calendar("<html>Access unavailable</html>", c.SITES["gamesradar-calendar"])
+
     def test_2468c_platform_scope_and_metadata_only(self):
         site = c.SITES["2468c"]
         payload = [
