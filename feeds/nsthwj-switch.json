@@ -1,9 +1,55 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-09T01:02:06.893411+00:00",
+  "generated_at": "2026-11-09T08:09:07.041851+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "96d2edfb65685fe594c4aef673ade1074c7be3b8666ce79dfa8a8bd5f74521a0",
+      "title": "[移植游戏]路易的鬼屋|路易吉洋馆|Luigi's Mansion汉化",
+      "original_url": "https://nsthwj.cn/game/switch/137808",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Luigi's Mansion 进入游戏 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-09T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-09T08:09:08.587910+00:00"
+    },
+    {
+      "id": "1efc3faf4797784614c5498cc069dd11ace84bde2b2deaf50b502fe2c31e8348",
+      "title": "[移植游戏]求生之路2|Left 4 Dead 2中文",
+      "original_url": "https://nsthwj.cn/game/switch/137977",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Left 4 Dead 2 进入游戏 4.进入后按A键安装前端 5.安装完成后按+键退出 6.回到桌面选择游戏按 A 键打开 7.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-09T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-09T08:09:09.723674+00:00"
+    },
     {
       "id": "9283555c211ff3bf0e4324a799e22988ed6933535a79625d6da13d9e42419efc",
       "title": "[移植游戏]宝可梦无限融合丰缘|Pokémon Infinite Fusion: Hoenn中文",
@@ -958,41 +1004,6 @@
         }
       ],
       "summary_checked_at": "2026-11-05T20:44:43.579172+00:00"
-    },
-    {
-      "id": "96d2edfb65685fe594c4aef673ade1074c7be3b8666ce79dfa8a8bd5f74521a0",
-      "title": "[移植游戏]路易的鬼屋|路易吉洋馆|Luigi's Mansion",
-      "original_url": "https://nsthwj.cn/game/switch/137808",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Luigi's Mansion 进入游戏 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1hYZLB8oUGiBlQkHuviqv_A?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/1bd0ff08013f",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:29.458039+00:00"
     },
     {
       "id": "b2a0e644198006c185115a619273bc3a5f7f855b0cc5a93a026c73127b42f208",

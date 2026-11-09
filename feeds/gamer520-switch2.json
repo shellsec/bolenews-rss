@@ -1,9 +1,25 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-09T01:01:51.581254+00:00",
+  "generated_at": "2026-11-09T08:08:50.027226+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=1493&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "异度神剑 终极版 Switch2版.Xenoblade Chronicles: Definitive Edition – Nintendo Switch 2 Edition|官方中文|NUP|",
+      "original_url": "https://vip.gamers520.com/125613.html",
+      "published_at": "2026-11-08T19:00:10Z",
+      "summary": "异度之刃 终极版 加入这场备受赞誉的角色扮演游戏《人与机器之争》 探索舒尔克的起源,他与同伴们正与一个看似不可阻挡的机械威胁发生冲突。携手未来,将攻击紧密联系在一起,在穿越广阔世界的过程中,精心定位你 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-09T04:04:39Z",
+      "platform": [
+        "switch2"
+      ]
+    },
     {
       "title": "异度神剑2 Switch2版 Xenoblade Chronicles 2|官方中文|NUP|",
       "original_url": "https://vip.gamers520.com/125596.html",

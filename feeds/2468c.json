@@ -1,9 +1,180 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-09T01:01:46.772890+00:00",
+  "generated_at": "2026-11-09T08:08:44.747480+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "战神：诸神黄昏 – 豪华版.God of War Ragnarök: Digital Deluxe Edition",
+      "original_url": "https://2468c.com/103479.html",
+      "published_at": "2026-09-18T01:10:50Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-09T02:33:24Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-09T08:08:46.681778+00:00"
+    },
+    {
+      "title": "使命召唤：现代战争 2 Call of Duty: Modern Warfare 2",
+      "original_url": "https://2468c.com/113366.html",
+      "published_at": "2026-11-09T02:08:00Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-09T02:09:41Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "使命召唤：现代战争 3 Call of Duty Modern Warfare 3",
+      "original_url": "https://2468c.com/115880.html",
+      "published_at": "2026-11-09T02:07:10Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-09T02:09:32Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "使命召唤：黑色行动 冷战 Call of Duty: Black Ops Cold War",
+      "original_url": "https://2468c.com/113307.html",
+      "published_at": "2026-11-09T02:06:06Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-09T02:09:17Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "战地风云 6 Battlefield 6",
+      "original_url": "https://2468c.com/116496.html",
+      "published_at": "2026-11-09T02:03:15Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-09T02:04:11Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "地狱魅魔 Succubus",
+      "original_url": "https://2468c.com/121892.html",
+      "published_at": "2026-11-09T01:57:49Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-09T01:57:49Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "这个座位有人坐吗？ Is This Seat Taken?",
+      "original_url": "https://2468c.com/121890.html",
+      "published_at": "2026-11-09T01:52:26Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-09T01:52:26Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "西瓜游戏 Suika Game",
+      "original_url": "https://2468c.com/121888.html",
+      "published_at": "2026-11-09T01:48:02Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-09T01:48:02Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "桑塔：半精灵英雄 终极版 Shantae Half Genie Hero Ultimate Edition",
+      "original_url": "https://2468c.com/121886.html",
+      "published_at": "2026-11-09T01:43:52Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-09T01:43:52Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "德古拉的遗产 重制版 Dracula’s Legacy Remastered",
+      "original_url": "https://2468c.com/121884.html",
+      "published_at": "2026-11-09T01:39:54Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-09T01:39:54Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
     {
       "title": "实况足球 2021 （多版本合集）Pro Evolution Soccer 2021",
       "original_url": "https://2468c.com/108946.html",
@@ -518,25 +689,6 @@
       "summary_checked_at": "2026-11-06T17:34:47.118712+00:00"
     },
     {
-      "title": "使命召唤：现代战争 2 Call of Duty: Modern Warfare 2",
-      "original_url": "https://2468c.com/113366.html",
-      "published_at": "2026-11-06T01:38:00Z",
-      "summary": "平台：PlayStation5 发行商：Activision 语言：中文,英语,德语,意大利语,法语,西班牙语,日语 开发商： Infinity Ward 发行日期：2022-10-22 游戏版本：v01.001 DLC 游戏编号：PPSA23015 格式：文件压缩包/FPKG ...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-06T01:39:08Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-06T01:39:52.192499+00:00"
-    },
-    {
       "title": "真人快打1.Mortal Kombat 1",
       "original_url": "https://2468c.com/99861.html",
       "published_at": "2026-09-15T01:28:48Z",
@@ -877,25 +1029,6 @@
       "source_name": "奥德彪计划 PS4 / PS5",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-04T01:15:52.643508+00:00"
-    },
-    {
-      "title": "使命召唤：现代战争 3 Call of Duty Modern Warfare 3",
-      "original_url": "https://2468c.com/115880.html",
-      "published_at": "2026-11-03T04:05:10Z",
-      "summary": "平台：PlayStation5 发行商：Activision 语言：中文,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Raven Software 发行日期：2023-11-10 游戏版本：01.004.000 游戏编号：PPSA24266 格式：文件压缩包/FPK...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-04T00:34:47Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:15:54.162265+00:00"
     },
     {
       "title": "喋血舰长 Captain Blood",
@@ -1751,158 +1884,6 @@
       "source_name": "奥德彪计划 PS4 / PS5",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-04T01:17:02.560157+00:00"
-    },
-    {
-      "title": "勇者斗恶龙 7 Dragon Quest VII Reimagined",
-      "original_url": "https://2468c.com/111785.html",
-      "published_at": "2026-11-01T05:53:55Z",
-      "summary": "平台：PlayStation5 发行商：Square Enix 语言：中文,日语,韩语,英语,德语,韩语,意大利语,法语,西班牙语 开发商：Square Enix 发行日期：2026-02-05 游戏版本：v01.001/v01.003 游戏编号：PPSA17942/PPSA17...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-01T05:57:07Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:17:03.970367+00:00"
-    },
-    {
-      "title": "真・女神转生V：复仇.Shin Megami Tensei V: Vengeance",
-      "original_url": "https://2468c.com/103497.html",
-      "published_at": "2026-11-01T05:48:47Z",
-      "summary": "平台：PlayStation5 发行商：SEGA 语言：中文,韩语 开发商：ATLUS 发行日期：2024年6月14日 游戏版本：v01.000.000/01.003.000 格式：文件压缩包/exFAT/FPKG 游戏编码：PPSA15486 平台版本：适用使用 4.xx 及以...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-01T05:50:29Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:17:05.367727+00:00"
-    },
-    {
-      "title": "女神异闻录3：Persona 3 Reload",
-      "original_url": "https://2468c.com/102878.html",
-      "published_at": "2026-11-01T05:42:51Z",
-      "summary": "平台：PlayStation5 发行商：Team17 语言：中文,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Team17 发行日期：2024-09-26 游戏版本：v1.000/v01.008/v01.011 游戏编号：PPSA09730/PPSA10872 格式...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-01T05:44:54Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:17:06.890673+00:00"
-    },
-    {
-      "title": "从前从前有个块魂 Once Upon a Katamari",
-      "original_url": "https://2468c.com/112757.html",
-      "published_at": "2026-10-31T00:43:04Z",
-      "summary": "平台：PlayStation5 发行商：Bandai Namco Entertainment 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Rengame 发行日期：2025-10-24 游戏版本：v01.000.000 游戏编号：PPSA21904...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-31T01:08:06Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:17:08.384868+00:00"
-    },
-    {
-      "title": "如龙：极 1 + 2.Yakuza Kiwami 1+2",
-      "original_url": "https://2468c.com/112414.html",
-      "published_at": "2026-10-31T01:01:21Z",
-      "summary": "平台：PlayStation5 发行商：Ryu Ga Gotoku Studios 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Deep Silver, Sega Games 发行日期：2025-12-12 游戏版本：v01.012.000/v01...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-31T01:03:23Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:17:09.921641+00:00"
-    },
-    {
-      "title": "班迪与暗黑重生 Bendy and the Dark Revival",
-      "original_url": "https://2468c.com/112840.html",
-      "published_at": "2026-10-31T00:58:27Z",
-      "summary": "平台：PlayStation5 发行商：Joey Drew Studios 语言：中文,日语,英语,德语,意大利语,法语,西班牙语 开发商：Joey Drew Studios 发行日期：2022-11-15 游戏版本：v01.003 游戏编号：PPSA27624 格式：文件压缩包...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-31T00:59:27Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:17:11.520914+00:00"
-    },
-    {
-      "title": "午夜漫步 The Midnight Walk",
-      "original_url": "https://2468c.com/112713.html",
-      "published_at": "2026-06-21T00:33:10Z",
-      "summary": "平台：PlayStation5 发行商：Fast Travel Games 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：MoonHood 发行日期：2025-05-08 游戏版本：v01.005 游戏编号：PPSA24864 格式：文件压缩包/FP...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-31T00:58:06Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:17:13.017267+00:00"
-    },
-    {
-      "title": "超侦探事件簿：雾雨谜宫 Plus Master Detective Archives: Rain Code Plus",
-      "original_url": "https://2468c.com/112734.html",
-      "published_at": "2026-10-31T00:54:10Z",
-      "summary": "平台：PlayStation5 发行商：Spike Chunsoft 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Spike Chunsoft 发行日期：2024-07-18 游戏版本：v01.010.000 游戏编号：PPSA18133 格式：文...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-31T00:55:58Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:17:14.467156+00:00"
     }
   ]
 }
