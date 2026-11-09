@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-09T08:09:07.041851+00:00",
+  "generated_at": "2026-11-09T18:56:43.637754+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -49,6 +49,98 @@
       "updated_at": "2026-11-09T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-09T08:09:09.723674+00:00"
+    },
+    {
+      "id": "3e1de5e5da501b1730a1bc4c81fa1690bcd7a5f14a2abfdaea291ec09b0cfe1a",
+      "title": "[移植游戏]恋爱成双|フタマタ恋愛汉化",
+      "original_url": "https://nsthwj.cn/game/switch/137983",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "游戏以大学生古贺凪青为主角，讲述其在联谊中与十色煌产生误会被迫负责，同时被单恋对象信田结爱告白，陷入维持双重恋爱关系的困境。玩家需在平衡两位女友的过程中，应对人际关系的猜疑与冲突，体验充满背德感的恋爱喜剧。主要角色群包含性格反复无常的海野宫子、毒舌宅女御子柴瑠衣等，共同编织错综复杂的情感网络。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-09T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-09T18:56:45.931248+00:00"
+    },
+    {
+      "id": "d7af6f2a17e870d40b038de85d0b99658e2382b93f0e0e12a140a6b5ca3d84f6",
+      "title": "关于我们尝试把似曾相见的「那些游戏」做得更加刺激，却惊觉火柴人存在极限这档事中文",
+      "original_url": "https://nsthwj.cn/game/switch/137982",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "变得更加「有难度」、「有乐趣」的“那些游戏”又回来了！ 在更加困难的关卡中，再次畅玩“那些游戏”1、2 的小游戏！ 本次的小游戏合集比以往更具挑战性， 可从中获得更多的爽快感和成就感。 本次推出的“那些游戏激”，不仅有着更高的难度， 击败敌人或受到攻击时的特效也更为激烈，表现更为丰富！ 各类小游戏还增加了新的玩法，等…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-09T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-09T18:56:47.672617+00:00"
+    },
+    {
+      "id": "f7ed60b7aa3ed61c220f029d035255f843b4aef8143b3e4834e1fc9f4e23a3a0",
+      "title": "狡猾的幸存者|工匠幸存者|Crafty Survivors中文",
+      "original_url": "https://nsthwj.cn/game/switch/137981",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "英雄们都被腐化了！解锁各怀绝艺的角色，利用他们的独特技能，打造独属于你自己的角色构筑，保护家园、征讨来敌。积聚资源、重建村庄，打造属于自己的道路，剑指邪恶诅咒之源头！ 独特构筑层出不穷 在这款动作 Roguelite 游戏中，根据每次游戏的角色来选择千式百样的升级选项，打造独一无二的角色构筑。想成为大厨打一场“甜品大…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.1.1",
+      "updated_at": "2026-11-09T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-09T18:56:49.147878+00:00"
+    },
+    {
+      "id": "75baae1d19ac12d56b1de1e08da3d86c40b2a1c316b605a4dd9ee286dfcd713c",
+      "title": "[移植游戏]荣誉勋章：联合袭击|Medal of Honor: Allied Assault汉化",
+      "original_url": "https://nsthwj.cn/game/switch/137980",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-09T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-09T18:56:50.410640+00:00"
     },
     {
       "id": "9283555c211ff3bf0e4324a799e22988ed6933535a79625d6da13d9e42419efc",

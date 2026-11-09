@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-09T08:09:14.096209+00:00",
+  "generated_at": "2026-11-09T18:56:53.094458+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -49,6 +49,98 @@
       "updated_at": "2026-11-09T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-09T08:09:09.723674+00:00"
+    },
+    {
+      "id": "3e1de5e5da501b1730a1bc4c81fa1690bcd7a5f14a2abfdaea291ec09b0cfe1a",
+      "title": "[移植游戏]恋爱成双|フタマタ恋愛汉化",
+      "original_url": "https://nsthwj.cn/game/switch/137983",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "游戏以大学生古贺凪青为主角，讲述其在联谊中与十色煌产生误会被迫负责，同时被单恋对象信田结爱告白，陷入维持双重恋爱关系的困境。玩家需在平衡两位女友的过程中，应对人际关系的猜疑与冲突，体验充满背德感的恋爱喜剧。主要角色群包含性格反复无常的海野宫子、毒舌宅女御子柴瑠衣等，共同编织错综复杂的情感网络。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-09T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-09T18:56:45.931248+00:00"
+    },
+    {
+      "id": "d7af6f2a17e870d40b038de85d0b99658e2382b93f0e0e12a140a6b5ca3d84f6",
+      "title": "关于我们尝试把似曾相见的「那些游戏」做得更加刺激，却惊觉火柴人存在极限这档事中文",
+      "original_url": "https://nsthwj.cn/game/switch/137982",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "变得更加「有难度」、「有乐趣」的“那些游戏”又回来了！ 在更加困难的关卡中，再次畅玩“那些游戏”1、2 的小游戏！ 本次的小游戏合集比以往更具挑战性， 可从中获得更多的爽快感和成就感。 本次推出的“那些游戏激”，不仅有着更高的难度， 击败敌人或受到攻击时的特效也更为激烈，表现更为丰富！ 各类小游戏还增加了新的玩法，等…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-09T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-09T18:56:47.672617+00:00"
+    },
+    {
+      "id": "f7ed60b7aa3ed61c220f029d035255f843b4aef8143b3e4834e1fc9f4e23a3a0",
+      "title": "狡猾的幸存者|工匠幸存者|Crafty Survivors中文",
+      "original_url": "https://nsthwj.cn/game/switch/137981",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "英雄们都被腐化了！解锁各怀绝艺的角色，利用他们的独特技能，打造独属于你自己的角色构筑，保护家园、征讨来敌。积聚资源、重建村庄，打造属于自己的道路，剑指邪恶诅咒之源头！ 独特构筑层出不穷 在这款动作 Roguelite 游戏中，根据每次游戏的角色来选择千式百样的升级选项，打造独一无二的角色构筑。想成为大厨打一场“甜品大…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.1.1",
+      "updated_at": "2026-11-09T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-09T18:56:49.147878+00:00"
+    },
+    {
+      "id": "75baae1d19ac12d56b1de1e08da3d86c40b2a1c316b605a4dd9ee286dfcd713c",
+      "title": "[移植游戏]荣誉勋章：联合袭击|Medal of Honor: Allied Assault汉化",
+      "original_url": "https://nsthwj.cn/game/switch/137980",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-09T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-09T18:56:50.410640+00:00"
     },
     {
       "id": "3acbbe08dcd5a669624066d31a86e849a42b6ed5618f8b0d6e000213a2c80225",
@@ -1879,141 +1971,6 @@
         }
       ],
       "summary_checked_at": "2026-11-05T03:34:56.951520+00:00"
-    },
-    {
-      "id": "55e5bf0ce08fe3582df8aa029ceeb688d736737ca59eddb77521e17cfa9eadcb",
-      "title": "[移植游戏]闪克2|Shank 2汉化",
-      "original_url": "https://nsthwj.cn/game/switch/137757",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/168FVncaRW1P6kErN7iXgDQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/c89347a935e2",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-05T12:33:57.688227+00:00"
-    },
-    {
-      "id": "0eb5b98913198300c4a909a8bb11b7c379954bfd8bbb687a4effb30ab19a3548",
-      "title": "喵星大灾难|喵星浩劫|Cat-Astrophy中文",
-      "original_url": "https://nsthwj.cn/game/switch/137875",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "《Cat-Astrophy》是一款快节奏动作 Roguelite，融合激烈战斗、精准平台跳跃和独特构筑，在程序生成的星球上展开冒险。每次挑战都带来全新的玩法，而死亡意味着永久结束。你能在这场猫咪灾难中生存下来吗？ Cat-Astrophy 将快节奏战斗、精准平台跳跃与独特构筑结合在一起，打造出一款太空动作类 Rogu…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.1",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1rr7iDhl4MO1i5j0sm04rEw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/f51189caa12c",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-05T20:44:35.268741+00:00"
-    },
-    {
-      "id": "e51c2203c6b26ffc4d6ee419a9a05cb21de155053ff614e1e54cd1b065fb1b8d",
-      "title": "龙骑士之墓：重制版|Dungeon Of Dragon Knight Remake中文",
-      "original_url": "https://nsthwj.cn/game/switch/137874",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "踏入一座被遗忘的古老地宫，寻找传说中的龙骑士遗迹。这不是一条坦途——每一块砖石都可能隐藏机关，每一个转角都可能潜伏着危险，而地宫的最深处，沉睡着龙骑士守护的圣物。 经典地牢爬行，焕新呈现 作为一款第一人称、走格子、即时战斗的经典地牢爬行 RPG，《龙骑士之墓重制版》忠实还原了老派地牢探索的精髓。你将以第一人称视角亲自…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1hN_X_ZEQUPfb-N8XmJTRKw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/7a407e55dde4",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-05T20:44:36.383245+00:00"
-    },
-    {
-      "id": "84205b807a3ccd3efcf490fdb926351e5a25ccf1b8d85a5621d5e1aec4565594",
-      "title": "神曲战姬：零域和鸣|Valkyrie Tune: Synthesis of Souls中文",
-      "original_url": "https://nsthwj.cn/game/switch/137873",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "本作品是由 Good Smile Company 开发的一款对美少女模型企划“神曲战姬：零域和鸣”进行世界观扩展的视觉小说游戏。 是一部能与不同角色进行交流，体验到超乎想象剧情的视觉小说游戏。 本故事最大的特点就是，可爱・笑容・治愈后紧接反转，拥有能够颠覆你价值观的“两面性”。 作品特色 ・本作是由石原章弘（Good…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1uRSM8u4q5fgBb43w5P0DGg?pwd=thwj",
-          "extraction_code": "thwj"
-        }
-      ],
-      "summary_checked_at": "2026-11-05T20:44:37.518482+00:00"
     },
     {
       "id": "15f0b3d5ea323f2144e43ab5d8e2ffd0396464fa7b1482c1609cde933717d061",

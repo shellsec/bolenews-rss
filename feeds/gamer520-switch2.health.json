@@ -1,18 +1,7 @@
 {
   "source": "gamer520-switch2",
-  "attempted_at": "2026-11-09T08:08:50.027226+00:00",
-  "status": "ok",
+  "attempted_at": "2026-11-09T18:56:28.557070+00:00",
+  "status": "unavailable",
   "robots_status": 403,
-  "summary_count": 23,
-  "summary_attempts": 0,
-  "summary_missing": 0,
-  "summary_errors": [],
-  "count": 23,
-  "fetched_count": 23,
-  "retained_count": 0,
-  "input_urls": [
-    "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=1493&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
-    "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=1493&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt&orderby=modified&order=desc"
-  ],
-  "dropped_by_limit": 0
+  "error": "No matching entries; adapter needs review; No matching entries; adapter needs review"
 }

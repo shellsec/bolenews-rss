@@ -1,6 +1,6 @@
 {
   "source": "2468c",
-  "attempted_at": "2026-11-09T08:08:44.747480+00:00",
+  "attempted_at": "2026-11-09T18:56:20.410886+00:00",
   "status": "ok",
   "robots_status": 403,
   "summary_count": 90,
@@ -16,5 +16,5 @@
     "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
     "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt&orderby=modified&order=desc"
   ],
-  "dropped_by_limit": 13
+  "dropped_by_limit": 11
 }
