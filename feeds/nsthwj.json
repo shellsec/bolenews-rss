@@ -1,9 +1,53 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-08T20:37:56.092399+00:00",
+  "generated_at": "2026-11-09T01:02:10.022477+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "3acbbe08dcd5a669624066d31a86e849a42b6ed5618f8b0d6e000213a2c80225",
+      "title": "女王的游戏：盛世天下 媚娘篇|Road to Empress I",
+      "original_url": "https://nsthwj.cn/game/pc/137979",
+      "source_name": "NS头号玩家 PC",
+      "summary": "《隐形守护者》团队的真人互动宫廷权谋游戏：你扮演初入宫廷的媚娘，每一个选择都决定所有人的命运，在多线分支和超高死亡率中活下去，走向权力巅峰。离线版：剧情视频已全部内置，无需联网登录。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build 22921822（离线版）",
+      "updated_at": "2026-11-09T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "9d06cc911c1b29260e2b7e71c341beb06a29ab6f07d1b9eb645362e6b7d1b849",
+      "title": "旺达与巨像 重制版（PC 移植版）|Shadow of the Colossus",
+      "original_url": "https://nsthwj.cn/game/pc/137978",
+      "source_name": "NS头号玩家 PC",
+      "summary": "《旺达与巨像》PS4 重制版 PC 移植版：在 Windows 上运行港版 v1.01（繁体中文），含古代之弓、命运斗篷等 4 个 DLC，自带启动器，支持键鼠和手柄。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "PC 移植版（游戏港版 v1.01，含 4 个 DLC）",
+      "updated_at": "2026-11-09T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
     {
       "id": "9283555c211ff3bf0e4324a799e22988ed6933535a79625d6da13d9e42419efc",
       "title": "[移植游戏]宝可梦无限融合丰缘|Pokémon Infinite Fusion: Hoenn中文",
@@ -1101,50 +1145,6 @@
       "update_date_precision": "day"
     },
     {
-      "id": "61f8ae2f713353689b14964a4d3e592617556afd0639c46165748f0e5fcd4ef5",
-      "title": "组长！怨念请查收！",
-      "original_url": "https://nsthwj.cn/game/pc/137931",
-      "source_name": "NS头号玩家 PC",
-      "summary": "玩家将扮演一位刻薄的组长，从危险重重受到诅咒的公司里逃脱。在这里，不仅要躲避危险想办法完成10个“愿望”，还得小心那些针对你的、出乎意料的陷阱。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.26481387",
-      "updated_at": "2026-11-07T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "41dff8db0768cb3422a114cfac0a0fd9da65ea7b13c7646fbc5283c41a31be14",
-      "title": "降临之地|Realm of Advent",
-      "original_url": "https://nsthwj.cn/game/pc/137930",
-      "source_name": "NS头号玩家 PC",
-      "summary": "如果你喜欢打造独一无二的卡组，用简单的操作触发疯狂连锁，看着数字不断上涨狂跳—— 那你或许会喜欢《降临之地》。 在这个使徒降临后的绝望世界中，用超过300种卡牌与遗物构筑你的组合，最终引爆令人上瘾的疯狂联动。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.26484833",
-      "updated_at": "2026-11-07T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
       "id": "c37d880ce437effb27e9995785950932cadfaed42593f958bbd1c7cb17a2847d",
       "title": "美好生活|The Good Life中文",
       "original_url": "https://nsthwj.cn/game/ps4/137913",
@@ -1306,11 +1306,11 @@
       "summary_checked_at": "2026-11-08T07:00:24.228941+00:00"
     },
     {
-      "id": "e6940a72a13aed9e77db83aaf6a25c402f413fbf99dd524c55e192a1cabf72e1",
-      "title": "在吃亿口|In Full Bloom",
-      "original_url": "https://nsthwj.cn/game/pc/137929",
+      "id": "61f8ae2f713353689b14964a4d3e592617556afd0639c46165748f0e5fcd4ef5",
+      "title": "组长！怨念请查收！",
+      "original_url": "https://nsthwj.cn/game/pc/137931",
       "source_name": "NS头号玩家 PC",
-      "summary": "喂养并抚育你的小宝宝。看着它成长，吞噬世间万物。《在吃亿口》是一款受《拓麻歌子》启发、风格类似《块魂》的游戏，讲述了一只对周围世界永无止境的饥饿的生物的故事。这可只有一条路可走。",
+      "summary": "玩家将扮演一位刻薄的组长，从危险重重受到诅咒的公司里逃脱。在这里，不仅要躲避危险想办法完成10个“愿望”，还得小心那些针对你的、出乎意料的陷阱。",
       "summary_origin": "publisher_game_index",
       "content": "",
       "image_url": "",
@@ -1323,7 +1323,7 @@
       ],
       "category": "discovery",
       "download_status": "not_verified",
-      "version": "Build.26365530",
+      "version": "Build.26481387",
       "updated_at": "2026-11-07T00:00:00+08:00",
       "update_date_precision": "day"
     },

@@ -1,9 +1,41 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-08T20:37:36.498147+00:00",
+  "generated_at": "2026-11-09T01:01:51.581254+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=1493&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "异度神剑2 Switch2版 Xenoblade Chronicles 2|官方中文|NUP|",
+      "original_url": "https://vip.gamers520.com/125596.html",
+      "published_at": "2026-11-08T21:00:57Z",
+      "summary": "我們去樂園吧！ 被雲海覆蓋，人們在龐大的生物「巨神獸（阿魯斯）」身上生活的世界──「阿爾斯特」。 少年雷克斯成為了「劍主」，透過使用亞種生命體「神劍」的少女焰的力量， 以「樂園」為目標邁進。 驅使各式 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-09T00:45:20Z",
+      "platform": [
+        "switch2"
+      ]
+    },
+    {
+      "title": "赛博朋克2077 终极版.Cyberpunk 2077: Ultimate Edition|官方中文|NUP|",
+      "original_url": "https://vip.gamers520.com/125599.html",
+      "published_at": "2026-11-08T22:02:04Z",
+      "summary": "《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。 故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会， 权力更迭和无尽的身体改造是这里不变的主题。 游戏截图",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-09T00:44:59Z",
+      "platform": [
+        "switch2"
+      ]
+    },
     {
       "title": "黄昏血族 The Duskbloods|官方英文|测试版|NUP|",
       "original_url": "https://vip.gamers520.com/125543.html",

@@ -1,9 +1,89 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-08T20:37:33.882976+00:00",
+  "generated_at": "2026-11-09T01:01:49.131351+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "霓虹深渊2|官方中文|本体+1.0.2升补+2DLC|NSP|",
+      "original_url": "https://vip.gamers520.com/124280.html",
+      "published_at": "2026-11-08T19:10:43Z",
+      "summary": "酷炫、梦幻、燃爆全场——经典动作Roguelike续作闪亮归来！深入《霓虹深渊2》美丽且危险的赛博神话世界，体验更快节奏的战斗、更严峻的考验、更多样的战斗风格以及意想不到的道具协同效果。享受肾上腺素飙 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-08T23:48:11Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.2"
+    },
+    {
+      "title": "K-Pop新星 梦想闪耀|官方中文|本体+1.0.6962升补|NSP|",
+      "original_url": "https://vip.gamers520.com/125586.html",
+      "published_at": "2026-11-08T19:01:01Z",
+      "summary": "下面使用的介绍为PC版 和NS版是一模一样的 K-Pop Rising – Dream to Shine",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-08T23:42:47Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.6962"
+    },
+    {
+      "title": "狡猾的幸存者 Crafty Survivors|官方中文|本体+1.1.1升补|NSP|",
+      "original_url": "https://vip.gamers520.com/125584.html",
+      "published_at": "2026-11-08T19:00:31Z",
+      "summary": "Crafty Survivors 独特构筑层出不穷 在这款动作Roguelite游戏中，根据每次游戏的角色来选择千式百样的升级选项，打造独一无二的角色构筑。想成为大厨打一场“甜品大战”、焗烤敌人吗？还 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-08T23:42:47Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.1.1"
+    },
+    {
+      "title": "戴帽子的猫 雨天大乱斗|官方中文|本体+1.0.1升补|NSP|",
+      "original_url": "https://vip.gamers520.com/125589.html",
+      "published_at": "2026-11-08T19:03:59Z",
+      "summary": "下面使用的介绍为PC版 和NS版是一模一样的",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-08T23:42:41Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.1"
+    },
     {
       "title": "龙骑士之墓 重制版 Dungeon Of Dragon Knight Remake|官方中文|NSZ|",
       "original_url": "https://vip.gamers520.com/125430.html",
@@ -1614,7 +1694,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-04T01:16:22.655105+00:00"
+      "summary_checked_at": "2026-11-09T01:01:51.451685+00:00"
     },
     {
       "title": "闪电十一人 英雄们的胜利之路 高级版|豪华中文|本体+7.2.0升补+2DLC|NSZ|",
@@ -1635,82 +1715,6 @@
         "game_update"
       ],
       "version": "7.2.0"
-    },
-    {
-      "title": "新仙剑奇侠传|移植版|NSP|",
-      "original_url": "https://vip.gamers520.com/124305.html",
-      "published_at": "2026-10-19T21:00:22Z",
-      "summary": "二十年的經典，華人最知名的單機 RPG 遊戲《新仙劍奇俠傳》推出Windows更新版。 承載著玩家滿滿的回憶，最感人的劇情、最動人的音樂、那一段激盪心弦的愛情故事現在將再一次重現在PC平台上！ 一心習 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-20T05:10:39Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "安娜历险记|官方中文|本体+1.0.4升补|NSZ|原版|",
-      "original_url": "https://vip.gamers520.com/60673.html",
-      "published_at": "2026-10-19T19:00:01Z",
-      "summary": "安娜历险记 A Tale For Anna 这部色彩缤纷的童话故事《安娜的故事》将带您进入一个充满谜题、神奇生物和秘密的迷人而神秘的世界。 这部色彩缤纷的童话故事《安娜的故事》将带您进入一个充满谜题、 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-20T00:47:27Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ],
-      "version": "1.0.4"
-    },
-    {
-      "title": "冰汽时代 Frostpunk|官方中文|本体+1.0.1升补+1DLC|NSP|",
-      "original_url": "https://vip.gamers520.com/124278.html",
-      "published_at": "2026-10-19T19:50:00Z",
-      "summary": "寒霜朋克 旅途的终点 自从正式推出后，Frostpunk（《冰汽时代》）增添了一系列的DLC内容。全新的Endless Mode （无尽模式）（其中包含了3种玩法）大大增加了游戏的重复可玩性。全新场景 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-20T00:47:25Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ],
-      "version": "1.0.1"
-    },
-    {
-      "title": "霓虹深渊2|官方中文|本体+1.0.1升补|NSP|",
-      "original_url": "https://vip.gamers520.com/124280.html",
-      "published_at": "2026-10-19T19:20:43Z",
-      "summary": "酷炫、梦幻、燃爆全场——经典动作Roguelike续作闪亮归来！深入《霓虹深渊2》美丽且危险的赛博神话世界，体验更快节奏的战斗、更严峻的考验、更多样的战斗风格以及意想不到的道具协同效果。享受肾上腺素飙 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-20T00:47:16Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ],
-      "version": "1.0.1"
     }
   ]
 }

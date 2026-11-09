@@ -1,9 +1,53 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-08T20:37:54.562470+00:00",
+  "generated_at": "2026-11-09T01:02:08.541969+00:00",
   "source_url": "https://nsthwj.cn/pc",
   "items": [
+    {
+      "id": "3acbbe08dcd5a669624066d31a86e849a42b6ed5618f8b0d6e000213a2c80225",
+      "title": "女王的游戏：盛世天下 媚娘篇|Road to Empress I",
+      "original_url": "https://nsthwj.cn/game/pc/137979",
+      "source_name": "NS头号玩家 PC",
+      "summary": "《隐形守护者》团队的真人互动宫廷权谋游戏：你扮演初入宫廷的媚娘，每一个选择都决定所有人的命运，在多线分支和超高死亡率中活下去，走向权力巅峰。离线版：剧情视频已全部内置，无需联网登录。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build 22921822（离线版）",
+      "updated_at": "2026-11-09T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "9d06cc911c1b29260e2b7e71c341beb06a29ab6f07d1b9eb645362e6b7d1b849",
+      "title": "旺达与巨像 重制版（PC 移植版）|Shadow of the Colossus",
+      "original_url": "https://nsthwj.cn/game/pc/137978",
+      "source_name": "NS头号玩家 PC",
+      "summary": "《旺达与巨像》PS4 重制版 PC 移植版：在 Windows 上运行港版 v1.01（繁体中文），含古代之弓、命运斗篷等 4 个 DLC，自带启动器，支持键鼠和手柄。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "PC 移植版（游戏港版 v1.01，含 4 个 DLC）",
+      "updated_at": "2026-11-09T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
     {
       "id": "8abf145588e0b108b6f729d0c3be6b5089da48dc5f93dc8149137b4498ce3313",
       "title": "新手指南|The Beginner's Guide",
@@ -2480,74 +2524,6 @@
         {
           "provider": "夸克网盘",
           "url": "https://pan.quark.cn/s/c2f96bc80bbc",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "5b3f5f1667b5a54c4176c6c2268e6f44356dd40c4ea162565753a265d66691d7",
-      "title": "罪案播客：欢迎来到邻里|Crime Podcast: Welcome to the Neighborhood",
-      "original_url": "https://nsthwj.cn/game/pc/137841",
-      "source_name": "NS头号玩家 PC",
-      "summary": "29岁的保险公司员工杰西·特纳在被调任至当地分部后，搬到了邻近的州。在新地方安顿下来时，他遭遇了一系列异常事件，这些事件很快将他的生活变成了一场真正的噩梦。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26398929",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1mTYCsrxXMfllAlkpQArVZQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/e17b03506057",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "3b619e91c849d7992a78efbc36ae9b9146a12e77761dea257b43a0c4c7083a96",
-      "title": "墓地小屋|Graveyard Cabin",
-      "original_url": "https://nsthwj.cn/game/pc/137840",
-      "source_name": "NS头号玩家 PC",
-      "summary": "一款FMV异常恐怖游戏。你是一座荒凉墓地的夜间警卫。监控摄像头，找出异常现象，并努力活下去。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26382031",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/16neL8AhTkgHbzL0_X--Reg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/30fd1ad899c5",
           "extraction_code": ""
         }
       ]
