@@ -5,6 +5,7 @@ from pathlib import Path
 import tempfile
 import unittest
 from unittest.mock import patch
+import urllib.parse
 
 
 spec = importlib.util.spec_from_file_location(
@@ -14,6 +15,22 @@ spec.loader.exec_module(discovery)
 
 
 class DiscoveryTest(unittest.TestCase):
+    def test_recent_zero_star_repo_is_considered_with_popular_repos(self):
+        recent = {"id": 1, "full_name": "example/recent", "stargazers_count": 0,
+                  "pushed_at": "2026-11-10T00:00:00Z"}
+        popular = {"id": 2, "full_name": "example/popular", "stargazers_count": 1200,
+                   "pushed_at": "2026-11-01T00:00:00Z"}
+
+        def search(url):
+            query = urllib.parse.parse_qs(urllib.parse.urlsplit(url).query)
+            self.assertNotIn("stars:", query["q"][0])
+            items = [recent, popular] if query["sort"] == ["updated"] else [popular]
+            return json.dumps({"items": items}).encode()
+
+        with patch.object(discovery, "fetch", side_effect=search):
+            found = discovery.candidates(("topic:switch-homebrew",), dt.datetime(2026, 11, 10))
+        self.assertEqual([repo["id"] for repo in found], [1, 2])
+
     def test_platform_uses_release_artifact(self):
         def release(name):
             return {"assets": [{"name": name, "state": "uploaded", "size": 100}]}

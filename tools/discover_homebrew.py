@@ -1,6 +1,7 @@
 """Update BoleNews discovery catalogs from public GitHub releases."""
 
 import datetime as dt
+from itertools import zip_longest
 import json
 import os
 from pathlib import Path
@@ -13,7 +14,6 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 LIMIT = 64
-MIN_STARS = 10
 RECENT_DAYS = 180
 CATALOGS = {
     "switch1": ("switch-homebrew-discovered", (
@@ -49,24 +49,32 @@ def fetch(url):
 
 
 def candidates(queries, now):
-    found = {}
+    recent_repos, popular_repos = {}, {}
     recent = (now - dt.timedelta(days=RECENT_DAYS)).date()
     for query in queries:
-        params = urllib.parse.urlencode({
-            "q": f"{query} stars:>={MIN_STARS} archived:false pushed:>={recent}",
-            "sort": "stars", "order": "desc", "per_page": 50,
-        })
-        body = fetch(f"https://api.github.com/search/repositories?{params}")
-        if body is None:
-            raise ValueError("GitHub repository search is unavailable")
-        result = json.loads(body)
-        if result.get("incomplete_results"):
-            raise ValueError("GitHub returned incomplete repository search results")
-        for repo in result["items"]:
-            name = repo["full_name"]
-            if REPO_NAME.fullmatch(name) and not any(repo.get(key) for key in ("archived", "fork", "private", "disabled")):
-                found[repo["id"]] = repo
-    return sorted(found.values(), key=lambda repo: (-repo["stargazers_count"], repo["full_name"].lower()))
+        for order, found in (("updated", recent_repos), ("stars", popular_repos)):
+            params = urllib.parse.urlencode({
+                "q": f"{query} archived:false pushed:>={recent}",
+                "sort": order, "order": "desc", "per_page": 30,
+            })
+            body = fetch(f"https://api.github.com/search/repositories?{params}")
+            if body is None:
+                raise ValueError("GitHub repository search is unavailable")
+            result = json.loads(body)
+            if result.get("incomplete_results"):
+                raise ValueError("GitHub returned incomplete repository search results")
+            for repo in result["items"]:
+                if REPO_NAME.fullmatch(repo["full_name"]) and not any(
+                        repo.get(key) for key in ("archived", "fork", "private", "disabled")):
+                    found[repo["id"]] = repo
+    newest = sorted(recent_repos.values(), key=lambda repo: repo["pushed_at"], reverse=True)
+    popular = sorted(popular_repos.values(), key=lambda repo: repo["stargazers_count"], reverse=True)
+    ranked = {}
+    for pair in zip_longest(newest, popular):
+        for repo in pair:
+            if repo is not None:
+                ranked.setdefault(repo["id"], repo)
+    return list(ranked.values())
 
 
 def supports_platform(platform, release):
