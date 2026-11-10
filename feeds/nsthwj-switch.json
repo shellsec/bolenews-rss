@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-10T10:04:42.104219+00:00",
+  "generated_at": "2026-11-10T17:59:07.450728+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -26,6 +26,121 @@
       "updated_at": "2026-11-10T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-10T06:30:13.775284+00:00"
+    },
+    {
+      "id": "51eeb74216f657b580d5b8f6108801603b2d98ac34e42694a957fa5c9c78715a",
+      "title": "[移植游戏]爱丽丝：疯狂回归|Alice: Madness Returns汉化",
+      "original_url": "https://nsthwj.cn/game/switch/137937",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Alice: Madness Returns 进入游戏 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-10T17:59:10.421745+00:00"
+    },
+    {
+      "id": "78e38007031a212b5a3335f3cb5eb2e58abb67614a2e195aa53525d3b317166f",
+      "title": "[移植游戏]龙与地下城：末影历代记|Dungeons & Dragons: Chronicles of Mystara中文",
+      "original_url": "https://nsthwj.cn/game/switch/137999",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《 龙与地下城：末影历代记 》 带来两款Capcom经典街机游戏-《Dungeons & Dragons: Tower of Doom》和《Dungeons & Dragons: Shadow over Mystara》集合为一的决定性数码版。 就如街机一样，可以让最多4位玩家在进入这个神话战争的游戏世界前选择不同角…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.1.0",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-10T17:59:11.752270+00:00"
+    },
+    {
+      "id": "634468dc2c342d73328ddfe253d57e5e64434e70638ed50cc878003de122f3da",
+      "title": "[移植游戏]僵尸毁灭工程|Project Zomboid中文",
+      "original_url": "https://nsthwj.cn/game/switch/137998",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后将两个文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-10T17:59:13.065835+00:00"
+    },
+    {
+      "id": "0e0a04248cdfcd6bf27598621b1f7228f82f878d08ec057702f3f71e499f32b7",
+      "title": "[移植游戏 ]东方非想天则：追寻超弩级人偶的谜团|Touhou Hisoutensoku: Choudokyuu Ginyoru no Nazo wo Oe",
+      "original_url": "https://nsthwj.cn/game/switch/137997",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "某个清晨，山间出现了一个巨大的人形物体，它不断冒出蒸汽，随后便消失在山雾之中。纱苗、西诺和美玲都看到了那个神秘的存在。纱苗认为那可能是一台巨型机器人；西诺则坚信那是“大太郎机器人”；而美玲则觉得那是“泰水行军”。她们三人决定去面对那个神秘的存在。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.1.7",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-10T17:59:14.413626+00:00"
+    },
+    {
+      "id": "cd07f093228cee37f1fd6ff3979a2bcd9d209aae33f39161442ad034fe4dcd47",
+      "title": "[移植游戏]流星蝴蝶剑|Meteor Blade中文",
+      "original_url": "https://nsthwj.cn/game/switch/137996",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《流星蝴蝶剑》是由昱泉国际于 2002 年发行的一款动作角色扮演类单机游戏，游戏根据古龙的同名武侠小说名著改编而成。 游戏可以分成单机版与连线版这二种方式，单机模式中扮演的就是“杀手”的角色，玩家基本上是按一关一关的方式在进行，每一个关卡都有其场景、故事背景、胜利条件，单机模式的挑战性十分高，每个关卡都有不同的场景地…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.1.11",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-10T17:59:15.797208+00:00"
     },
     {
       "id": "96d2edfb65685fe594c4aef673ade1074c7be3b8666ce79dfa8a8bd5f74521a0",
@@ -210,29 +325,6 @@
       "updated_at": "2026-11-08T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-08T07:00:09.493119+00:00"
-    },
-    {
-      "id": "51eeb74216f657b580d5b8f6108801603b2d98ac34e42694a957fa5c9c78715a",
-      "title": "[移植游戏]爱丽丝：疯狂回归|Alice: Madness Returns",
-      "original_url": "https://nsthwj.cn/game/switch/137937",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Alice: Madness Returns 进入游戏 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-08T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-08T07:00:10.902391+00:00"
     },
     {
       "id": "fd4b395df5f2bce70255217eebd18b841ab5513dac25bd6228ae8a9057d9327c",

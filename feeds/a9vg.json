@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-10T10:04:31.879675+00:00",
+  "generated_at": "2026-11-10T17:58:53.685092+00:00",
   "source_url": "https://www.a9vg.com/",
   "items": [
     {
@@ -15,7 +15,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T06:30:07.540277+00:00"
+      "summary_checked_at": "2026-11-10T17:58:56.436571+00:00"
     },
     {
       "id": "10170203b71618388d4261e526d39ae2f475ecad0ffeb3be97a55c2492c678a2",
@@ -28,7 +28,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T06:30:08.334258+00:00"
+      "summary_checked_at": "2026-11-10T17:58:57.115782+00:00"
     },
     {
       "id": "2838a1dbbff68f49f8765d7532ba8dc5f9e4d7f15f214c4d4d0542863472c486",
@@ -55,7 +55,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T06:30:09.147685+00:00"
+      "summary_checked_at": "2026-11-10T17:58:58.842165+00:00"
     },
     {
       "id": "d443e73893e48649df3c76de7158ef9daa8db6e2d4317ea6bc18926c22b8e8cb",
@@ -68,7 +68,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T06:30:10.527411+00:00"
+      "summary_checked_at": "2026-11-10T17:58:59.506674+00:00"
     },
     {
       "id": "438caa189fd677324f3eb98d948fccc0e605d3f9add7a94c9de7c395df94b629",
@@ -319,7 +319,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T10:04:33.459443+00:00"
+      "summary_checked_at": "2026-11-10T17:59:00.143239+00:00"
     },
     {
       "id": "28eae1d8be16f4f6648fd21f98fa20b0a77618b18b63584f61b60a95f27d51cc",
@@ -346,7 +346,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T10:04:34.236789+00:00"
+      "summary_checked_at": "2026-11-10T17:59:03.007019+00:00"
     },
     {
       "id": "655eddeafc21739f04d1f82db240da5a78e6dcafe0a13e3a4a14bdb4d40270fa",
@@ -359,7 +359,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T10:04:34.851666+00:00"
+      "summary_checked_at": "2026-11-10T17:59:03.769801+00:00"
     },
     {
       "id": "668e31641b54c0b1064d43165b647b37fff1f78791606fc59d1c7dc59af9c266",
@@ -372,7 +372,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T10:04:35.907091+00:00"
+      "summary_checked_at": "2026-11-10T17:59:04.855498+00:00"
     },
     {
       "id": "f20aeebc375d9ddfc9f4f461ded35e4b1b75f247f326e5b3ac5caff37c8445ea",
@@ -399,7 +399,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T10:04:36.672829+00:00"
+      "summary_checked_at": "2026-11-10T17:59:05.609238+00:00"
     },
     {
       "id": "5bd4486b124041b17ca2459677938eea0171102c6985cde457d3ce6ceb81de16",
@@ -482,7 +482,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T10:04:37.373154+00:00"
+      "summary_checked_at": "2026-11-10T17:59:06.293254+00:00"
     },
     {
       "id": "979b5ac62091f936a8fc75426cc5a4a46557dce413b89eb918a2abed6dda6594",
@@ -730,8 +730,36 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-10T10:04:32.717518+00:00"
+    },
+    {
+      "id": "a6c42bc7a2d6f50d33173161d33c4f171f43393d960eb3d442c9cef9e6c9ae37",
+      "title": "《Warhammer Survivors 战锤幸存者》今日正式发售！",
+      "original_url": "https://www.a9vg.com/article/246832",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
       "content_scope": "summary",
-      "summary_checked_at": "2026-11-10T10:04:32.717518+00:00",
+      "summary_checked_at": "2026-11-10T17:58:54.802756+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "a284b156661d5c278aa837fd96ffafc133dd3aedd06863820d4de52277fde9d7",
+      "title": "《遗迹之岛与旅行猫又》Steam版定于2027年1月19日发售",
+      "original_url": "https://www.a9vg.com/article/246835",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-10T17:58:55.633002+00:00",
       "summary_origin": "publisher_description"
     }
   ]

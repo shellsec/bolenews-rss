@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-10T10:04:26.785698+00:00",
+  "generated_at": "2026-11-10T17:58:48.267996+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -794,7 +794,7 @@
         "game_update"
       ],
       "version": "1.27.00",
-      "summary_checked_at": "2026-11-05T20:44:17.128797+00:00"
+      "summary_checked_at": "2026-11-10T17:58:50.668498+00:00"
     },
     {
       "title": "红色警戒2|移植版|",
