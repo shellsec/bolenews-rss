@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 3,
+  "config_version": 4,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-10T06:28:15.324259+00:00",
+  "generated_at": "2026-11-10T06:34:10.927882+00:00",
   "sources": [
     {
       "id": "nx-hbloader",
@@ -91,9 +91,9 @@
       "rights_policy": "direct upstream Release feed reading; no mirrored binaries, game data or images"
     },
     {
-      "id": "nswiki-homebrew-guides",
-      "name": "NS WIKI · Switch 自制工具教程",
-      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/nswiki-homebrew-guides.json",
+      "id": "switch-homebrew-guides",
+      "name": "Switch 自制工具中文图文参考",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/switch-homebrew-guides.json",
       "category": "guides",
       "language": "zh-Hans",
       "repo": "",
@@ -105,14 +105,14 @@
         "switch1"
       ],
       "evidence": "community",
-      "rights_policy": "public index and direct reading of the original page; no mirrored article text or images"
+      "rights_policy": "public index and direct reading of original pages; no mirrored article text or images"
     },
     {
-      "id": "zh-emulator-guides",
-      "name": "模拟器中文图文教程",
-      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/zh-emulator-guides.json",
+      "id": "retroarch-official-guides",
+      "name": "RetroArch 官方图文教程（英文）",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/retroarch-official-guides.json",
       "category": "guides",
-      "language": "zh-Hans",
+      "language": "en",
       "repo": "",
       "enabled": false,
       "images": true,
@@ -120,7 +120,7 @@
       "builtin": true,
       "platforms": [],
       "evidence": "community",
-      "rights_policy": "public index and direct reading of the original page; no mirrored article text or images"
+      "rights_policy": "public index and direct reading of original pages; no mirrored article text or images"
     }
   ]
 }

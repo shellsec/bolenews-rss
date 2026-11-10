@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "status": "ok",
+  "generated_at": "2026-11-10T06:34:10.927882+00:00",
+  "source_url": "https://github.com/acgotaku/switch",
+  "items": [
+    {
+      "title": "Switch 自制工具与备份手册（社区参考）",
+      "original_url": "https://github.com/acgotaku/switch",
+      "summary": "中文实践手册，包含自制环境、备份及文件管理图解。",
+      "platform": [
+        "switch1"
+      ],
+      "published_at": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "category": "guides",
+      "language": "zh-Hans",
+      "evidence": "community"
+    },
+    {
+      "title": "Hekate / Nyx 中文配置说明",
+      "original_url": "https://github.com/easyworld/hekate",
+      "summary": "中文配置参考，包含引导条目、文件布局及 Nyx 参数。",
+      "platform": [
+        "switch1"
+      ],
+      "published_at": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "category": "guides",
+      "language": "zh-Hans",
+      "evidence": "community"
+    }
+  ]
+}
