@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 1,
+  "config_version": 2,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-10T03:51:36.804103+00:00",
+  "generated_at": "2026-11-10T03:53:47.272004+00:00",
   "sources": [
     {
       "id": "gh-homebrew-395383178",
@@ -383,6 +383,108 @@
       "name": "ps5-doom",
       "url": "https://github.com/lowbit/ps5-doom/releases.atom",
       "repo": "lowbit/ps5-doom",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1438172077",
+      "name": "PS5-Toolkit",
+      "url": "https://github.com/liweili/PS5-Toolkit/releases.atom",
+      "repo": "liweili/PS5-Toolkit",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1407925018",
+      "name": "ps5-cooling-system-center-pro",
+      "url": "https://github.com/strongt1me/ps5-cooling-system-center-pro/releases.atom",
+      "repo": "strongt1me/ps5-cooling-system-center-pro",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1444012311",
+      "name": "ytps5-sponsorblock",
+      "url": "https://github.com/MasterShivnath007/ytps5-sponsorblock/releases.atom",
+      "repo": "MasterShivnath007/ytps5-sponsorblock",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1414746395",
+      "name": "wings-app",
+      "url": "https://github.com/LaRazaDelSol/wings-app/releases.atom",
+      "repo": "LaRazaDelSol/wings-app",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1449368836",
+      "name": "TNA-iMPACT-Reloaded-PS5",
+      "url": "https://github.com/kamb205/TNA-iMPACT-Reloaded-PS5/releases.atom",
+      "repo": "kamb205/TNA-iMPACT-Reloaded-PS5",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1422660483",
+      "name": "estante",
+      "url": "https://github.com/kauansilvalopes/estante/releases.atom",
+      "repo": "kauansilvalopes/estante",
       "category": "homebrew",
       "language": "en",
       "platforms": [

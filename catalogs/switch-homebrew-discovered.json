@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 1,
+  "config_version": 2,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-10T03:51:36.804103+00:00",
+  "generated_at": "2026-11-10T03:53:47.272004+00:00",
   "sources": [
     {
       "id": "gh-homebrew-102637400",
@@ -213,6 +213,125 @@
       "name": "PiJava",
       "url": "https://github.com/incuryou/PiJava/releases.atom",
       "repo": "incuryou/PiJava",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1451701902",
+      "name": "ModKitNX",
+      "url": "https://github.com/qret/ModKitNX/releases.atom",
+      "repo": "qret/ModKitNX",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1317426860",
+      "name": "nx-fs-utf8",
+      "url": "https://github.com/slankka/nx-fs-utf8/releases.atom",
+      "repo": "slankka/nx-fs-utf8",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1303049978",
+      "name": "SolarNX",
+      "url": "https://github.com/HaDoKit/SolarNX/releases.atom",
+      "repo": "HaDoKit/SolarNX",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1440854913",
+      "name": "shank2-nx",
+      "url": "https://github.com/zhtipu/shank2-nx/releases.atom",
+      "repo": "zhtipu/shank2-nx",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-179888475",
+      "name": "Weather-app-for-Nintendo-Switch",
+      "url": "https://github.com/ELY3M/Weather-app-for-Nintendo-Switch/releases.atom",
+      "repo": "ELY3M/Weather-app-for-Nintendo-Switch",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1424460757",
+      "name": "rpynx",
+      "url": "https://github.com/nixentric/rpynx/releases.atom",
+      "repo": "nixentric/rpynx",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-180107953",
+      "name": "Weather-and-Moon-Phase-app-for-Nintendo-Switch",
+      "url": "https://github.com/ELY3M/Weather-and-Moon-Phase-app-for-Nintendo-Switch/releases.atom",
+      "repo": "ELY3M/Weather-and-Moon-Phase-app-for-Nintendo-Switch",
       "category": "homebrew",
       "language": "en",
       "platforms": [
