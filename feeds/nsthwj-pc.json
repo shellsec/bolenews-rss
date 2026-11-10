@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-10T06:30:14.712640+00:00",
+  "generated_at": "2026-11-10T10:04:44.059733+00:00",
   "source_url": "https://nsthwj.cn/pc",
   "items": [
     {
@@ -177,6 +177,72 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "v0.6.1692865193",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "ab9f44817398637b28e60977bc9bae4ed1c42ccdbbd34eca3deb4dfcac5c32db",
+      "title": "富甲天下3|FujiaTianxia3",
+      "original_url": "https://nsthwj.cn/game/pc/137995",
+      "source_name": "NS头号玩家 PC",
+      "summary": "以三国时代为背景的爆笑大富翁游戏「富甲天下」，依靠您的策略及智谋来逐步占领城池，单挑攻城、收取过路费、上课训练、雇用武将来壮大阵容外，80多种的机运事件更拥有您意想不到的乐趣。游戏有两种模式：可自订胜利条件及参战人数的「群雄并起」模式，以及按照历史编写的长剧情「一统天下」模式。在「一统天下」模式中，玩家可以选择爱耍心机的曹操、投机取巧的孙权、或者嗜哭成性的刘备来进行游戏，由第一关「黄巾之乱」开始奋战，直到最后一关「一统天下」结束，三位主公各有不同的剧情及关卡，绝对能让喜爱三国…",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v20230119",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "b8d6fdda08078ce324c68b7079e50cf5d1f2b9a55632a5bb9487f168e463006e",
+      "title": "蹄印湾马场|Horses of Hoofprint Bay",
+      "original_url": "https://nsthwj.cn/game/pc/137994",
+      "source_name": "NS头号玩家 PC",
+      "summary": "\"《蹄印湾马场》是一款温馨治愈的手绘 2D 马场经营模拟游戏。 悉心照料你的马匹，通过训练提升它们的力量与胆量，参加各类赛事赢取奖金。繁育可爱的幼驹，探索风景优美的骑行路线，雇佣并管理员工，不断扩建马场，打造属于你的梦想天地！\"",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.26472489",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "7aa59535543cddc6f63cc77530b3be755cbe17228f600f4ff1b5b24141da9bc0",
+      "title": "女王魔域|Queen's Domain",
+      "original_url": "https://nsthwj.cn/game/pc/137993",
+      "source_name": "NS头号玩家 PC",
+      "summary": "一款主打硬核战斗与穿行探索的复古奇幻动作RPG。踏上冒险旅程，前往神秘的尼亚希德岛，寻找你失踪的父王。此乃邪恶势力盘踞之地，处处藏有奥秘玄机，而沉睡的女王也已渐渐苏醒……",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.26316541",
       "updated_at": "2026-11-10T00:00:00+08:00",
       "update_date_precision": "day"
     },
@@ -2326,108 +2392,6 @@
         {
           "provider": "夸克网盘",
           "url": "https://pan.quark.cn/s/a95415c1075e",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "47dd065a75afc67259344da28970283ae1e47b9598341bc654740f697588e669",
-      "title": "喂养森林|Feed The Forest",
-      "original_url": "https://nsthwj.cn/game/pc/137852",
-      "source_name": "NS头号玩家 PC",
-      "summary": "运用蜗牛之力，将沙漠变成郁郁葱葱的森林，然后在这款主动增量游戏中疯狂追求利润最大化。优化植物布局，自动化生产各类资源。雇佣爪牙，解锁非道德植物，变得富可敌神吧。记住：鲜血也是一种汁液。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26383455",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1G8PKS4Vk8e0A-xWPTImbGw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/fded41662667",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "2fb5b68d747db9990ce967322ca84c587d85e6bac0dfdec62a889bae70f3a3d4",
-      "title": "酒窖整理模拟器|Cellar Cleanup Simulator",
-      "original_url": "https://nsthwj.cn/game/pc/137851",
-      "source_name": "NS头号玩家 PC",
-      "summary": "《Cellar Cleanup Simulator》是一款轻松治愈的单人模拟游戏。在传说中的酒窖里整理数百种酒瓶，体验逼真的物理效果，提升技能并驾驭醉酒的力量，让酒窖重现昔日辉煌！",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26390422",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/10uQrNblpVO6EYkI8FouUkw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/ec5aacce51ce",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "539ed2abad64e6efcf3432c0e186628b2d75ea4d12cc3521af76fced034d8e72",
-      "title": "仓库异常|Storage Anomaly",
-      "original_url": "https://nsthwj.cn/game/pc/137850",
-      "source_name": "NS头号玩家 PC",
-      "summary": "在《Storage Anomaly》中，你将扮演一名收银员，负责找出商店仓库里的异常现象。仔细观察，用手机拍下异常，解开谜题，在昏暗诡异的环境中迎接意想不到的挑战。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26386629",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1FlIt8f_49rOcN1bCyz5vxg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/832022f5647e",
           "extraction_code": ""
         }
       ]

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-10T06:30:16.240376+00:00",
+  "generated_at": "2026-11-10T10:04:46.017033+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -200,6 +200,72 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "v0.6.1692865193",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "ab9f44817398637b28e60977bc9bae4ed1c42ccdbbd34eca3deb4dfcac5c32db",
+      "title": "富甲天下3|FujiaTianxia3",
+      "original_url": "https://nsthwj.cn/game/pc/137995",
+      "source_name": "NS头号玩家 PC",
+      "summary": "以三国时代为背景的爆笑大富翁游戏「富甲天下」，依靠您的策略及智谋来逐步占领城池，单挑攻城、收取过路费、上课训练、雇用武将来壮大阵容外，80多种的机运事件更拥有您意想不到的乐趣。游戏有两种模式：可自订胜利条件及参战人数的「群雄并起」模式，以及按照历史编写的长剧情「一统天下」模式。在「一统天下」模式中，玩家可以选择爱耍心机的曹操、投机取巧的孙权、或者嗜哭成性的刘备来进行游戏，由第一关「黄巾之乱」开始奋战，直到最后一关「一统天下」结束，三位主公各有不同的剧情及关卡，绝对能让喜爱三国…",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v20230119",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "b8d6fdda08078ce324c68b7079e50cf5d1f2b9a55632a5bb9487f168e463006e",
+      "title": "蹄印湾马场|Horses of Hoofprint Bay",
+      "original_url": "https://nsthwj.cn/game/pc/137994",
+      "source_name": "NS头号玩家 PC",
+      "summary": "\"《蹄印湾马场》是一款温馨治愈的手绘 2D 马场经营模拟游戏。 悉心照料你的马匹，通过训练提升它们的力量与胆量，参加各类赛事赢取奖金。繁育可爱的幼驹，探索风景优美的骑行路线，雇佣并管理员工，不断扩建马场，打造属于你的梦想天地！\"",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.26472489",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "7aa59535543cddc6f63cc77530b3be755cbe17228f600f4ff1b5b24141da9bc0",
+      "title": "女王魔域|Queen's Domain",
+      "original_url": "https://nsthwj.cn/game/pc/137993",
+      "source_name": "NS头号玩家 PC",
+      "summary": "一款主打硬核战斗与穿行探索的复古奇幻动作RPG。踏上冒险旅程，前往神秘的尼亚希德岛，寻找你失踪的父王。此乃邪恶势力盘踞之地，处处藏有奥秘玄机，而沉睡的女王也已渐渐苏醒……",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.26316541",
       "updated_at": "2026-11-10T00:00:00+08:00",
       "update_date_precision": "day"
     },
@@ -1194,72 +1260,6 @@
       "update_date_precision": "day"
     },
     {
-      "id": "192c1da0172b6856ec7024ec9465c007845c0b7ff14a14d3e37a2e7249b45be2",
-      "title": "吞星峰群|Swarmslam",
-      "original_url": "https://nsthwj.cn/game/pc/137948",
-      "source_name": "NS头号玩家 PC",
-      "summary": "看着成群的小小重击者扑向行星，一路开采，直到将其击碎。再把矿石投入虚空，让蜂群变得更庞大、更迅捷。 重击。击碎。再来。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.26405644",
-      "updated_at": "2026-11-08T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "489830054b46fff473875ff1c1ed554aef4126b5756b570add75a04282eda887",
-      "title": "利维坦：犀牛|Leviathan: Rhino",
-      "original_url": "https://nsthwj.cn/game/pc/137947",
-      "source_name": "NS头号玩家 PC",
-      "summary": "亲历老人 Petro 在一座小村庄中的最后几天。一头巨大的利维坦正步步逼近这里。这是一款关于不可避免、孤独，以及一个无处可去、也没有理由离开的人的存在主义恐怖游戏。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.26483084",
-      "updated_at": "2026-11-08T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "8666019ed21397ad79a3608238d60c041f5caf61d0ce2699794bad4d5263b4e8",
-      "title": "凯斯勒：轨道增量|KESSLER: Orbital Incremental",
-      "original_url": "https://nsthwj.cn/game/pc/137946",
-      "source_name": "NS头号玩家 PC",
-      "summary": "1983年，一颗杀手卫星被送入轨道，随后遭人遗忘。2041年，它醒了。环绕地球的一切，都成了目标。一发炮弹，一团碎片，一场连锁反应。在这款短小的像素风增量游戏中，亲手引发凯斯勒综合征。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.26497131",
-      "updated_at": "2026-11-08T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
       "id": "4170d2a2e89bd446eaf65e53ebe48a41f1569414045688851b6fe2c375a7c0c1",
       "title": "旺达与巨像：重制版|Shadow of the Colossus中文",
       "original_url": "https://nsthwj.cn/game/ps4/12517",
@@ -1306,11 +1306,11 @@
       "summary_checked_at": "2026-11-08T20:37:58.533403+00:00"
     },
     {
-      "id": "56b880738f3ba0425e2dfe9a7a5169c7355111c26a8b44febcd6d0f33447b3a5",
-      "title": "备战吧，爱因斯坦！|Gear Up Einstein!",
-      "original_url": "https://nsthwj.cn/game/pc/137945",
+      "id": "192c1da0172b6856ec7024ec9465c007845c0b7ff14a14d3e37a2e7249b45be2",
+      "title": "吞星峰群|Swarmslam",
+      "original_url": "https://nsthwj.cn/game/pc/137948",
       "source_name": "NS头号玩家 PC",
-      "summary": "这是一款面向1到3名玩家的策略型 Roguelite 自动战斗游戏。穿越时空，招募历史人物，给他们配上炸裂装备，打出离谱连招。无论单人闯关还是和好友合作，都能驾驭战术任务。准备好拯救世界了吗？",
+      "summary": "看着成群的小小重击者扑向行星，一路开采，直到将其击碎。再把矿石投入虚空，让蜂群变得更庞大、更迅捷。 重击。击碎。再来。",
       "summary_origin": "publisher_game_index",
       "content": "",
       "image_url": "",
@@ -1323,7 +1323,7 @@
       ],
       "category": "discovery",
       "download_status": "not_verified",
-      "version": "Build.26500356",
+      "version": "Build.26405644",
       "updated_at": "2026-11-08T00:00:00+08:00",
       "update_date_precision": "day"
     },
