@@ -1,9 +1,32 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-10T02:18:21.437653+00:00",
+  "generated_at": "2026-11-10T06:30:11.912478+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "3e1de5e5da501b1730a1bc4c81fa1690bcd7a5f14a2abfdaea291ec09b0cfe1a",
+      "title": "[移植游戏]恋爱成双|フタマタ恋愛汉化",
+      "original_url": "https://nsthwj.cn/game/switch/137983",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "古贺凪青万万没想到，一次酒会后竟和十色煌纠缠不清。正当他手忙脚乱时，暗恋多年的信田结爱也向他告白！他必须一边恋爱，一边圆谎，展开了一场惊心动魄的“时间管理修罗场”。怎样才能在这出充满谎言与甜蜜的恋爱剧中，找到属于自己的幸福结局？一切，才刚刚开始—— 关于游戏 主人公古贺凪青某天早上醒来后精神振奋，鸟语花香中他发现身边…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-10T06:30:13.775284+00:00"
+    },
     {
       "id": "96d2edfb65685fe594c4aef673ade1074c7be3b8666ce79dfa8a8bd5f74521a0",
       "title": "[移植游戏]路易的鬼屋|路易吉洋馆|Luigi's Mansion汉化",
@@ -49,29 +72,6 @@
       "updated_at": "2026-11-09T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-09T08:09:09.723674+00:00"
-    },
-    {
-      "id": "3e1de5e5da501b1730a1bc4c81fa1690bcd7a5f14a2abfdaea291ec09b0cfe1a",
-      "title": "[移植游戏]恋爱成双|フタマタ恋愛汉化",
-      "original_url": "https://nsthwj.cn/game/switch/137983",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "游戏以大学生古贺凪青为主角，讲述其在联谊中与十色煌产生误会被迫负责，同时被单恋对象信田结爱告白，陷入维持双重恋爱关系的困境。玩家需在平衡两位女友的过程中，应对人际关系的猜疑与冲突，体验充满背德感的恋爱喜剧。主要角色群包含性格反复无常的海野宫子、毒舌宅女御子柴瑠衣等，共同编织错综复杂的情感网络。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-09T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-09T18:56:45.931248+00:00"
     },
     {
       "id": "d7af6f2a17e870d40b038de85d0b99658e2382b93f0e0e12a140a6b5ca3d84f6",

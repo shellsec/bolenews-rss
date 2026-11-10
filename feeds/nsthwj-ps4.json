@@ -1,9 +1,32 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-10T02:18:24.513195+00:00",
+  "generated_at": "2026-11-10T06:30:16.240376+00:00",
   "source_url": "https://nsthwj.cn/ps4",
   "items": [
+    {
+      "id": "eb4ccf4deb0bae2f26ca4ce64de996d5c38883d4aded7d2137371428dfbcd35f",
+      "title": "地狱魅魔|Succubus中文",
+      "original_url": "https://nsthwj.cn/game/ps4/137984",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "成为一个为情欲而生的恶魔女祭司，使用独特神力，向敌人发起复仇。重夺你的王国，让地狱在你的魔蹄下颤抖！不愿在你面前屈膝者都将被置于死地。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.05 系统要求：≥ 5.05",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-10T06:30:17.847489+00:00"
+    },
     {
       "id": "4170d2a2e89bd446eaf65e53ebe48a41f1569414045688851b6fe2c375a7c0c1",
       "title": "旺达与巨像：重制版|Shadow of the Colossus中文",
@@ -1577,7 +1600,7 @@
           "extraction_code": "jdsy"
         }
       ],
-      "summary_checked_at": "2026-11-10T02:18:25.934088+00:00"
+      "summary_checked_at": "2026-11-10T06:30:19.046313+00:00"
     },
     {
       "id": "ab7c206e9352b578ccd33269d35767111a6f67f2e01edcdb64c85f804f09e3b3",

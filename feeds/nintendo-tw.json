@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-10T02:18:21.049301+00:00",
+  "generated_at": "2026-11-10T06:30:11.042609+00:00",
   "source_url": "https://www.nintendo.com/tw/topics",
   "items": [
     {
@@ -381,6 +381,20 @@
       "content_scope": "metadata",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-06T01:40:14.538103+00:00"
+    },
+    {
+      "id": "e231807b6180b6cd87da11b33271149ae2e9a8514049649b4f8c1442c5bb721c",
+      "title": "《超級瑪利歐派對 空前盛會 Nintendo Switch 2 Edition + 空前盛會TV》免費更新。只要有1個軟體，就能在線上和大家一同遊玩雙陸遊戲。2026.11.10",
+      "original_url": "https://www.nintendo.com/tw/topics/article/6ITT8N3VAYwxcCGPaBkVUE",
+      "summary": "《超級瑪利歐派對 空前盛會 Nintendo Switch 2 Edition + 空前盛會TV》免費更新。只要有1個軟體，就能在線上和大家一同遊玩雙陸遊戲。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hant",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-10T06:30:11.704900+00:00",
+      "summary_origin": "publisher_description"
     }
   ]
 }
