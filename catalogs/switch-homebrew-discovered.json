@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "config_version": 1,
+  "min_app_version": "0.1.4",
+  "generated_at": "2026-11-10T03:51:36.804103+00:00",
+  "sources": [
+    {
+      "id": "gh-homebrew-102637400",
+      "name": "Checkpoint",
+      "url": "https://github.com/BernardoGiordano/Checkpoint/releases.atom",
+      "repo": "BernardoGiordano/Checkpoint",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-287271987",
+      "name": "Themezer-NX",
+      "url": "https://github.com/ThemezerNX/Themezer-NX/releases.atom",
+      "repo": "ThemezerNX/Themezer-NX",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-346113194",
+      "name": "botw-unexplored",
+      "url": "https://github.com/lud99/botw-unexplored/releases.atom",
+      "repo": "lud99/botw-unexplored",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1439158215",
+      "name": "Nexvyn-OS-NX",
+      "url": "https://github.com/sonerx7/Nexvyn-OS-NX/releases.atom",
+      "repo": "sonerx7/Nexvyn-OS-NX",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1309004188",
+      "name": "OpenNOW-Switch",
+      "url": "https://github.com/OpenCloudGaming/OpenNOW-Switch/releases.atom",
+      "repo": "OpenCloudGaming/OpenNOW-Switch",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1286826888",
+      "name": "StreamFin",
+      "url": "https://github.com/scamNscoot/StreamFin/releases.atom",
+      "repo": "scamNscoot/StreamFin",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1305526085",
+      "name": "NX-torrent-player",
+      "url": "https://github.com/shodowlo/NX-torrent-player/releases.atom",
+      "repo": "shodowlo/NX-torrent-player",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1203336362",
+      "name": "switch-newpipe",
+      "url": "https://github.com/mirusu400/switch-newpipe/releases.atom",
+      "repo": "mirusu400/switch-newpipe",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1398288694",
+      "name": "Kirikiroid2-NX",
+      "url": "https://github.com/Erige005/Kirikiroid2-NX/releases.atom",
+      "repo": "Erige005/Kirikiroid2-NX",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1424736558",
+      "name": "StremNX",
+      "url": "https://github.com/denpingus/StremNX/releases.atom",
+      "repo": "denpingus/StremNX",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1371742773",
+      "name": "nslibrary",
+      "url": "https://github.com/tuckerwales/nslibrary/releases.atom",
+      "repo": "tuckerwales/nslibrary",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1237252250",
+      "name": "NX-Pctl-Manager",
+      "url": "https://github.com/tailiang2008/NX-Pctl-Manager/releases.atom",
+      "repo": "tailiang2008/NX-Pctl-Manager",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1433174197",
+      "name": "PiJava",
+      "url": "https://github.com/incuryou/PiJava/releases.atom",
+      "repo": "incuryou/PiJava",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    }
+  ]
+}

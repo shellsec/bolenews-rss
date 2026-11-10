@@ -1,0 +1,399 @@
+{
+  "schema_version": 1,
+  "config_version": 1,
+  "min_app_version": "0.1.4",
+  "generated_at": "2026-11-10T03:51:36.804103+00:00",
+  "sources": [
+    {
+      "id": "gh-homebrew-395383178",
+      "name": "PlayTendoh",
+      "url": "https://github.com/premohq/PlayTendoh/releases.atom",
+      "repo": "premohq/PlayTendoh",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1416453328",
+      "name": "RecompStore",
+      "url": "https://github.com/elripalda/RecompStore/releases.atom",
+      "repo": "elripalda/RecompStore",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1400886283",
+      "name": "RommPS",
+      "url": "https://github.com/s0liton/RommPS/releases.atom",
+      "repo": "s0liton/RommPS",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1132887775",
+      "name": "PS5-Suite",
+      "url": "https://github.com/manos555555/PS5-Suite/releases.atom",
+      "repo": "manos555555/PS5-Suite",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1439227108",
+      "name": "ProsperoEden-Encore",
+      "url": "https://github.com/niakw/ProsperoEden-Encore/releases.atom",
+      "repo": "niakw/ProsperoEden-Encore",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1425043523",
+      "name": "gta4-ps5",
+      "url": "https://github.com/elripalda/gta4-ps5/releases.atom",
+      "repo": "elripalda/gta4-ps5",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1184011029",
+      "name": "kura",
+      "url": "https://github.com/NookieAI/kura/releases.atom",
+      "repo": "NookieAI/kura",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1410828894",
+      "name": "VLC",
+      "url": "https://github.com/ZiZc3/VLC/releases.atom",
+      "repo": "ZiZc3/VLC",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1422066147",
+      "name": "ps5directo",
+      "url": "https://github.com/jstrdev/ps5directo/releases.atom",
+      "repo": "jstrdev/ps5directo",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1412572916",
+      "name": "MacheteSVG-PS5-Save-Manager",
+      "url": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager/releases.atom",
+      "repo": "VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1408158211",
+      "name": "mupen64plus-ps5",
+      "url": "https://github.com/TheRealRetro/mupen64plus-ps5/releases.atom",
+      "repo": "TheRealRetro/mupen64plus-ps5",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1428681620",
+      "name": "PS5_ArtSwap",
+      "url": "https://github.com/griches/PS5_ArtSwap/releases.atom",
+      "repo": "griches/PS5_ArtSwap",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1427163927",
+      "name": "PS5_MarioGalaxy",
+      "url": "https://github.com/griches/PS5_MarioGalaxy/releases.atom",
+      "repo": "griches/PS5_MarioGalaxy",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1409197548",
+      "name": "ps5-fpkg-converter",
+      "url": "https://github.com/sub0x00001/ps5-fpkg-converter/releases.atom",
+      "repo": "sub0x00001/ps5-fpkg-converter",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1430228646",
+      "name": "orbit-play-ps5",
+      "url": "https://github.com/saawant12/orbit-play-ps5/releases.atom",
+      "repo": "saawant12/orbit-play-ps5",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1436582800",
+      "name": "Glint",
+      "url": "https://github.com/MiladRTX/Glint/releases.atom",
+      "repo": "MiladRTX/Glint",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1415749885",
+      "name": "PS5_SwitchWaker",
+      "url": "https://github.com/griches/PS5_SwitchWaker/releases.atom",
+      "repo": "griches/PS5_SwitchWaker",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1413748965",
+      "name": "PS5_Dusklight",
+      "url": "https://github.com/griches/PS5_Dusklight/releases.atom",
+      "repo": "griches/PS5_Dusklight",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1417120209",
+      "name": "ps5-dualsense-deadzone",
+      "url": "https://github.com/Iziman127/ps5-dualsense-deadzone/releases.atom",
+      "repo": "Iziman127/ps5-dualsense-deadzone",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1418001242",
+      "name": "PS5_Sunshine",
+      "url": "https://github.com/griches/PS5_Sunshine/releases.atom",
+      "repo": "griches/PS5_Sunshine",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1427500213",
+      "name": "PS5_Burnout3",
+      "url": "https://github.com/griches/PS5_Burnout3/releases.atom",
+      "repo": "griches/PS5_Burnout3",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1416061791",
+      "name": "PS5_Ghostship",
+      "url": "https://github.com/griches/PS5_Ghostship/releases.atom",
+      "repo": "griches/PS5_Ghostship",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1403371277",
+      "name": "ps5-doom",
+      "url": "https://github.com/lowbit/ps5-doom/releases.atom",
+      "repo": "lowbit/ps5-doom",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    }
+  ]
+}
