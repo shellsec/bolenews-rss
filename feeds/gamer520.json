@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-09T18:56:25.535444+00:00",
+  "generated_at": "2026-11-10T02:18:02.119672+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -686,7 +686,7 @@
         "game_update"
       ],
       "version": "v1.3.0",
-      "summary_checked_at": "2026-11-04T22:42:07.919936+00:00"
+      "summary_checked_at": "2026-11-10T02:18:04.268335+00:00"
     },
     {
       "title": "我的世界 基岩版|官方中文|本体+1.26.60升补|NSZ|原版|",

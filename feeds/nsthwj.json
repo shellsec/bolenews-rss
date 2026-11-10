@@ -1,9 +1,185 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-09T18:56:53.094458+00:00",
+  "generated_at": "2026-11-10T02:18:24.513195+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "9c7e3202c3ac9e9a7e90fd6636a825a9d359daade2cd1b002f4cfef7de02851e",
+      "title": "一袋子牛奶里面的一袋子牛奶|Milk inside a bag of milk inside a bag of milk",
+      "original_url": "https://nsthwj.cn/game/pc/137992",
+      "source_name": "NS头号玩家 PC",
+      "summary": "A short story about what sort of challenges everyday little things can be. Help the girl buy milk, be the first not to disappoint her.",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.17909751",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "0b1f5af08e5faf7ab223b6ecda5621f767308b053d16ce87815cdcc2a9cdb85b",
+      "title": "回合制坦克大战|ShellShock Live",
+      "original_url": "https://nsthwj.cn/game/pc/137991",
+      "source_name": "NS头号玩家 PC",
+      "summary": "在这个紧张刺激的多人在线坦克游戏中，你可以从你的自定义的坦克中发射数以百计的可升级的武器来把你朋友给boom了。赚取经验来升级并解锁新的坦克部件、武器和装备。在团队合作亦或是各自为营的游戏中与你的朋友并肩作战或者把他们炸上天",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.02052023",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "5af854a402886980dc4dcfd67b2901d9efe03b47e2747b21cd7525a342a745fa",
+      "title": "血与培根|Blood and Bacon",
+      "original_url": "https://nsthwj.cn/game/pc/137990",
+      "source_name": "NS头号玩家 PC",
+      "summary": "这个（四人）联机的第一人称射击游戏有着早晚两种关卡，玩家们将会面对35种不同的敌人以及不计其数的boss，比如说，在你的探险中每十天你将会遇到一些巨大的boss以及小boss。射击，跑步，来对抗那些怪兽猪的突击吧！",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.8663934",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "7b6f6b1195c5816b3a7da779ea06a3ff15ec46b9470c8ea0775ac5f6359b411f",
+      "title": "回合决斗|ROUNDS",
+      "original_url": "https://nsthwj.cn/game/pc/137989",
+      "source_name": "NS头号玩家 PC",
+      "summary": "《Rounds/回合决斗》是一款1v1的肉鸽射击游戏，每过一个回合都会越发激烈。每回合落败的玩家都会解锁创意无限的升级，便于打造更好的构筑反败为胜。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.15032024",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "e433f09db971bf0e13c8c0dbe6fb6e3874628490e7ffec8999b6c1a91f329b78",
+      "title": "火炬之光2|Torchlight II",
+      "original_url": "https://nsthwj.cn/game/pc/137988",
+      "source_name": "NS头号玩家 PC",
+      "summary": "冒险在Torchlight II中延续！一款有着史诗战斗、丰富的宝藏和一个完全随机化的世界的动作RPG游戏。通过在线和局域网多人游戏来和你的好友一起开启旅途吧。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v1.25.9.5典藏版",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "f224b8fb293b099548497256a29e9e680e0d99bbc5714eb89e3ecf2ab9b9b052",
+      "title": "虚拟垂钓|WEBFISHING",
+      "original_url": "https://nsthwj.cn/game/pc/137987",
+      "source_name": "NS头号玩家 PC",
+      "summary": "WEBFISHING a multiplayer chatroom-focused fishing game! Relax and fish (on the web!)",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v1.1联机版",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "1baa5bccf0502dd082ebb85a4753d7f5bc065e5e6e86083621d78bd8788fb0aa",
+      "title": "友尽高尔夫|Golf With Your Friends",
+      "original_url": "https://nsthwj.cn/game/pc/137986",
+      "source_name": "NS头号玩家 PC",
+      "summary": "不打高尔夫，要朋友何用... 邀请朋友们一起来吧！最多可有 12 名玩家同时于球场上游玩精彩刺激的快节奏迷你高尔夫，在这里一切充满无限可能！",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v260联机版",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "f7aaf94461e6b93b53e9ae4b5c99547bad6c69ef55bc3f9ea48a8c3c2879a931",
+      "title": "HoloCure - Save the Fans!",
+      "original_url": "https://nsthwj.cn/game/pc/137985",
+      "source_name": "NS头号玩家 PC",
+      "summary": "Play as your favorite Vtubers from Hololive! Fight, explore, and clear your way through armies of fans and save them from their mind-control in this unofficial free fan-game.",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v0.6.1692865193",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
     {
       "id": "96d2edfb65685fe594c4aef673ade1074c7be3b8666ce79dfa8a8bd5f74521a0",
       "title": "[移植游戏]路易的鬼屋|路易吉洋馆|Luigi's Mansion汉化",
@@ -1061,94 +1237,6 @@
       "update_date_precision": "day"
     },
     {
-      "id": "56b880738f3ba0425e2dfe9a7a5169c7355111c26a8b44febcd6d0f33447b3a5",
-      "title": "备战吧，爱因斯坦！|Gear Up Einstein!",
-      "original_url": "https://nsthwj.cn/game/pc/137945",
-      "source_name": "NS头号玩家 PC",
-      "summary": "这是一款面向1到3名玩家的策略型 Roguelite 自动战斗游戏。穿越时空，招募历史人物，给他们配上炸裂装备，打出离谱连招。无论单人闯关还是和好友合作，都能驾驭战术任务。准备好拯救世界了吗？",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.26500356",
-      "updated_at": "2026-11-08T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "f89d607a1f0235d17c1cef27dae3daebbcb6c103677b8e347a01b09de0cfdede",
-      "title": "足球经理：自走棋|Football Manager: Auto Chess",
-      "original_url": "https://nsthwj.cn/game/pc/137944",
-      "source_name": "NS头号玩家 PC",
-      "summary": "这是一款融合收集养成的足球经理游戏。你执教主题球队，在俱乐部日程中安排训练、招揽和联赛，并在近实时比赛里拖拽教练卡指挥攻防，从基层联赛一路冲击更高舞台。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.26505644",
-      "updated_at": "2026-11-08T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "4d69f7ebe8b046ef08020923b21fc75f6e3ed749e5b0925cb2dfd1501837718e",
-      "title": "BOSS连战|Boss After Boss",
-      "original_url": "https://nsthwj.cn/game/pc/137943",
-      "source_name": "NS头号玩家 PC",
-      "summary": "Boss After Boss 是一款增量游戏。击碎宝箱，获得强力技能，挑战越来越危险的 Boss。提升属性，解锁更高等级的宝箱，并利用每个 Boss 的弱点将其击败。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.25968122",
-      "updated_at": "2026-11-08T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "04ca5c63ccbc7637a09cec47b5570b47a2f0a0e4850ae62f1b117641614ef57a",
-      "title": "隔离区-丧尸末日生存|ZED ZONE",
-      "original_url": "https://nsthwj.cn/game/pc/137942",
-      "source_name": "NS头号玩家 PC",
-      "summary": "大灾变已经到来，执行任务的你不幸坠机被困在隔离区，这里到处都是丧尸和变异怪物，想要逃离这里，你必须努力搜集原料，升级技能，建造避难所，击败尸潮和神秘的机甲，最终寻得一线生机。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.26502230",
-      "updated_at": "2026-11-08T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
       "id": "4170d2a2e89bd446eaf65e53ebe48a41f1569414045688851b6fe2c375a7c0c1",
       "title": "旺达与巨像：重制版|Shadow of the Colossus中文",
       "original_url": "https://nsthwj.cn/game/ps4/12517",
@@ -1195,11 +1283,11 @@
       "summary_checked_at": "2026-11-08T20:37:58.533403+00:00"
     },
     {
-      "id": "87f0be5a2063752820b6292806e7e0a2408d8ef60ffeb3cf9488dbb2437dae56",
-      "title": "巨龙宝藏整理师|Gildoria - Organize a Dragon's Hoard",
-      "original_url": "https://nsthwj.cn/game/pc/137935",
+      "id": "56b880738f3ba0425e2dfe9a7a5169c7355111c26a8b44febcd6d0f33447b3a5",
+      "title": "备战吧，爱因斯坦！|Gear Up Einstein!",
+      "original_url": "https://nsthwj.cn/game/pc/137945",
       "source_name": "NS头号玩家 PC",
-      "summary": "巨龙的宝山已经彻底失控。安坐下来，一枚一枚扫起金山，装满一只只宝箱，再把埋在金子下的宝物一一放回架上原位。看着混乱一点点变回井井有条。一款温馨的整理游戏。还有猫。",
+      "summary": "这是一款面向1到3名玩家的策略型 Roguelite 自动战斗游戏。穿越时空，招募历史人物，给他们配上炸裂装备，打出离谱连招。无论单人闯关还是和好友合作，都能驾驭战术任务。准备好拯救世界了吗？",
       "summary_origin": "publisher_game_index",
       "content": "",
       "image_url": "",
@@ -1212,74 +1300,8 @@
       ],
       "category": "discovery",
       "download_status": "not_verified",
-      "version": "Build.26485968",
-      "updated_at": "2026-11-07T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "09cdc1a8ffcf83828eabe31326251c5dedcc39d96a2f5ba405276ba935159bff",
-      "title": "莉娜清洁物语|Clean Start",
-      "original_url": "https://nsthwj.cn/game/pc/137934",
-      "source_name": "NS头号玩家 PC",
-      "summary": "把垃圾清掉、擦净灰尘，再把乱七八糟的房间一点点整理干净，《莉娜清洁物语》是一款轻松休闲的清洁游戏！在整理房间的过程中，你还会发现各种各样的生活物件，从照片、书信到被遗忘的小东西，慢慢拼出藏在每个房间里的故事。自由收拾、随心摆放，享受整理带来的满足感吧！",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.26456990",
-      "updated_at": "2026-11-07T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "4646763542da6db84b48efc19ad6d235a45525a8288659ff6739d4fa0d20cc83",
-      "title": "精华使者|Wielders of the Essence",
-      "original_url": "https://nsthwj.cn/game/pc/137933",
-      "source_name": "NS头号玩家 PC",
-      "summary": "单人敌潮生存，融入轻度增量式基地建造。每局仅需八分钟，约八小时即可通关。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.26453331",
-      "updated_at": "2026-11-07T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "2aa6ca1ba729972c978e4c6a876d41477dbc9c328cc71e417434ef9cc06422a3",
-      "title": "餐癮地城：貳度救業|Dungeon Munchies 2",
-      "original_url": "https://nsthwj.cn/game/pc/137932",
-      "source_name": "NS头号玩家 PC",
-      "summary": "「宇宙魔物？宇宙魔物料理餐厅！？到底在说什么！」 《餐瘾地城：贰度救业》是《餐瘾地城》全新正统续作，内含战斗、练等、刷宝与冒险故事的横向卷轴动作游戏。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.26485606",
-      "updated_at": "2026-11-07T00:00:00+08:00",
+      "version": "Build.26500356",
+      "updated_at": "2026-11-08T00:00:00+08:00",
       "update_date_precision": "day"
     },
     {
@@ -1442,28 +1464,6 @@
       "updated_at": "2026-11-07T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-08T07:00:24.228941+00:00"
-    },
-    {
-      "id": "61f8ae2f713353689b14964a4d3e592617556afd0639c46165748f0e5fcd4ef5",
-      "title": "组长！怨念请查收！",
-      "original_url": "https://nsthwj.cn/game/pc/137931",
-      "source_name": "NS头号玩家 PC",
-      "summary": "玩家将扮演一位刻薄的组长，从危险重重受到诅咒的公司里逃脱。在这里，不仅要躲避危险想办法完成10个“愿望”，还得小心那些针对你的、出乎意料的陷阱。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.26481387",
-      "updated_at": "2026-11-07T00:00:00+08:00",
-      "update_date_precision": "day"
     },
     {
       "id": "31633b9810b265263417d2b1e5435ae40218727b573210c19b6f30ae5660688b",

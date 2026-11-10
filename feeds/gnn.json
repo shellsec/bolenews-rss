@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-09T18:56:22.867047+00:00",
+  "generated_at": "2026-11-10T02:18:01.700557+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
     {
@@ -78,10 +78,10 @@
       "summary": "獨立遊戲開發團隊 Rabbit Trigger 宣布，開發中的節奏動作冒險遊戲《死亡演奏（暫譯，原名：DEATH A LIVE）》入圍台北國際電玩展主辦的國際獨立遊戲競賽 Indie Game Award 2027 兩個獎項，並獲得來自 Epic Games 的 Epic MegaGrants 支援計畫。 你的搖滾樂團需要觀眾，響音卻只想獨占你。《死亡演奏》是一款交織著愛、瘋狂與病嬌心理恐怖的賽博龐克節奏",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-09T18:56:23.465842+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-09T18:56:23.465842+00:00"
     },
     {
       "title": "《異於天堂》揭曉台灣通路預購特典 巴哈商城獨家推出「第一桶金存錢罐」",
@@ -131,10 +131,10 @@
       "summary": "PICO PARK（代表董事：島津真太郎）宣布，累計銷量突破 850 萬套的多人合作型解謎動作遊戲「PICO PARK」系列最新力作，同時也是迎來 35 周年的 SEGA 代表性 IP《刺猬索尼克》的聯名遊戲 ——《SONIC PICO PARK》公開了 7 名全新追加角色。 【以下內容為廠商提供資料原文】 新增角色「希爾弗」「布蕾姿」「露姬」「奧米伽」「艾斯皮歐」「",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-09T18:56:24.160450+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-09T18:56:24.160450+00:00"
     },
     {
       "title": "《放鬆時光：與你共享 Lo-Fi 故事》揭開一週年免費更新「異世同夢」、付費 DLC 資訊",
@@ -226,10 +226,10 @@
       "summary": "大宇資訊旗下經典 PC 遊戲《魔力寶貝》於今（9）日推出新改版，本次開放新挑戰玩法「封印試煉塔」、新冒險地圖「天空城」，並加入古龍族、幽靈系、精怪族三大魔物種族。 全新地圖、全新種族、全新封印挑戰一次登場！ 51 層封印試煉塔登場！封印師獨自挑戰，尋找稀有 LV1 魔物 本次改版重點之一「封印試煉塔」正式登場，這座神秘",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-09T18:56:24.793155+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-09T18:56:24.793155+00:00"
     },
     {
       "title": "《王國編年史：遠古傳奇》免費試玩版推出 開放第一章三個小節、支援繁體中文等",

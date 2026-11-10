@@ -1,9 +1,185 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-09T18:56:51.280736+00:00",
+  "generated_at": "2026-11-10T02:18:23.009921+00:00",
   "source_url": "https://nsthwj.cn/pc",
   "items": [
+    {
+      "id": "9c7e3202c3ac9e9a7e90fd6636a825a9d359daade2cd1b002f4cfef7de02851e",
+      "title": "一袋子牛奶里面的一袋子牛奶|Milk inside a bag of milk inside a bag of milk",
+      "original_url": "https://nsthwj.cn/game/pc/137992",
+      "source_name": "NS头号玩家 PC",
+      "summary": "A short story about what sort of challenges everyday little things can be. Help the girl buy milk, be the first not to disappoint her.",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.17909751",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "0b1f5af08e5faf7ab223b6ecda5621f767308b053d16ce87815cdcc2a9cdb85b",
+      "title": "回合制坦克大战|ShellShock Live",
+      "original_url": "https://nsthwj.cn/game/pc/137991",
+      "source_name": "NS头号玩家 PC",
+      "summary": "在这个紧张刺激的多人在线坦克游戏中，你可以从你的自定义的坦克中发射数以百计的可升级的武器来把你朋友给boom了。赚取经验来升级并解锁新的坦克部件、武器和装备。在团队合作亦或是各自为营的游戏中与你的朋友并肩作战或者把他们炸上天",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.02052023",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "5af854a402886980dc4dcfd67b2901d9efe03b47e2747b21cd7525a342a745fa",
+      "title": "血与培根|Blood and Bacon",
+      "original_url": "https://nsthwj.cn/game/pc/137990",
+      "source_name": "NS头号玩家 PC",
+      "summary": "这个（四人）联机的第一人称射击游戏有着早晚两种关卡，玩家们将会面对35种不同的敌人以及不计其数的boss，比如说，在你的探险中每十天你将会遇到一些巨大的boss以及小boss。射击，跑步，来对抗那些怪兽猪的突击吧！",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.8663934",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "7b6f6b1195c5816b3a7da779ea06a3ff15ec46b9470c8ea0775ac5f6359b411f",
+      "title": "回合决斗|ROUNDS",
+      "original_url": "https://nsthwj.cn/game/pc/137989",
+      "source_name": "NS头号玩家 PC",
+      "summary": "《Rounds/回合决斗》是一款1v1的肉鸽射击游戏，每过一个回合都会越发激烈。每回合落败的玩家都会解锁创意无限的升级，便于打造更好的构筑反败为胜。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.15032024",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "e433f09db971bf0e13c8c0dbe6fb6e3874628490e7ffec8999b6c1a91f329b78",
+      "title": "火炬之光2|Torchlight II",
+      "original_url": "https://nsthwj.cn/game/pc/137988",
+      "source_name": "NS头号玩家 PC",
+      "summary": "冒险在Torchlight II中延续！一款有着史诗战斗、丰富的宝藏和一个完全随机化的世界的动作RPG游戏。通过在线和局域网多人游戏来和你的好友一起开启旅途吧。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v1.25.9.5典藏版",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "f224b8fb293b099548497256a29e9e680e0d99bbc5714eb89e3ecf2ab9b9b052",
+      "title": "虚拟垂钓|WEBFISHING",
+      "original_url": "https://nsthwj.cn/game/pc/137987",
+      "source_name": "NS头号玩家 PC",
+      "summary": "WEBFISHING a multiplayer chatroom-focused fishing game! Relax and fish (on the web!)",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v1.1联机版",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "1baa5bccf0502dd082ebb85a4753d7f5bc065e5e6e86083621d78bd8788fb0aa",
+      "title": "友尽高尔夫|Golf With Your Friends",
+      "original_url": "https://nsthwj.cn/game/pc/137986",
+      "source_name": "NS头号玩家 PC",
+      "summary": "不打高尔夫，要朋友何用... 邀请朋友们一起来吧！最多可有 12 名玩家同时于球场上游玩精彩刺激的快节奏迷你高尔夫，在这里一切充满无限可能！",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v260联机版",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "f7aaf94461e6b93b53e9ae4b5c99547bad6c69ef55bc3f9ea48a8c3c2879a931",
+      "title": "HoloCure - Save the Fans!",
+      "original_url": "https://nsthwj.cn/game/pc/137985",
+      "source_name": "NS头号玩家 PC",
+      "summary": "Play as your favorite Vtubers from Hololive! Fight, explore, and clear your way through armies of fans and save them from their mind-control in this unofficial free fan-game.",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v0.6.1692865193",
+      "updated_at": "2026-11-10T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
     {
       "id": "3acbbe08dcd5a669624066d31a86e849a42b6ed5618f8b0d6e000213a2c80225",
       "title": "女王的游戏：盛世天下 媚娘篇|Road to Empress I",
@@ -2252,278 +2428,6 @@
         {
           "provider": "夸克网盘",
           "url": "https://pan.quark.cn/s/832022f5647e",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "e948e2927b8e45f70f81d4c60bdb68e61f5a853d82bdfaf4abc177dfeb6f4e9e",
-      "title": "倒卖大亨|Deal Flipper",
-      "original_url": "https://nsthwj.cn/game/pc/137849",
-      "source_name": "NS头号玩家 PC",
-      "summary": "低价买入，高价卖出。唤醒你心中流淌的“温州商人”魂！《Deal Flipper》是一款第一人称倒卖模拟游戏。你将在二手市场里疯狂淘货，在实时聊天中掏出“屠龙刀”狠辣砍价，靠转手赚取暴利。这里的NPC卖家个个都有心机，读懂他们的心理，低价抄底，高价宰客……前提是，你真能卖得出去！",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26010787",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1BlTgK0pHzap6Xj2oDNsJlg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/8c8c1cb2f5a9",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "1a07b051409893180e43307527bd076c865713e4283ac810930af22b6376c4cd",
-      "title": "求救信号：荒岛求生|Mayday: The Survival Island",
-      "original_url": "https://nsthwj.cn/game/pc/137848",
-      "source_name": "NS头号玩家 PC",
-      "summary": "坠机后，你独自醒来。通过狩猎、耕种与制作生存，并探索充满秘密的群岛。建造基地、揭开真相、逃离此地——如果你能做到。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26382248",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1hCNEe0Pd_gCyWZvGXHvzaQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/e5993ac04f8d",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "3e24a3b65dd68d4a750d0c2191e789b4ee1f892eba91199f05621e296c4c6253",
-      "title": "星际帝国|Imperium",
-      "original_url": "https://nsthwj.cn/game/pc/137847",
-      "source_name": "NS头号玩家 PC",
-      "summary": "在这款单人太空 4X 策略游戏中，从一颗星球起步，建立银河帝国。探索 3D 银河，逐格建设殖民地，自主设计舰船，并通过外交或战争智胜其他种族。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26379000",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1Fqath18X8-9yIr7d4aAAxg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/f877fe5bd374",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "c94c2a1f6b0d25b8c399f7a01981ac5e576606c13b9f8633fa0e667cd4e157e1",
-      "title": "星期六|Sabado",
-      "original_url": "https://nsthwj.cn/game/pc/137846",
-      "source_name": "NS头号玩家 PC",
-      "summary": "Reunite with your favorite classmate, but you can never really graduate from the past... Wander through a nostalgic, shifting maze of old high school memories with a cheerful friend named Chesa. But the exits are vanishing, the hallways are…",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26314819",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1_irzUM-bLHkgy2rTGpsMSw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/f8dec926854e",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "7f05c72281c000c920dcdabf5790597ba3fad97374f41671bb1099fd76be5bd1",
-      "title": "地精大作乱|We Have a Gnome Problem",
-      "original_url": "https://nsthwj.cn/game/pc/137845",
-      "source_name": "NS头号玩家 PC",
-      "summary": "你的玩具店闹地精了！在这款温馨的第一人称整理游戏中，抓住满店乱跑的地精，把捣蛋鬼扔出去，再把每一只都放回正确的货架上。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26386087",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1PT2n4bhTl_HUZ_GInqlzXw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/3e9b10273a01",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "5550e22574912e35740fc08c7c3449520fb66ac0d0c553a95440f5a8ebeaeb49",
-      "title": "日进斗金|PlinkIdle",
-      "original_url": "https://nsthwj.cn/game/pc/137844",
-      "source_name": "NS头号玩家 PC",
-      "summary": "开局一颗小球，点燃无限混乱与惊喜！看它们在钉板间弹跳、分裂，看金币从涓涓细流变成财富瀑布。升级钉子和奖池，解锁主题关卡与独特音效，掉落效率与奖励倍率节节攀升！华丽光效清脆音效带来视听盛宴，每一次下落都让人欲罢不能！",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26369564",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1DT8Hy_UQyCmrYwDJSGc1TA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/b90b0c0483d1",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "e901cf0300cbdb9bdf17102f27fa32776034f2109050f88de1bc5ef2a369c485",
-      "title": "喵喵时光：猫咪的温馨小屋|Meow Time: cozy cat room",
-      "original_url": "https://nsthwj.cn/game/pc/137843",
-      "source_name": "NS头号玩家 PC",
-      "summary": "布置一间温馨的小屋，和可爱的小猫一起工作、学习，或是偷个懒。在日常照顾、抚摸与玩耍中慢慢获得它的信任，发现随着你们的关系和它当下的状态而变化的小小回应。搭配实用的专注工具，与可爱的小猫一起度过这段美好时光吧！",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26375082",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1ngTtm838P4z36yUZym-1rw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/fa774a37f5a1",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "998f4f9ede44743b071e82033a783ac75e5241df5e8ee1e8343b49c6fb5721f0",
-      "title": "我亲爱的.exe|MyDear.exe",
-      "original_url": "https://nsthwj.cn/game/pc/137842",
-      "source_name": "NS头号玩家 PC",
-      "summary": "在《我亲爱的.exe》里，和艾莉与卢西安一起庆祝一段爱情。这是一个短小温馨的游戏，故事藏在一台老式电脑的文件夹里。你将扮演艾莉，打开丈夫卢西安在两人相伴大半生后为她准备的游戏。幽默、回忆和爱，都装在这段约两小时的小小旅程中。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26215175",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1KMy7bSM-XIYaGQJtgkgJ-Q?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/c2f96bc80bbc",
           "extraction_code": ""
         }
       ]
