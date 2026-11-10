@@ -40,6 +40,12 @@ class DiscoveryTest(unittest.TestCase):
         self.assertTrue(discovery.supports_platform("switch2", release("tool.hbx")))
         self.assertTrue(discovery.supports_platform("ps5", release("PPSA92000.zip")))
         self.assertFalse(discovery.supports_platform("ps5", release("desktop.zip")))
+        self.assertFalse(discovery.supports_platform("ps5", release("PS5-converter-win64.zip")))
+        desktop_bundle = release("PS5-Plugin-Hub.zip")
+        desktop_bundle["assets"].extend(release("PS5-Plugin-Hub.exe")["assets"])
+        self.assertFalse(discovery.supports_platform("ps5", desktop_bundle))
+        desktop_bundle["assets"].extend(release("ps5-server.elf")["assets"])
+        self.assertTrue(discovery.supports_platform("ps5", desktop_bundle))
 
     def test_deduplicates_and_keeps_defaults_and_versions(self):
         with tempfile.TemporaryDirectory() as folder:
@@ -47,10 +53,13 @@ class DiscoveryTest(unittest.TestCase):
             (root / "catalogs").mkdir()
             (root / "sources.json").write_text(json.dumps({"sources": [
                 {"url": "https://github.com/EXAMPLE/Existing/releases.atom"},
+                {"repo": "old-owner/Transferred"},
             ]}), encoding="utf-8")
             repos = [{"id": 1, "name": "Existing", "full_name": "example/existing"},
-                     {"id": 2, "name": "New", "full_name": "example/New"}]
+                     {"id": 2, "name": "New", "full_name": "example/New"},
+                     {"id": 3, "name": "Transferred", "full_name": "example/Transferred"}]
             with patch.object(discovery, "candidates", return_value=repos), patch.object(
+                    discovery, "fetch", return_value=b'{"id":3}'), patch.object(
                     discovery, "release_feed", return_value="https://github.com/example/New/releases.atom") as check:
                 discovery.discover(root, dt.datetime(2026, 11, 10, tzinfo=dt.timezone.utc))
                 discovery.discover(root, dt.datetime(2026, 11, 11, tzinfo=dt.timezone.utc))

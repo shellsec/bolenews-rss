@@ -1,26 +1,9 @@
 {
   "schema_version": 1,
-  "config_version": 2,
+  "config_version": 3,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-10T03:53:47.272004+00:00",
+  "generated_at": "2026-11-10T03:56:03.947098+00:00",
   "sources": [
-    {
-      "id": "gh-homebrew-102637400",
-      "name": "Checkpoint",
-      "url": "https://github.com/BernardoGiordano/Checkpoint/releases.atom",
-      "repo": "BernardoGiordano/Checkpoint",
-      "category": "homebrew",
-      "language": "en",
-      "platforms": [
-        "switch1"
-      ],
-      "enabled": false,
-      "images": false,
-      "fullContent": true,
-      "builtin": true,
-      "evidence": "upstream",
-      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
-    },
     {
       "id": "gh-homebrew-287271987",
       "name": "Themezer-NX",

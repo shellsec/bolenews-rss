@@ -84,10 +84,15 @@ def supports_platform(platform, release):
         return any(name.endswith(".nro") for name in assets)
     if platform == "switch2":
         return any(name.endswith(".hbx") for name in assets)
-    # Shared PKG/ELF extensions need a PS5-specific marker on the actual asset.
-    return any(name.endswith((".pkg", ".elf", ".zip")) and
-               re.search(r"ps5|prospero|ppsa[0-9]{5}", name) and
-               not re.search(r"source|symbols|sdk", name) for name in assets)
+    # Shared package extensions need a PS5 marker on the asset itself.
+    console_assets = [name for name in assets if re.search(r"ps5|prospero|ppsa[0-9]{5}", name)
+                      and not re.search(r"source|symbols|sdk|windows|linux|macos|darwin|android|win32|win64|win-", name)]
+    if any(name.endswith((".pkg", ".ffpkg", ".elf")) for name in console_assets):
+        return True
+    has_desktop_package = any(name.endswith((".exe", ".msi", ".dmg", ".apk", ".appimage", ".deb", ".rpm"))
+                              for name in assets)
+    return any(name.endswith(".zip") and (not has_desktop_package or re.search(r"ppsa[0-9]{5}", name))
+               for name in console_assets)
 
 
 def release_feed(repo, platform):
@@ -133,6 +138,11 @@ def discover(root, now):
                  for path in [root / "sources.json", *sorted(catalogs.glob("*.json"))]}
     # Preserve earlier entries and prefer curated listings when they already exist.
     known = {known_repo(s) for doc in documents.values() for s in doc["sources"]}
+    aliases = {}
+    for name in sorted(known):
+        if REPO_NAME.fullmatch(name):
+            aliases.setdefault(name.split("/")[1], []).append(name)
+    resolved_aliases = {}
     seen_ids = {s["id"] for path in paths.values() for s in documents.get(path, {}).get("sources", [])}
     updates = {}
     for platform, (_, queries) in CATALOGS.items():
@@ -144,6 +154,14 @@ def discover(root, now):
                 name = repo["full_name"]
                 ident = f"gh-homebrew-{repo['id']}"
                 if name.lower() in known or ident in seen_ids or name.lower() == "gomprime/switchiptv":
+                    continue
+                # A transferred repository can still be listed under its former owner.
+                matching_names = aliases.get(name.lower().split("/")[1], ())
+                for alias in matching_names:
+                    if alias not in resolved_aliases:
+                        body = fetch(f"https://api.github.com/repos/{alias}")
+                        resolved_aliases[alias] = json.loads(body)["id"] if body else None
+                if any(resolved_aliases[alias] == repo["id"] for alias in matching_names):
                     continue
                 url = release_feed(repo, platform)
                 if not url:

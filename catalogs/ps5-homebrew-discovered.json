@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 2,
+  "config_version": 3,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-10T03:53:47.272004+00:00",
+  "generated_at": "2026-11-10T03:56:03.948154+00:00",
   "sources": [
     {
       "id": "gh-homebrew-395383178",
@@ -141,23 +141,6 @@
       "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
     },
     {
-      "id": "gh-homebrew-1422066147",
-      "name": "ps5directo",
-      "url": "https://github.com/jstrdev/ps5directo/releases.atom",
-      "repo": "jstrdev/ps5directo",
-      "category": "homebrew",
-      "language": "en",
-      "platforms": [
-        "ps5"
-      ],
-      "enabled": false,
-      "images": false,
-      "fullContent": true,
-      "builtin": true,
-      "evidence": "upstream",
-      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
-    },
-    {
       "id": "gh-homebrew-1412572916",
       "name": "MacheteSVG-PS5-Save-Manager",
       "url": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager/releases.atom",
@@ -213,23 +196,6 @@
       "name": "PS5_MarioGalaxy",
       "url": "https://github.com/griches/PS5_MarioGalaxy/releases.atom",
       "repo": "griches/PS5_MarioGalaxy",
-      "category": "homebrew",
-      "language": "en",
-      "platforms": [
-        "ps5"
-      ],
-      "enabled": false,
-      "images": false,
-      "fullContent": true,
-      "builtin": true,
-      "evidence": "upstream",
-      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
-    },
-    {
-      "id": "gh-homebrew-1409197548",
-      "name": "ps5-fpkg-converter",
-      "url": "https://github.com/sub0x00001/ps5-fpkg-converter/releases.atom",
-      "repo": "sub0x00001/ps5-fpkg-converter",
       "category": "homebrew",
       "language": "en",
       "platforms": [
@@ -383,23 +349,6 @@
       "name": "ps5-doom",
       "url": "https://github.com/lowbit/ps5-doom/releases.atom",
       "repo": "lowbit/ps5-doom",
-      "category": "homebrew",
-      "language": "en",
-      "platforms": [
-        "ps5"
-      ],
-      "enabled": false,
-      "images": false,
-      "fullContent": true,
-      "builtin": true,
-      "evidence": "upstream",
-      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
-    },
-    {
-      "id": "gh-homebrew-1438172077",
-      "name": "PS5-Toolkit",
-      "url": "https://github.com/liweili/PS5-Toolkit/releases.atom",
-      "repo": "liweili/PS5-Toolkit",
       "category": "homebrew",
       "language": "en",
       "platforms": [
