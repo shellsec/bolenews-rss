@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 1,
+  "config_version": 2,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-02T14:21:22.360556+00:00",
+  "generated_at": "2026-11-10T03:40:42.336045+00:00",
   "sources": [
     {
       "id": "nx-hbloader",
@@ -72,6 +72,23 @@
       ],
       "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images; no code or binary redistribution",
       "evidence": "upstream"
+    },
+    {
+      "id": "tico",
+      "name": "Tico（Switch 模拟器前端）",
+      "url": "https://github.com/ticohq/tico/releases.atom",
+      "category": "emulators",
+      "language": "en",
+      "repo": "ticohq/tico",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct upstream Release feed reading; no mirrored binaries, game data or images"
     }
   ]
 }

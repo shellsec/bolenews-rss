@@ -7,7 +7,9 @@ assert catalog['schema_version']==1 and isinstance(catalog['config_version'],int
 for path in [root/'sources.json', *sorted((root/'catalogs').glob('*.json'))]:
     document=json.loads(path.read_text(encoding='utf-8'))
     assert document['schema_version']==1 and type(document['config_version']) is int and document['config_version']>0
-    assert 0<len(document['sources'])<=64
+    discovery_catalog = path.name in {'switch-homebrew-discovered.json', 'switch2-homebrew-discovered.json', 'ps5-homebrew-discovered.json'}
+    assert isinstance(document['sources'], list) and len(document['sources']) <= 64
+    assert document['sources'] or discovery_catalog
     ids=set()
     for source in document['sources']:
         assert source['id'] not in ids
