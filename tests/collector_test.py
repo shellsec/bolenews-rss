@@ -28,6 +28,28 @@ class CollectorTest(unittest.TestCase):
         with self.assertRaises(ValueError):
             c.convert_calendar("<html>Access unavailable</html>", c.SITES["gamesradar-calendar"])
 
+    def test_illustrated_guides_filter_and_preserve_last_good(self):
+        entry = """<item><title>遊戲圖文攻略</title>
+          <link>https://www.4gamers.com.tw/news/detail/123/demo-guide</link>
+          <content:encoded><![CDATA[<p>{body}</p>{image}]]></content:encoded></item>"""
+        rss = '<rss xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel>{}</channel></rss>'
+        source = "4gamers-game-guides"
+        illustrated = entry.format(body="攻略正文" * 35, image='<img src="https://example.com/cover.jpg">')
+        text_only = entry.format(body="攻略正文" * 35, image="")
+        with tempfile.TemporaryDirectory() as folder:
+            output = Path(folder)
+            with patch.object(c, "fetch", side_effect=["User-agent: *", rss.format(illustrated)]):
+                health = c.collect(source, output, summary_limit=0)
+            self.assertEqual(health["fetched_count"], 1)
+            with patch.object(c, "fetch", side_effect=["User-agent: *", rss.format(text_only)]):
+                health = c.collect(source, output, summary_limit=0)
+            self.assertEqual(health["status"], "ok")
+            self.assertEqual(health["fetched_count"], 0)
+            rows = c.json.loads((output / (source + ".json")).read_text(encoding="utf-8"))["items"]
+            self.assertEqual(len(rows), 1)
+            self.assertEqual(rows[0]["content"], "")
+            self.assertEqual(rows[0]["image_url"], "")
+
     def test_2468c_platform_scope_and_metadata_only(self):
         site = c.SITES["2468c"]
         payload = [

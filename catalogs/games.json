@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 14,
+  "config_version": 15,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-08T06:53:48.109956+00:00",
+  "generated_at": "2026-11-10T06:28:15.324259+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -882,6 +882,21 @@
       "platforms": [],
       "evidence": "community",
       "rights_policy": "release facts grouped by original calendar section; original image URLs read on demand; publisher attribution and original links retained"
+    },
+    {
+      "id": "4gamers-game-guides",
+      "name": "4Gamers 中文遊戲攻略",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/4gamers-game-guides.json",
+      "category": "guides",
+      "language": "zh-Hant",
+      "repo": "",
+      "enabled": false,
+      "images": true,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "evidence": "community",
+      "rights_policy": "public index and direct reading of the original page; no mirrored article text or images"
     }
   ]
 }

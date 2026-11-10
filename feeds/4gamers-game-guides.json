@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "status": "ok",
+  "generated_at": "2026-11-10T06:28:15.508108+00:00",
+  "source_url": "https://www.4gamers.com.tw/rss/latest-news",
+  "items": [
+    {
+      "title": "《薩爾達傳說 時之笛》初期流程攻略：德庫樹、多東哥、加卜加卜頭目打法，三顆精靈石輕鬆拿",
+      "original_url": "https://www.4gamers.com.tw/news/detail/83156/the-legend-of-zelda-ocarina-of-time-remake-playthrough-guide",
+      "published_at": "2026-11-07T09:06:24Z",
+      "source_name": "4Gamers 中文遊戲攻略",
+      "language": "zh-Hant",
+      "summary": "Switch 2 重製版《薩爾達傳說 時之笛》的前期，林克要以小孩的模樣闖過德庫樹長老體內、多東哥洞窟與加卜加卜大人腹中三座迷宮，集齊三顆精靈石，途中還要潛入海拉魯城堡、到卡卡利科村墓地學習太陽之歌。",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
+    {
+      "title": "《薩爾達傳說 時之笛》攻略：新手必知的迷宮解謎、大妖精、瓶子獲得方法",
+      "original_url": "https://www.4gamers.com.tw/news/detail/83155/the-legend-of-zelda-ocarina-of-time-remake-beginner-guide",
+      "published_at": "2026-11-07T09:06:21Z",
+      "source_name": "4Gamers 中文遊戲攻略",
+      "language": "zh-Hant",
+      "summary": "Nintendo Switch 2 重製版《薩爾達傳說 時之笛》已於 11 月 5 日上市，對第一次接觸時之笛，或只玩過《曠野之息》、《王國之淚》的新玩家來說，最容易卡住的往往是傳統薩爾達的迷宮規則。本篇時之笛攻略整理了迷宮通關流程與常見解謎橋段、大妖精的重要度、空瓶入手方式與補血技巧。",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    }
+  ]
+}

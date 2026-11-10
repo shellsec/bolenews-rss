@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 2,
+  "config_version": 3,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-10T03:40:42.336045+00:00",
+  "generated_at": "2026-11-10T06:28:15.324259+00:00",
   "sources": [
     {
       "id": "nx-hbloader",
@@ -89,6 +89,38 @@
       ],
       "evidence": "upstream",
       "rights_policy": "direct upstream Release feed reading; no mirrored binaries, game data or images"
+    },
+    {
+      "id": "nswiki-homebrew-guides",
+      "name": "NS WIKI · Switch 自制工具教程",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/nswiki-homebrew-guides.json",
+      "category": "guides",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": true,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "community",
+      "rights_policy": "public index and direct reading of the original page; no mirrored article text or images"
+    },
+    {
+      "id": "zh-emulator-guides",
+      "name": "模拟器中文图文教程",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/zh-emulator-guides.json",
+      "category": "guides",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": true,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "evidence": "community",
+      "rights_policy": "public index and direct reading of the original page; no mirrored article text or images"
     }
   ]
 }

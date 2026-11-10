@@ -29,7 +29,13 @@ SITES = {
               "tool_categories": {111, 112}},
     "gnn": {"name": "巴哈姆特 GNN", "url": "https://gnn.gamer.com.tw/rss.xml",
             "hosts": {"gnn.gamer.com.tw"}, "path": r"/detail\.php",
-            "format": "rss", "language": "zh-Hant"},
+            "format": "rss", "language": "zh-Hant", "numeric_query": "sn"},
+    "4gamers-game-guides": {
+        "name": "4Gamers 中文遊戲攻略", "url": "https://www.4gamers.com.tw/rss/latest-news",
+        "hosts": {"www.4gamers.com.tw"}, "path": r"/news/detail/\d+/[a-z0-9-]+",
+        "format": "rss", "language": "zh-Hant",
+        "illustrated_guide_title": r"攻略|全收集|隱藏要素|任務流程|圖鑑|解謎",
+    },
     "gamer520": {"name": "Gamer520 public WordPress API (Switch category)",
                  "url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
                  "hosts": {"vip.gamers520.com"}, "path": r"/\d+\.html",
@@ -416,19 +422,27 @@ def convert_rss(body, site):
     if "<!DOCTYPE" in body.upper() or "<!ENTITY" in body.upper():
         raise ValueError("DTD/entity declarations are not allowed")
     root = ET.fromstring(body)
-    if root.tag != "rss":
-        raise ValueError("Expected RSS")
+    if root.tag != "rss" or root.find("channel") is None:
+        raise ValueError("Expected RSS channel")
     items = {}
     for entry in root.findall("./channel/item")[:100]:
         title = " ".join(html_entities.unescape(re.sub(r"<[^>]*>", " ", entry.findtext("title", ""))).split())
         url = entry.findtext("link", "").strip()
         p = urllib.parse.urlsplit(url)
         query = urllib.parse.parse_qs(p.query)
+        query_key = site.get("numeric_query")
+        valid_query = (set(query) == {query_key} and len(query[query_key]) == 1
+                       and query[query_key][0].isdigit()) if query_key else not p.query
         if (not 4 <= len(title) <= 512 or not allowed(url, site) or
-                not re.fullmatch(site["path"], p.path) or p.fragment or
-                set(query) != {"sn"} or len(query["sn"]) != 1 or
-                not query["sn"][0].isdigit() or url in items):
+                not re.fullmatch(site["path"], p.path) or p.fragment or not valid_query or url in items):
             continue
+        guide_title = site.get("illustrated_guide_title")
+        if guide_title:
+            if not re.search(guide_title, title):
+                continue
+            html = entry.findtext("{http://purl.org/rss/1.0/modules/content/}encoded", "")
+            if not 1 <= len(re.findall(r"<img\b", html, re.I)) <= 32 or len(clean_excerpt(html)) < 100:
+                continue
         date = ""
         try:
             parsed = email.utils.parsedate_to_datetime(entry.findtext("pubDate", ""))
@@ -556,6 +570,7 @@ def collect(key, output, summary_limit=12):
             urls.append(site["url"] + "&orderby=modified&order=desc")
         converter = {"wordpress": convert_wordpress, "rss": convert_rss, "nsthwj": convert_nsthwj, "calendar": convert_calendar}.get(site.get("format"), convert)
         incoming, failures = {}, []
+        allow_empty = bool(site.get("illustrated_guide_title"))
         for index, url in enumerate(urls):
             if not robots.can_fetch(AGENT, url):
                 failures.append("robots.txt disallows an index query")
@@ -564,7 +579,7 @@ def collect(key, output, summary_limit=12):
                 time.sleep(1)
             try:
                 converted = converter(fetch(url, site), site)
-                if not converted:
+                if not converted and not allow_empty:
                     raise ValueError("No matching entries; adapter needs review")
                 for item in converted:
                     old = incoming.get(item["original_url"])
@@ -574,7 +589,7 @@ def collect(key, output, summary_limit=12):
                 failures.append(str(error)[:300])
                 if isinstance(error, urllib.error.HTTPError) and error.code == 429:
                     break
-        if not incoming:
+        if not incoming and (failures or not allow_empty):
             raise ValueError("; ".join(failures) or "No matching entries")
         # Retain bounded last-good entries when a short upstream window drops them.
         previous = {}
