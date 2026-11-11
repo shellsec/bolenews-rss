@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-11T15:28:38.383811+00:00",
+  "generated_at": "2026-11-11T22:50:54.771612+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -118,6 +118,29 @@
       "updated_at": "2026-11-11T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-11T15:28:45.253100+00:00"
+    },
+    {
+      "id": "e82aaad8ed10d071fb8e005bdfa5cd4f2bb60ab8dd1ca77816eb256001729bff",
+      "title": "[SS土星移植游戏]吞食天地2：赤壁之战|Warriors of Fate",
+      "original_url": "https://nsthwj.cn/game/switch/138021",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "本宫广志原作“吞食天地”爽快刺激的动作游戏隆重登场! 这款横向卷轴的动作游戏，玩家可以操纵 5 个不同能力的武将之一，击溃敌人的部队。 好像格斗游戏般引人注目的突击连续招式, 展开以三国志为蓝本的游戏。走遍乱世, 对抗宿敌\"曹操\"的侵略进攻吧!",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-11T22:50:56.758101+00:00"
     },
     {
       "id": "3e1de5e5da501b1730a1bc4c81fa1690bcd7a5f14a2abfdaea291ec09b0cfe1a",

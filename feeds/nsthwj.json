@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-11T15:28:47.756167+00:00",
+  "generated_at": "2026-11-11T22:51:00.131338+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -118,6 +118,29 @@
       "updated_at": "2026-11-11T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-11T15:28:45.253100+00:00"
+    },
+    {
+      "id": "e82aaad8ed10d071fb8e005bdfa5cd4f2bb60ab8dd1ca77816eb256001729bff",
+      "title": "[SS土星移植游戏]吞食天地2：赤壁之战|Warriors of Fate",
+      "original_url": "https://nsthwj.cn/game/switch/138021",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "本宫广志原作“吞食天地”爽快刺激的动作游戏隆重登场! 这款横向卷轴的动作游戏，玩家可以操纵 5 个不同能力的武将之一，击溃敌人的部队。 好像格斗游戏般引人注目的突击连续招式, 展开以三国志为蓝本的游戏。走遍乱世, 对抗宿敌\"曹操\"的侵略进攻吧!",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-11T22:50:56.758101+00:00"
     },
     {
       "id": "3a8f1e1dc3f104d509db82661043698cccef4325447cebb4b0cf8bb9898cb51f",
@@ -1717,29 +1740,6 @@
       "updated_at": "2026-11-06T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-06T09:32:36.362703+00:00"
-    },
-    {
-      "id": "cc6cd701326e7c639550938d10d58bac58b29b5c087069f76d8ef7d362bc3479",
-      "title": "四十九把钥匙|49 Keys中文",
-      "original_url": "https://nsthwj.cn/game/switch/137898",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "你收到了一封源自已故导师的信函，信中提到他留下的神秘遗产。为了追寻导师留给你的宝藏，你踏上他生前所居住的岛屿，开启了一场令人不安的旅途。这是一款解谜游戏书形式的互动小说游戏，一边阅读文字，一边探索和解谜，最终通向意外的结局。 《四十九把钥匙》是一款解谜游戏书形式的互动小说游戏，它将引人入胜的文字叙述与探索解谜玩法相结…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.3",
-      "updated_at": "2026-11-06T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-06T09:32:37.743930+00:00"
     },
     {
       "id": "e747014908f082cb87b930bc046d5a2c7b62ae42a7fcd84911855086132d8d3d",

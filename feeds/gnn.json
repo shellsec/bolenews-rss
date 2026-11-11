@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-11T15:28:07.993736+00:00",
+  "generated_at": "2026-11-11T22:50:27.195669+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
     {
@@ -13,10 +13,10 @@
       "summary": "2006 年 11 月 11 日在日本首賣，全球累計銷售超過 8740 萬台的 PlayStation 家族第 3 代遊戲主機「PlayStation 3（PS3）」，於今日（2026 年 11 月 11 日）迎接誕生 20 週年。 PlayStation 3（PS3） PS3 是索尼電腦娛樂（SCE，後改名 SIE）繼 1994 年推出的 PlayStation（PS1）與 2000 年推出的 PlayStation 2（PS2）連續兩代主機大獲成功之後，緊接著於 2006…",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-11T15:28:08.599940+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-11T15:28:08.599940+00:00"
     },
     {
       "title": "電玩瘋公開《薩爾達傳說 時之笛》之《薩爾達傳說》系列全 33 支 amiibo 大實測！",
@@ -196,10 +196,10 @@
       "summary": "樂意傳播營運的線上動作遊戲《封印者：CLOSERS》2026 年度玩家見面會落幕，本次活動以「禁書的試煉」為主題，吸引了百位玩家齊聚一堂。現場官方特別邀請到兩位 COSER 分別詮釋新角色「摩亞」的「神聖昔日」和「所羅門」造型，與玩家近距離互動。 【以下內容為廠商提供資料原文】 本次場地布置呈現典雅且神聖風格，主舞台的視覺呈現",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-11T15:28:09.186885+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-11T15:28:09.186885+00:00"
     },
     {
       "title": "開放世界生存冒險新作《西部之民》開放限時封測 駕駛客製化馬車進入 19 世紀狂野西部",
@@ -223,10 +223,10 @@
       "summary": "Aniplex 與 CYBIRD 正式公開雙方首度合作開發的黑暗奇幻文字冒險遊戲《Luna Reverse 幻月逆轉（LunaReverse）》，預定於 Nintendo Switch、Steam 平台推出，並支援繁體中文。官方同步釋出首張前導視覺圖與前導宣傳影片，揭開以復仇與命運為主題的故事序幕。 《Luna Reverse 幻月逆轉》是一款以黑暗奇幻世界為舞台的文字冒險遊戲，圍繞著一段從魔法使",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-11T15:28:09.737908+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-11T15:28:09.737908+00:00"
     },
     {
       "title": "《22 世紀富豪僱傭兵》預定 2027 年 11 月 9 日上市 新實機預告影片搶先公開",
