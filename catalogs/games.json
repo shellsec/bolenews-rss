@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 15,
+  "config_version": 16,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-10T06:28:15.324259+00:00",
+  "generated_at": "2026-11-11T03:12:45.406692+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -897,6 +897,57 @@
       "platforms": [],
       "evidence": "community",
       "rights_policy": "public index and direct reading of the original page; no mirrored article text or images"
+    },
+    {
+      "id": "mushroom-switch",
+      "name": "蘑菇屋 · Switch",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/mushroom-switch.json",
+      "category": "discovery",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": true,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "community",
+      "rights_policy": "public game metadata and original cover URLs; no mirrored files or articles"
+    },
+    {
+      "id": "mushroom-pc",
+      "name": "蘑菇屋 · PC",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/mushroom-pc.json",
+      "category": "discovery",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": true,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "pc"
+      ],
+      "evidence": "community",
+      "rights_policy": "public game metadata and original cover URLs; no mirrored files or articles"
+    },
+    {
+      "id": "mushroom-ps4",
+      "name": "蘑菇屋 · PS4",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/mushroom-ps4.json",
+      "category": "discovery",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": true,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "ps4"
+      ],
+      "evidence": "community",
+      "rights_policy": "public game metadata and original cover URLs; no mirrored files or articles"
     }
   ]
 }

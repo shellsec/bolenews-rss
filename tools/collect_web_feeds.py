@@ -61,6 +61,17 @@ for _platform, _route in (("switch", "/"), ("pc", "/pc"), ("ps4", "/ps4")):
         "format": "nsthwj", "platform": _platform,
     }
 
+MUSHROOM_HOST = "www.xn--ogtt23ghrb.cn"
+MUSHROOM_DETAIL_PATH = r"/SEO/%E6%B8%B8%E6%88%8F/\d+\.html"
+MUSHROOM_SCAN_LIMIT = 20
+for key, category, platform in (("switch", "Switch", "switch1"), ("pc", "PC游戏", "pc"), ("ps4", "PS4", "ps4")):
+    path = urllib.parse.quote(f"/SEO/分类/{category}.html")
+    SITES[f"mushroom-{key}"] = {
+        "name": f"蘑菇屋 · {category}", "url": f"https://{MUSHROOM_HOST}{path}",
+        "hosts": {MUSHROOM_HOST}, "path": MUSHROOM_DETAIL_PATH, "format": "mushroom",
+        "platform": platform, "site_category": category,
+    }
+
 AGENT = "BoleNewsMetadata/0.1 (+https://github.com/shellsec/bolenews)"
 LIMIT = 2 * 1024 * 1024
 
@@ -546,6 +557,59 @@ def convert_calendar(body, site):
     return items
 
 
+def mushroom_item(html, url, site):
+    match = re.search(r'<script\b[^>]*\btype=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
+                      html, re.IGNORECASE | re.DOTALL)
+    if not match:
+        raise ValueError("Missing resource metadata")
+    graph = json.loads(match[1]).get("@graph", [])
+    game = next((entry for entry in graph if entry.get("@type") == "VideoGame"), {})
+    if game.get("applicationCategory") != site["site_category"]:
+        raise ValueError("Resource category does not match the index")
+    if urllib.parse.urlsplit(game.get("url", "")).path != urllib.parse.urlsplit(url).path:
+        raise ValueError("Resource metadata does not match the requested page")
+    title = " ".join(game.get("name", "").split())
+    if not 1 <= len(title) <= 512:
+        raise ValueError("Missing or invalid resource title")
+    date_fields = {}
+    for source, target in (("datePublished", "published_at"), ("dateModified", "updated_at")):
+        value = game.get(source, "")
+        if isinstance(value, str) and re.fullmatch(r"\d{4}-\d{2}-\d{2}", value):
+            try:
+                date_fields[target] = dt.date.fromisoformat(value).isoformat() + "T00:00:00+08:00"
+            except ValueError:
+                pass
+    if not date_fields:
+        raise ValueError("Missing resource date")
+    cover = game.get("image", "")
+    p = urllib.parse.urlsplit(cover)
+    if (p.scheme != "https" or p.netloc != "www.oupai.xyz" or p.query or p.fragment
+            or not re.fullmatch(r"/%E6%B8%B8%E6%88%8F%E5%B0%81%E9%9D%A2/\d+\.webp", p.path)):
+        cover = ""
+    return {"title": title, "original_url": url, "published_at": "", **date_fields,
+            "update_date_precision": "day", "image_url": cover, "summary": "", "content": "",
+            "content_scope": "metadata", "language": "zh-Hans", "evidence": "community",
+            "source_name": site["name"], "platform": [site["platform"]], "category": "discovery"}
+
+
+def mushroom_details(body, site, robots):
+    rows, failures = [], []
+    for index, candidate in enumerate(convert(body, site)[:MUSHROOM_SCAN_LIMIT]):
+        url = candidate["original_url"]
+        if not robots.can_fetch(AGENT, url):
+            failures.append("robots.txt disallows a resource page")
+            continue
+        if index:
+            time.sleep(0.3)
+        try:
+            rows.append(mushroom_item(fetch(url, site), url, site))
+        except (OSError, ValueError, TypeError, AttributeError) as error:
+            failures.append(f"{url}: {error}")
+            if isinstance(error, urllib.error.HTTPError) and error.code in (401, 403, 429):
+                break
+    return rows, failures
+
+
 def collect(key, output, summary_limit=12):
     site = SITES[key]
     now = dt.datetime.now(dt.timezone.utc).isoformat()
@@ -578,7 +642,12 @@ def collect(key, output, summary_limit=12):
             if index:
                 time.sleep(1)
             try:
-                converted = converter(fetch(url, site), site)
+                body = fetch(url, site)
+                if site.get("format") == "mushroom":
+                    converted, detail_errors = mushroom_details(body, site, robots)
+                    failures.extend(detail_errors[:5])
+                else:
+                    converted = converter(body, site)
                 if not converted and not allow_empty:
                     raise ValueError("No matching entries; adapter needs review")
                 for item in converted:
@@ -607,8 +676,8 @@ def collect(key, output, summary_limit=12):
         items.sort(key=lambda x: max(x.get("updated_at", ""), x.get("published_at", "")), reverse=True)
         total = len(items)
         items = items[:100]  # All supported clients accept at most 100 items per feed.
-        description_health = fill_descriptions(items, cached, site, robots, summary_limit)
-        health.update(description_health)
+        if site.get("format") != "mushroom":
+            health.update(fill_descriptions(items, cached, site, robots, summary_limit))
         if site.get("format")=="nsthwj":
             health.update(download_items=sum(bool(x.get("download_links")) for x in items), download_links=sum(len(x.get("download_links",[])) for x in items))
         atomic_json(path, {"schema_version": 1, "status": "ok", "generated_at": now,

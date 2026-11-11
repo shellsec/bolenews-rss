@@ -50,6 +50,26 @@ class CollectorTest(unittest.TestCase):
             self.assertEqual(rows[0]["content"], "")
             self.assertEqual(rows[0]["image_url"], "")
 
+    def test_mushroom_uses_original_dates_cover_and_category(self):
+        site = c.SITES["mushroom-switch"]
+        path = "/SEO/%E6%B8%B8%E6%88%8F/123.html"
+        url = "https://" + c.MUSHROOM_HOST + path
+        cover = "https://www.oupai.xyz/%E6%B8%B8%E6%88%8F%E5%B0%81%E9%9D%A2/123.webp"
+        game = {"@type": "VideoGame", "name": "示例游戏", "applicationCategory": "Switch",
+                "url": "https://www.oupai.xyz" + path, "image": cover,
+                "datePublished": "2026-11-09", "dateModified": "2026-11-11"}
+        def article():
+            return '<script type="application/ld+json">' + c.json.dumps({"@graph": [game]}) + '</script>'
+        row = c.mushroom_item(article(), url, site)
+        self.assertEqual(row["original_url"], url)
+        self.assertEqual(row["image_url"], cover)
+        self.assertEqual(row["updated_at"], "2026-11-11T00:00:00+08:00")
+        self.assertEqual(row["platform"], ["switch1"])
+        self.assertNotIn("download_links", row)
+        game["applicationCategory"] = "PS4"
+        with self.assertRaises(ValueError):
+            c.mushroom_item(article(), url, site)
+
     def test_2468c_platform_scope_and_metadata_only(self):
         site = c.SITES["2468c"]
         payload = [
