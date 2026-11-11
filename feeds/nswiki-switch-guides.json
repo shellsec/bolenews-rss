@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "status": "ok",
+  "generated_at": "2026-11-11T03:21:59.049369+00:00",
+  "source_url": "https://nswiki.cn/switch1/",
+  "items": [
+    {
+      "title": "Switch 大气层整合包与虚拟系统更新教程",
+      "original_url": "https://nswiki.cn/switch1/getting-started/%E6%9B%B4%E6%96%B0%E8%BD%AF%E4%BB%B6/",
+      "summary": "介绍 Daybreak 固件更新及整合包升级。",
+      "platform": [
+        "switch1"
+      ],
+      "published_at": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "category": "guides",
+      "language": "zh-Hans",
+      "evidence": "community"
+    },
+    {
+      "title": "Switch 大气层在线更新原理深度解析",
+      "original_url": "https://nswiki.cn/switch1/advanced-learning/atmosphere-update/",
+      "summary": "解释在线更新的文件替换机制，并提供相关操作说明。",
+      "platform": [
+        "switch1"
+      ],
+      "published_at": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "category": "guides",
+      "language": "zh-Hans",
+      "evidence": "community"
+    }
+  ]
+}

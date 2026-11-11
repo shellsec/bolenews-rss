@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 16,
+  "config_version": 17,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-11T03:12:45.406692+00:00",
+  "generated_at": "2026-11-11T03:21:59.049369+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -948,6 +948,23 @@
       ],
       "evidence": "community",
       "rights_policy": "public game metadata and original cover URLs; no mirrored files or articles"
+    },
+    {
+      "id": "nswiki-switch-guides",
+      "name": "NS WIKI · Switch 图文教程",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/nswiki-switch-guides.json",
+      "category": "guides",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": true,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "community",
+      "rights_policy": "public index and direct reading of original pages; no mirrored article text or images"
     }
   ]
 }
