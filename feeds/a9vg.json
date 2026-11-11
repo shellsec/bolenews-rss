@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-10T23:34:20.987114+00:00",
+  "generated_at": "2026-11-11T06:48:08.911810+00:00",
   "source_url": "https://www.a9vg.com/",
   "items": [
     {
@@ -15,7 +15,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T23:34:26.627272+00:00"
+      "summary_checked_at": "2026-11-11T06:48:26.062798+00:00"
     },
     {
       "id": "10170203b71618388d4261e526d39ae2f475ecad0ffeb3be97a55c2492c678a2",
@@ -128,7 +128,7 @@
     },
     {
       "id": "cc1012149857abc56e8d434e2efec24c42960f323abaceef8b5d36b267b7cf1a",
-      "title": "《异界揭踪》评测：不完美，却有独特的探索乐趣",
+      "title": "《异界揭踪》评测：不完美，却有独特的探索乐趣 《异界揭踪／ANOMALITH》有着独特的世界观，游戏中的异界并非一个完全独立的幻想世界，而是以现实中的城市和建筑为基础，在此之上加入各种违背常识的异常现象。医院、商店街、住宅区、地下铁，这些原本再普通不过的场景，在异界中都变成了令人不安的存在。由于主角通常需要一人潜行于异界冒险，这些熟悉却色调倍显压抑的景色，带来一种恐怖游戏的氛围。",
       "original_url": "https://www.a9vg.com/article/246454",
       "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
       "content": "",
@@ -136,9 +136,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "metadata",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-04T01:16:18.568124+00:00"
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-11T06:48:10.269294+00:00",
+      "summary_origin": "publisher_description"
     },
     {
       "id": "e3c47f61b887d4d7ba570b26f56790ab6ea5e816a6d044e988e3b83546791a4b",
@@ -372,7 +372,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T17:59:04.855498+00:00"
+      "summary_checked_at": "2026-11-11T06:48:18.153829+00:00"
     },
     {
       "id": "f20aeebc375d9ddfc9f4f461ded35e4b1b75f247f326e5b3ac5caff37c8445ea",
@@ -399,7 +399,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T17:59:05.609238+00:00"
+      "summary_checked_at": "2026-11-11T06:48:19.674552+00:00"
     },
     {
       "id": "5bd4486b124041b17ca2459677938eea0171102c6985cde457d3ce6ceb81de16",
@@ -482,7 +482,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T17:59:06.293254+00:00"
+      "summary_checked_at": "2026-11-11T06:48:20.605204+00:00"
     },
     {
       "id": "979b5ac62091f936a8fc75426cc5a4a46557dce413b89eb918a2abed6dda6594",
@@ -495,7 +495,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T23:34:22.299605+00:00"
+      "summary_checked_at": "2026-11-11T06:48:21.549774+00:00"
     },
     {
       "id": "9beea7f3a60a8a493e3b40c6775cf01ac189158daad179987104fea8ac163079",
@@ -508,7 +508,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T23:34:24.583247+00:00"
+      "summary_checked_at": "2026-11-11T06:48:24.151552+00:00"
     },
     {
       "id": "e4c5c3f96bfa3c43c6b6c4e908cb41482de46e0d8b7a7274df8c9c1fea1609cd",
@@ -549,7 +549,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T23:34:25.311764+00:00"
+      "summary_checked_at": "2026-11-11T06:48:24.854038+00:00"
     },
     {
       "id": "74e4cba70b600f200a6bc42400f5757cc1d8827a44345075795b32013a9e5992",
@@ -705,7 +705,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T23:34:23.103566+00:00"
+      "summary_checked_at": "2026-11-11T06:48:22.476857+00:00"
     },
     {
       "id": "bc9a5d4bfb656cbff57b962c5d712232435bb8eb876b0cb22adc387f173403f4",
@@ -718,7 +718,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T23:34:23.799577+00:00"
+      "summary_checked_at": "2026-11-11T06:48:23.251734+00:00"
     },
     {
       "id": "7883f389ffc67bdafb2e63fc044123cb0b3467e012ff7cf90d7b70e0e132137f",
@@ -761,6 +761,33 @@
       "content_scope": "metadata",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-10T17:58:55.633002+00:00"
+    },
+    {
+      "id": "5e74238e8439d5ca70afa95a2ebbbd10e350f5d5b2cd587a814a91e77e532c4c",
+      "title": "双十一畅玩热门作品！ “FFVII REMAKE”系列大幅降价＆热门作品折扣再升级！",
+      "original_url": "https://www.a9vg.com/article/246839",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "metadata",
+      "summary_checked_at": "2026-11-11T06:48:13.759573+00:00"
+    },
+    {
+      "id": "40bd0359772998b398658df959e697681dddef0a8de932235bc1a64115734103",
+      "title": "双十一畅玩热门作品！ “FFVII REMAKE”系列大幅降价＆热门作品折扣再升级！",
+      "original_url": "https://www.a9vg.com/article/246837",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-11T06:48:14.429186+00:00",
+      "summary_origin": "publisher_description"
     }
   ]
 }

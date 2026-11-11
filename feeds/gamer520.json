@@ -1,9 +1,69 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-11T03:16:08.125338+00:00",
+  "generated_at": "2026-11-11T06:48:04.284483+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "狸狸 胖哒的夏日 TANUKI Pon’s Summer|官方中文|本体+v1.0.28494.20.12升补|NSP|",
+      "original_url": "https://vip.gamers520.com/125736.html",
+      "published_at": "2026-11-10T21:00:20Z",
+      "summary": "在一个炎热的夏天举行…… 塔努基节仅剩一个月,神社已年久失修。关注庞恩,这句好话,如果坦努基在邮局做兼职工作,在夏天结束前,他努力修复神龛,这话很有意思。送上套餐,交朋友,让神 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-11T03:49:42Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "v1.0.28494.20.12"
+    },
+    {
+      "title": "破石化 自然回响 Unpetrified: Echoes of Nature|官方中文|本体+v1.0.3.0升补|NSP|",
+      "original_url": "https://vip.gamers520.com/125738.html",
+      "published_at": "2026-11-10T21:02:23Z",
+      "summary": "做个石头戈莱姆,借助可爱的狐狸,努力拯救大自然! 踏上情感冒险 《无拘无束:自然之声》是一种宁静而富有反思性的体验,充满了有意义的收藏品、独特的情感互动以及环境谜题。管弦乐原声带强调一段关于友谊、失落 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-11T03:49:41Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "v1.0.3.0"
+    },
+    {
+      "title": "战锤幸存者 Warhammer Survivors|官方中文|本体+v2.1.2升补|NSP|",
+      "original_url": "https://vip.gamers520.com/125740.html",
+      "published_at": "2026-11-10T21:10:19Z",
+      "summary": "Warhammer Survivors 《战锤幸存者》是由《Warhammer 40,000 Boltgun》开发者打造的暗黑风逆弹幕射击幸存者类游戏。游戏中有超过40位来自《战锤40,000》和《战 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-11T03:49:33Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "v2.1.2"
+    },
     {
       "title": "霓虹深渊2|官方中文|本体+1.0.2升补+2DLC|NSP|",
       "original_url": "https://vip.gamers520.com/124280.html",
@@ -874,7 +934,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-06T17:34:51.644474+00:00"
+      "summary_checked_at": "2026-11-11T06:48:06.832878+00:00"
     },
     {
       "title": "黑暗之魂2|移植版|",
@@ -1663,58 +1723,6 @@
         "switch1"
       ],
       "summary_checked_at": "2026-11-08T15:23:27.524619+00:00"
-    },
-    {
-      "title": "侠盗猎车手 GTA4|官方中文|移植版|",
-      "original_url": "https://vip.gamers520.com/124350.html",
-      "published_at": "2026-10-20T19:00:26Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-20T23:51:54Z",
-      "platform": [
-        "switch1"
-      ],
-      "summary_checked_at": "2026-11-08T20:37:36.305255+00:00"
-    },
-    {
-      "title": "东东不死传说2023版|移植版|",
-      "original_url": "https://vip.gamers520.com/124351.html",
-      "published_at": "2026-10-20T19:00:20Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-20T23:51:54Z",
-      "platform": [
-        "switch1"
-      ],
-      "summary_checked_at": "2026-11-09T01:01:51.451685+00:00"
-    },
-    {
-      "title": "闪电十一人 英雄们的胜利之路 高级版|豪华中文|本体+7.2.0升补+2DLC|NSZ|",
-      "original_url": "https://vip.gamers520.com/102189.html",
-      "published_at": "2026-10-20T19:10:28Z",
-      "summary": "下载在底部 本作是集收集、育成于一体的超次元足球RPG《闪电十一人》系列的最新作。 玩家不仅可以体验围绕新主人公展开的全新剧情，还可以收集、培养超过5400名球员，并在线上比赛中与全世界的玩家们一决高 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-20T23:51:50Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ],
-      "version": "7.2.0"
     }
   ]
 }
