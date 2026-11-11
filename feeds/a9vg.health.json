@@ -1,22 +1,6 @@
 {
   "source": "a9vg",
-  "attempted_at": "2026-11-10T23:34:20.987114+00:00",
-  "status": "ok",
-  "summary_count": 40,
-  "summary_attempts": 12,
-  "summary_missing": 15,
-  "summary_errors": [
-    "Cross-site or non-HTTPS redirect rejected",
-    "Cross-site or non-HTTPS redirect rejected",
-    "Cross-site or non-HTTPS redirect rejected",
-    "Cross-site or non-HTTPS redirect rejected",
-    "Cross-site or non-HTTPS redirect rejected"
-  ],
-  "count": 55,
-  "fetched_count": 43,
-  "retained_count": 12,
-  "input_urls": [
-    "https://www.a9vg.com/"
-  ],
-  "dropped_by_limit": 0
+  "attempted_at": "2026-11-11T03:16:13.770041+00:00",
+  "status": "unavailable",
+  "error": "HTTP Error 502: Bad Gateway"
 }

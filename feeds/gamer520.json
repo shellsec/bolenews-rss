@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-10T23:34:15.374582+00:00",
+  "generated_at": "2026-11-11T03:16:08.125338+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -858,7 +858,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-06T09:32:17.626241+00:00"
+      "summary_checked_at": "2026-11-11T03:16:10.923603+00:00"
     },
     {
       "title": "火影忍者 忍者崛起|移植版|",
