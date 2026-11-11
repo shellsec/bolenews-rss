@@ -1,9 +1,361 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-11T06:48:28.379944+00:00",
+  "generated_at": "2026-11-11T15:28:46.114498+00:00",
   "source_url": "https://nsthwj.cn/pc",
   "items": [
+    {
+      "id": "3a8f1e1dc3f104d509db82661043698cccef4325447cebb4b0cf8bb9898cb51f",
+      "title": "一起开火车!|Unrailed!",
+      "original_url": "https://nsthwj.cn/game/pc/138016",
+      "source_name": "NS头号玩家 PC",
+      "summary": "《一起开火车！》是一款多人合作游戏，你需要与好友合作，在层出不穷的世界中建设铁轨。征服途中随机遇到的居民，升级你的火车，防止它脱轨！",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v2.1.399F91AB7联机版",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "c213ff7e545a62d74edb607079b873f4ab6a62716550abf539f3b9d2e4a84b65",
+      "title": "废土之王|Nuclear Throne",
+      "original_url": "https://nsthwj.cn/game/pc/138015",
+      "source_name": "NS头号玩家 PC",
+      "summary": "《Nuclear Throne》是一款以末世为背景的俯视角肉鸽射击游戏。这可不是那种“人类存亡之战”的末世。在这里，人类早已灭绝，世界沦为变种与怪物的乐园。你能否成功登上核能王座？",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.21075708",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "bf19cbed68f03143faa052550e01b6109a528a89b3165bcc7eb0d21025777bf1",
+      "title": "小黄鸭模拟器|Placid Plastic Duck Simulator",
+      "original_url": "https://nsthwj.cn/game/pc/138014",
+      "source_name": "NS头号玩家 PC",
+      "summary": "究极高科技橡皮鸭模拟，疗愈橡皮鸭模拟器为您献呈达到临界水平的放松体验。轻松的音乐、梦幻的3D画面、众多不同的快乐小鸭。您唯一要做的事就是随意浮沉。什么都不用「鸟」。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v2.2.6",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "d14c8a892c91f5de22edd577a69ee12d8e62658641c3f7be4ae0ece4a959e359",
+      "title": "三位一体2：完整故事|Trine 2: Complete Story",
+      "original_url": "https://nsthwj.cn/game/pc/138013",
+      "source_name": "NS头号玩家 PC",
+      "summary": "Three Heroes make their way through a fairytale world of forgotten ruins, scheming goblins and incredible contraptions, featuring physics-based puzzles, beautiful sights and online and local co-op.",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v2.02",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "710710136aaef81e9307b224912f672072dcc5f6c2bac524ec093fafdf50b3da",
+      "title": "陷阵之志|Into the Breach",
+      "original_url": "https://nsthwj.cn/game/pc/138012",
+      "source_name": "NS头号玩家 PC",
+      "summary": "控制未来的强大机甲抵御外星威胁。在这个回合制策略游戏中，每次拯救世界的尝试都会随机生成新的挑战。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.21601364",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "4d75f680a6ea648a30c3add9a50cb883314ad92444c5ba8b6a2fe831ce948524",
+      "title": "一袋子牛奶外面的一袋子牛奶|Milk outside a bag of milk outside a bag of milk",
+      "original_url": "https://nsthwj.cn/game/pc/138011",
+      "source_name": "NS头号玩家 PC",
+      "summary": "本作为游戏《Milk inside a bag of milk inside a bag of milk》的续作。再次进入这个疯狂奇诡的世界，帮助那位小女孩，让她变得开心一点吧。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.9143203",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "c58df8837c0cc34b524ccba554403cb3c7820775a0e57e04665acd6978dc5cb6",
+      "title": "我们曾到此探险：友谊考验 - 友谊考验|We Were Here Expeditions: The FriendShip",
+      "original_url": "https://nsthwj.cn/game/pc/138010",
+      "source_name": "NS头号玩家 PC",
+      "summary": "与您的朋友在线合作，通过一起解决废弃游乐园中的谜题来测试您的友谊。在这个独立的《We Were Here》游戏体验中一起努力克服这些考验智力的挑战。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v1.0.2",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "c9d2d7c0eabd202c8f88fc244d42980476997f3dcf6aa5489e02c5b2325b6f41",
+      "title": "俄罗斯人对蜥蜴人|LIZARDS MUST DIE",
+      "original_url": "https://nsthwj.cn/game/pc/138009",
+      "source_name": "NS头号玩家 PC",
+      "summary": "古俄罗斯人在与蜥蜴人战斗中建立的伟大功绩。沉浸在希柏里尔世界中，打败成群的蜥蜴人和其他侵占圣地的天外来客。选择一位受祝福的英雄，从绿色瘟疫中拯救世界。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v20240316",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "21858c5317d2d817255a249b137c48ec4bb94609feee133829b4994a602a1194",
+      "title": "刺客信条：兄弟会|Assassin’s Creed Brotherhood",
+      "original_url": "https://nsthwj.cn/game/pc/138007",
+      "source_name": "NS头号玩家 PC",
+      "summary": "是时候加入兄弟会了。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.12901844",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "a4086396738e9e932dc2b421b1d0cbecb128b39bc878ec94b2d61686a01aca0c",
+      "title": "层层恐惧|Layers of Fear",
+      "original_url": "https://nsthwj.cn/game/pc/138006",
+      "source_name": "NS头号玩家 PC",
+      "summary": "一款注重营造氛围与叙事的第一人称心理恐怖游戏，玩家将扮演一位画家，探索不断变幻的维多利亚风格豪宅，不惜精神崩溃也要完成自己的杰作。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v1.1.1豪华版",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "e391d1c111bf7a280c81f6cb19b0174add747367b98a890460f0bd41014e78f0",
+      "title": "毁灭战士+毁灭战士2|DOOM + DOOM II",
+      "original_url": "https://nsthwj.cn/game/pc/138005",
+      "source_name": "NS头号玩家 PC",
+      "summary": "由id Software开发、并分别于1993年和1994年首次发布的《DOOM》和《DOOM II》现已推出最终全新增强版，并作为组合产品供玩家体验。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.05092024",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "9fb71fc8fedd6402f7d8ef7dd2ad3b588c7bd052fef1b88c347518d6fcc108af",
+      "title": "100%鲜橙汁|100% Orange Juice",
+      "original_url": "https://nsthwj.cn/game/pc/138004",
+      "source_name": "NS头号玩家 PC",
+      "summary": "100%鲜橙汁是橙汁系列作品全明星登场的桌面游戏。与来自各个橙汁作品里的角色，以及在本作中出现的新角色们，一起以获胜为目标使用骰子对战吧！",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v3.13.7.2393联机版",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "53839745d4094fea295c8baf8822ddd7fd9274480ca824762077abd9a051423c",
+      "title": "心跳文学部Plus|Doki Doki Literature Club Plus!",
+      "original_url": "https://nsthwj.cn/game/pc/138003",
+      "source_name": "NS头号玩家 PC",
+      "summary": "欢迎加入文学部！在这个广受好评的心理恐怖故事之中，为暗恋对象写诗，尽情体验校园浪漫的恐怖之处吧。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.10766092",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "b5f77a89f8ba3e0453705b695ec16f1c40ad353b2230213b44c9945370d2944d",
+      "title": "神界：原罪加强版|Divinity: Original Sin - Enhanced Edition",
+      "original_url": "https://nsthwj.cn/game/pc/138002",
+      "source_name": "NS头号玩家 PC",
+      "summary": "召集你的队伍，准备迎接Gamespot2014年度PC游戏的全新版本。包含海量新内容、全新游戏模式、全角色台词配音、分屏双人合作、以及无数针对游戏体验的改进，现在是探索绿维珑辽阔世界的最好时机！",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v2.0.119.430",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "10c7be7506c763a401fa415fa34edaa3c007603fec0b6cb1d2be880b53473b78",
+      "title": "塔罗斯的法则|The Talos Principle",
+      "original_url": "https://nsthwj.cn/game/pc/138001",
+      "source_name": "NS头号玩家 PC",
+      "summary": "《塔罗斯的法则》是一款第一人称解谜游戏，它来自打造出《英雄萨姆》系列游戏的CROTEAM，并且由Tom Jubert (FTL《超越光速》，The Swapper《交易者》) 以及Jonas Kyratzes (The Sea Will Claim Everything)联合创作。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v554784",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "9eae39e4ac4aff4a16f810bbf7d6e2f5bd1ecb5676ce5285a388a46d92da8969",
+      "title": "绝地潜兵|Helldivers Dive Harder Edition",
+      "original_url": "https://nsthwj.cn/game/pc/138000",
+      "source_name": "NS头号玩家 PC",
+      "summary": "绝地潜兵是一款使用双操作杆操作游玩的合作式射击游戏，极具挑战性且耐玩度高。玩家将扮演精英部队“绝地潜兵”的一员，与其他玩家并肩作战，投身银河之战中保护超级地球，打倒敌人。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "",
+      "updated_at": "2026-11-11T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
     {
       "id": "9c7e3202c3ac9e9a7e90fd6636a825a9d359daade2cd1b002f4cfef7de02851e",
       "title": "一袋子牛奶里面的一袋子牛奶|Milk inside a bag of milk inside a bag of milk",
@@ -1851,550 +2203,6 @@
       "version": "Build.26296703",
       "updated_at": "2026-11-06T00:00:00+08:00",
       "update_date_precision": "day"
-    },
-    {
-      "id": "5c983c1a9c782525718de55ba4639d3848a8c25b4d836e95d6f88dc7d186c26f",
-      "title": "进击的巨人2：最终之战|Attack on Titan 2 - A.O.T.2",
-      "original_url": "https://nsthwj.cn/game/pc/134541",
-      "source_name": "NS头号玩家 PC",
-      "summary": "Abandon all fear. Attack on Titan 2 is the gripping sequel to the action game based on the worldwide hit anime series \"Attack on Titan.\"",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "v2.0.5.0",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1caD3N7xRytBrFNO6p7LK-Q?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/b629f819083c",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "8bd1c3013af84e80f01942a7d83baed60e2310c0853b4f66e2d9565a0545164f",
-      "title": "共鸣炼金术|Resonurgy",
-      "original_url": "https://nsthwj.cn/game/pc/137867",
-      "source_name": "NS头号玩家 PC",
-      "summary": "建造自动化工厂，让机械与炼金术协同运作。探索科技与魔法交融的世界，扫描物质，提取隐藏的原理。连接生产线，搭建研究回路，遏制工厂产生的不谐。独自开拓，或与好友携手建设。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26250239",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1Ifqw7YR1fYQOB_0s3D5NjA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/9f46b3ea3a12",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "50e5b0100ee9bafb8e68bcd6184c2d60c42bfd4bad0ab7a17187b30c353bc883",
-      "title": "小云朵模拟器|Nedi Cloud Simulator",
-      "original_url": "https://nsthwj.cn/game/pc/137866",
-      "source_name": "NS头号玩家 PC",
-      "summary": "你是一朵飘浮在灰暗死寂世界上空的小雨云。按住降雨，看着青草、鲜花和树木在你脚下重获新生。唤醒泉水，填满湖泊，治愈每一座漂浮的岛屿，再来挑战你自己的最佳纪录。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26034848",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1dZ3RT3A__YDyumf7qs6ejw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/a34e6cfe744b",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "613706892b8d970a310ad8489472da5dea8eb946fd8c506e96e23eb4eb6cad0c",
-      "title": "街机厅与汽车旅馆模拟器|Arcade & Motel Simulator Together",
-      "original_url": "https://nsthwj.cn/game/pc/137865",
-      "source_name": "NS头号玩家 PC",
-      "summary": "经营一家霓虹闪烁的公路汽车旅馆，隔壁还开着一间街机厅。与房客讨价还价、升级客房、畅玩八款真正可玩的街机游戏、为饥肠辘辘的玩家烹制汉堡，并用你的复古平板电脑掌控一切。单人游玩或最多4人在线合作皆可。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26354065",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1WEoJ0unhlfNWe6h1hY1pgw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/a2ac7c0214a4",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "9c8691e7940fe0f110f50911bf9ad661be20c272cc96ffa933553e3ff1335092",
-      "title": "认识你的灵魂|Know Your Anima",
-      "original_url": "https://nsthwj.cn/game/pc/137864",
-      "source_name": "NS头号玩家 PC",
-      "summary": "一款带有神秘与内省气息的温馨种田模拟游戏。在为期 12 天的周期里照料你的内心花园，做出选择，并与前来拜访的灵兽建立羁绊。你所做的一切，以及你没有做的一切，都会通过你的主导阿尼玛揭示你的性格。你敢于认识自己吗？",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26352248",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1wvpkCK1KDo_DYxAsYFNeJQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/395cf736d85e",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "048aa9b6d1fa0df17bdc02e4acbff2e3bc98d97a5ac85d034940f01116d22ac5",
-      "title": "万圣节嘉年华：一起大整理|Halloween Fair: Tidy Up Together",
-      "original_url": "https://nsthwj.cn/game/pc/137863",
-      "source_name": "NS头号玩家 PC",
-      "summary": "一点点惊悚，一大堆待整理！在这款支持最多4人合作的温馨整理游戏中，为月光下的万圣节集市恢复秩序。归置散落的装饰，赚取节庆火花，解锁全队共享的升级，把满地狼藉变成大功告成的满足感。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26336386",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/13knqsdzJ0yERHZSP6GFLjA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/275a5587964b",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "75d5df8bc1c90df0bb4c7e85cd706126f94c3e3b53dd3251e6856ed32c6c6561",
-      "title": "像素大混乱：整理博物馆|Pixel Chaos: Tidy Up the Museum",
-      "original_url": "https://nsthwj.cn/game/pc/137862",
-      "source_name": "NS头号玩家 PC",
-      "summary": "这是一款舒适的第一人称组织游戏，背景设定在混乱的维多利亚博物馆中。收集分散的彩色立方体，将它们堆叠起来，然后将它们放入匹配的插槽中，以展示像素艺术品并恢复迷人的 3D 体素展品。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26332841",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1m04x9HCNYmydc4E_2ffIbw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/aae281518f99",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "5295957c9ee72131a4ddec352a965fed54458e16e04335d1afc9aa77f7392339",
-      "title": "诡异公寓|INTUS",
-      "original_url": "https://nsthwj.cn/game/pc/137861",
-      "source_name": "NS头号玩家 PC",
-      "summary": "由于害怕失去工作，你答应在周末加班，并租下一间便宜的公寓来完成任务。 但很快，保住工作就会成为你最不需要担心的事情。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26358800",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1Q4Gu3RUdgTfhDNBLYoMpug?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/56bbfd88d2d2",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "3d2289b0df86f6a7e2373bec0be753d1272cf5556ec6fe316de3c53f748ad441",
-      "title": "余烬觉醒|Cinderwake",
-      "original_url": "https://nsthwj.cn/game/pc/137860",
-      "source_name": "NS头号玩家 PC",
-      "summary": "一款点击操作的黑暗等距视角动作角色扮演游戏，拥有丰富的战利品和五个各有三棵技能树的职业。宠物会替你拾取战利品并不断成长。独自或与最多 8 名玩家联机，闯过四幕随机生成的地图。三个世界难度与无尽的 Pyre。掠夺、阵亡、再来。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26392043",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1ku-qWs-5Iv7GYH3OlSbvCw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/b26ea431d177",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "8ed49c1b0552821db93a3b1e47b0d5cd627d15349ebc12d9ba45991a1d1046a9",
-      "title": "二手游戏店模拟器|Replay Value: Second Hand Games",
-      "original_url": "https://nsthwj.cn/game/pc/137859",
-      "source_name": "NS头号玩家 PC",
-      "summary": "从零称霸二手游戏圈！不管是AAA大作还是小众独立，这里应有尽有！凭毒辣眼光淘稀有狠货，靠灵活手腕划定市场格局。收售倒卖、轻松议价。从地摊小贩蜕变为搅动二手游戏江湖的幕后大佬，你的传奇，从此刻开场！",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26388194",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1BpUhIXuc3ja378qX68pQ5w?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/0dc281cc216a",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "6758b580b48d0afb7529e3dcacc32ac748eb2e4460fa09afecad8070a5488eaa",
-      "title": "鲍勃物流|BOB LOGISTICS",
-      "original_url": "https://nsthwj.cn/game/pc/137858",
-      "source_name": "NS头号玩家 PC",
-      "summary": "欢迎来到鲍勃公司！核对订单、搬运货物，用自动化设备让工作一点点变轻松。在这款悠闲的第一人称仓库模拟游戏中，从实习生晋升为总监。随着职级提升，公司的新区域与背后隐藏的故事也将逐渐展现。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26377603",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1pTHhoRpwvWnx5g3ERImSkQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/e0a226804085",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "ed915ff7e2e2b3556d4de009193b1dcb8eb49364aa651049dddda6323e791936",
-      "title": "地球模拟器|Earth Simulator",
-      "original_url": "https://nsthwj.cn/game/pc/137857",
-      "source_name": "NS头号玩家 PC",
-      "summary": "Create a planet, bring it to life, and decide what role you’ll play in its history.",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26386685",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1M6-fQBhcRKCrZY97BvQiFg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/0473e3f0cd50",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "188d3a10288be8c24c65f384e73cffe3e1a08643abacaa3958d32f72c9d47402",
-      "title": "高尔夫5：巅峰版|Golf 5 MAX",
-      "original_url": "https://nsthwj.cn/game/pc/137856",
-      "source_name": "NS头号玩家 PC",
-      "summary": "复古街机高尔夫与真实物理效果相结合。打造你的球手，掌握挥杆技巧，挑战 Birdie or Bust 模式——每一洞都成败在此一举。单人畅玩，或挑战来自世界各地的对手。发售首周特惠，立减 25%！",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26379652",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/19Lck_fDjKrcI94KFBHPLFw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/7a44524edaac",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "ef95ba6d0cab2e1e9172441a6e19bfdc3351f641c548b6e416a9f632fcf172ef",
-      "title": "超级英雄模拟器|Superhero Simulator",
-      "original_url": "https://nsthwj.cn/game/pc/137855",
-      "source_name": "NS头号玩家 PC",
-      "summary": "《超级英雄模拟器》是一款开放世界的超级英雄游戏，你将与恶棍战斗，拯救生命！但是，成为英雄并非免费——你需要工作、付房租并且生存。你能同时应付超级英雄生活的两面吗？",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.26262254",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1q1VpiSOMwGCNLjUjgTNZZw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/aea553eb2f73",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "30e849179f63b188be7312565c124bde004649c3237c815813e8b047c3fcd134",
-      "title": "松弛兜风同行|Chill Drive Together",
-      "original_url": "https://nsthwj.cn/game/pc/137854",
-      "source_name": "NS头号玩家 PC",
-      "summary": "一条没有尽头的路，一到两位驾驶者，尽头什么也不等着你。一个按键就能改变车周围的世界——没有加载画面。十六辆车，五种环境。没有什么要解锁，没有什么地方要去。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.25383814",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1c2F2rSrmXpd7_EELQOgHAA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/3c884b27e31d",
-          "extraction_code": ""
-        }
-      ]
-    },
-    {
-      "id": "5d0ca1673ae4be41e8b09e5473392d67ccc3c3238bc1b2eecbd8db6e1ec25f41",
-      "title": "渡资：摆渡人的账本|Toll: The Ferryman's Ledger",
-      "original_url": "https://nsthwj.cn/game/pc/137853",
-      "source_name": "NS头号玩家 PC",
-      "summary": "你从亡者眼上取走钱币，总有一天，其中一枚必须是你自己的。一部真会结束的卡戎放置游戏：五条冥河、欠哈得斯的贡品、147个留着未竟之事的亡者，以及大约三小时后的最后一渡。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "Build.25525577",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1CxUQJ9XLV3PxCvCohCkuCA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/a95415c1075e",
-          "extraction_code": ""
-        }
-      ]
     }
   ]
 }

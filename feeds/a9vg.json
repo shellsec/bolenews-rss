@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-11T06:48:08.911810+00:00",
+  "generated_at": "2026-11-11T15:28:16.024398+00:00",
   "source_url": "https://www.a9vg.com/",
   "items": [
     {
@@ -28,7 +28,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T23:34:27.373984+00:00"
+      "summary_checked_at": "2026-11-11T15:28:25.323277+00:00"
     },
     {
       "id": "2838a1dbbff68f49f8765d7532ba8dc5f9e4d7f15f214c4d4d0542863472c486",
@@ -55,7 +55,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T23:34:28.647613+00:00"
+      "summary_checked_at": "2026-11-11T15:28:26.628691+00:00"
     },
     {
       "id": "d443e73893e48649df3c76de7158ef9daa8db6e2d4317ea6bc18926c22b8e8cb",
@@ -68,7 +68,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T23:34:29.384172+00:00"
+      "summary_checked_at": "2026-11-11T15:28:29.040628+00:00"
     },
     {
       "id": "438caa189fd677324f3eb98d948fccc0e605d3f9add7a94c9de7c395df94b629",
@@ -136,9 +136,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-11T06:48:10.269294+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-11T06:48:10.269294+00:00"
     },
     {
       "id": "e3c47f61b887d4d7ba570b26f56790ab6ea5e816a6d044e988e3b83546791a4b",
@@ -319,7 +319,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T23:34:30.131330+00:00"
+      "summary_checked_at": "2026-11-11T15:28:30.707290+00:00"
     },
     {
       "id": "28eae1d8be16f4f6648fd21f98fa20b0a77618b18b63584f61b60a95f27d51cc",
@@ -346,7 +346,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T23:34:30.876891+00:00"
+      "summary_checked_at": "2026-11-11T15:28:32.857268+00:00"
     },
     {
       "id": "655eddeafc21739f04d1f82db240da5a78e6dcafe0a13e3a4a14bdb4d40270fa",
@@ -359,7 +359,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-10T23:34:31.761832+00:00"
+      "summary_checked_at": "2026-11-11T15:28:34.067020+00:00"
     },
     {
       "id": "668e31641b54c0b1064d43165b647b37fff1f78791606fc59d1c7dc59af9c266",
@@ -372,7 +372,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-11T06:48:18.153829+00:00"
+      "summary_checked_at": "2026-11-11T15:28:35.837202+00:00"
     },
     {
       "id": "f20aeebc375d9ddfc9f4f461ded35e4b1b75f247f326e5b3ac5caff37c8445ea",
@@ -399,7 +399,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-11T06:48:19.674552+00:00"
+      "summary_checked_at": "2026-11-11T15:28:36.705673+00:00"
     },
     {
       "id": "5bd4486b124041b17ca2459677938eea0171102c6985cde457d3ce6ceb81de16",
@@ -773,7 +773,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-11T06:48:13.759573+00:00"
+      "summary_checked_at": "2026-11-11T15:28:34.970828+00:00"
     },
     {
       "id": "40bd0359772998b398658df959e697681dddef0a8de932235bc1a64115734103",
@@ -785,8 +785,48 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-11T06:48:14.429186+00:00"
+    },
+    {
+      "id": "8e096f249f7acef045e9e856bbe3fce7472684e0791fd9879d16d112a12b4682",
+      "title": "《塞尔达传说 时之笛 重制版》发售后4天销量突破520万份",
+      "original_url": "https://www.a9vg.com/article/246857",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "metadata",
+      "summary_checked_at": "2026-11-11T15:28:19.393219+00:00"
+    },
+    {
+      "id": "7dfd5646a20e699661f0cbd33ae61f8445f32adee28ccc41d34c4efe69b0e9a4",
+      "title": "SIE官网更新数据 PS5全球累计出货量已突破1亿台",
+      "original_url": "https://www.a9vg.com/article/246856",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "metadata",
+      "summary_checked_at": "2026-11-11T15:28:21.112249+00:00"
+    },
+    {
+      "id": "ba8ae0c69c06614b039713e13c1bbf13accf29460ff1beb681e538a09c5eaaa8",
+      "title": "免费成为英雄，无隐藏费用！《虚空地牢》等待冒险者集结！",
+      "original_url": "https://www.a9vg.com/article/246865",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
       "content_scope": "summary",
-      "summary_checked_at": "2026-11-11T06:48:14.429186+00:00",
+      "summary_checked_at": "2026-11-11T15:28:23.264852+00:00",
       "summary_origin": "publisher_description"
     }
   ]
