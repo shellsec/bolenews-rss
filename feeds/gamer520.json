@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-12T12:58:20.845929+00:00",
+  "generated_at": "2026-11-12T20:57:22.569139+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -1477,7 +1477,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-07T16:55:11.963574+00:00"
+      "summary_checked_at": "2026-11-12T20:57:25.044585+00:00"
     },
     {
       "title": "车神3|移植版|",

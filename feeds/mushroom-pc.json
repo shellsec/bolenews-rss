@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-12T12:59:15.265530+00:00",
+  "generated_at": "2026-11-12T20:58:46.324047+00:00",
   "source_url": "https://www.xn--ogtt23ghrb.cn/SEO/%E5%88%86%E7%B1%BB/PC%E6%B8%B8%E6%88%8F.html",
   "items": [
     {
@@ -114,7 +114,7 @@
       "category": "discovery"
     },
     {
-      "title": "火焰纹章：万缕千丝 Build.168_Eglantine（Fire Emblem Fortune's Weave）免安装中文版",
+      "title": "火焰纹章：万缕千丝 v0.1.6 NS2移植（Fire Emblem Fortune's Weave）免安装中文版",
       "original_url": "https://www.xn--ogtt23ghrb.cn/SEO/%E6%B8%B8%E6%88%8F/1923879.html",
       "published_at": "2026-11-03T00:00:00+08:00",
       "updated_at": "2026-11-03T00:00:00+08:00",
@@ -129,7 +129,8 @@
       "platform": [
         "pc"
       ],
-      "category": "discovery"
+      "category": "discovery",
+      "version": "v0.1.6"
     },
     {
       "title": "塞尔达传说：王国之泪 游戏v1.4.3_移植器v0.1.0-beta（The Legend of Zelda Tears of the Kingdom）免安装中文版",

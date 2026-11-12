@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-12T12:58:41.546166+00:00",
+  "generated_at": "2026-11-12T20:58:02.535457+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -69,9 +69,9 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-11T00:00:00+08:00",
+      "updated_at": "2026-11-12T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-11T15:28:40.555655+00:00"
+      "summary_checked_at": "2026-11-12T20:58:04.472793+00:00"
     },
     {
       "id": "193a02e3a4dc8571c2b80cd86e6b87bd9e0e36190ac91a1d5a46da8414ae5601",
@@ -92,9 +92,9 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-11T00:00:00+08:00",
+      "updated_at": "2026-11-12T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-11T15:28:41.602741+00:00"
+      "summary_checked_at": "2026-11-12T20:58:05.824175+00:00"
     },
     {
       "id": "285944c501b41748c4cdfa72ecc596600cf9ed3ac0e4a4bbfe2706d8ba121570",
@@ -115,9 +115,9 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "最新版本：1.0.4",
-      "updated_at": "2026-11-11T00:00:00+08:00",
+      "updated_at": "2026-11-12T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-11T15:28:42.522431+00:00"
+      "summary_checked_at": "2026-11-12T20:58:07.204473+00:00"
     },
     {
       "id": "fe9e409858b51b3023937b3e02e3bd625e3323a2721dfcc5dac9f7c4b2741506",
@@ -138,9 +138,9 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "最新版本：1.0.28494.20.12",
-      "updated_at": "2026-11-11T00:00:00+08:00",
+      "updated_at": "2026-11-12T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-11T15:28:43.508788+00:00"
+      "summary_checked_at": "2026-11-12T20:58:08.590305+00:00"
     },
     {
       "id": "d8e3bb496d2c85a53b686fca460678288b9754a95add30a1cd8582a0c5e3b279",
@@ -161,9 +161,9 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "最新版本：2.1.2",
-      "updated_at": "2026-11-11T00:00:00+08:00",
+      "updated_at": "2026-11-12T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-11T15:28:45.253100+00:00"
+      "summary_checked_at": "2026-11-12T20:58:09.687695+00:00"
     },
     {
       "id": "e82aaad8ed10d071fb8e005bdfa5cd4f2bb60ab8dd1ca77816eb256001729bff",
@@ -184,9 +184,9 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-11T00:00:00+08:00",
+      "updated_at": "2026-11-12T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-11T22:50:56.758101+00:00"
+      "summary_checked_at": "2026-11-12T20:58:10.817274+00:00"
     },
     {
       "id": "3e1de5e5da501b1730a1bc4c81fa1690bcd7a5f14a2abfdaea291ec09b0cfe1a",
@@ -207,9 +207,9 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-10T00:00:00+08:00",
+      "updated_at": "2026-11-12T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-10T06:30:13.775284+00:00"
+      "summary_checked_at": "2026-11-12T20:58:11.891920+00:00"
     },
     {
       "id": "51eeb74216f657b580d5b8f6108801603b2d98ac34e42694a957fa5c9c78715a",
@@ -230,9 +230,9 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-10T00:00:00+08:00",
+      "updated_at": "2026-11-12T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-10T17:59:10.421745+00:00"
+      "summary_checked_at": "2026-11-12T20:58:13.242579+00:00"
     },
     {
       "id": "78e38007031a212b5a3335f3cb5eb2e58abb67614a2e195aa53525d3b317166f",
@@ -253,9 +253,298 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "最新版本：1.1.0",
-      "updated_at": "2026-11-10T00:00:00+08:00",
+      "updated_at": "2026-11-12T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-10T17:59:11.752270+00:00"
+      "summary_checked_at": "2026-11-12T20:58:14.558001+00:00"
+    },
+    {
+      "id": "0e0a04248cdfcd6bf27598621b1f7228f82f878d08ec057702f3f71e499f32b7",
+      "title": "[移植游戏 ]东方非想天则：追寻超弩级人偶的谜团|Touhou Hisoutensoku: Choudokyuu Ginyoru no Nazo wo Oe",
+      "original_url": "https://nsthwj.cn/game/switch/137997",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "某个清晨，山间出现了一个巨大的人形物体，它不断冒出蒸汽，随后便消失在山雾之中。纱苗、西诺和美玲都看到了那个神秘的存在。纱苗认为那可能是一台巨型机器人；西诺则坚信那是“大太郎机器人”；而美玲则觉得那是“泰水行军”。她们三人决定去面对那个神秘的存在。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.1.7",
+      "updated_at": "2026-11-12T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-12T20:58:15.917034+00:00"
+    },
+    {
+      "id": "cd07f093228cee37f1fd6ff3979a2bcd9d209aae33f39161442ad034fe4dcd47",
+      "title": "[移植游戏]流星蝴蝶剑|Meteor Blade中文",
+      "original_url": "https://nsthwj.cn/game/switch/137996",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《流星蝴蝶剑》是由昱泉国际于 2002 年发行的一款动作角色扮演类单机游戏，游戏根据古龙的同名武侠小说名著改编而成。 游戏可以分成单机版与连线版这二种方式，单机模式中扮演的就是“杀手”的角色，玩家基本上是按一关一关的方式在进行，每一个关卡都有其场景、故事背景、胜利条件，单机模式的挑战性十分高，每个关卡都有不同的场景地…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.1.11",
+      "updated_at": "2026-11-12T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-12T20:58:17.305701+00:00"
+    },
+    {
+      "id": "1efc3faf4797784614c5498cc069dd11ace84bde2b2deaf50b502fe2c31e8348",
+      "title": "[移植游戏]求生之路2|Left 4 Dead 2中文",
+      "original_url": "https://nsthwj.cn/game/switch/137977",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "以僵尸大灾难为背景，《求生之路 2》（L4D2）是 2008 年最受欢迎的合作游戏 —《求生之路》的续集。 这个恐怖的第一人称射击游戏将带领你和你的好友穿过城市，沼泽，深入南部的墓地，从沙凡那港市到新奥尔良，沿途经过 5 个漫长的战役。 你会扮演四名新生还者中的一名，装备有大量先进的武器。除了枪支之外，你还会有机会用…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-12T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-12T20:58:18.399200+00:00"
+    },
+    {
+      "id": "d7af6f2a17e870d40b038de85d0b99658e2382b93f0e0e12a140a6b5ca3d84f6",
+      "title": "关于我们尝试把似曾相见的「那些游戏」做得更加刺激，却惊觉火柴人存在极限这档事中文",
+      "original_url": "https://nsthwj.cn/game/switch/137982",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-12T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "f7ed60b7aa3ed61c220f029d035255f843b4aef8143b3e4834e1fc9f4e23a3a0",
+      "title": "狡猾的幸存者|工匠幸存者|Crafty Survivors中文",
+      "original_url": "https://nsthwj.cn/game/switch/137981",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.1.1",
+      "updated_at": "2026-11-12T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "75baae1d19ac12d56b1de1e08da3d86c40b2a1c316b605a4dd9ee286dfcd713c",
+      "title": "[移植游戏]荣誉勋章：联合袭击|Medal of Honor: Allied Assault",
+      "original_url": "https://nsthwj.cn/game/switch/137980",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.83.0 R2",
+      "updated_at": "2026-11-12T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "62891c012a19207317d69a055e5002bf4deaef8a7096bf42c813edb469282f1f",
+      "title": "[移植游戏]求生之路|Left 4 Dead中文",
+      "original_url": "https://nsthwj.cn/game/switch/137975",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-12T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "066e078cc1f52d3cb37583cd83e5c9e02a38e17eb1a15138066c5862c8f1794d",
+      "title": "NetherPX2[PS2模拟器]",
+      "original_url": "https://nsthwj.cn/game/switch/134818",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.4.1",
+      "updated_at": "2026-11-12T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "d35d31cfa7026027cbd63bb8219e93ca74720586c020cd8343d61d915da4c7c1",
+      "title": "[移植游戏]植物大战僵尸2：返茂版|Plants vs. Zombies 2: Reflourished汉化",
+      "original_url": "https://nsthwj.cn/game/switch/136807",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-12T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "bf4b43d22447bf7c0186017fc8ad09767064bf7c36b375757765063e5bef02f1",
+      "title": "我的世界：基岩版|Minecraft中文",
+      "original_url": "https://nsthwj.cn/game/switch/717",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.26.62",
+      "updated_at": "2026-11-12T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "44f876d8f6b7358c2cea4dd1e1297f4d05f760796d8ca92d16e445959d24b194",
+      "title": "无人深空|No Man's Sky中文",
+      "original_url": "https://nsthwj.cn/game/switch/6891",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：7.10.0含7.0.0金手指",
+      "updated_at": "2026-11-12T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "ad11398a44c932a10a38809e68ae306a7341bc8c7bfe44c87d1eb8e7cd646e79",
+      "title": "最终幻想7|Final Fantasy VII汉化",
+      "original_url": "https://nsthwj.cn/game/switch/242",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-12T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "c05f89ff21c363c7bc8ce2be5491e8df48f10d99893d2b5b5fbc46ceb88fb156",
+      "title": "心跳回忆：永远在一起情感版|Tokimeki Memorial: Forever With You汉化",
+      "original_url": "https://nsthwj.cn/game/switch/11396",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.2.0",
+      "updated_at": "2026-11-12T00:00:00+08:00",
+      "update_date_precision": "day"
     },
     {
       "id": "634468dc2c342d73328ddfe253d57e5e64434e70638ed50cc878003de122f3da",
@@ -281,52 +570,6 @@
       "summary_checked_at": "2026-11-10T17:59:13.065835+00:00"
     },
     {
-      "id": "0e0a04248cdfcd6bf27598621b1f7228f82f878d08ec057702f3f71e499f32b7",
-      "title": "[移植游戏 ]东方非想天则：追寻超弩级人偶的谜团|Touhou Hisoutensoku: Choudokyuu Ginyoru no Nazo wo Oe",
-      "original_url": "https://nsthwj.cn/game/switch/137997",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "某个清晨，山间出现了一个巨大的人形物体，它不断冒出蒸汽，随后便消失在山雾之中。纱苗、西诺和美玲都看到了那个神秘的存在。纱苗认为那可能是一台巨型机器人；西诺则坚信那是“大太郎机器人”；而美玲则觉得那是“泰水行军”。她们三人决定去面对那个神秘的存在。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：0.1.7",
-      "updated_at": "2026-11-10T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-10T17:59:14.413626+00:00"
-    },
-    {
-      "id": "cd07f093228cee37f1fd6ff3979a2bcd9d209aae33f39161442ad034fe4dcd47",
-      "title": "[移植游戏]流星蝴蝶剑|Meteor Blade中文",
-      "original_url": "https://nsthwj.cn/game/switch/137996",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "《流星蝴蝶剑》是由昱泉国际于 2002 年发行的一款动作角色扮演类单机游戏，游戏根据古龙的同名武侠小说名著改编而成。 游戏可以分成单机版与连线版这二种方式，单机模式中扮演的就是“杀手”的角色，玩家基本上是按一关一关的方式在进行，每一个关卡都有其场景、故事背景、胜利条件，单机模式的挑战性十分高，每个关卡都有不同的场景地…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：0.1.11",
-      "updated_at": "2026-11-10T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-10T17:59:15.797208+00:00"
-    },
-    {
       "id": "96d2edfb65685fe594c4aef673ade1074c7be3b8666ce79dfa8a8bd5f74521a0",
       "title": "[移植游戏]路易的鬼屋|路易吉洋馆|Luigi's Mansion汉化",
       "original_url": "https://nsthwj.cn/game/switch/137808",
@@ -348,98 +591,6 @@
       "updated_at": "2026-11-09T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-09T08:09:08.587910+00:00"
-    },
-    {
-      "id": "1efc3faf4797784614c5498cc069dd11ace84bde2b2deaf50b502fe2c31e8348",
-      "title": "[移植游戏]求生之路2|Left 4 Dead 2中文",
-      "original_url": "https://nsthwj.cn/game/switch/137977",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Left 4 Dead 2 进入游戏 4.进入后按A键安装前端 5.安装完成后按+键退出 6.回到桌面选择游戏按 A 键打开 7.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-09T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-09T08:09:09.723674+00:00"
-    },
-    {
-      "id": "d7af6f2a17e870d40b038de85d0b99658e2382b93f0e0e12a140a6b5ca3d84f6",
-      "title": "关于我们尝试把似曾相见的「那些游戏」做得更加刺激，却惊觉火柴人存在极限这档事中文",
-      "original_url": "https://nsthwj.cn/game/switch/137982",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "变得更加「有难度」、「有乐趣」的“那些游戏”又回来了！ 在更加困难的关卡中，再次畅玩“那些游戏”1、2 的小游戏！ 本次的小游戏合集比以往更具挑战性， 可从中获得更多的爽快感和成就感。 本次推出的“那些游戏激”，不仅有着更高的难度， 击败敌人或受到攻击时的特效也更为激烈，表现更为丰富！ 各类小游戏还增加了新的玩法，等…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-09T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-09T18:56:47.672617+00:00"
-    },
-    {
-      "id": "f7ed60b7aa3ed61c220f029d035255f843b4aef8143b3e4834e1fc9f4e23a3a0",
-      "title": "狡猾的幸存者|工匠幸存者|Crafty Survivors中文",
-      "original_url": "https://nsthwj.cn/game/switch/137981",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "英雄们都被腐化了！解锁各怀绝艺的角色，利用他们的独特技能，打造独属于你自己的角色构筑，保护家园、征讨来敌。积聚资源、重建村庄，打造属于自己的道路，剑指邪恶诅咒之源头！ 独特构筑层出不穷 在这款动作 Roguelite 游戏中，根据每次游戏的角色来选择千式百样的升级选项，打造独一无二的角色构筑。想成为大厨打一场“甜品大…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.1.1",
-      "updated_at": "2026-11-09T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-09T18:56:49.147878+00:00"
-    },
-    {
-      "id": "75baae1d19ac12d56b1de1e08da3d86c40b2a1c316b605a4dd9ee286dfcd713c",
-      "title": "[移植游戏]荣誉勋章：联合袭击|Medal of Honor: Allied Assault汉化",
-      "original_url": "https://nsthwj.cn/game/switch/137980",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-09T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-09T18:56:50.410640+00:00"
     },
     {
       "id": "9283555c211ff3bf0e4324a799e22988ed6933535a79625d6da13d9e42419efc",
@@ -762,29 +913,6 @@
       "updated_at": "2026-11-08T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-08T15:24:03.767099+00:00"
-    },
-    {
-      "id": "62891c012a19207317d69a055e5002bf4deaef8a7096bf42c813edb469282f1f",
-      "title": "[移植游戏]求生之路|Left 4 Dead中文",
-      "original_url": "https://nsthwj.cn/game/switch/137975",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-08T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-08T20:37:53.734878+00:00"
     },
     {
       "id": "31633b9810b265263417d2b1e5435ae40218727b573210c19b6f30ae5660688b",
