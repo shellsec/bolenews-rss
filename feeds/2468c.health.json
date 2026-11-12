@@ -1,20 +1,20 @@
 {
   "source": "2468c",
-  "attempted_at": "2026-11-11T22:50:24.785504+00:00",
+  "attempted_at": "2026-11-12T03:55:35.005751+00:00",
   "status": "ok",
   "robots_status": 403,
-  "summary_count": 61,
+  "summary_count": 50,
   "summary_attempts": 1,
-  "summary_missing": 39,
+  "summary_missing": 50,
   "summary_errors": [
     "HTTP Error 403: Forbidden"
   ],
   "count": 100,
-  "fetched_count": 107,
+  "fetched_count": 106,
   "retained_count": 0,
   "input_urls": [
     "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
     "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt&orderby=modified&order=desc"
   ],
-  "dropped_by_limit": 7
+  "dropped_by_limit": 11
 }

@@ -1,9 +1,25 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-11T22:50:29.595967+00:00",
+  "generated_at": "2026-11-12T03:55:39.123566+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "青夏轨迹|官方中文|移植版|",
+      "original_url": "https://vip.gamers520.com/125797.html",
+      "published_at": "2026-11-11T21:00:28Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-12T01:39:12Z",
+      "platform": [
+        "switch1"
+      ],
+      "summary_checked_at": "2026-11-12T03:55:41.600203+00:00"
+    },
     {
       "title": "狸狸 胖哒的夏日 TANUKI Pon’s Summer|官方中文|本体+v1.0.28494.20.12升补|NSP|",
       "original_url": "https://vip.gamers520.com/125736.html",
@@ -1707,22 +1723,6 @@
         "game_update"
       ],
       "version": "1.0.4"
-    },
-    {
-      "title": "游戏王被封印的记忆|移植版|",
-      "original_url": "https://vip.gamers520.com/124354.html",
-      "published_at": "2026-10-20T19:01:32Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-20T23:51:54Z",
-      "platform": [
-        "switch1"
-      ],
-      "summary_checked_at": "2026-11-08T15:23:27.524619+00:00"
     }
   ]
 }

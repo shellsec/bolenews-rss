@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-11T22:50:54.154615+00:00",
+  "generated_at": "2026-11-12T03:56:00.043167+00:00",
   "source_url": "https://www.nintendo.com/tw/topics",
   "items": [
     {
@@ -412,6 +412,20 @@
       ],
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-10T10:04:41.866964+00:00"
+    },
+    {
+      "id": "412baa6b6013badf6d10b287db5b7568c5298b21d3f6cab2b1446b8f7a2f3fc0",
+      "title": "《皮克敏4 Nintendo Switch 2 Edition + 大家來挑戰! 當多慮檢定》於本日發售2026.11.12",
+      "original_url": "https://www.nintendo.com/tw/topics/article/5wwWFKXKn1MBHHhYU9eSEc",
+      "summary": "《皮克敏4 Nintendo Switch 2 Edition + 大家來挑戰! 當多慮檢定》於本日發售",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hant",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-12T03:56:00.546258+00:00",
+      "summary_origin": "publisher_description"
     }
   ]
 }
