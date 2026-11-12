@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 3,
+  "config_version": 4,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-10T03:56:03.947098+00:00",
+  "generated_at": "2026-11-12T02:26:23.143206+00:00",
   "sources": [
     {
       "id": "gh-homebrew-287271987",
@@ -315,6 +315,23 @@
       "name": "Weather-and-Moon-Phase-app-for-Nintendo-Switch",
       "url": "https://github.com/ELY3M/Weather-and-Moon-Phase-app-for-Nintendo-Switch/releases.atom",
       "repo": "ELY3M/Weather-and-Moon-Phase-app-for-Nintendo-Switch",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1428628979",
+      "name": "COLD-FEAR-NX-PORT",
+      "url": "https://github.com/gerisson1996/COLD-FEAR-NX-PORT/releases.atom",
+      "repo": "gerisson1996/COLD-FEAR-NX-PORT",
       "category": "homebrew",
       "language": "en",
       "platforms": [
