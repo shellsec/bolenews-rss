@@ -1,9 +1,29 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-12T03:55:39.123566+00:00",
+  "generated_at": "2026-11-12T12:58:20.845929+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "怪物史莱克2 重制版 Shrek 2 Remastered|官方中文|本体+1.0.4升补|NSP|",
+      "original_url": "https://vip.gamers520.com/125815.html",
+      "published_at": "2026-11-11T22:05:31Z",
+      "summary": "梦工厂史莱克2重制版:经典的、扣人心弦的合作冒险,将重回您喜爱的所有角色和改进的画面。 穿越童话般的远城,从史莱克的沼泽到菲奥娜的城堡,再到介于两者之间的一切,体验梦工厂动画电影所启发的经典动作冒险体 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-12T08:15:34Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.4"
+    },
     {
       "title": "青夏轨迹|官方中文|移植版|",
       "original_url": "https://vip.gamers520.com/125797.html",
@@ -1014,7 +1034,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-07T10:28:34.473074+00:00"
+      "summary_checked_at": "2026-11-12T12:58:23.525396+00:00"
     },
     {
       "title": "仙剑奇侠传3|官方中文|移植版|",
@@ -1703,26 +1723,6 @@
         "game_update"
       ],
       "version": "1.0.3"
-    },
-    {
-      "title": "守墓人2 Graveyard Keeper 2|官方中文|本体+1.0.4升补+1DLC|NSP|",
-      "original_url": "https://vip.gamers520.com/122551.html",
-      "published_at": "2026-10-20T20:10:44Z",
-      "summary": "墓园还得经营，尸体还得处理，钱当然也还是要赚 只不过这一次，你要操心的已经不止一块墓地 重建小镇、搭建自动化生产线、让僵尸替你干活，再亲自率领亡灵大军走上战场。 《守墓人2》在前作经营、制作的基础上， …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-21T05:05:33Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ],
-      "version": "1.0.4"
     }
   ]
 }

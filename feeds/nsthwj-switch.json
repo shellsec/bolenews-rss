@@ -1,9 +1,55 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-12T03:56:00.777447+00:00",
+  "generated_at": "2026-11-12T12:58:41.546166+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "89f9e030b022aa331229a59d435dc07ebb46fe4ce18dbfa5ff3318deace9f8d2",
+      "title": "[绅士游戏]欲望学院|Discipline中文",
+      "original_url": "https://nsthwj.cn/game/switch/138043",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-12T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-12T12:58:44.064193+00:00"
+    },
+    {
+      "id": "3a2d25e28367681f4e8b471d0c5a6a1f9a86c9597fabfac933a1e28db25a384f",
+      "title": "[绅士游戏]黑暗圣经|Bible Black中文",
+      "original_url": "https://nsthwj.cn/game/switch/138042",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.11",
+      "updated_at": "2026-11-12T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-12T12:58:45.156891+00:00"
+    },
     {
       "id": "7645a8ad60be4fcacadff676841a418d79ca7918039b1c679e70626a26cf0305",
       "title": "蓝色夏日|青夏轨迹|Aonatsu Line汉化",
