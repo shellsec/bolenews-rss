@@ -1,22 +1,6 @@
 {
   "source": "a9vg",
-  "attempted_at": "2026-11-13T02:02:15.832130+00:00",
-  "status": "ok",
-  "summary_count": 45,
-  "summary_attempts": 12,
-  "summary_missing": 18,
-  "summary_errors": [
-    "Cross-site or non-HTTPS redirect rejected",
-    "Cross-site or non-HTTPS redirect rejected",
-    "Cross-site or non-HTTPS redirect rejected",
-    "Cross-site or non-HTTPS redirect rejected",
-    "Cross-site or non-HTTPS redirect rejected"
-  ],
-  "count": 63,
-  "fetched_count": 43,
-  "retained_count": 20,
-  "input_urls": [
-    "https://www.a9vg.com/"
-  ],
-  "dropped_by_limit": 0
+  "attempted_at": "2026-11-13T09:45:17.331227+00:00",
+  "status": "unavailable",
+  "error": "HTTP Error 504: Gateway Time-out"
 }

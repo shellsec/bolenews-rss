@@ -1,9 +1,78 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-13T02:02:34.828149+00:00",
+  "generated_at": "2026-11-13T09:45:28.862446+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "96070c18321b39cb1e94d51bd6bf9591c540678135b10aeae774ed1d45462780",
+      "title": "银色事件2425|The Silver 2425汉化",
+      "original_url": "https://nsthwj.cn/game/switch/2612",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《银色2425》杀死过去x杀死生命 从SUDA51的脑海中降落到一个反乌托邦的世界！ 关东的24个区构成了一个看似田园诗般的城市，尽管险恶的秘密隐藏在它的表面之下。在《白银案》中，作为病房的重罪组成员，揭开一系列残忍谋杀背后的谜团。回到关东市的第25区：银案，在该市乌托邦式的第25选区背后有一个新的政府项目。当Bay…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.3",
+      "updated_at": "2026-11-13T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-13T09:45:30.677891+00:00"
+    },
+    {
+      "id": "5c53160dbe04e6b0ba2ef6834722f898da320137c27d72403e19a77f6cd12d88",
+      "title": "[移植游戏]耻辱|Dishonored中文",
+      "original_url": "https://nsthwj.cn/game/switch/138112",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "耻辱是一款全新的 RPG 的动作冒险类游戏，游戏风格蕴含了多款游戏，如刺客信条的自由度，生化奇兵的科幻类魔法等等。 游戏的主角是一位专门保护女王的贴身皇家护卫，在一次保护女王的过程中遭受到了意外让女王身亡，而这一切并不是失误而是有人刻意去谋划了这一切他就是大臣雷金特，玩家们可以操控起主角进入这些腐败并让自己锒铛入狱的…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0",
+      "updated_at": "2026-11-13T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-13T09:45:32.145269+00:00"
+    },
+    {
+      "id": "2676444c38bbbdd616a2867bd58cda97f0a0773635fa849842e41a8c896e8fd7",
+      "title": "二之国：白色圣灰的女王|Ni no Kuni: Wrath of the White Witch汉化国语版",
+      "original_url": "https://nsthwj.cn/game/switch/740",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "回到那 Ni no Kuni: Wrath of the White Witch Remastered 另一个世界的旅程。LEVEL-5 的经典传奇以尽善尽美之姿回归，更进化的图像及表现。为了从一场悲剧之后找回母亲，加入 Oliver 在这充满凶险敌人的世界并结交新伙伴来展开冒险旅程。 此次充满魅力的作品，是由声名远…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：2.0",
+      "updated_at": "2026-11-13T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-13T09:45:33.486482+00:00"
+    },
     {
       "id": "89f9e030b022aa331229a59d435dc07ebb46fe4ce18dbfa5ff3318deace9f8d2",
       "title": "[绅士游戏]欲望学院|Discipline中文",
@@ -331,8 +400,8 @@
       "title": "关于我们尝试把似曾相见的「那些游戏」做得更加刺激，却惊觉火柴人存在极限这档事中文",
       "original_url": "https://nsthwj.cn/game/switch/137982",
       "source_name": "NS头号玩家 SWITCH",
-      "summary": "",
-      "summary_origin": "publisher_game_index",
+      "summary": "变得更加「有难度」、「有乐趣」的“那些游戏”又回来了！ 在更加困难的关卡中，再次畅玩“那些游戏”1、2 的小游戏！ 本次的小游戏合集比以往更具挑战性， 可从中获得更多的爽快感和成就感。 本次推出的“那些游戏激”，不仅有着更高的难度， 击败敌人或受到攻击时的特效也更为激烈，表现更为丰富！ 各类小游戏还增加了新的玩法，等…",
+      "summary_origin": "publisher_description",
       "content": "",
       "image_url": "",
       "published_at": "",
@@ -347,7 +416,7 @@
       "version": "最新版本：1.0.0",
       "updated_at": "2026-11-12T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-13T02:03:16.435091+00:00"
+      "summary_checked_at": "2026-11-13T09:45:34.772542+00:00"
     },
     {
       "id": "f7ed60b7aa3ed61c220f029d035255f843b4aef8143b3e4834e1fc9f4e23a3a0",
@@ -492,8 +561,8 @@
       "title": "无人深空|No Man's Sky中文",
       "original_url": "https://nsthwj.cn/game/switch/6891",
       "source_name": "NS头号玩家 SWITCH",
-      "summary": "",
-      "summary_origin": "publisher_game_index",
+      "summary": "《无人深空》是一场跨越无垠宇宙如史诗般的科幻冒险，在那里每个星星都是从一个遥远太阳的光，周遭环绕着充满生命的行星，待您造访。探索前所未见的世界，在银河系里进行交易、战斗，求生存。 探索未知 探索未知的太阳系，记录各种独特的生命体。每个星球的景观皆不同，并充满着之前未遇见过的物种。 在危险的边境求生 每个太阳系、星球、…",
+      "summary_origin": "publisher_description",
       "content": "",
       "image_url": "",
       "published_at": "",
@@ -508,7 +577,7 @@
       "version": "最新版本：7.10.0含7.0.0金手指",
       "updated_at": "2026-11-12T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-13T02:05:34.185577+00:00"
+      "summary_checked_at": "2026-11-13T09:45:36.092695+00:00"
     },
     {
       "id": "ad11398a44c932a10a38809e68ae306a7341bc8c7bfe44c87d1eb8e7cd646e79",

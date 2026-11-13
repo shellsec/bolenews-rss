@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-13T02:02:11.103909+00:00",
+  "generated_at": "2026-11-13T09:45:11.943675+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -1553,7 +1553,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-07T20:59:10.812829+00:00"
+      "summary_checked_at": "2026-11-13T09:45:14.731280+00:00"
     },
     {
       "title": "魂识界Tamashika|官方中文|NSP|",

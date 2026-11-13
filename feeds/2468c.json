@@ -1,9 +1,27 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-13T02:02:04.835995+00:00",
+  "generated_at": "2026-11-13T09:45:05.349739+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "最终幻想7：核心危机.CRISIS CORE –FINAL FANTASY VII",
+      "original_url": "https://2468c.com/112503.html",
+      "published_at": "2026-09-27T00:18:51Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-13T08:46:25Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-13T09:45:07.526220+00:00"
+    },
     {
       "title": "人中之龙0：誓约的场所 – 导演剪辑版.Yakuza 0 Director’s Cut",
       "original_url": "https://2468c.com/112409.html",
@@ -1768,25 +1786,6 @@
       "source_name": "奥德彪计划 PS4 / PS5",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-05T03:34:31.243483+00:00"
-    },
-    {
-      "title": "影子武士3.Shadow Warrior 3",
-      "original_url": "https://2468c.com/100626.html",
-      "published_at": "2026-11-05T00:23:29Z",
-      "summary": "平台：PlayStation5 发行商：Devolver Digital 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Flying Wild Hog 发行日期：2022年3月1日 游戏版本：v01.000.002 游戏编号：PPSA07817 格式...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-05T00:24:54Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-05T03:34:31.839540+00:00"
     }
   ]
 }
