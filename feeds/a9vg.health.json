@@ -1,8 +1,8 @@
 {
   "source": "a9vg",
-  "attempted_at": "2026-11-12T20:57:27.615526+00:00",
+  "attempted_at": "2026-11-13T02:02:15.832130+00:00",
   "status": "ok",
-  "summary_count": 44,
+  "summary_count": 45,
   "summary_attempts": 12,
   "summary_missing": 18,
   "summary_errors": [
@@ -12,9 +12,9 @@
     "Cross-site or non-HTTPS redirect rejected",
     "Cross-site or non-HTTPS redirect rejected"
   ],
-  "count": 62,
+  "count": 63,
   "fetched_count": 43,
-  "retained_count": 19,
+  "retained_count": 20,
   "input_urls": [
     "https://www.a9vg.com/"
   ],

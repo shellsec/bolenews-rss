@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-12T20:58:01.873524+00:00",
+  "generated_at": "2026-11-13T02:02:33.443348+00:00",
   "source_url": "https://www.nintendo.com/tw/topics",
   "items": [
     {
@@ -426,6 +426,20 @@
       "content_scope": "metadata",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-12T03:56:00.546258+00:00"
+    },
+    {
+      "id": "4b35ff7497482635d2a5a68deb4365df9fac1b59fc52f051f55058dbe9342394",
+      "title": "Nintendo eShop 新作軟體資訊 11月13日（五）2026.11.13",
+      "original_url": "https://www.nintendo.com/tw/topics/article/2O0TOrXLqLV4gUUz2GSr6Q",
+      "summary": "Nintendo eShop 新作軟體資訊 11月13日（五）",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hant",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-13T02:02:34.221310+00:00",
+      "summary_origin": "publisher_description"
     }
   ]
 }

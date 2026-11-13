@@ -1,9 +1,109 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-12T20:57:22.569139+00:00",
+  "generated_at": "2026-11-13T02:02:11.103909+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "文明7 Sid Meier’s Civilization® VII|官方中文|本体+1.5.1升补+30DLC|NSZ|",
+      "original_url": "https://vip.gamers520.com/104614.html",
+      "published_at": "2026-11-12T19:00:54Z",
+      "summary": "文明7 Sid Meier’s Civilization® VII 在《文明VII》中，你的战略决策影响着帝国的独特文化血脉，伴随其不断发展。化身历史长河中的一位传奇领袖，统治你的帝国。在 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-13T01:15:56Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.5.1"
+    },
+    {
+      "title": "我的世界 基岩版|官方中文|本体+1.26.62升补|NSZ|原版|",
+      "original_url": "https://vip.gamers520.com/7500.html",
+      "published_at": "2026-11-12T19:01:25Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-13T01:15:55Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.26.62",
+      "summary_checked_at": "2026-11-13T02:02:13.571528+00:00"
+    },
+    {
+      "title": "无人深空|官方中文|本体+7.10.0升补|NSZ|原版|",
+      "original_url": "https://vip.gamers520.com/42700.html",
+      "published_at": "2026-11-12T19:03:00Z",
+      "summary": "无人深空 No Man’s Sky ‘无人之地’从经典科幻小说中汲取灵感，囊括了大众喜爱的冒险和天马行空等元素。呈现给玩家一个充满独特行星和生命形式的星系。游戏中危机重重，无尽的探索等着你 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-13T01:15:54Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "7.10.0"
+    },
+    {
+      "title": "哥斯拉 摧毁所有怪兽搏击 重制版|官方中文|本体+1.0.3升补|NSP|",
+      "original_url": "https://vip.gamers520.com/125888.html",
+      "published_at": "2026-11-12T19:05:51Z",
+      "summary": "終極怪獸競技場格鬥遊戲完全重製，強勢回歸。 終極怪獸競技場格鬥遊戲完全重製，強勢回歸。《Godzilla: Destroy All Monsters Melee Remastered》是由 Atari …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-13T01:15:53Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.3"
+    },
+    {
+      "title": "EA SPORTS FC27|官方中文|本体+1.8d.f570升补+1DLC|NSZ|",
+      "original_url": "https://vip.gamers520.com/122727.html",
+      "published_at": "2026-11-12T19:10:43Z",
+      "summary": "EA SPORTS FC27 欢迎在《EA SPORTS FC™ 27》中体验全世界的游戏。 踏入 The Grounds， 体验这座连接街头与球场的足球乐园；随着灵感源自社区反馈的创新带来更真实的足 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-13T01:15:48Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.8d.f570"
+    },
     {
       "title": "怪物史莱克2 重制版 Shrek 2 Remastered|官方中文|本体+1.0.4升补|NSP|",
       "original_url": "https://vip.gamers520.com/125815.html",
@@ -343,26 +443,6 @@
         "game_update"
       ],
       "version": "1.0.1"
-    },
-    {
-      "title": "EA SPORTS FC27|官方中文|本体+1.8d.6523升补+1DLC|NSZ|",
-      "original_url": "https://vip.gamers520.com/122727.html",
-      "published_at": "2026-11-02T22:00:43Z",
-      "summary": "EA SPORTS FC27 欢迎在《EA SPORTS FC™ 27》中体验全世界的游戏。 踏入 The Grounds， 体验这座连接街头与球场的足球乐园；随着灵感源自社区反馈的创新带来更真实的足 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-03T04:06:19Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ],
-      "version": "1.8d.6523"
     },
     {
       "title": "天地劫 三部曲|中文|移植版|",
@@ -783,26 +863,6 @@
       ],
       "version": "v1.3.0",
       "summary_checked_at": "2026-11-10T02:18:04.268335+00:00"
-    },
-    {
-      "title": "我的世界 基岩版|官方中文|本体+1.26.60升补|NSZ|原版|",
-      "original_url": "https://vip.gamers520.com/7500.html",
-      "published_at": "2026-10-27T21:11:25Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-28T16:19:25Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ],
-      "version": "1.26.60",
-      "summary_checked_at": "2026-11-10T06:29:51.769821+00:00"
     },
     {
       "title": "真人快打9|移植版|",
@@ -1671,58 +1731,6 @@
       "platform": [
         "switch1"
       ]
-    },
-    {
-      "title": "鬼泣4|汉化中文|移植版|",
-      "original_url": "https://vip.gamers520.com/123749.html",
-      "published_at": "2026-10-21T21:02:52Z",
-      "summary": "超华丽的Stylish Action游戏《DMC4》已回归，甚至比以往更好，增加新的操作角色和游戏模式。 关于此游戏  …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-22T02:10:20Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "神秘海域 孤侠魅影|移植版|",
-      "original_url": "https://vip.gamers520.com/124437.html",
-      "published_at": "2026-10-21T21:00:06Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-22T02:09:59Z",
-      "platform": [
-        "switch1"
-      ],
-      "summary_checked_at": "2026-11-08T07:31:27.060994+00:00"
-    },
-    {
-      "title": "黯井微光|官方中文|本体+1.0.3升补|NSP|",
-      "original_url": "https://vip.gamers520.com/122714.html",
-      "published_at": "2026-10-20T20:00:29Z",
-      "summary": "《黯井微光》是一款暗黑童话风格的类银河城游戏，讲述了栖身于破败王国中的一群迷人角色的故事。玩家将扮演一只手持火柴棒的小鸟——微光，踏上焚灭邪恶女王、拯救家族的旅程。 关于此游戏 《黯井微光》是一款暗黑 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-21T05:05:43Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ],
-      "version": "1.0.3"
     }
   ]
 }

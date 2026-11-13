@@ -1,18 +1,6 @@
 {
   "source": "nsthwj-pc",
-  "attempted_at": "2026-11-12T20:58:19.236918+00:00",
-  "status": "ok",
-  "summary_count": 100,
-  "summary_attempts": 0,
-  "summary_missing": 0,
-  "summary_errors": [],
-  "download_items": 0,
-  "download_links": 0,
-  "count": 100,
-  "fetched_count": 36,
-  "retained_count": 64,
-  "input_urls": [
-    "https://nsthwj.cn/pc"
-  ],
-  "dropped_by_limit": 0
+  "attempted_at": "2026-11-13T02:06:44.846005+00:00",
+  "status": "unavailable",
+  "error": "The read operation timed out"
 }

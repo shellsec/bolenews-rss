@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-12T20:58:02.535457+00:00",
+  "generated_at": "2026-11-13T02:02:34.828149+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -346,15 +346,16 @@
       "download_status": "not_verified",
       "version": "最新版本：1.0.0",
       "updated_at": "2026-11-12T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-13T02:03:16.435091+00:00"
     },
     {
       "id": "f7ed60b7aa3ed61c220f029d035255f843b4aef8143b3e4834e1fc9f4e23a3a0",
       "title": "狡猾的幸存者|工匠幸存者|Crafty Survivors中文",
       "original_url": "https://nsthwj.cn/game/switch/137981",
       "source_name": "NS头号玩家 SWITCH",
-      "summary": "",
-      "summary_origin": "publisher_game_index",
+      "summary": "英雄们都被腐化了！解锁各怀绝艺的角色，利用他们的独特技能，打造独属于你自己的角色构筑，保护家园、征讨来敌。积聚资源、重建村庄，打造属于自己的道路，剑指邪恶诅咒之源头！ 独特构筑层出不穷 在这款动作 Roguelite 游戏中，根据每次游戏的角色来选择千式百样的升级选项，打造独一无二的角色构筑。想成为大厨打一场“甜品大…",
+      "summary_origin": "publisher_description",
       "content": "",
       "image_url": "",
       "published_at": "",
@@ -368,15 +369,16 @@
       "download_status": "not_verified",
       "version": "最新版本：1.1.1",
       "updated_at": "2026-11-12T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-13T02:03:37.325243+00:00"
     },
     {
       "id": "75baae1d19ac12d56b1de1e08da3d86c40b2a1c316b605a4dd9ee286dfcd713c",
       "title": "[移植游戏]荣誉勋章：联合袭击|Medal of Honor: Allied Assault",
       "original_url": "https://nsthwj.cn/game/switch/137980",
       "source_name": "NS头号玩家 SWITCH",
-      "summary": "",
-      "summary_origin": "publisher_game_index",
+      "summary": "由斯蒂芬·斯皮尔伯格创建、2015 公司开发的第一人称射击类型电脑游戏。游戏的引擎是一个修改过的雷神之锤 III 引擎，模拟了第二次世界大战时欧洲的战斗。联合袭击是荣誉勋章系列游戏的第一个针对微软的 Windows 操作系统发布的游戏。 游戏中玩家要扮演美军巡逻骑兵团的一名上尉麦克·鲍威尔（英语:Mike Powel…",
+      "summary_origin": "publisher_description",
       "content": "",
       "image_url": "",
       "published_at": "",
@@ -390,15 +392,16 @@
       "download_status": "not_verified",
       "version": "最新版本：0.83.0 R2",
       "updated_at": "2026-11-12T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-13T02:03:55.803032+00:00"
     },
     {
       "id": "62891c012a19207317d69a055e5002bf4deaef8a7096bf42c813edb469282f1f",
       "title": "[移植游戏]求生之路|Left 4 Dead中文",
       "original_url": "https://nsthwj.cn/game/switch/137975",
       "source_name": "NS头号玩家 SWITCH",
-      "summary": "",
-      "summary_origin": "publisher_game_index",
+      "summary": "Valve 新作震撼上市 — Counter-Strike、Half-Life 等经典游戏的缔造者再次重拳出击，推出力作 — Left 4 Dead，它是针对 PC 和 Xbox 360 推出的新款游戏，四名“生还者”将与僵尸群部落和可怕的“魔王”异种展开殊死战斗。 时刻准备应对僵尸魔爪的攻击，L4D 的生存合作模式…",
+      "summary_origin": "publisher_description",
       "content": "",
       "image_url": "",
       "published_at": "",
@@ -412,15 +415,16 @@
       "download_status": "not_verified",
       "version": "最新版本：1.0.0",
       "updated_at": "2026-11-12T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-13T02:04:24.415655+00:00"
     },
     {
       "id": "066e078cc1f52d3cb37583cd83e5c9e02a38e17eb1a15138066c5862c8f1794d",
       "title": "NetherPX2[PS2模拟器]",
       "original_url": "https://nsthwj.cn/game/switch/134818",
       "source_name": "NS头号玩家 SWITCH",
-      "summary": "",
-      "summary_origin": "publisher_game_index",
+      "summary": "一.工具安装 下载压缩包解压后Switch文件夹覆盖到1盘根目录nsp前端拖入5盘安装 二.PS2游戏安装 将下载的PS2游戏文件放到指定文件夹里 路径: Switch / NetherSX2 / games / 文件夹下 三.游戏运行 回到桌面打开NetherSX2前端 打开后调出特斯拉浮窗[L+R+▼] 选择系统…",
+      "summary_origin": "publisher_description",
       "content": "",
       "image_url": "",
       "published_at": "",
@@ -434,15 +438,16 @@
       "download_status": "not_verified",
       "version": "最新版本：1.4.1",
       "updated_at": "2026-11-12T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-13T02:04:37.767120+00:00"
     },
     {
       "id": "d35d31cfa7026027cbd63bb8219e93ca74720586c020cd8343d61d915da4c7c1",
       "title": "[移植游戏]植物大战僵尸2：返茂版|Plants vs. Zombies 2: Reflourished汉化",
       "original_url": "https://nsthwj.cn/game/switch/136807",
       "source_name": "NS头号玩家 SWITCH",
-      "summary": "",
-      "summary_origin": "publisher_game_index",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
       "content": "",
       "image_url": "",
       "published_at": "",
@@ -456,15 +461,16 @@
       "download_status": "not_verified",
       "version": "最新版本：1.0.0",
       "updated_at": "2026-11-12T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-13T02:04:50.056351+00:00"
     },
     {
       "id": "bf4b43d22447bf7c0186017fc8ad09767064bf7c36b375757765063e5bef02f1",
       "title": "我的世界：基岩版|Minecraft中文",
       "original_url": "https://nsthwj.cn/game/switch/717",
       "source_name": "NS头号玩家 SWITCH",
-      "summary": "",
-      "summary_origin": "publisher_game_index",
+      "summary": "《我的世界》是一款沙盒游戏，整个游戏没有剧情，玩家在游戏中自由建设和破坏。玩家可以通过搭积木一样的方式，轻而易举的就能制作出小木屋、城堡甚至城市。而且玩家不仅可以单人娱乐，还可以多人联机，也可以安装一些其他玩家自制的模组来增加游戏趣味性。 《我的世界》着重于让玩家去探索、交互，并且改变由方块所搭建成的地图。除了方块以…",
+      "summary_origin": "publisher_description",
       "content": "",
       "image_url": "",
       "published_at": "",
@@ -478,7 +484,8 @@
       "download_status": "not_verified",
       "version": "最新版本：1.26.62",
       "updated_at": "2026-11-12T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-13T02:05:06.575630+00:00"
     },
     {
       "id": "44f876d8f6b7358c2cea4dd1e1297f4d05f760796d8ca92d16e445959d24b194",
@@ -500,15 +507,16 @@
       "download_status": "not_verified",
       "version": "最新版本：7.10.0含7.0.0金手指",
       "updated_at": "2026-11-12T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-13T02:05:34.185577+00:00"
     },
     {
       "id": "ad11398a44c932a10a38809e68ae306a7341bc8c7bfe44c87d1eb8e7cd646e79",
       "title": "最终幻想7|Final Fantasy VII汉化",
       "original_url": "https://nsthwj.cn/game/switch/242",
       "source_name": "NS头号玩家 SWITCH",
-      "summary": "",
-      "summary_origin": "publisher_game_index",
+      "summary": "《最终幻想 VII》，是 SQUARE SOFT 的著名 RPG 游戏“最终幻想”（Final Fantasy）系列的第七作，是 SQUARE SOFT（2003 年起称史克威尔艾尼克斯）于 1997 年发行的角色扮演类游戏。该作是创下 1 亿套销量的全球经典游戏品牌最终幻想系列的第七部作品，原定于任天堂 N64 平…",
+      "summary_origin": "publisher_description",
       "content": "",
       "image_url": "",
       "published_at": "",
@@ -522,15 +530,16 @@
       "download_status": "not_verified",
       "version": "最新版本：1.0.0",
       "updated_at": "2026-11-12T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-13T02:06:01.531128+00:00"
     },
     {
       "id": "c05f89ff21c363c7bc8ce2be5491e8df48f10d99893d2b5b5fbc46ceb88fb156",
       "title": "心跳回忆：永远在一起情感版|Tokimeki Memorial: Forever With You汉化",
       "original_url": "https://nsthwj.cn/game/switch/11396",
       "source_name": "NS头号玩家 SWITCH",
-      "summary": "",
-      "summary_origin": "publisher_game_index",
+      "summary": "本作以“在 Nintendo Switch™上直接享受想忆”为概念，珍惜了当时的手感与游戏体验。 另外，您还可以享受新增元素如EVS（情感语音系统）和角色插图切换等。 ■ EVS EVS是《ときめきメモリアル2》及后续系列中熟悉的角色们会通过“声音”呼唤您的名字的功能。 游戏内包含几种称呼，但如果要新创建，则需要网络…",
+      "summary_origin": "publisher_description",
       "content": "",
       "image_url": "",
       "published_at": "",
@@ -544,7 +553,8 @@
       "download_status": "not_verified",
       "version": "最新版本：1.2.0",
       "updated_at": "2026-11-12T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-13T02:06:31.172110+00:00"
     },
     {
       "id": "634468dc2c342d73328ddfe253d57e5e64434e70638ed50cc878003de122f3da",
