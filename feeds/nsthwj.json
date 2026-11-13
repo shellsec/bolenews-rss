@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-13T09:45:39.295149+00:00",
+  "generated_at": "2026-11-13T17:53:51.723809+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -72,6 +72,52 @@
       "updated_at": "2026-11-13T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-13T09:45:33.486482+00:00"
+    },
+    {
+      "id": "a39fcd286e8d31b38fb5b452b93db918a0d61e7fcd58f459a419a8d7ac3df16f",
+      "title": "哥斯拉：怪兽大乱斗复刻版|Godzilla: Destroy All Monsters Melee Remastered中文",
+      "original_url": "https://nsthwj.cn/game/switch/137895",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "终极哥斯拉竞技场乱斗游戏归来，全面重制。 终极怪兽竞技场乱斗游戏归来，全面重制。由 Atari 携手原开发商 Pipeworks 推出的《哥斯拉：怪兽大乱斗 重制版》对这款 2002 年的格斗游戏进行了全面升级，带来更出色的画面表现和多项便利性改进。选择你的怪兽，在 8 个地点展开激战，每个地点均有昼夜变化，施展各种…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.3",
+      "updated_at": "2026-11-13T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-13T17:53:47.758940+00:00"
+    },
+    {
+      "id": "2aaeecd88c8fbc269e8b1d9c837fb01fe39c3e3acf1595da4860259847a949b6",
+      "title": "NXRadioUI[收音机工具]",
+      "original_url": "https://nsthwj.cn/game/switch/138113",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 NXRadio 进入游戏 4.完美运行 [ 提示：大气层需要联网运行 ]",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：3.0.0",
+      "updated_at": "2026-11-13T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-13T17:53:48.949760+00:00"
     },
     {
       "id": "badf03e488e0846fc3d0880b92552e5a02cada3464fd51481e3a615d84baa102",
@@ -1487,52 +1533,6 @@
       "updated_at": "2026-11-08T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-08T07:00:07.781186+00:00"
-    },
-    {
-      "id": "6ef29eec8fa733d014748cd5c6b7829cb0e57b1c4bb92950fa1030279d5c5497",
-      "title": "[移植游戏]宝可梦Z|Pokémon Z中文",
-      "original_url": "https://nsthwj.cn/game/switch/137938",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "舞台是300 年前的古代卡洛斯地区（XY 时代之前），围绕卡洛斯大战争、终极武器、Aster Zephyr 国王的往事展开，解开远古时代被埋没的历史谜团。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：0.1.0-b5",
-      "updated_at": "2026-11-08T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-08T07:00:09.493119+00:00"
-    },
-    {
-      "id": "fd4b395df5f2bce70255217eebd18b841ab5513dac25bd6228ae8a9057d9327c",
-      "title": "PSV模拟器[附带464款游戏]",
-      "original_url": "https://nsthwj.cn/game/switch/137429",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Vuta3K 进入模拟器 [主机提前联网] 4.进入后提示安装固件点击 A键 确认安装 5.选择 下载并安装固件（约350MB） 按 A键 6.耐心等待进度条安装完毕 [需要的时间有些久]…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.41",
-      "updated_at": "2026-11-08T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-08T07:00:12.437948+00:00"
     },
     {
       "id": "4170d2a2e89bd446eaf65e53ebe48a41f1569414045688851b6fe2c375a7c0c1",
