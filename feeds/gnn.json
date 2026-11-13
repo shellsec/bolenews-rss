@@ -1,9 +1,22 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-13T17:53:25.556005+00:00",
+  "generated_at": "2026-11-13T23:42:53.144624+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "《活俠傳》武俠音樂會首演熱血登場 指揮王子豪帶領全場高喊唐門口號、作曲家幽火獻出指揮處女秀",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315018",
+      "published_at": "2026-11-13T18:01:52Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "由獨立遊戲研發團隊「原始鳥熊 Obb Studio」開發的武俠角色扮演遊戲《活俠傳》，週五晚間（11/13）首度舉辦「君所願兮江湖行」武俠音樂會，吸引大批玩家到場共襄盛舉。音樂會結合遊戲畫面將主角「趙活」與唐門眾人、各路俠客等經典對話劇情搭配樂曲呈現，指揮王子豪還帶領聽眾一同高喊唐門口號，全場高聲吶喊「戰你娘親....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "《俠盜獵車手 6》PS5 實體版搶先開箱！ 隨附遊戲下載代碼與雙面海報",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315017",
@@ -52,10 +65,10 @@
       "summary": "在《皮克敏 4》中加入新模式及 Nintendo Switch 2 獨有玩法的《皮克敏 4 Nintendo Switch 2 Edition + 大家來挑戰！當多慮檢定》已於 11 月 12 日發售。 有關本作的詳細內容，可以查看以下的介紹影片。 此外，由小芝風花演出的影片現正公開中。與遊戲發售同時，新增了小芝風花挑戰當多慮挑戰的體驗影片，請不妨觀賞一下。 體驗版發布中 《皮克敏 4",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-13T17:53:26.070752+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-13T17:53:26.070752+00:00"
     },
     {
       "title": "《超級瑪利歐派對 空前盛會 NS2 Edition + 空前盛會 TV》免費更新「遊戲分享」功能",
@@ -1304,19 +1317,6 @@
       "source_name": "巴哈姆特 GNN",
       "language": "zh-Hant",
       "summary": "三國題材水墨風策略戰棋遊戲《三國觀滄海》宣布，全新「超」級別主將黃月英將於 11 月 12 日後正式登場。以機巧之術聞名的黃月英，將以器械系主將之姿加入戰局，為戰場帶來更多戰術變化。同日，「推賢舉能」限時卡池也將同步開放，黃月英與名臣荀彧同池登場；11 月 19 日起，「單騎破陣」活動接力開啟，帶來黃月英專屬外....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "《新王者之劍》迎接 11 月「豐收季」改版 新角色「巴哈」即將參戰",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314854",
-      "published_at": "2026-11-11T09:50:56Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "樂意傳播旗下經典 MMORPG《新王者之劍》即將迎來 11 月「豐收季」大型改版，除了推出新角色「巴哈」，也將開放「卓越」晉升等級與「遺物」裝備系統，並擴充「克朗瑪的開拓地圖」及家族成長福利。 【以下內容為廠商提供資料原文】 招來死亡的烏鴉！....",
       "content": "",
       "image_url": "",
       "content_scope": "summary",

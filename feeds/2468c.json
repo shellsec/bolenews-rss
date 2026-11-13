@@ -1,9 +1,129 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-13T17:53:23.799732+00:00",
+  "generated_at": "2026-11-13T23:42:50.689734+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "百妖试禅心 The Love’s Ordeal",
+      "original_url": "https://2468c.com/121993.html",
+      "published_at": "2026-11-13T22:29:26Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-13T22:29:26Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-13T23:42:52.849686+00:00"
+    },
+    {
+      "title": "嘘, 美女拍摄中 Heroines Through My Lens",
+      "original_url": "https://2468c.com/121991.html",
+      "published_at": "2026-11-13T22:26:54Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-13T22:26:54Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "雪落情书时 A Love Letter in Snowfall",
+      "original_url": "https://2468c.com/121983.html",
+      "published_at": "2026-11-13T22:24:13Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-13T22:24:13Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "名利游戏 Vanity Fair: The Pursuit",
+      "original_url": "https://2468c.com/121985.html",
+      "published_at": "2026-11-13T22:22:02Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-13T22:22:02Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "夏日美女：欧巴请和我恋爱吧！ Summer’s Heartbeat",
+      "original_url": "https://2468c.com/121987.html",
+      "published_at": "2026-11-13T22:19:49Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-13T22:19:49Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "逆袭重启 Rebooted Fate",
+      "original_url": "https://2468c.com/121995.html",
+      "published_at": "2026-11-13T22:17:10Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-13T22:17:10Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "彩虹万岁 Hail to the Rainbow",
+      "original_url": "https://2468c.com/121997.html",
+      "published_at": "2026-11-13T22:13:02Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-13T22:13:02Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
     {
       "title": "最终幻想7：核心危机.CRISIS CORE –FINAL FANTASY VII",
       "original_url": "https://2468c.com/112503.html",
@@ -1654,139 +1774,6 @@
       "source_name": "奥德彪计划 PS4 / PS5",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-06T17:34:47.118712+00:00"
-    },
-    {
-      "title": "真人快打1.Mortal Kombat 1",
-      "original_url": "https://2468c.com/99861.html",
-      "published_at": "2026-09-15T01:28:48Z",
-      "summary": "平台：PlayStation5 发行商：Warner Bros. Interactive Entertainment 语言：英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：NetherRealm Studios 发行日期：2023年9月14日 游戏版本：v01.001....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-05T13:20:41Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-05T20:44:13.630743+00:00"
-    },
-    {
-      "title": "电车炫客 Denshattack!",
-      "original_url": "https://2468c.com/121827.html",
-      "published_at": "2026-11-05T00:41:52Z",
-      "summary": "平台：PlayStation5 发行商：Fireshine Games 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Undercoders 发行日期：2026-06-17 游戏版本：v01.001.000 游戏编号：PPSA29952 格式：文件压...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-05T00:41:52Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-05T03:34:28.290012+00:00"
-    },
-    {
-      "title": "怪物男孩与被诅咒的王国. Monster Boy and The Cursed Kingdom",
-      "original_url": "https://2468c.com/100957.html",
-      "published_at": "2026-11-05T00:35:38Z",
-      "summary": "平台：PlayStation5 发行商：FDG Entertainment 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：FDG Entertainment 发行日期：2019年7月25日 游戏版本：v01.000.004 游戏编号：PPSA0278...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-05T00:36:59Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-05T03:34:28.840874+00:00"
-    },
-    {
-      "title": "格杀勿论.Wanted: Dead",
-      "original_url": "https://2468c.com/100071.html",
-      "published_at": "2026-11-05T00:30:26Z",
-      "summary": "平台：PlayStation5 发行商：110 Industries 语言：日语,英语,德语,意大利语,法语,西班牙语 开发商：Soleil Ltd. 发行日期：2023年2月14日 游戏版本：v01.001.000 游戏编号：PPSA05621 格式：文件压缩包/FPKG 平台...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-05T00:35:56Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-05T03:34:29.438858+00:00"
-    },
-    {
-      "title": "流浪猫.Stray",
-      "original_url": "https://2468c.com/99155.html",
-      "published_at": "2026-11-05T00:32:59Z",
-      "summary": "平台：PlayStation5 发行商：Annapurna Interactive 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：BlueTwelve Studio 发行日期：2022年7月19日 游戏版本：v01.005.000 游戏编号：PPSA...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-05T00:34:09Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-05T03:34:30.045694+00:00"
-    },
-    {
-      "title": "伤痕累累.Scars Above",
-      "original_url": "https://2468c.com/99971.html",
-      "published_at": "2026-11-05T00:26:37Z",
-      "summary": "平台：PlayStation5 发行商：Prime Matter 语言：中文,日语,英语,德语,韩语,意大利语,法语,西班牙语 开发商：Mad Head Games 发行日期：2023年2月28日 游戏版本：v01.003.00 游戏编号：PPSA08597 格式：文件压缩包/F...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-05T00:28:02Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-05T03:34:30.693781+00:00"
-    },
-    {
-      "title": "中世纪王朝.Medieval Dynasty",
-      "original_url": "https://2468c.com/100268.html",
-      "published_at": "2026-11-05T00:24:40Z",
-      "summary": "平台：PlayStation5 发行商：Toplitz Productions 语言：中文,日语,英语,德语,俄语,意大利语,法语,西班牙语 开发商：Toplitz Productions 发行日期：2020年9月17日 游戏版本：v01.413.001 游戏编号：PPSA079...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-05T00:26:03Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-05T03:34:31.243483+00:00"
     }
   ]
 }

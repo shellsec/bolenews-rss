@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-13T17:53:28.302277+00:00",
+  "generated_at": "2026-11-13T23:42:56.514869+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -1681,7 +1681,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-08T06:59:44.336285+00:00"
+      "summary_checked_at": "2026-11-13T23:42:59.296185+00:00"
     },
     {
       "title": "海贼王海洋盛宴 ONE PIECE海洋盛宴|官方中文|NSP|",
