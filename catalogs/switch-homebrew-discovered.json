@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 4,
+  "config_version": 5,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-12T02:26:23.143206+00:00",
+  "generated_at": "2026-11-14T01:39:53.012539+00:00",
   "sources": [
     {
       "id": "gh-homebrew-287271987",
@@ -332,6 +332,40 @@
       "name": "COLD-FEAR-NX-PORT",
       "url": "https://github.com/gerisson1996/COLD-FEAR-NX-PORT/releases.atom",
       "repo": "gerisson1996/COLD-FEAR-NX-PORT",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1435275797",
+      "name": "kickstand",
+      "url": "https://github.com/Angle-Brackets/kickstand/releases.atom",
+      "repo": "Angle-Brackets/kickstand",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1456846112",
+      "name": "RESIDENT-CODE-VERONICA-NX-PORT",
+      "url": "https://github.com/gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT/releases.atom",
+      "repo": "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT",
       "category": "homebrew",
       "language": "en",
       "platforms": [

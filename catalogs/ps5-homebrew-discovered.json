@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 5,
+  "config_version": 6,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-12T02:26:23.143206+00:00",
+  "generated_at": "2026-11-14T01:39:53.012539+00:00",
   "sources": [
     {
       "id": "gh-homebrew-395383178",
@@ -468,6 +468,23 @@
       "name": "prism-ps5",
       "url": "https://github.com/HaydenGriffin/prism-ps5/releases.atom",
       "repo": "HaydenGriffin/prism-ps5",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1457129789",
+      "name": "XPS5",
+      "url": "https://github.com/ramalhoboss/XPS5/releases.atom",
+      "repo": "ramalhoboss/XPS5",
       "category": "homebrew",
       "language": "en",
       "platforms": [
