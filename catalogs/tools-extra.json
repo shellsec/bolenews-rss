@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 4,
+  "config_version": 5,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-10T06:34:10.927882+00:00",
+  "generated_at": "2026-11-14T03:29:53.376493+00:00",
   "sources": [
     {
       "id": "nx-hbloader",
@@ -121,6 +121,142 @@
       "platforms": [],
       "evidence": "community",
       "rights_policy": "public index and direct reading of original pages; no mirrored article text or images"
+    },
+    {
+      "id": "flashnx",
+      "name": "FlashNX（Flash 游戏播放器）",
+      "url": "https://github.com/Jonathan8520/FlashNX/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "Jonathan8520/FlashNX",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct upstream Release feed reading; no mirrored binaries"
+    },
+    {
+      "id": "gamehubnx",
+      "name": "GameHubNX（自建游戏库客户端）",
+      "url": "https://github.com/luishidalgoa/GameHubNX/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "luishidalgoa/GameHubNX",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct upstream Release feed reading; no mirrored binaries"
+    },
+    {
+      "id": "tmcexplorer-nx",
+      "name": "TmcExplorer-NX（文件管理器）",
+      "url": "https://github.com/TM-C0M8U570RZ/TmcExplorer-NX/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "TM-C0M8U570RZ/TmcExplorer-NX",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct upstream Release feed reading; no mirrored binaries"
+    },
+    {
+      "id": "hometile-switch",
+      "name": "HomeTile（HOME 菜单入口）",
+      "url": "https://github.com/Amir-Ehsani/HomeTile-switch/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "Amir-Ehsani/HomeTile-switch",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct upstream Release feed reading; no mirrored binaries"
+    },
+    {
+      "id": "switch-time",
+      "name": "Switch Time（时钟工具）",
+      "url": "https://github.com/3096/switch-time/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "3096/switch-time",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct upstream Release feed reading; no mirrored binaries"
+    },
+    {
+      "id": "battery-desync-fix-nx",
+      "name": "Battery Desync Fix NX（电量校准）",
+      "url": "https://github.com/CTCaer/battery_desync_fix_nx/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "CTCaer/battery_desync_fix_nx",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct upstream Release feed reading; no mirrored binaries"
+    },
+    {
+      "id": "nx-shell",
+      "name": "NX-Shell（文件管理器）",
+      "url": "https://github.com/Joel16/NX-Shell/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "Joel16/NX-Shell",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct upstream Release feed reading; no mirrored binaries"
+    },
+    {
+      "id": "scummvm-switch",
+      "name": "ScummVM（支持 Switch 的冒险游戏引擎）",
+      "url": "https://github.com/scummvm/scummvm/releases.atom",
+      "category": "homebrew",
+      "language": "en",
+      "repo": "scummvm/scummvm",
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct upstream Release feed reading; no mirrored binaries"
     }
   ]
 }
