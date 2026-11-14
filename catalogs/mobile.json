@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 1,
+  "config_version": 2,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-14T03:47:09.906453+00:00",
+  "generated_at": "2026-11-14T03:50:46.901635+00:00",
   "sources": [
     {
       "id": "gamingonphone",
@@ -53,6 +53,59 @@
       "builtin": true,
       "platforms": [
         "android"
+      ],
+      "evidence": "community",
+      "rights_policy": "direct personal subscription"
+    },
+    {
+      "id": "pocket-tactics",
+      "name": "Pocket Tactics",
+      "url": "https://www.pockettactics.com/feed",
+      "category": "guides",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "android",
+        "ios"
+      ],
+      "evidence": "community",
+      "rights_policy": "direct personal subscription"
+    },
+    {
+      "id": "9to5mac-apple-arcade",
+      "name": "9to5Mac Apple Arcade",
+      "url": "https://9to5mac.com/guides/apple-arcade/feed/",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "ios",
+        "macos"
+      ],
+      "evidence": "community",
+      "rights_policy": "direct personal subscription"
+    },
+    {
+      "id": "itchio-ios-new",
+      "name": "itch.io iOS New Games",
+      "url": "https://itch.io/games/platform-ios/newest.xml",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "ios"
       ],
       "evidence": "community",
       "rights_policy": "direct personal subscription"
