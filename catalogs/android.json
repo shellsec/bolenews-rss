@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 7,
+  "config_version": 8,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-08T06:53:48.108897+00:00",
+  "generated_at": "2026-11-14T03:44:33.142427+00:00",
   "sources": [
     {
       "id": "lemuroid",
@@ -155,6 +155,59 @@
       ],
       "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
       "update_status": "archive; publisher states old site no longer updates"
+    },
+    {
+      "id": "gamingonphone",
+      "name": "GamingonPhone",
+      "url": "https://gamingonphone.com/feed/",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "android",
+        "ios"
+      ],
+      "evidence": "community",
+      "rights_policy": "direct personal subscription"
+    },
+    {
+      "id": "pocketgamer-mobile",
+      "name": "Pocket Gamer",
+      "url": "https://www.pocketgamer.com/index.rss",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "android",
+        "ios"
+      ],
+      "evidence": "community",
+      "rights_policy": "direct personal subscription"
+    },
+    {
+      "id": "itchio-android-new",
+      "name": "itch.io Android New Games",
+      "url": "https://itch.io/games/platform-android/newest.xml",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "android"
+      ],
+      "evidence": "community",
+      "rights_policy": "direct personal subscription"
     }
   ]
 }
