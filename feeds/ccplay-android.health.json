@@ -1,0 +1,14 @@
+{
+  "source": "ccplay-android",
+  "attempted_at": "2026-11-14T03:54:36.628952+00:00",
+  "status": "partial",
+  "robots_status": 404,
+  "count": 9,
+  "fetched_count": 9,
+  "retained_count": 0,
+  "input_urls": [
+    "https://g.ccplay.cc/"
+  ],
+  "dropped_by_limit": 0,
+  "error": "https://g.ccplay.cc/package/104320.html: Unexpected game cover; https://g.ccplay.cc/package/120397.html: Unexpected game cover; https://g.ccplay.cc/package/171761.html: Missing title or update notes; https://g.ccplay.cc/package/114973.html: Unexpected game cover"
+}

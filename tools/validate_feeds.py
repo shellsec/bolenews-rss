@@ -17,7 +17,7 @@ for path in [root/'sources.json', *sorted((root/'catalogs').glob('*.json'))]:
         p=urlsplit(source['url'])
         assert p.scheme=='https' and p.hostname and not p.username and not p.password
         assert source.get('kind','feed')=='feed' and not source.get('parent_id')
-        assert not source.get('images') or source['id'] in {'example-gamer520', 'gamer520-switch2', 'nsthwj-games', 'nsthwj-switch', 'nsthwj-pc', 'nsthwj-ps4', '4gamers-zh', 'gamesradar-calendar', '4gamers-game-guides', 'switch-homebrew-guides', 'retroarch-official-guides', 'nswiki-switch-guides', 'mushroom-switch', 'mushroom-pc', 'mushroom-ps4'}
+        assert not source.get('images') or source['id'] in {'ccplay-android', 'example-gamer520', 'gamer520-switch2', 'nsthwj-games', 'nsthwj-switch', 'nsthwj-pc', 'nsthwj-ps4', '4gamers-zh', 'gamesradar-calendar', '4gamers-game-guides', 'switch-homebrew-guides', 'retroarch-official-guides', 'nswiki-switch-guides', 'mushroom-switch', 'mushroom-pc', 'mushroom-ps4'}
         assert source.get('fullContent',False)==(bool(source.get('repo')) or source['id'] in {'fzgamer-archive', '4gamers-zh', 'gamesradar-calendar'})
 for path in sorted((root/'feeds').glob('*.json')):
     if path.name.endswith('.health.json'):continue
@@ -36,6 +36,12 @@ for path in sorted((root/'feeds').glob('*.json')):
             assert item['original_url'].startswith('https://www.xn--ogtt23ghrb.cn/SEO/')
             cover = urlsplit(item.get('image_url', ''))
             assert not cover.geturl() or (cover.scheme == 'https' and cover.netloc == 'www.oupai.xyz')
+        elif path.name == 'ccplay-android.json':
+            assert item.get('content_scope') == 'summary' and not item.get('content')
+            assert item.get('version') and item.get('summary') and item.get('updated_at')
+            assert item['original_url'].startswith('https://g.ccplay.cc/package/')
+            cover = urlsplit(item['image_url'])
+            assert cover.scheme == 'https' and cover.netloc == 'ws-resource.ccplay.cc' and cover.path.startswith('/media/images/')
         else:
             assert not item.get('content') and not item.get('image_url')
         assert isinstance(item.get('updated_at',''),str)

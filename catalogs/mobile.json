@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 2,
+  "config_version": 3,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-14T03:50:46.901635+00:00",
+  "generated_at": "2026-11-14T03:54:33.049304+00:00",
   "sources": [
     {
       "id": "gamingonphone",
@@ -109,6 +109,23 @@
       ],
       "evidence": "community",
       "rights_policy": "direct personal subscription"
+    },
+    {
+      "id": "ccplay-android",
+      "name": "虫虫助手 · Android 游戏更新",
+      "url": "https://raw.githubusercontent.com/shellsec/bolenews-rss/master/feeds/ccplay-android.json",
+      "category": "discovery",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": true,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "android"
+      ],
+      "evidence": "community",
+      "rights_policy": "public game metadata and direct cover links"
     }
   ]
 }

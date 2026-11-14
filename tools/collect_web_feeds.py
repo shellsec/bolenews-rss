@@ -63,7 +63,7 @@ for _platform, _route in (("switch", "/"), ("pc", "/pc"), ("ps4", "/ps4")):
 
 MUSHROOM_HOST = "www.xn--ogtt23ghrb.cn"
 MUSHROOM_DETAIL_PATH = r"/SEO/%E6%B8%B8%E6%88%8F/\d+\.html"
-MUSHROOM_SCAN_LIMIT = 20
+RESOURCE_SCAN_LIMIT = 20
 for key, category, platform in (("switch", "Switch", "switch1"), ("pc", "PC游戏", "pc"), ("ps4", "PS4", "ps4")):
     path = urllib.parse.quote(f"/SEO/分类/{category}.html")
     SITES[f"mushroom-{key}"] = {
@@ -71,6 +71,12 @@ for key, category, platform in (("switch", "Switch", "switch1"), ("pc", "PC游�
         "hosts": {MUSHROOM_HOST}, "path": MUSHROOM_DETAIL_PATH, "format": "mushroom",
         "platform": platform, "site_category": category,
     }
+
+SITES["ccplay-android"] = {
+    "name": "虫虫助手 · Android", "url": "https://g.ccplay.cc/",
+    "hosts": {"g.ccplay.cc"}, "path": r"/package/\d+\.html",
+    "format": "ccplay", "platform": "android",
+}
 
 AGENT = "BoleNewsMetadata/0.1 (+https://github.com/shellsec/bolenews)"
 LIMIT = 2 * 1024 * 1024
@@ -592,9 +598,36 @@ def mushroom_item(html, url, site):
             "source_name": site["name"], "platform": [site["platform"]], "category": "discovery"}
 
 
-def mushroom_details(body, site, robots):
+def ccplay_item(body, url, site):
+    if not re.search(r'<h2>更新内容</h2>', body):
+        return None
+    def field(pattern):
+        match = re.search(pattern, body, re.DOTALL)
+        if not match:
+            raise ValueError("Missing game detail field")
+        return match[1].strip()
+
+    title = clean_excerpt(field(r'<meta property="og:title" content="([^"]+)"'))
+    date = dt.date.fromisoformat(field(r'<meta property="og:release_date"\s+content="([^"]+)"'))
+    version = field(r'<div class="detail_related">\s*<p>版本：([0-9][0-9A-Za-z.+_-]{0,63})</p>')
+    cover = urllib.parse.urljoin(url, field(r'<dt class="dt-(?:developer|cps)">\s*<img src="([^"]+)"'))
+    image = urllib.parse.urlsplit(cover)
+    if image.scheme != "https" or image.netloc != "ws-resource.ccplay.cc" or not image.path.startswith("/media/images/") or image.query or image.fragment:
+        raise ValueError("Unexpected game cover")
+    notes = field(r'<h2>更新内容</h2>[^<]*(?:(?!<h2>).)*?<pre>(.*?)</pre>')
+    summary = clean_excerpt(re.sub(r"(?:https?:)?//[^\s<]+", "", notes))
+    if not title or not summary:
+        raise ValueError("Missing title or update notes")
+    return {"title": title, "original_url": url, "published_at": "",
+            "updated_at": date.isoformat() + "T00:00:00+08:00", "update_date_precision": "day",
+            "version": version, "summary": summary, "image_url": cover, "content": "",
+            "content_scope": "summary", "language": "zh-Hans", "evidence": "community",
+            "source_name": site["name"], "platform": ["android"], "category": "discovery"}
+
+
+def resource_details(body, site, robots, parse_item):
     rows, failures = [], []
-    for index, candidate in enumerate(convert(body, site)[:MUSHROOM_SCAN_LIMIT]):
+    for index, candidate in enumerate(convert(body, site)[:RESOURCE_SCAN_LIMIT]):
         url = candidate["original_url"]
         if not robots.can_fetch(AGENT, url):
             failures.append("robots.txt disallows a resource page")
@@ -602,7 +635,9 @@ def mushroom_details(body, site, robots):
         if index:
             time.sleep(0.3)
         try:
-            rows.append(mushroom_item(fetch(url, site), url, site))
+            item = parse_item(fetch(url, site), url, site)
+            if item is not None:
+                rows.append(item)
         except (OSError, ValueError, TypeError, AttributeError) as error:
             failures.append(f"{url}: {error}")
             if isinstance(error, urllib.error.HTTPError) and error.code in (401, 403, 429):
@@ -643,8 +678,9 @@ def collect(key, output, summary_limit=12):
                 time.sleep(1)
             try:
                 body = fetch(url, site)
-                if site.get("format") == "mushroom":
-                    converted, detail_errors = mushroom_details(body, site, robots)
+                if site.get("format") in {"mushroom", "ccplay"}:
+                    parse_item = ccplay_item if site["format"] == "ccplay" else mushroom_item
+                    converted, detail_errors = resource_details(body, site, robots, parse_item)
                     failures.extend(detail_errors[:5])
                 else:
                     converted = converter(body, site)
@@ -676,7 +712,7 @@ def collect(key, output, summary_limit=12):
         items.sort(key=lambda x: max(x.get("updated_at", ""), x.get("published_at", "")), reverse=True)
         total = len(items)
         items = items[:100]  # All supported clients accept at most 100 items per feed.
-        if site.get("format") != "mushroom":
+        if site.get("format") not in {"mushroom", "ccplay"}:
             health.update(fill_descriptions(items, cached, site, robots, summary_limit))
         if site.get("format")=="nsthwj":
             health.update(download_items=sum(bool(x.get("download_links")) for x in items), download_links=sum(len(x.get("download_links",[])) for x in items))
