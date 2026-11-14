@@ -1,9 +1,55 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-13T23:43:13.051928+00:00",
+  "generated_at": "2026-11-14T06:45:28.220738+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "dbf8850488bf84c5e880b98bc384a766995847d0253ae61dc4d1f399c9c77db9",
+      "title": "[移植游戏]使命召唤9：黑色行动2[360移植版]|Call of Duty: Black Ops II汉化",
+      "original_url": "https://nsthwj.cn/game/switch/137764",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-14T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-14T06:45:30.229813+00:00"
+    },
+    {
+      "id": "e20dd5d6d546b066299274d58dfdd2782f5b24bdb98b30b9c814c884625a99e1",
+      "title": "[SS土星移植游戏]虎胆龙威：街机版|Die Hard Arcade",
+      "original_url": "https://nsthwj.cn/game/switch/138115",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《Die Hard Arcade》是一款适合两名玩家一起玩的格斗游戏，玩家可以选择扮演约翰·麦克莱恩或克里斯·汤普森（日文版中则由布鲁诺·德林格和辛迪·霍利迪扮演）。玩家需要用拳头、脚，以及从敌人或环境中获取的各种武器来与一波波的敌人战斗，这些武器包括扫帚、胡椒瓶之类的日常物品，也有威力强大的导弹发射器及反坦克炮。大…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-14T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-14T06:45:31.346437+00:00"
+    },
     {
       "id": "96070c18321b39cb1e94d51bd6bf9591c540678135b10aeae774ed1d45462780",
       "title": "银色事件2425|The Silver 2425汉化",
@@ -2057,41 +2103,6 @@
         }
       ],
       "summary_checked_at": "2026-11-04T22:42:24.638500+00:00"
-    },
-    {
-      "id": "dbf8850488bf84c5e880b98bc384a766995847d0253ae61dc4d1f399c9c77db9",
-      "title": "[移植游戏]使命召唤9：黑色行动2[360移植版]|Call of Duty: Black Ops II",
-      "original_url": "https://nsthwj.cn/game/switch/137764",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1N4I8YU6EN5MV6-c-n4WF_A?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/802744f357fb",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:33.404829+00:00"
     },
     {
       "id": "86770d57e606e56b3190901fb879cc81a14d75983061a6ebb4a179e59f59df6d",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-13T23:42:50.689734+00:00",
+  "generated_at": "2026-11-14T06:45:04.560012+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -37,7 +37,8 @@
         "ps5"
       ],
       "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-14T06:45:06.602707+00:00"
     },
     {
       "title": "雪落情书时 A Love Letter in Snowfall",

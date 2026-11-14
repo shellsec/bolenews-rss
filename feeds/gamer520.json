@@ -1,9 +1,29 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-13T23:42:56.514869+00:00",
+  "generated_at": "2026-11-14T06:45:09.794904+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "暗黑破坏神2|官方中文|本体+1.0.35.0升补+1DLC+离线MOD|NSP|",
+      "original_url": "https://vip.gamers520.com/22636.html",
+      "published_at": "2026-11-13T19:00:40Z",
+      "summary": "下载在底部 名称: 《暗黑破坏神2》重制版 – 终极包 Diablo II: Resurrected – Infernal Edition 类型: 动作, 角色扮演, 策略 开发者: Blizzard …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-14T00:54:56Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.35.0"
+    },
     {
       "title": "文明7 Sid Meier’s Civilization® VII|官方中文|本体+1.5.1升补+30DLC|NSZ|",
       "original_url": "https://vip.gamers520.com/104614.html",
@@ -666,7 +686,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-09T08:08:49.915008+00:00"
+      "summary_checked_at": "2026-11-14T06:45:12.304833+00:00"
     },
     {
       "title": "鬼灭之刃 火之神血风谭2|官方中文|本体+v2.01升补+12DLC|NSP|原版|",
@@ -1715,22 +1735,6 @@
         "switch1"
       ],
       "version": "v1.31"
-    },
-    {
-      "title": "合金装备 崛起|官方中文|移植版|",
-      "original_url": "https://vip.gamers520.com/124433.html",
-      "published_at": "2026-10-21T21:01:59Z",
-      "summary": "METAL GEAR RISING REVENGEANCE 由 Kojima Productions 和 PlatinumGames 开发的《METAL GEAR RISING: REVENGEANC …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-22T02:10:22Z",
-      "platform": [
-        "switch1"
-      ]
     }
   ]
 }
