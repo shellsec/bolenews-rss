@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 17,
+  "config_version": 18,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-11T03:21:59.049369+00:00",
+  "generated_at": "2026-11-14T03:36:26.065830+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -965,6 +965,53 @@
       ],
       "evidence": "community",
       "rights_policy": "public index and direct reading of original pages; no mirrored article text or images"
+    },
+    {
+      "id": "nintendolife-switch1",
+      "name": "Nintendo Life · Nintendo Switch",
+      "url": "https://www.nintendolife.com/feeds/latest/tags/nintendo-switch",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "switch1"
+      ],
+      "evidence": "community",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "rpgsite",
+      "name": "RPG Site",
+      "url": "https://www.rpgsite.net/feed",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "evidence": "community",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
+    },
+    {
+      "id": "automaton-jp",
+      "name": "AUTOMATON Japan",
+      "url": "https://automaton-media.com/feed/",
+      "category": "hot",
+      "language": "ja",
+      "repo": "",
+      "enabled": false,
+      "images": false,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [],
+      "evidence": "community",
+      "rights_policy": "direct personal subscription; no bundled publisher images or article text"
     }
   ]
 }
