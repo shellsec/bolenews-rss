@@ -1,9 +1,27 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-14T06:45:04.560012+00:00",
+  "generated_at": "2026-11-14T14:19:37.212984+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "嘘, 美女拍摄中 Heroines Through My Lens",
+      "original_url": "https://2468c.com/121991.html",
+      "published_at": "2026-11-13T22:26:54Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-14T07:59:02Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-14T14:19:39.457670+00:00"
+    },
     {
       "title": "百妖试禅心 The Love’s Ordeal",
       "original_url": "https://2468c.com/121993.html",
@@ -21,24 +39,6 @@
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
       "summary_checked_at": "2026-11-13T23:42:52.849686+00:00"
-    },
-    {
-      "title": "嘘, 美女拍摄中 Heroines Through My Lens",
-      "original_url": "https://2468c.com/121991.html",
-      "published_at": "2026-11-13T22:26:54Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-13T22:26:54Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-14T06:45:06.602707+00:00"
     },
     {
       "title": "雪落情书时 A Love Letter in Snowfall",

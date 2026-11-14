@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-14T06:45:28.220738+00:00",
+  "generated_at": "2026-11-14T14:19:59.216641+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -49,6 +49,98 @@
       "updated_at": "2026-11-14T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-14T06:45:31.346437+00:00"
+    },
+    {
+      "id": "9cba4d082f5fa3bbf2bdac04ad06a82450ea898495129100734acb58e85f2187",
+      "title": "鸟笼|Birdcage",
+      "original_url": "https://nsthwj.cn/game/switch/138145",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "BIRDCAGE 是一款快节奏的纵向卷轴射击游戏，融合了 90 年代经典街机游戏的爆炸性动作体验，以及现代的游戏玩法与叙事手法。 当你手握利剑时，子弹的价值何在？ 在 BIRDCAGE 中，玩家将操控实验性的 RADON 战机 HALCYON。HALCYON 配备有广域射击、聚焦射击，以及其主要攻防一体的武器——「剑…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.1",
+      "updated_at": "2026-11-14T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-14T14:20:06.319678+00:00"
+    },
+    {
+      "id": "23af4fdacc3b7f20a9a3fab0111507d49298085171bf88cb701628a9a986356c",
+      "title": "泪境|撕裂之境|Tearscape中文",
+      "original_url": "https://nsthwj.cn/game/switch/138144",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "在这款受 Game Boy Color 经典游戏启发的 2D 俯视视角动作冒险游戏中，探索一个哥特风格的世界。它将快节奏的战斗、探索与像素艺术风格融为一体。与怪物般的敌人战斗，解锁新能力，探索一张充满隐藏秘密与危险挑战的非线性地图。 掌握精准的战斗技巧，每一次挥砍与闪避都至关重要。面对 grotesque 的敌人时，…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-14T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-14T14:20:07.487232+00:00"
+    },
+    {
+      "id": "66c932226f07f7c9aa29bcb479fec09654ec8965889d96f727a4ae19f5b117b8",
+      "title": "威尔莫特的拼图时光|Wilmot Works It Out中文",
+      "original_url": "https://nsthwj.cn/game/switch/138143",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "Wilmot Works It Out 是一款创建类解谜游戏，主要内容是完成精美的图案并将它们挂在家中。 您在游戏中扮演的是 Wilmot，喜欢用拼凑拼图片的方式来整理仓库并在这过程中放松自我。昨天的拼图就像一条戴帽子的蛇，可今天的看上去好似章鱼？……又或者是汉堡包？ 您在完成后可以决定把它挂在哪里。然后邮递员会送来…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-14T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-14T14:20:08.994028+00:00"
+    },
+    {
+      "id": "425dbaa6c159a9b5f6993d1c0f0e0c3e484ded70969227dcd279898a49b4dce9",
+      "title": "[SS土星移植游戏]水浒演武：风云再起|Suiko Enbu Fuunsaiki",
+      "original_url": "https://nsthwj.cn/game/switch/138142",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《隋唐演义》的强化版，专为土星平台打造。这款游戏属于2D对战类游戏，背景设定在中世纪的中华大地，其故事灵感源自中国经典的《水浒传》传说。与一般的格斗游戏一样，玩家可以从14名战士中选择自己喜欢的角色，然后运用各自的特殊技能和攻击手段进行战斗。此外，每个角色都有自己独特的武器，但若过度使用防御手段，武器就会损坏，此时玩…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-14T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-14T14:20:12.067394+00:00"
     },
     {
       "id": "96070c18321b39cb1e94d51bd6bf9591c540678135b10aeae774ed1d45462780",

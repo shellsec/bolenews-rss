@@ -1,9 +1,35 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-14T06:45:06.781144+00:00",
+  "generated_at": "2026-11-14T14:19:39.710983+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "《活俠傳》音樂會驚喜彩蛋！「原始鳥熊」鳥與熊今現身合體幽火、一同感謝海內外唐門子弟共襄盛舉",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315023",
+      "published_at": "2026-11-14T13:33:01Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "由獨立遊戲研發團隊「原始鳥熊 Obb Studio」開發的武俠角色扮演遊戲《活俠傳》所舉辦「君所願兮江湖行」武俠音樂會，今日下午在演出尾聲時出現驚喜彩蛋，「原始鳥熊」成員「鳥」與「熊」現身音樂會現場，兩人從座位區起身時全場瞬間爆出震耳欲聾的歡呼與掌聲，他們與遊戲原聲帶作曲家幽火老師在舞台上合體向全場聽眾致意，除....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
+    {
+      "title": "直擊「Monster Hunter Now Carnival 2026：大阪」活動首日 獵人們齊心協力擊退古龍「嵐龍」！",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315022",
+      "published_at": "2026-11-14T13:32:01Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "Scopely Explore 旗下真實世界狩獵動作遊戲《Monster Hunter Now》的大規模實體活動「Monster Hunter Now Carnival 2026：大阪」於 2026 年 11 月 14 日（六）與 15 日（日）在大阪市內難波一帶登場。 ....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "《英雄聯盟》2026 世界賽決賽隊伍 GEN 賽前訪問 Chovy 希望與隊友創造「Gen.G 之年」",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315021",
@@ -39,10 +65,10 @@
       "summary": "Riot 於今（14）日稍早宣布，《英雄聯盟》電競未來發展，明年 MSI 賽事將首次登陸西班牙，2027 世界大賽則擴展到日本和南韓。除此之外，2027 年，還將舉辦 First Stand: All In，這將是他們迄今最大規模的賽事。 「First Stand: All In」：中國 Riot Games 將以一場特別的賽事為 2027 年國際賽事揭開序幕，「First Stand： All In」是一場一次性活動，將聚集",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-14T06:45:07.311749+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-14T06:45:07.311749+00:00"
     },
     {
       "title": "《活俠傳》武俠音樂會首演熱血登場 指揮王子豪帶領全場高喊唐門口號、作曲家幽火獻出指揮處女秀",
@@ -1297,32 +1323,6 @@
       "evidence": "community",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-11T15:28:09.737908+00:00"
-    },
-    {
-      "title": "《22 世紀富豪僱傭兵》預定 2027 年 11 月 9 日上市 新實機預告影片搶先公開",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314859",
-      "published_at": "2026-11-11T10:20:12Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "洛杉磯獨立開發者 Morph 公開個人獨立製作的潛行冒險遊戲《22 世紀富豪僱傭兵（暫譯，原名：Trillionaire Mercenaries of 21XX）》最新實機預告影片，遊戲預計 2027 年 11 月 9 日在 Steam 平台推出。 《22 世紀富豪僱傭兵》這是一款以廣闊海....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "迎接慶典！《Pokémon GO》與香港麥當勞的限時聯乘活動即將登場",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314858",
-      "published_at": "2026-11-11T10:10:01Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "《Pokemon GO》今日宣布，將攜手香港麥當勞推出限時聯乘活動。活動期間，只要親臨香港各地的麥當勞指定餐廳，不僅能旋轉活動的寶可補給站轉盤，獲得田野調查課題，還有機會領取限時調查序號，與活動主題寶可夢們相遇。 活動期間 活動將分....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
     }
   ]
 }
