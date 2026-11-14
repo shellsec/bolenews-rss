@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-14T14:19:42.131598+00:00",
+  "generated_at": "2026-11-14T19:18:19.599729+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -882,7 +882,7 @@
         "game_update"
       ],
       "version": "v1.3.0",
-      "summary_checked_at": "2026-11-10T02:18:04.268335+00:00"
+      "summary_checked_at": "2026-11-14T19:18:21.731787+00:00"
     },
     {
       "title": "真人快打9|移植版|",

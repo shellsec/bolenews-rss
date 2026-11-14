@@ -1,16 +1,42 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-14T14:19:39.710983+00:00",
+  "generated_at": "2026-11-14T19:18:17.377097+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "路跑皮卡丘現身！「Pokémon RUN 30 寶可夢路跑」新北場活動報導",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315025",
+      "published_at": "2026-11-14T15:58:43Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "為慶祝《寶可夢》系列迎接 30 週年，以「與寶可夢一起奔向未來！」為主題的「Pokémon RUN 30 寶可夢路跑」今（14）日起在新北大都會公園登場，活動將一連舉行兩天。繼先前台中、高雄場後，新北場也規劃 3.5 公里主題路線，讓參加者化身訓練家，從選擇最初的夥伴寶可夢開始，一路挑戰道館、造訪....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
+    {
+      "title": "木村拓哉出道 35 年首度台北開唱 在台慶生秀親筆中文訊息",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315024",
+      "published_at": "2026-11-14T15:55:48Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "曾為吉卜力動畫《霍爾的移動城堡》男主角霍爾配音、並在 SEGA《審判之眼》系列遊戲中飾演主角八神隆之的日本知名藝人木村拓哉，於 11 月 13、14 日在台北流行音樂中心舉辦「TAKUYA KIMURA Live Tour 2026 Checkpoint」台北演唱會。這是他出道 35 年來首度以個人歌手身分在台....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "《活俠傳》音樂會驚喜彩蛋！「原始鳥熊」鳥與熊今現身合體幽火、一同感謝海內外唐門子弟共襄盛舉",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315023",
       "published_at": "2026-11-14T13:33:01Z",
       "source_name": "巴哈姆特 GNN",
       "language": "zh-Hant",
-      "summary": "由獨立遊戲研發團隊「原始鳥熊 Obb Studio」開發的武俠角色扮演遊戲《活俠傳》所舉辦「君所願兮江湖行」武俠音樂會，今日下午在演出尾聲時出現驚喜彩蛋，「原始鳥熊」成員「鳥」與「熊」現身音樂會現場，兩人從座位區起身時全場瞬間爆出震耳欲聾的歡呼與掌聲，他們與遊戲原聲帶作曲家幽火老師在舞台上合體向全場聽眾致意，除....",
+      "summary": "以獨立遊戲研發團隊「原始鳥熊 Obb Studio」開發的武俠角色扮演遊戲《活俠傳》為主題的「君所願兮江湖行」武俠音樂會，今日下午在演出尾聲時出現驚喜彩蛋，「原始鳥熊」成員「鳥」與「熊」現身音樂會現場，兩人從座位區起身時全場瞬間爆出震耳欲聾的歡呼與掌聲，他們與遊戲原聲帶作曲家幽火老師在舞台上合體向全場聽眾致意，....",
       "content": "",
       "image_url": "",
       "content_scope": "summary",
@@ -1296,33 +1322,6 @@
       "evidence": "community",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-11T15:28:09.186885+00:00"
-    },
-    {
-      "title": "開放世界生存冒險新作《西部之民》開放限時封測 駕駛客製化馬車進入 19 世紀狂野西部",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314863",
-      "published_at": "2026-11-11T10:36:40Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "開發團隊 The Breach Studios 與發行商 Team17 宣布，開放世界西部生存冒險遊戲《西部之民（Westlanders）》於 Steam 和 Epic Games Store 平台開放限時封閉測試，預定持續至 11 月 17 日，玩家將可搶先探索危機四伏的狂野西部。 《西....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "Aniplex × CYBIRD 將攜手推出黑暗奇幻冒險新作《Luna Reverse 幻月逆轉》",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314860",
-      "published_at": "2026-11-11T10:22:39Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "Aniplex 與 CYBIRD 正式公開雙方首度合作開發的黑暗奇幻文字冒險遊戲《Luna Reverse 幻月逆轉（LunaReverse）》，預定於 Nintendo Switch、Steam 平台推出，並支援繁體中文。官方同步釋出首張前導視覺圖與前導宣傳影片，揭開以復仇與命運為主題的故事序幕。 《Luna Reverse 幻月逆轉》是一款以黑暗奇幻世界為舞台的文字冒險遊戲，圍繞著一段從魔法使",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "evidence": "community",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-11T15:28:09.737908+00:00"
     }
   ]
 }

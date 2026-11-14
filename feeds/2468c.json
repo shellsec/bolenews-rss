@@ -1,9 +1,129 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-14T14:19:37.212984+00:00",
+  "generated_at": "2026-11-14T19:18:15.610740+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "战鼓啪打碰 3 Patapon 3",
+      "original_url": "https://2468c.com/122012.html",
+      "published_at": "2026-11-14T16:54:56Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-14T16:54:56Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-14T19:18:17.287377+00:00"
+    },
+    {
+      "title": "妖精的尾巴2 FAIRY TAIL 2",
+      "original_url": "https://2468c.com/122009.html",
+      "published_at": "2026-11-14T16:47:15Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-14T16:49:15Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "仙剑奇侠传七 The Legend of Sword and Fairy 7",
+      "original_url": "https://2468c.com/122007.html",
+      "published_at": "2026-11-14T16:39:49Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-14T16:39:49Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "幻想生活ｉ 转圈圈的龙和偷取时间的少女.Fantasy Life i: The Girl Who Steals Time",
+      "original_url": "https://2468c.com/112588.html",
+      "published_at": "2026-11-14T16:13:33Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-14T16:26:35Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "幻兽帕鲁 Palworld",
+      "original_url": "https://2468c.com/120965.html",
+      "published_at": "2026-11-14T16:10:25Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-14T16:17:50Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "控制：共振 CONTROL Resonant",
+      "original_url": "https://2468c.com/120793.html",
+      "published_at": "2026-11-14T16:09:34Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-14T16:16:52Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "控制 – 终极合辑.Control Ultimate Edition",
+      "original_url": "https://2468c.com/82969.html",
+      "published_at": "2026-11-14T16:08:32Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-14T16:10:54Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
     {
       "title": "嘘, 美女拍摄中 Heroines Through My Lens",
       "original_url": "https://2468c.com/121991.html",
@@ -1642,139 +1762,6 @@
       "source_name": "奥德彪计划 PS4 / PS5",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-06T09:32:09.388933+00:00"
-    },
-    {
-      "title": "重返猴岛 Return To Monkey Island",
-      "original_url": "https://2468c.com/121830.html",
-      "published_at": "2026-11-06T01:29:48Z",
-      "summary": "平台：PlayStation5 发行商：Devolver Digital 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Terrible Toybox 发行日期：2022-11-09 游戏版本：v01.101 游戏编号：PPSA10122 格式：文件...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-06T02:19:00Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-06T09:32:09.958445+00:00"
-    },
-    {
-      "title": "全面战争模拟器 TABS Totally Accurate Battle Simulator",
-      "original_url": "https://2468c.com/121832.html",
-      "published_at": "2026-11-06T01:33:55Z",
-      "summary": "平台：PlayStation5 发行商：Landfall Games 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Landfall Games 发行日期：2024-12-18 游戏版本：v01.000 游戏编号：PPSA06081 格式：文件压缩包...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-06T02:18:57Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-06T09:32:10.499909+00:00"
-    },
-    {
-      "title": "面包之子.Born of Bread",
-      "original_url": "https://2468c.com/106035.html",
-      "published_at": "2026-11-06T02:10:28Z",
-      "summary": "平台：PlayStation5 发行商：Dear Villagers 语言：中文,英语,德语,法语,西班牙语 开发商：WildArts Studio Inc. 发行日期：2023年12月6日 游戏版本：v02.000.000/v02.002.000 游戏编号：PPSA14457/...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-06T02:11:49Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-06T09:32:11.039252+00:00"
-    },
-    {
-      "title": "失落的遗迹 Lost Ruins",
-      "original_url": "https://2468c.com/121842.html",
-      "published_at": "2026-11-06T02:06:46Z",
-      "summary": "平台：PlayStation4 发行商：DANGEN Entertainment 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Altari Games 发行日期：2025-04-25 游戏版本：v1.02 游戏编号：CUSA29270 格式：PKG...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-06T02:06:46Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-06T09:32:11.769015+00:00"
-    },
-    {
-      "title": "原罪：重载 SiN Reloaded",
-      "original_url": "https://2468c.com/121840.html",
-      "published_at": "2026-11-06T02:03:31Z",
-      "summary": "平台：PlayStation4 发行商：Atari 语言：英语,德语,韩语,日语,法语,西班牙语 开发商：Ritual Entertainment 发行日期：2026-09-24 游戏版本：v1.02 游戏编号：CUSA58001 格式：PKG 平台版本：适用使用5.xx及以上版...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-06T02:03:31Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-06T09:32:12.319493+00:00"
-    },
-    {
-      "title": "狼之编年史 Chronicles of the wolf",
-      "original_url": "https://2468c.com/121838.html",
-      "published_at": "2026-11-06T01:58:57Z",
-      "summary": "平台：PlayStation4 发行商：PQube 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Migami Games 发行日期：2025-06-19 游戏版本：v1.07 游戏编号：CUSA52329 格式：PKG 平台版本：适用使用5.xx及...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-06T01:58:57Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-06T17:34:46.691272+00:00"
-    },
-    {
-      "title": "玩具总动员：复古大集合！ Toy Story: Retro Roundup",
-      "original_url": "https://2468c.com/121836.html",
-      "published_at": "2026-11-06T01:56:18Z",
-      "summary": "平台：PlayStation4 发行商：Atari 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Digital Eclipse 发行日期：2026-10-15 游戏版本：v1.03 游戏编号：CUSA56931 格式：PKG 平台版本：适用使用5....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-06T01:56:18Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-06T17:34:47.118712+00:00"
     }
   ]
 }
