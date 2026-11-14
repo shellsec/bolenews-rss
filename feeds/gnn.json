@@ -1,9 +1,35 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-14T19:18:17.377097+00:00",
+  "generated_at": "2026-11-14T23:08:45.491745+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "《英雄聯盟：新晨曙光》新預告短片曝光 搶先展示大升級後的遊戲畫面",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315027",
+      "published_at": "2026-11-14T22:04:15Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "Riot 趁著《英雄聯盟》2026 世界大賽總決賽期間，曝光全新遊戲《英雄聯盟：新晨曙光（New Dawn）》預告影片，玩家將可以看到翻新後的遊戲畫面與內容，更多資訊將於明年公開。 《英雄聯盟》2026 世界大賽總決賽今日正式開打，遊戲製作人趁著比賽....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
+    {
+      "title": "《英雄聯盟》2026 世界大賽總決賽開打 多首 K/DA 歌曲為賽事揭開序幕！",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315026",
+      "published_at": "2026-11-14T19:53:30Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "《英雄聯盟》2026 世界大賽今（15）日開打，由 LPL 隊伍 BLG 對上 LCK 隊伍 GEN。比賽開始前，K/DA 帶來一系列演出，為今年的賽事揭開序幕。 在經過長達近一個月的比賽後，《英雄聯盟》2026 世界大賽終於要迎接總決賽賽程，由 LPL 第二種子 BLG 對上 LCK 第....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "路跑皮卡丘現身！「Pokémon RUN 30 寶可夢路跑」新北場活動報導",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315025",
@@ -1295,33 +1321,6 @@
       "content_scope": "summary",
       "evidence": "community",
       "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "《魔女之泉》團隊新作《人偶之影》亮相 首支預告影片展示實機畫面與戰鬥系統",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314865",
-      "published_at": "2026-11-11T10:47:40Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "《魔女之泉》系列開發團隊 KIWIWALKS 今（11）日曝光開發中新作《人偶之影：琵幽璃塔的故事》首支預告影片，玩家將可搶先一窺戰鬥系統與實機遊玩畫面。 繼 PC 與家用主機版全球累計銷量突破 30 萬套的《魔女之泉 R》之後，KIWI....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "《封印者：CLOSERS》2026 玩家見面會現場花絮公開 以「禁書的試煉」為主題",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314864",
-      "published_at": "2026-11-11T10:40:12Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "樂意傳播營運的線上動作遊戲《封印者：CLOSERS》2026 年度玩家見面會落幕，本次活動以「禁書的試煉」為主題，吸引了百位玩家齊聚一堂。現場官方特別邀請到兩位 COSER 分別詮釋新角色「摩亞」的「神聖昔日」和「所羅門」造型，與玩家近距離互動。 【以下內容為廠商提供資料原文】 本次場地布置呈現典雅且神聖風格，主舞台的視覺呈現",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "evidence": "community",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-11T15:28:09.186885+00:00"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-14T19:19:02.077544+00:00",
+  "generated_at": "2026-11-14T23:09:34.871396+00:00",
   "source_url": "https://www.xn--ogtt23ghrb.cn/SEO/%E5%88%86%E7%B1%BB/PC%E6%B8%B8%E6%88%8F.html",
   "items": [
     {
-      "title": "塞尔达传说 时之笛 原生移植版|The Legend of Zelda: Ocarina of Time",
+      "title": "塞尔达传说时之笛PC移植版v2.2.0-rc.1官方中文全DLC 4K480帧 支持8倍帧生成",
       "original_url": "https://www.xn--ogtt23ghrb.cn/SEO/%E6%B8%B8%E6%88%8F/1947075.html",
       "published_at": "2026-11-09T00:00:00+08:00",
       "updated_at": "2026-11-09T00:00:00+08:00",
@@ -20,7 +20,10 @@
       "platform": [
         "pc"
       ],
-      "category": "discovery"
+      "category": "discovery",
+      "tags": [
+        "game_update"
+      ]
     },
     {
       "title": "影之刃零 免重启版 v302256|Phantom Blade Zero",
@@ -112,6 +115,25 @@
         "pc"
       ],
       "category": "discovery"
+    },
+    {
+      "title": "咚奇刚：蕉力全开 v0.2.0 NS2移植（Donkey Kong Bananza）免安装中文版",
+      "original_url": "https://www.xn--ogtt23ghrb.cn/SEO/%E6%B8%B8%E6%88%8F/1928523.html",
+      "published_at": "2026-11-04T00:00:00+08:00",
+      "updated_at": "2026-11-04T00:00:00+08:00",
+      "update_date_precision": "day",
+      "image_url": "https://www.oupai.xyz/%E6%B8%B8%E6%88%8F%E5%B0%81%E9%9D%A2/1928523.webp",
+      "summary": "",
+      "content": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "source_name": "蘑菇屋 · PC游戏",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "version": "v0.2.0"
     },
     {
       "title": "火焰纹章：万缕千丝 v0.1.6 NS2移植（Fire Emblem Fortune's Weave）免安装中文版",
