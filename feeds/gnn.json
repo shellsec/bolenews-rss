@@ -1,9 +1,22 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-14T23:08:45.491745+00:00",
+  "generated_at": "2026-11-15T02:51:13.280513+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "直追三局！《英雄聯盟》2026 世界大賽隊伍 BLG 以 3:1 擊敗 GEN 奪冠",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315028",
+      "published_at": "2026-11-15T00:06:56Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "《英雄聯盟》2026 世界大賽結果正式揭曉，LPL 隊伍 BLG 在失了第一局後，直追三局，最終以 3:1 擊敗 LCK 隊伍 GEN 奪下本屆冠軍榮耀。 在經過長達近一個月的比賽後，《英雄聯盟》2026 世界大賽終於進入總決賽賽程，並於今日在紐約正式開打。總決賽由 LPL 第二種子 BL....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "《英雄聯盟：新晨曙光》新預告短片曝光 搶先展示大升級後的遊戲畫面",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315027",
@@ -1303,19 +1316,6 @@
       "source_name": "巴哈姆特 GNN",
       "language": "zh-Hant",
       "summary": "X.D. Network 旗下心動 B 格貓工作開發、《RO 仙境傳說：守護永恆的愛》續作全新次世代 MMORPG《RO 仙境傳說：守護永恆的愛 2》此次在剛週末落幕的 RO FESTA 2026 活動中宣布，《RO 仙境傳說：守護永恆的愛 2》將於 2027 年在台灣與東南亞地區首度展開測試，同步公開遊戲實機....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "心理恐怖遊戲《叫魂》公開實機遊玩預告影片 窺見仙女鎮往事",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314866",
-      "published_at": "2026-11-11T10:56:45Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "由子時熄燈工作室（12AM BLACKOUT）開發的第一人稱恐怖遊戲《叫魂（JIAOHUN）》新實機遊玩預告影片公開，展示了一段發生在上世紀 90 年代的白水縣仙女鎮的故事。千禧年即將到來，這裡的一切卻彷彿停在了前夜。玩家將重返小鎮，循著居民留下的生活痕跡，走近那些未被說完的往事。遊戲預計於 2027 年登陸 ....",
       "content": "",
       "image_url": "",
       "content_scope": "summary",

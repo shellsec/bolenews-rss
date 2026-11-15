@@ -1,9 +1,85 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-14T23:08:47.637764+00:00",
+  "generated_at": "2026-11-15T02:51:14.754321+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "水浒演武 风云再起|移植版|",
+      "original_url": "https://vip.gamers520.com/125997.html",
+      "published_at": "2026-11-14T22:00:49Z",
+      "summary": "《水浒演武：风云再起》（日版原名：水滸演武 風雲再起，英文版为 Outlaws of the Lost Dynasty 的加强版）是 Data East在世嘉土星（Sega Saturn）平台上推出的 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-15T01:21:32Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "永恒传说 重制版 Tales of Eternia|官方中文|本体+v2.1.0升补|NSP|",
+      "original_url": "https://vip.gamers520.com/124020.html",
+      "published_at": "2026-11-14T22:02:17Z",
+      "summary": "永遠和羈絆的RPG，《永恆傳奇》以Remastered 復出！ ◆賭上兩世界命運的壯闊旅行 伊菲利亞與塞雷斯迪亞，兩世界隔著天空對望的對面世界艾達尼亞。 主角「里德」和青梅竹馬「法拉」，居住在伊菲利亞 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-15T01:21:31Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "v2.1.0"
+    },
+    {
+      "title": "丰收之月 特拉迪亚回声 Harvest Moon Echoes of Teradea|官方中文|本体+v1.4.0升补|NSP|",
+      "original_url": "https://vip.gamers520.com/124897.html",
+      "published_at": "2026-11-14T22:03:00Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-15T01:21:30Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "v1.4.0",
+      "summary_checked_at": "2026-11-15T02:51:22.231151+00:00"
+    },
+    {
+      "title": "和平之怒|官方中文|本体+1.2.0升补|NSP|",
+      "original_url": "https://vip.gamers520.com/30562.html",
+      "published_at": "2026-11-14T22:00:59Z",
+      "summary": "如果你知道自己今天会死,你会怎么做? 《和平中的愤怒》是一款侧面滚动的冒险游戏,讲述了蒂米·马利努的故事。这位27岁的演员情绪低落,她只有一个梦想,使他与大多数人截然不同:穿着睡衣、在家的温暖中、平静 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-15T01:21:23Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.2.0"
+    },
     {
       "title": "暗黑破坏神2|官方中文|本体+1.0.35.0升补+1DLC+离线MOD|NSP|",
       "original_url": "https://vip.gamers520.com/22636.html",
@@ -865,26 +941,6 @@
       "version": "v1.0.3"
     },
     {
-      "title": "丰收之月 特拉迪亚回声 Harvest Moon Echoes of Teradea|官方中文|本体+v1.3.0升补|NSP|",
-      "original_url": "https://vip.gamers520.com/124897.html",
-      "published_at": "2026-10-28T21:05:00Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-29T01:27:59Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ],
-      "version": "v1.3.0",
-      "summary_checked_at": "2026-11-14T19:18:21.731787+00:00"
-    },
-    {
       "title": "真人快打9|移植版|",
       "original_url": "https://vip.gamers520.com/124843.html",
       "published_at": "2026-10-27T21:12:21Z",
@@ -1686,55 +1742,6 @@
       "platform": [
         "switch1"
       ]
-    },
-    {
-      "title": "但丁地狱|xbox360移植版|",
-      "original_url": "https://vip.gamers520.com/124499.html",
-      "published_at": "2026-10-22T18:00:47Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-23T00:26:03Z",
-      "platform": [
-        "switch1"
-      ],
-      "summary_checked_at": "2026-11-13T23:42:59.296185+00:00"
-    },
-    {
-      "title": "海贼王海洋盛宴 ONE PIECE海洋盛宴|官方中文|NSP|",
-      "original_url": "https://vip.gamers520.com/124446.html",
-      "published_at": "2026-10-21T21:30:48Z",
-      "summary": "「ONE PIECE」角色大排長龍！ 跟草帽一行人一起端上這片大海中的頂級「美味」吧！ 那個大受歡迎的動畫「ONE PIECE」與Kairosoft Co.,Ltd聯手合作， 變身為像素風格的經營模擬 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-22T07:10:21Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "使命召唤4|官方中文|V1.31|移植版|",
-      "original_url": "https://vip.gamers520.com/124431.html",
-      "published_at": "2026-10-21T21:00:43Z",
-      "summary": "重温历史上最经典的单人战役之一，你将被带往全球各地，执行包括“双人成行”（All Ghillied Up）、“高空俱乐部”（Mile High Club）和“强行登船”（Crew Expendable …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-22T02:10:24Z",
-      "platform": [
-        "switch1"
-      ],
-      "version": "v1.31"
     }
   ]
 }
