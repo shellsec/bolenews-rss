@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-15T11:15:15.711209+00:00",
+  "generated_at": "2026-11-15T17:52:17.201601+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
     {
@@ -65,10 +65,10 @@
       "summary": "NETFLIX 正式宣布，以全球知名集換式卡牌《魔法風雲會（Magic: The Gathering）》為主題的全新動畫影集《鵬洛客（中文名稱為暫譯，Planeswalker）》將於 2027 年正式上線，官方同步公開收錄製作中早期畫面的首支前導影片。 由 NETFLIX、孩之寶娛樂與威世智共同合作共同打造，以廣大的《魔法風雲會》世界觀為基礎的動畫影集，強調將為這款超過 3",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-15T11:15:16.495783+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-15T11:15:16.495783+00:00"
     },
     {
       "title": "直追三局！《英雄聯盟》2026 世界大賽隊伍 BLG 以 3:1 擊敗 GEN 奪冠",

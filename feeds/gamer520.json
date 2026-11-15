@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-15T11:15:18.704954+00:00",
+  "generated_at": "2026-11-15T17:52:19.111433+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -1074,7 +1074,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-10T23:34:18.043999+00:00"
+      "summary_checked_at": "2026-11-15T17:52:21.845135+00:00"
     },
     {
       "title": "现代战争3 堕落国度|移植版|",

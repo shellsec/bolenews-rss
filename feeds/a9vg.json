@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-13T02:02:15.832130+00:00",
+  "generated_at": "2026-11-15T17:52:24.446656+00:00",
   "source_url": "https://www.a9vg.com/",
   "items": [
     {
@@ -15,7 +15,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-12T20:57:57.859263+00:00"
+      "summary_checked_at": "2026-11-15T17:52:44.896540+00:00"
     },
     {
       "id": "10170203b71618388d4261e526d39ae2f475ecad0ffeb3be97a55c2492c678a2",
@@ -508,7 +508,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-12T20:57:35.786930+00:00"
+      "summary_checked_at": "2026-11-15T17:52:42.923301+00:00"
     },
     {
       "id": "e4c5c3f96bfa3c43c6b6c4e908cb41482de46e0d8b7a7274df8c9c1fea1609cd",
@@ -549,7 +549,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-12T20:57:37.345020+00:00"
+      "summary_checked_at": "2026-11-15T17:52:44.033217+00:00"
     },
     {
       "id": "74e4cba70b600f200a6bc42400f5757cc1d8827a44345075795b32013a9e5992",
@@ -718,7 +718,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-12T20:57:34.974198+00:00"
+      "summary_checked_at": "2026-11-15T17:52:41.717945+00:00"
     },
     {
       "id": "7883f389ffc67bdafb2e63fc044123cb0b3467e012ff7cf90d7b70e0e132137f",
@@ -800,7 +800,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-12T20:57:58.688566+00:00"
+      "summary_checked_at": "2026-11-15T17:52:45.733634+00:00"
     },
     {
       "id": "7dfd5646a20e699661f0cbd33ae61f8445f32adee28ccc41d34c4efe69b0e9a4",
@@ -813,7 +813,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-12T20:57:59.355458+00:00"
+      "summary_checked_at": "2026-11-15T17:52:46.949195+00:00"
     },
     {
       "id": "ba8ae0c69c06614b039713e13c1bbf13accf29460ff1beb681e538a09c5eaaa8",
@@ -867,8 +867,92 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hans",
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-13T02:02:18.852194+00:00"
+    },
+    {
+      "id": "8e6627e1440280d4790d51cb7b8a1fc98965bfc3d148a1237785bdfbd36b1c8d",
+      "title": "海信小墨E5S Pro成双11全网超级大单品，RGB-Mini LED引领大屏换代趋势",
+      "original_url": "https://www.a9vg.com/article/246931",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
       "content_scope": "summary",
-      "summary_checked_at": "2026-11-13T02:02:18.852194+00:00",
+      "summary_checked_at": "2026-11-15T17:52:27.723536+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "3ca0ff198a53dd2594c86b19367e0deef4d6e99b6baa60b4a7542d4674d8b982",
+      "title": "全渠道销量、销额双冠！海信双11领跑高端显示赛道",
+      "original_url": "https://www.a9vg.com/article/246930",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-15T17:52:32.518586+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "4113892a25b298f12959d5914a34e0154d77cbf7f55886257daf3a5ea5a5ff56",
+      "title": "RPGmaker创作大赛最佳游戏《倘若你想见到明天》试玩版上线",
+      "original_url": "https://www.a9vg.com/article/246906",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-15T17:52:34.120939+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "be8959752d7ead3d0d9218a503c15eecbaa84a79affbf0a89dac5b36fbd46fec",
+      "title": "你的选择会改变漫画——本格推理《久世透事件帖》Steam 页面上线",
+      "original_url": "https://www.a9vg.com/article/246901",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-15T17:52:36.976556+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "ec7cdfa37df196339ce6cca2a1992e3bf9fe65e51cb10ad7e6cdafe8922085e2",
+      "title": "原作者执导，原版演员回归！游戏版《东北往事》登陆主机平台",
+      "original_url": "https://www.a9vg.com/article/246935",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-15T17:52:37.998227+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "162a95fcad961fc269169501d5f7d6f0181b8a6e03183847717e0f0382195941",
+      "title": "《Bottled by Bears》现已登陆 Steam！与熊熊一家开蜜蜂卡包、装罐卖蜂蜜，首发限时享 75 折优惠",
+      "original_url": "https://www.a9vg.com/article/246893",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-15T17:52:40.037053+00:00",
       "summary_origin": "publisher_description"
     }
   ]

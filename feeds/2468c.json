@@ -1,9 +1,197 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-15T11:15:13.465572+00:00",
+  "generated_at": "2026-11-15T17:52:14.883325+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "模拟火车世界2：豪华版.Train Sim World 2：Deluxe Edition",
+      "original_url": "https://2468c.com/83001.html",
+      "published_at": "2026-11-15T15:32:39Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-15T15:35:37Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-15T17:52:16.997696+00:00"
+    },
+    {
+      "title": "模拟火车世界3.Train Sim World 3",
+      "original_url": "https://2468c.com/99437.html",
+      "published_at": "2026-11-15T15:31:43Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-15T15:33:42Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "模拟火车世界4.Train Sim World 4",
+      "original_url": "https://2468c.com/116782.html",
+      "published_at": "2026-11-15T15:30:54Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-15T15:32:08Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "模拟火车世界5.Train Sim World 5",
+      "original_url": "https://2468c.com/116784.html",
+      "published_at": "2026-11-15T15:29:44Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-15T15:30:41Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "模拟火车世界6.Train Sim World 6",
+      "original_url": "https://2468c.com/116787.html",
+      "published_at": "2026-11-15T15:28:11Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-15T15:29:19Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "蒙达温峰 Mundaun",
+      "original_url": "https://2468c.com/122014.html",
+      "published_at": "2026-11-15T15:22:37Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-15T15:22:37Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "可爱冒险记 Adorable Adventures",
+      "original_url": "https://2468c.com/122016.html",
+      "published_at": "2026-11-15T15:22:37Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-15T15:22:37Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "极速追杀 Hyperviolent",
+      "original_url": "https://2468c.com/122018.html",
+      "published_at": "2026-11-15T15:22:37Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-15T15:22:37Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "醉拳 2：僵尸宿醉 Drunken Fist 2 Zombie Hangover",
+      "original_url": "https://2468c.com/122020.html",
+      "published_at": "2026-11-15T15:22:37Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-15T15:22:37Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "恶魔女：永夜 Demoniaca: Everlasting Night",
+      "original_url": "https://2468c.com/122022.html",
+      "published_at": "2026-11-15T15:22:37Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-15T15:22:37Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "来世 VR Afterlife VR",
+      "original_url": "https://2468c.com/122024.html",
+      "published_at": "2026-11-15T15:22:15Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-15T15:22:15Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
     {
       "title": "战鼓啪打碰 3 Patapon 3",
       "original_url": "https://2468c.com/122012.html",
@@ -1556,215 +1744,6 @@
       "source_name": "奥德彪计划 PS4 / PS5",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-07T10:28:29.170202+00:00"
-    },
-    {
-      "title": "芜菁山 Turnip Mountain",
-      "original_url": "https://2468c.com/121867.html",
-      "published_at": "2026-11-07T04:16:56Z",
-      "summary": "平台：PlayStation4 发行商：JanduSoft 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Luke Sanderson 发行日期：2026-07-30 游戏版本：v1.02 游戏编号：CUSA59067 格式：PKG 平台版本：适用使...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-07T04:16:56Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-07T10:28:29.748790+00:00"
-    },
-    {
-      "title": "墨西哥忍者 Mexican Ninja",
-      "original_url": "https://2468c.com/121865.html",
-      "published_at": "2026-11-07T04:14:24Z",
-      "summary": "平台：PlayStation4 发行商：Amber 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Madbricks 发行日期：2026-08-20 游戏版本：v1.04 游戏编号：CUSA58811 格式：PKG 平台版本：适用使用5.xx及以上版...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-07T04:14:24Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-07T10:28:30.324536+00:00"
-    },
-    {
-      "title": "四叶草深渊 Clover Pit Unholy Edition",
-      "original_url": "https://2468c.com/121863.html",
-      "published_at": "2026-11-07T04:11:25Z",
-      "summary": "平台：PlayStation4 发行商：Future Friends Games 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Panik Arcade 发行日期：2025-09-26 游戏版本：v1.01 游戏编号：CUSA58411 格式：PKG...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-07T04:11:25Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-07T10:28:30.901969+00:00"
-    },
-    {
-      "title": "过山车之星.Planet Coaster",
-      "original_url": "https://2468c.com/83269.html",
-      "published_at": "2024-02-16T16:12:43Z",
-      "summary": "平台：PlayStation5 发行商：Sold Out 语言：中文,日语,英语,德语,韩语,意大利语,法语,西班牙语 开发商：Frontier Developments 发行日期：2020年11月10日 游戏版本：v1.017.000 游戏编号：PPSA01736 格式：文件压...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-06T12:24:20Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-06T17:34:46.251322+00:00"
-    },
-    {
-      "title": "异形：夺命舰 进化版 Alien Rogue Incursion Evolved Edition",
-      "original_url": "https://2468c.com/121807.html",
-      "published_at": "2026-11-04T03:05:55Z",
-      "summary": "平台：PlayStation5 发行商：Survios 语言：中文,日语,英语,德语,法语,西班牙语 开发商：Survios 发行日期：2025-09-30 游戏版本：v01.000.009 游戏编号：PPSA30391 格式：文件压缩包/FPKG 平台版本：原适用使用10.xx...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-06T03:52:55Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-06T09:32:05.901852+00:00"
-    },
-    {
-      "title": "远日点 Aphelion",
-      "original_url": "https://2468c.com/121805.html",
-      "published_at": "2026-11-04T03:06:38Z",
-      "summary": "平台：PlayStation5 发行商：DON'T NOD 语言：中文,日语,英语,德语,法语,西班牙语 开发商：DON'T NOD 发行日期：2026-04-28 游戏版本：v01.003.000 游戏编号：PPSA13446 格式：文件压缩包/FPKG 平台版本：原适用使用1...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-06T03:52:06Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-06T09:32:06.474307+00:00"
-    },
-    {
-      "title": "阿喀琉斯：不为人知的传奇 Achilles Legends Untold",
-      "original_url": "https://2468c.com/121856.html",
-      "published_at": "2026-11-06T03:38:39Z",
-      "summary": "平台：PlayStation5 发行商：Dark Point Games 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Dark Point Games 发行日期：2024-09-18 游戏版本：v01.014.000 游戏编号：PPSA16626 ...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-06T03:38:39Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-06T09:32:07.057351+00:00"
-    },
-    {
-      "title": "阿喀琉斯：幸存者 Achilles Survivor",
-      "original_url": "https://2468c.com/121854.html",
-      "published_at": "2026-11-06T02:35:21Z",
-      "summary": "平台：PlayStation5 发行商：Dark Point Games 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Dark Point Games 发行日期：2025-07-29 游戏版本：v01.007.000 游戏编号：PPSA30454 ...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-06T02:35:21Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-06T09:32:07.643320+00:00"
-    },
-    {
-      "title": "深渊之潮 Abyssus",
-      "original_url": "https://2468c.com/121852.html",
-      "published_at": "2026-11-06T02:31:19Z",
-      "summary": "平台：PlayStation5 发行商：The Arcade Crew 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：DoubleMoose Games 发行日期：2026-07-07 游戏版本：v02.000.005 DLC 游戏编号：PPSA32...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-06T02:31:19Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-06T09:32:08.188133+00:00"
-    },
-    {
-      "title": "魔骑少女 The Knight Witch",
-      "original_url": "https://2468c.com/121850.html",
-      "published_at": "2026-11-06T02:25:15Z",
-      "summary": "平台：PlayStation5 发行商：Team17 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Super Mega Team 发行日期：2022-11-29 游戏版本：v01.004.000 游戏编号：PPSA08045 格式：文件压缩包/FP...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-06T02:25:15Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-06T09:32:08.771390+00:00"
-    },
-    {
-      "title": "九山：狼之城 Kusan City of Wolves",
-      "original_url": "https://2468c.com/121846.html",
-      "published_at": "2026-11-06T02:21:50Z",
-      "summary": "平台：PlayStation5 发行商：PQube 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：CIRCLEfromDOT 发行日期：2026-07-30 游戏版本：v01.001.004 游戏编号：PPSA29617 格式：文件压缩包/FPKG ...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-06T02:21:50Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-06T09:32:09.388933+00:00"
     }
   ]
 }
