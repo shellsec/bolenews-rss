@@ -43,7 +43,7 @@ SITES = {
     "gamer520-switch2": {"name": "Gamer520 Switch 2",
                  "url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=1493&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
                  "hosts": {"vip.gamers520.com"}, "path": r"/\d+\.html",
-                 "format": "wordpress", "platforms": ["switch2"]},
+                 "format": "wordpress", "platforms": ["switch2"], "allow_empty_posts": True},
     "gamesradar-calendar": {"name": "GamesRadar 全平台发售表",
                  "url": "https://www.gamesradar.com/video-game-release-dates/",
                  "hosts": {"www.gamesradar.com"}, "path": r"/video-game-release-dates/",
@@ -598,6 +598,8 @@ def mushroom_item(html, url, site):
             "source_name": site["name"], "platform": [site["platform"]], "category": "discovery"}
 
 
+CCPLAY_COVER_PATH = r"/media/(?:images|packages|jy/logoImage)/[A-Za-z0-9_./%-]+"
+
 def ccplay_item(body, url, site):
     if not re.search(r'<h2>更新内容</h2>', body):
         return None
@@ -612,12 +614,14 @@ def ccplay_item(body, url, site):
     version = field(r'<div class="detail_related">\s*<p>版本：([0-9][0-9A-Za-z.+_-]{0,63})</p>')
     cover = urllib.parse.urljoin(url, field(r'<dt class="dt-(?:developer|cps)">\s*<img src="([^"]+)"'))
     image = urllib.parse.urlsplit(cover)
-    if image.scheme != "https" or image.netloc != "ws-resource.ccplay.cc" or not image.path.startswith("/media/images/") or image.query or image.fragment:
+    if image.scheme != "https" or image.netloc != "ws-resource.ccplay.cc" or not re.fullmatch(CCPLAY_COVER_PATH, image.path) or image.query or image.fragment:
         raise ValueError("Unexpected game cover")
     notes = field(r'<h2>更新内容</h2>[^<]*(?:(?!<h2>).)*?<pre>(.*?)</pre>')
     summary = clean_excerpt(re.sub(r"(?:https?:)?//[^\s<]+", "", notes))
-    if not title or not summary:
-        raise ValueError("Missing title or update notes")
+    if not title:
+        raise ValueError("Missing game title")
+    if not summary:
+        return None
     return {"title": title, "original_url": url, "published_at": "",
             "updated_at": date.isoformat() + "T00:00:00+08:00", "update_date_precision": "day",
             "version": version, "summary": summary, "image_url": cover, "content": "",
@@ -684,7 +688,9 @@ def collect(key, output, summary_limit=12):
                     failures.extend(detail_errors[:5])
                 else:
                     converted = converter(body, site)
-                if not converted and not allow_empty:
+                empty_posts = site.get("allow_empty_posts") and not converted and json.loads(body) == []
+                allow_empty = allow_empty or bool(empty_posts)
+                if not converted and not (empty_posts or site.get("illustrated_guide_title")):
                     raise ValueError("No matching entries; adapter needs review")
                 for item in converted:
                     old = incoming.get(item["original_url"])
@@ -721,6 +727,8 @@ def collect(key, output, summary_limit=12):
         health.update(status="partial" if failures else "ok", count=len(items),
                       fetched_count=len(incoming), retained_count=sum(x["original_url"] not in incoming for x in items),
                       input_urls=urls, dropped_by_limit=max(0, total - 100))
+        if site.get("allow_empty_posts") and not incoming and not failures:
+            health["upstream_empty"] = True
         if failures:
             health["error"] = "; ".join(failures)
     except Exception as error:

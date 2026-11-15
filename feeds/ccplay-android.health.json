@@ -1,14 +1,13 @@
 {
   "source": "ccplay-android",
-  "attempted_at": "2026-11-15T02:52:38.179779+00:00",
-  "status": "partial",
+  "attempted_at": "2026-11-15T08:50:06.028883+00:00",
+  "status": "ok",
   "robots_status": 404,
-  "count": 9,
-  "fetched_count": 9,
+  "count": 12,
+  "fetched_count": 12,
   "retained_count": 0,
   "input_urls": [
     "https://g.ccplay.cc/"
   ],
-  "dropped_by_limit": 0,
-  "error": "https://g.ccplay.cc/package/104320.html: Unexpected game cover; https://g.ccplay.cc/package/120397.html: Unexpected game cover; https://g.ccplay.cc/package/171761.html: Missing title or update notes; https://g.ccplay.cc/package/114973.html: Unexpected game cover"
+  "dropped_by_limit": 0
 }

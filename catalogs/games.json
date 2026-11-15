@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 18,
+  "config_version": 19,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-14T03:36:26.065830+00:00",
+  "generated_at": "2026-11-15T08:49:58.690609+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -824,7 +824,7 @@
       "category": "hot",
       "language": "zh-Hans",
       "repo": "",
-      "enabled": true,
+      "enabled": false,
       "images": true,
       "fullContent": false,
       "builtin": true,

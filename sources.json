@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 8,
+  "config_version": 9,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-07T15:11:55.226107+00:00",
+  "generated_at": "2026-11-15T08:49:58.688518+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -230,7 +230,7 @@
       "category": "homebrew",
       "language": "en",
       "repo": "shellsec/bolemusic",
-      "enabled": true,
+      "enabled": false,
       "images": false,
       "fullContent": true,
       "builtin": true,

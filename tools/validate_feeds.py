@@ -1,6 +1,8 @@
 import json
 from pathlib import Path
 from urllib.parse import urlsplit
+import re
+from collect_web_feeds import CCPLAY_COVER_PATH
 root=Path(__file__).resolve().parents[1]
 catalog=json.loads((root/'sources.json').read_text(encoding='utf-8'))
 assert catalog['schema_version']==1 and isinstance(catalog['config_version'],int) and catalog['config_version']>0
@@ -41,7 +43,7 @@ for path in sorted((root/'feeds').glob('*.json')):
             assert item.get('version') and item.get('summary') and item.get('updated_at')
             assert item['original_url'].startswith('https://g.ccplay.cc/package/')
             cover = urlsplit(item['image_url'])
-            assert cover.scheme == 'https' and cover.netloc == 'ws-resource.ccplay.cc' and cover.path.startswith('/media/images/')
+            assert cover.scheme == 'https' and cover.netloc == 'ws-resource.ccplay.cc' and re.fullmatch(CCPLAY_COVER_PATH, cover.path)
         else:
             assert not item.get('content') and not item.get('image_url')
         assert isinstance(item.get('updated_at',''),str)
