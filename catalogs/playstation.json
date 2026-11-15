@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 12,
+  "config_version": 13,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-08T06:53:48.114295+00:00",
+  "generated_at": "2026-11-15T08:56:33.422340+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -693,6 +693,24 @@
       ],
       "requiresConsent": false,
       "rights_policy": "direct personal reading of original pages and images; no mirrored article bodies, publisher images or game files"
+    },
+    {
+      "id": "playstation-blog-ja",
+      "name": "PlayStation Blog Japan",
+      "url": "https://blog.ja.playstation.com/feed/",
+      "category": "hot",
+      "language": "ja",
+      "repo": "",
+      "enabled": false,
+      "images": true,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "ps4",
+        "ps5"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal feed reading; no mirrored content"
     }
   ]
 }

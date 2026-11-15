@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 9,
+  "config_version": 10,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-08T06:53:48.118630+00:00",
+  "generated_at": "2026-11-15T08:56:33.419192+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -385,6 +385,23 @@
       "platforms": [],
       "evidence": "community",
       "rights_policy": "direct personal feed metadata reading; RSSHub conversion is not republication permission; no bundled full articles or publisher images"
+    },
+    {
+      "id": "windowscentral-xbox",
+      "name": "Windows Central Xbox",
+      "url": "https://www.windowscentral.com/feeds/tag/xbox",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": true,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "xbox"
+      ],
+      "evidence": "community",
+      "rights_policy": "direct personal feed reading; no mirrored content"
     }
   ]
 }

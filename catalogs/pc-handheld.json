@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 12,
+  "config_version": 13,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-08T06:53:48.112053+00:00",
+  "generated_at": "2026-11-15T08:56:33.420243+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -466,8 +466,8 @@
       "language": "en",
       "repo": "",
       "enabled": false,
-      "images": false,
-      "fullContent": false,
+      "images": true,
+      "fullContent": true,
       "builtin": true,
       "platforms": [
         "pc"
@@ -902,6 +902,41 @@
       ],
       "rights_policy": "direct_personal_feed_reading; no bundled articles or publisher images",
       "update_status": "archive; publisher states old site no longer updates"
+    },
+    {
+      "id": "windowscentral-steam-deck",
+      "name": "Windows Central Steam Deck",
+      "url": "https://www.windowscentral.com/feeds/tag/steam-deck",
+      "category": "hot",
+      "language": "en",
+      "repo": "",
+      "enabled": false,
+      "images": true,
+      "fullContent": true,
+      "builtin": true,
+      "platforms": [
+        "pc",
+        "linux"
+      ],
+      "evidence": "community",
+      "rights_policy": "direct personal feed reading; no mirrored content"
+    },
+    {
+      "id": "steam-dbd-zh",
+      "name": "Dead by Daylight (Steam)",
+      "url": "https://store.steampowered.com/feeds/news/app/381210/?l=schinese",
+      "category": "hot",
+      "language": "zh-Hans",
+      "repo": "",
+      "enabled": false,
+      "images": true,
+      "fullContent": false,
+      "builtin": true,
+      "platforms": [
+        "pc"
+      ],
+      "evidence": "upstream",
+      "rights_policy": "direct personal feed reading; no mirrored content"
     }
   ]
 }

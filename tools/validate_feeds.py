@@ -19,8 +19,8 @@ for path in [root/'sources.json', *sorted((root/'catalogs').glob('*.json'))]:
         p=urlsplit(source['url'])
         assert p.scheme=='https' and p.hostname and not p.username and not p.password
         assert source.get('kind','feed')=='feed' and not source.get('parent_id')
-        assert not source.get('images') or source['id'] in {'ccplay-android', 'example-gamer520', 'gamer520-switch2', 'nsthwj-games', 'nsthwj-switch', 'nsthwj-pc', 'nsthwj-ps4', '4gamers-zh', 'gamesradar-calendar', '4gamers-game-guides', 'switch-homebrew-guides', 'retroarch-official-guides', 'nswiki-switch-guides', 'mushroom-switch', 'mushroom-pc', 'mushroom-ps4'}
-        assert source.get('fullContent',False)==(bool(source.get('repo')) or source['id'] in {'fzgamer-archive', '4gamers-zh', 'gamesradar-calendar'})
+        assert not source.get('images') or source['id'] in {'windowscentral-xbox', 'windowscentral-steam-deck', 'playstation-blog-ja', 'pcgamer', 'steam-dbd-zh', 'ccplay-android', 'example-gamer520', 'gamer520-switch2', 'nsthwj-games', 'nsthwj-switch', 'nsthwj-pc', 'nsthwj-ps4', '4gamers-zh', 'gamesradar-calendar', '4gamers-game-guides', 'switch-homebrew-guides', 'retroarch-official-guides', 'nswiki-switch-guides', 'mushroom-switch', 'mushroom-pc', 'mushroom-ps4'}
+        assert source.get('fullContent',False)==(bool(source.get('repo')) or source['id'] in {'windowscentral-xbox', 'windowscentral-steam-deck', 'playstation-blog-ja', 'pcgamer', 'fzgamer-archive', '4gamers-zh', 'gamesradar-calendar'})
 for path in sorted((root/'feeds').glob('*.json')):
     if path.name.endswith('.health.json'):continue
     assert path.stat().st_size<=2*1024*1024

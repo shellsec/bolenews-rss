@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 19,
+  "config_version": 20,
   "min_app_version": "0.1.2",
-  "generated_at": "2026-11-15T08:49:58.690609+00:00",
+  "generated_at": "2026-11-15T08:56:33.424460+00:00",
   "sources": [
     {
       "id": "nintendo-jp",
@@ -386,8 +386,8 @@
       "language": "en",
       "repo": "",
       "enabled": false,
-      "images": false,
-      "fullContent": false,
+      "images": true,
+      "fullContent": true,
       "builtin": true,
       "platforms": [
         "pc"
