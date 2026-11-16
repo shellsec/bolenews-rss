@@ -1,9 +1,36 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-16T11:46:22.651870+00:00",
+  "generated_at": "2026-11-16T22:21:27.899092+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "MediaCreate 11 月 2 日～11 月 8 日一週銷售排行榜 經典重製《時之笛》囊括三地榜首",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315126",
+      "published_at": "2026-11-16T16:48:35Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "巴哈姆特 GNN 與日本遊戲業界分析公司 MediaCreate 合作，每週定期刊載由 MediaCreate 調查與統計的日本、台灣與韓國地區家用遊樂器主機遊戲軟體的一週銷售排行榜，供玩家參考。 《薩爾達傳說 時之笛》 2026 年 11 月 2 日～11 月 8....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
+    {
+      "title": "《勇者鬥惡龍 怪物仙境 4 枯木國的碧安卡與芙蘿拉》釋出冒險開頭詳細介紹",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315125",
+      "published_at": "2026-11-16T11:50:17Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "將於 2026 年 12 月 3 日（四）※ 全球同步發售的「勇者鬥惡龍 怪物仙境」系列最新作品《勇者鬥惡龍 怪物仙境 4 枯木國的碧安卡與芙蘿拉》今日釋出冒險開頭詳細介紹。為了尋找靈草「還魂草」，碧安卡和芙蘿拉來到了枯木國，她們從綿綿精那裡獲得了與怪物心意相通的力量，以怪物大師的身分啟程展開冒險。 ※ 僅 Steam 版預計於 2026 年 1",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_checked_at": "2026-11-16T22:21:28.420899+00:00",
+      "summary_origin": "publisher_description"
+    },
     {
       "title": "動作 Roguelike 遊戲《零秒》推出全新 DLC「甜蜜造型包」 同步新增高難度終局挑戰",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315124",
@@ -110,10 +137,10 @@
       "summary": "獨立遊戲工作室 NEPTUNIAN 今日正式公布《鋼鐵風帆（暫譯，原：Sails of Steel）》，這是一款 PC 平台的單人海戰動作策略遊戲。玩家將扮演現代私人武裝船隻的船長，指揮並客製化自己的戰艦，規劃行動、追蹤目標，並親自參與第三人稱視角的海戰。每一次決策都會有代價，而遊戲首支預告片也同步公開。 官方表示，遊戲故事設定在近未來東",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-16T11:46:23.091347+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-16T11:46:23.091347+00:00"
     },
     {
       "title": "FaZe Clan 勇奪《虹彩六號》BLAST 大阪國際錦標賽冠軍",
@@ -150,10 +177,10 @@
       "summary": "《劍俠情緣 3 國際版》11 月 16 日推出重構新生資料片「蒼生鑄世」，開啟全新 50 級篇章。官方強調，此次新資料片絕不只是「單純調等級壓數值」，而是從根基翻新，全面改革，迎接全新世代。除了數值重構，核心 PVE、PVP、PVX 玩法迎來體驗深化，玩法減負及最佳化，令玩家能將時間專注在遊戲樂趣之中。 多重好禮迎新世代 官方表示，為",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-16T11:46:23.644374+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-16T11:46:23.644374+00:00"
     },
     {
       "title": "《失落星船：馬拉松》「共生」12/8 將新增 PvE、PvP 模式與武器等內容",
@@ -164,10 +191,10 @@
       "summary": "《失落星船：馬拉松》的「共生」更新將於 12 月 8 日上線，帶來全新的 PvE 與 PvP 模式、武器、跑者外殼，以及在「天倉五 IV」上可供探索的擴展區域。玩家可透過下方的全新遊戲預告片，搶先一睹更新後的「邊界」區域、「遠征」模式等內容。 【以下內容為廠商提供資料原文】 《失落星船：馬拉松》「共生」版本的新內容 更新後的「邊",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-16T11:46:24.207173+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-16T11:46:24.207173+00:00"
     },
     {
       "title": "《炸彈香蕉大作戰》Steam 銷量突破 200 萬份 今日正式登陸家用主機平台",
@@ -256,10 +283,10 @@
       "summary": "《Pokemon GO》今日宣布，「無極汰那」將再次襲來、極巨粒子將大量出現在地圖上，而且成功解鎖「GO Pass：曠野週」第 1 級獎勵的訓練家還能在台灣時間 11 月 14 日 10:00 起，搶先獲得「GO Pass：巨大足跡」並免費升級至「GO Pass 豪華版：巨大足跡」。 「巨大足跡」活動：台灣時間 2026 年 11 月 16 日 10:00～2026 年 11 月 23 日 20:00 活動獎勵加碼內",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-16T11:46:24.766558+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-16T11:46:24.766558+00:00"
     },
     {
       "title": "《躍動青春 第二季》公開正式宣傳影片與追加聲優名單 上田麗奈參與配音演出",
@@ -335,10 +362,10 @@
       "summary": "《三國志．戰棋版》是一款獲得光榮特庫摩《三國志》正版授權的策略手機遊戲，製作公司靈犀互娛之前就推出過也是正版授權的《三國志・戰略版》，在製作模擬策略遊戲方面算是很有經驗，這回的《三國志．戰棋版》主打的是 SLG x SRPG 的遊戲體驗，筆者這次就從個人遊玩的角度出發，帶大家一起來看看玩起來怎麼樣。 戰棋戰鬥 常見的",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-16T11:46:25.323379+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-16T11:46:25.323379+00:00"
     },
     {
       "title": "《聖火降魔錄 英雄雲集》舉辦神階救世英雄召喚活動「芬布爾維特＆利布」",
@@ -1297,32 +1324,6 @@
       "source_name": "巴哈姆特 GNN",
       "language": "zh-Hant",
       "summary": "樂意傳播旗下代理線上遊戲《巨商》今（12）日進行改版，開放全新地圖「腐敗的池塘」以及「深淵」副本第 2 階段，同步新增明王「真覺」武器、傳說將帥專屬裝備、傭兵「繼承」系統，以及大地圖、任務介面最佳化等多項遊戲內容。 全新地圖「腐敗的池塘」登場！ 挑戰四大 BOSS，....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "動畫歌姬白鳥英美子獻聲！暖心冒險遊戲《姆明：瘋狂夏日》今日上市",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314945",
-      "published_at": "2026-11-12T11:00:59Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "松竹株式會社遊戲事業室（以下稱松竹遊戲）宣布，以朵貝・楊笙小說為原作的點擊式冒險遊戲《姆明：瘋狂夏日》今（12）日於 Nintendo Switch／Nintendo Switch 2／Steam 正式發售，同步公開由白鳥英美子擔任旁白的全新預告片。 由白鳥英美子擔....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "《足球經理 27》現已上市 發售宣傳影片同步公開",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314944",
-      "published_at": "2026-11-12T10:55:54Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "世雅股份有限公司宣布，全球知名的足球經營模擬遊戲《Football Manager》系列最新作品──《足球經理 27》（以下簡稱《FM27》）已於 2026 年 11 月 11 日（三）正式發售，登陸 PlayStation 5、Xbox Series X|S、PC（Steam／Epic Games Stor....",
       "content": "",
       "image_url": "",
       "content_scope": "summary",

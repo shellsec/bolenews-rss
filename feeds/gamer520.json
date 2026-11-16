@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-16T11:46:27.429441+00:00",
+  "generated_at": "2026-11-16T22:21:30.194581+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -1191,7 +1191,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-11T22:50:32.253849+00:00"
+      "summary_checked_at": "2026-11-16T22:21:32.330419+00:00"
     },
     {
       "title": "孤胆枪手2|移植版|",

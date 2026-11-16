@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-16T11:46:57.444851+00:00",
+  "generated_at": "2026-11-16T22:21:54.533101+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -95,6 +95,98 @@
       "updated_at": "2026-11-16T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-16T11:46:53.539927+00:00"
+    },
+    {
+      "id": "1f09bb445ec697b19929741daf823c9b698692e0e95125abd7819372259da985",
+      "title": "[移植游戏]最终幻想13-2|Final Fantasy XIII-2",
+      "original_url": "https://nsthwj.cn/game/switch/138247",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.1.0",
+      "updated_at": "2026-11-16T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-16T22:21:49.467657+00:00"
+    },
+    {
+      "id": "c9d4428c37463de1afbc0428d39b702ab8d0f1b04d45118c8c8be4ddcac9b325",
+      "title": "球比伦战记|Ball x Pit中文",
+      "original_url": "https://nsthwj.cn/game/switch/11906",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《BALL x PIT》是一款奇幻背景的快节奏 roguelite 游戏，在游戏中，英雄们必须寻找强力圆球来不断探索充满无数怪物的深坑。发展奥术弹药与资源以追寻宝藏，招募额外的英雄来帮助你完成危机四伏的征程。 球比伦已经陨落。从天而降的陨石引发了超乎想象的灾难，原本宏伟的都城已经沦为了一座充满不详意味的无底深坑。如今…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.308含1.301金手指",
+      "updated_at": "2026-11-16T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-16T22:21:50.356389+00:00"
+    },
+    {
+      "id": "0b22820a1eb19ea16810a708788c0998e327b835aa52bcf10ca5f132a1d11c3b",
+      "title": "[移植游戏]宝可梦GS Vitro|Pokémon GS Vitro中文",
+      "original_url": "https://nsthwj.cn/game/switch/138249",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "由开发者Clara_Dragon制作的《Pokemon GS Vitro》，本质上是《Pokemon Crystal》的复刻版，其最大亮点便是拥有开放式的城都环境。敌方宝可梦的等级会随着玩家队伍的实力而变化，道馆馆主也会根据玩家访问的顺序来安排不同的对手。玩家一开始就身处圆朱市，整个城都地图会立即向玩家开放；秘传招式…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.1-b11",
+      "updated_at": "2026-11-16T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-16T22:21:51.844296+00:00"
+    },
+    {
+      "id": "7ef8dd43de0e63d4c294e9f414b4f4e996024fe046b4fa0e00ac03a6c17a0cc7",
+      "title": "[移植游戏]拳皇2002：终极对决|The King of Fighters 2002: Unlimited Match中文",
+      "original_url": "https://nsthwj.cn/game/switch/138248",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.1.2",
+      "updated_at": "2026-11-16T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-16T22:21:52.742843+00:00"
     },
     {
       "id": "d79c1a97ad18c9430e0c46d92c58f745c415cf6f3b42a3c6767d1b30f7cdb023",
@@ -1418,98 +1510,6 @@
       "updated_at": "2026-11-13T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-13T17:53:48.949760+00:00"
-    },
-    {
-      "id": "89f9e030b022aa331229a59d435dc07ebb46fe4ce18dbfa5ff3318deace9f8d2",
-      "title": "[绅士游戏]欲望学院|Discipline中文",
-      "original_url": "https://nsthwj.cn/game/switch/138043",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-12T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-12T12:58:44.064193+00:00"
-    },
-    {
-      "id": "3a2d25e28367681f4e8b471d0c5a6a1f9a86c9597fabfac933a1e28db25a384f",
-      "title": "[绅士游戏]黑暗圣经|Bible Black中文",
-      "original_url": "https://nsthwj.cn/game/switch/138042",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.11",
-      "updated_at": "2026-11-12T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-12T12:58:45.156891+00:00"
-    },
-    {
-      "id": "7645a8ad60be4fcacadff676841a418d79ca7918039b1c679e70626a26cf0305",
-      "title": "蓝色夏日|青夏轨迹|Aonatsu Line汉化",
-      "original_url": "https://nsthwj.cn/game/switch/5678",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "《青夏轨迹》是一部以“夏天的少女们”为核心展开的青春恋爱故事。作品以细腻而真实的笔触，描绘出少年少女在盛夏时节相遇、相知、成长的点点滴滴，将那种“再也回不去的闪耀瞬间”定格在玩家眼前。它不是夸张戏剧化的青春，而是贴近现实、充满温度与呼吸感的“等身大”青春物语，让人在游玩过程中仿佛亲历一段短暂却难忘的夏日时光。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-12T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-12T20:58:04.472793+00:00"
-    },
-    {
-      "id": "193a02e3a4dc8571c2b80cd86e6b87bd9e0e36190ac91a1d5a46da8414ae5601",
-      "title": "[SS土星移植游戏]出发！！兵蜂 Yahho！豪华合集|Detana TwinBee Yahho! Deluxe Pack",
-      "original_url": "https://nsthwj.cn/game/switch/138019",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "这是一部汇集了《Detana!! TwinBee（附加功能版）》与《TwinBee Yahho！：在神秘之国大冒险！！》的作品集。它于1995年发行在世嘉Saturn和索尼PlayStation平台上。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-12T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-12T20:58:05.824175+00:00"
     },
     {
       "id": "eb4ccf4deb0bae2f26ca4ce64de996d5c38883d4aded7d2137371428dfbcd35f",
