@@ -1,9 +1,46 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-15T22:59:26.362576+00:00",
+  "generated_at": "2026-11-16T02:52:48.035360+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "守墓人2 Graveyard Keeper 2|官方中文|本体+1.0.5升补+1DLC|NSP|",
+      "original_url": "https://vip.gamers520.com/122551.html",
+      "published_at": "2026-11-15T22:00:44Z",
+      "summary": "墓园还得经营，尸体还得处理，钱当然也还是要赚 只不过这一次，你要操心的已经不止一块墓地 重建小镇、搭建自动化生产线、让僵尸替你干活，再亲自率领亡灵大军走上战场。 《守墓人2》在前作经营、制作的基础上， …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-16T01:14:50Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.5"
+    },
+    {
+      "title": "恶魔城X 月下夜想曲|豪华中文|V1.0.2|移植版|",
+      "original_url": "https://vip.gamers520.com/126049.html",
+      "published_at": "2026-11-15T21:00:53Z",
+      "summary": "《恶魔城 X：月下夜想曲》（Castlevania: Symphony of the Night）是科乐美（Konami）于1997年推出的一款经典动作角色扮演游戏。 本作被誉为“银河恶魔城”（Met …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-16T01:14:39Z",
+      "platform": [
+        "switch1"
+      ],
+      "version": "v1.0.2"
+    },
     {
       "title": "水浒演武 风云再起|移植版|",
       "original_url": "https://vip.gamers520.com/125997.html",
@@ -1106,7 +1143,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-11T06:48:06.832878+00:00"
+      "summary_checked_at": "2026-11-16T02:52:50.448546+00:00"
     },
     {
       "title": "黑暗之魂2|移植版|",
@@ -1700,38 +1737,6 @@
       "original_url": "https://vip.gamers520.com/124503.html",
       "published_at": "2026-10-22T18:10:52Z",
       "summary": "在 USS 石村号（USS Ishimura）的异形（Necromorph）感染事件发生三年后， 艾萨克·克拉克（Isaac Clarke）从昏迷中醒来。他神志不清、迷失方向，并发现自己身处一座名为“ …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-23T00:26:03Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "恶魔夜疯狂DEMONS’ NIGHT FEVER|官方中文|NSP|",
-      "original_url": "https://vip.gamers520.com/124505.html",
-      "published_at": "2026-10-22T18:10:08Z",
-      "summary": "不分敌我全部杀杀杀！死越多越强的养成型RTA模拟RPG 震撼登场！ 本作以经典格子战棋模拟玩法为基础，搭载毫不留情牺牲同伴的残酷战斗系统”剥削侍从系统”，打造前所未有的全新 S …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-23T00:26:03Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "使命召唤9|移植版|",
-      "original_url": "https://vip.gamers520.com/124501.html",
-      "published_at": "2026-10-22T18:02:53Z",
-      "summary": "游戏将玩家带入了近未来的21世纪冷战之中，在这个时代，尖端科技与常规武器高度融合，催生出了全新形态的未来战争。 双线交织的宏大叙事 游戏采用了罕见的双时间线结构。一条线回到20世纪80年代末的冷战末期 …",
       "content": "",
       "image_url": "",
       "content_scope": "summary",

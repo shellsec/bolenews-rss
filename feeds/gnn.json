@@ -1,9 +1,22 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-15T22:59:24.396693+00:00",
+  "generated_at": "2026-11-16T02:52:46.399890+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "《hololive Dreams》「漫步在秋風下♪」現正舉辦中 蘿蔔子等 5 位成員以秋季私服造型登場",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315046",
+      "published_at": "2026-11-16T02:42:31Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "QualiArts 股份有限公司（總公司：東京都澀谷區，代表取締役社長：辻岡義立）與 COVER 股份有限公司（總公司：東京都港區，代表取締役社長：谷鄉元昭）共同開發運營的「hololive」首款官方遊戲《hololive Dreams（hololive Dreams）》（以下簡稱《holodori》），於 2....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "「Monster Hunter Now Carnival 2026：大阪」團隊分享企劃過程 希望讓玩家享受面對面遊玩的樂趣",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315033",
@@ -1304,19 +1317,6 @@
       "source_name": "巴哈姆特 GNN",
       "language": "zh-Hant",
       "summary": "由遊戲團隊 Yoshio Games 自製的惡搞模擬經營遊戲《脫毛沙龍模擬器》正式上市，玩家將出任首席脫毛技師，接待一群毛茸茸的顧客，把濃密體毛清理得一乾二淨，把街邊小店做成猛男扎堆的人氣沙龍。 《脫毛沙龍模擬器》是一款經營男士專用沙龍的經營模擬遊戲，你需要利用最新的醫療級雷射將客人濃密的體....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "用「算術」清場！雙搖桿解謎動作遊戲《零和》11 月 18 日上市",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=314872",
-      "published_at": "2026-11-11T11:29:49Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "獨立遊戲開發團隊 Power Plins Games 今（11）日宣布，結合雙搖桿射撃與高速算術解謎的 Roguelite 動作遊戲《零和（Zero Sum）》將於 2026 年 11 月 17 日（台灣時間 11 月 18 日）在 Steam（PC / macOS / Linux）平台發售，支援繁體中文介面與....",
       "content": "",
       "image_url": "",
       "content_scope": "summary",
