@@ -1,9 +1,101 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-16T02:53:08.687482+00:00",
+  "generated_at": "2026-11-16T11:46:48.876184+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "435dc2c976b19ad4459dff2ef4bd0fafcaa7b601c2cc8bcdbef3c99b488cb0eb",
+      "title": "[移植游戏]战神1|God of War中文国语版",
+      "original_url": "https://nsthwj.cn/game/switch/138245",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.成功运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.2",
+      "updated_at": "2026-11-16T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-16T11:46:50.467176+00:00"
+    },
+    {
+      "id": "a83df17ad0cba47fe8e9d17b422dbf8718b2941d53ca39b15f1abc29d8b61806",
+      "title": "恶魔城：贝尔蒙特的诅咒|Castlevania: Belmont's Curse中文",
+      "original_url": "https://nsthwj.cn/game/switch/137103",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "鲜红的诅咒，会是绝望还是希望？在悪魔城伝说 (Castlevania Dracula's Curse) 的 23 年之后，随着年轻的贝尔蒙特在巴黎冒险并成长。KONAMI × Evil Empire × Motion Twin 联手推出最新的探索型 2D 动作游戏。 中世纪的巴黎，宣告末日来临的钟声回荡 1499 年…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.1.4含1.1.0金手指",
+      "updated_at": "2026-11-16T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-16T11:46:51.475028+00:00"
+    },
+    {
+      "id": "55ef3f173886d74fc563b1f2726c548536ad32f09241f833e34debc552599ad0",
+      "title": "锈迹游侠|生锈的游侠|Rusty Rangers",
+      "original_url": "https://nsthwj.cn/game/switch/138246",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《锈迹游侠》是一款融合动作平台、Roguelike 与类银河战士恶魔城元素的游戏。选择你的游侠，探索程序生成的地牢。你能击败所有的首领吗？ 曾经的世界如今无人记得，只剩下一支勇敢的游侠小队还铭记着过往。如今混乱与不可预测性主宰一切——曾经无害的生物如今带来毁灭，周围的世界也在不断变化，一次次将熟悉的环境化为乌有。 经…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-16T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-16T11:46:52.505371+00:00"
+    },
+    {
+      "id": "82873db93b53ab5f0924071476ce60dd9d4a9e33b2b449d6c57e453723f28cdf",
+      "title": "[移植游戏]仙剑奇侠传五|The Legend of Sword and Fairy 5中文",
+      "original_url": "https://nsthwj.cn/game/switch/138244",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "游戏简介：远古的血族，如今再度觉醒。人性与魔心，宿命与血缘，道义与爱情，当这些同时摆在前面，该如何抉择。千年的封印，连接两界的神魔之井成为震动六界的焦点，众人的命运逐渐交织在一起。四个身负不同秘密的人相遇，相识，相知，原本平淡的生活渐起波澜。事情的真相往往并非肉眼能够看清，为了所爱的人，即使万劫不复也绝不回头。当不得…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-16T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-16T11:46:53.539927+00:00"
+    },
     {
       "id": "c099e067b2af62cb58d6332d209581fa48f8718dff96bd10a878fbe964ed7089",
       "title": "永恒传说：重制版|Tales of Eternia: Remastered中文国语版",
@@ -302,6 +394,29 @@
       "updated_at": "2026-11-15T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-15T17:52:57.071027+00:00"
+    },
+    {
+      "id": "c5ce7e6c457aa16b4867c65d64492bd9dae47db6aa80256762b39c654e74d08d",
+      "title": "爱与传奇|Love and Legends",
+      "original_url": "https://nsthwj.cn/game/switch/138213",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "故事简介： 在下班回家的路上，一道突如其来的闪电改变了这一切。当你醒来时，发现自己身处一片陌生的土地……那是一个让人联想到中世纪欧洲的世界！ 你还来不及弄清楚状况，就被诬陷为邪恶女巫王的转世，随后被带到了王宫里。 你的无罪辩解根本无人理会。在众人的怀疑之下，你不得不做出选择：从五位宛如出自童话故事的英雄中挑选一位来保…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-15T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-16T11:46:54.762529+00:00"
     },
     {
       "id": "dbf8850488bf84c5e880b98bc384a766995847d0253ae61dc4d1f399c9c77db9",
@@ -2471,181 +2586,6 @@
         }
       ],
       "summary_checked_at": "2026-11-04T22:42:24.638500+00:00"
-    },
-    {
-      "id": "86770d57e606e56b3190901fb879cc81a14d75983061a6ebb4a179e59f59df6d",
-      "title": "[移植游戏]死亡空间[360移植版]|Dead Space汉化",
-      "original_url": "https://nsthwj.cn/game/switch/137759",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Dead Space 进入游戏 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1qpo8EPoLm32EYmDsBpWylg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/45d101c5a0f4",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:33.965259+00:00"
-    },
-    {
-      "id": "12f442cd87cbfd84c7ccfc5b18a053cfe74994c975ab849837f77366a4b5ba70",
-      "title": "[移植游戏]但丁的地狱|Dante's Inferno汉化",
-      "original_url": "https://nsthwj.cn/game/switch/137468",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1A6wFwWXHQtJSiKciPYOhgQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/7cb5fcccb677",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:34.526286+00:00"
-    },
-    {
-      "id": "f4fdad32a584c8ebae9b0762fb857f5be1cae8b4bcf18980329befcd3b386ca2",
-      "title": "[移植游戏]死刑犯：罪恶起源|Condemned: Criminal Origins中文",
-      "original_url": "https://nsthwj.cn/game/switch/137755",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "是什么让一个普通人的心智扭曲，沦为连环杀手？ 伊森・托马斯探员被派驻至连环犯罪调查科，他必须找到这个问题的答案，并将社会中最恶劣的罪犯绳之以法。他的破案率在局里无人能及…… 或许，高得有些反常。 在调查不断增多的连环杀手案件时，托马斯探员发现，有某种未知力量正在扭曲那些被社会遗弃者的肉体与灵魂。流浪汉、瘾君子与精神失…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.2",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1wmtImG6x5JsX_kbhHeWDHA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/013679590656",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:35.687798+00:00"
-    },
-    {
-      "id": "7efb6d5558e1a8bb94754e0bf22deb187b82f420dd0fc29a01b6ee8a6d91ed06",
-      "title": "[移植游戏]宝可梦SA|Pokémon SA汉化",
-      "original_url": "https://nsthwj.cn/game/switch/137717",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "宝可梦SA作为B站UP主裘老板独立开发的高品质宝可梦同人作品，以小智的动画旅程为蓝本重写剧情。宝可梦SA手机版包含全世代上千只宝可梦，新增多种原创形态宝可梦，战斗系统结合原作最新设定，支持Mega、Z招式、极巨化等核心玩法，并引入明雷遇敌机制与动态天气系统，秘传技转为道具，解放宝可梦技能格。玩法十分丰富，堪称同人标杆。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：0.1.0-b46",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1QEnq99vqUh7IMiLI-hzqYw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/ef42b8ffba75",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:36.575329+00:00"
-    },
-    {
-      "id": "d775b061ffd08fa341dade241798d8f786f6ade5db803190f308e2b59bf98401",
-      "title": "[移植游戏]宝可梦：靛蓝|Pokémon Añil汉化",
-      "original_url": "https://nsthwj.cn/game/switch/137390",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.1.0",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1n_33DYzclsav-HpVhGA1rQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/dea627231e88",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:37.115605+00:00"
     }
   ]
 }

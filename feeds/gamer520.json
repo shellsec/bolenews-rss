@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-16T02:52:48.035360+00:00",
+  "generated_at": "2026-11-16T11:46:27.429441+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -1175,7 +1175,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-11T15:28:14.040439+00:00"
+      "summary_checked_at": "2026-11-16T11:46:29.790465+00:00"
     },
     {
       "title": "近地联盟先遣队3|中文|移植版|",

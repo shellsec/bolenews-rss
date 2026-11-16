@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-16T02:52:52.410734+00:00",
+  "generated_at": "2026-11-16T11:46:31.726696+00:00",
   "source_url": "https://www.a9vg.com/",
   "items": [
     {
@@ -15,7 +15,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-16T02:52:57.251568+00:00"
+      "summary_checked_at": "2026-11-16T11:46:47.127281+00:00"
     },
     {
       "id": "10170203b71618388d4261e526d39ae2f475ecad0ffeb3be97a55c2492c678a2",
@@ -372,7 +372,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-15T22:59:41.635047+00:00"
+      "summary_checked_at": "2026-11-16T11:46:38.002449+00:00"
     },
     {
       "id": "f20aeebc375d9ddfc9f4f461ded35e4b1b75f247f326e5b3ac5caff37c8445ea",
@@ -399,7 +399,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-15T22:59:42.967909+00:00"
+      "summary_checked_at": "2026-11-16T11:46:39.350458+00:00"
     },
     {
       "id": "5bd4486b124041b17ca2459677938eea0171102c6985cde457d3ce6ceb81de16",
@@ -482,7 +482,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-15T22:59:44.251920+00:00"
+      "summary_checked_at": "2026-11-16T11:46:40.137785+00:00"
     },
     {
       "id": "979b5ac62091f936a8fc75426cc5a4a46557dce413b89eb918a2abed6dda6594",
@@ -495,7 +495,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-15T22:59:45.359660+00:00"
+      "summary_checked_at": "2026-11-16T11:46:42.509168+00:00"
     },
     {
       "id": "9beea7f3a60a8a493e3b40c6775cf01ac189158daad179987104fea8ac163079",
@@ -508,7 +508,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-16T02:52:55.523660+00:00"
+      "summary_checked_at": "2026-11-16T11:46:45.608716+00:00"
     },
     {
       "id": "e4c5c3f96bfa3c43c6b6c4e908cb41482de46e0d8b7a7274df8c9c1fea1609cd",
@@ -549,7 +549,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-16T02:52:56.435943+00:00"
+      "summary_checked_at": "2026-11-16T11:46:46.401895+00:00"
     },
     {
       "id": "74e4cba70b600f200a6bc42400f5757cc1d8827a44345075795b32013a9e5992",
@@ -705,7 +705,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-15T22:59:46.750110+00:00"
+      "summary_checked_at": "2026-11-16T11:46:43.694247+00:00"
     },
     {
       "id": "bc9a5d4bfb656cbff57b962c5d712232435bb8eb876b0cb22adc387f173403f4",
@@ -718,7 +718,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-16T02:52:54.704296+00:00"
+      "summary_checked_at": "2026-11-16T11:46:44.872965+00:00"
     },
     {
       "id": "7883f389ffc67bdafb2e63fc044123cb0b3467e012ff7cf90d7b70e0e132137f",
@@ -773,7 +773,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-15T22:59:40.335937+00:00"
+      "summary_checked_at": "2026-11-16T11:46:37.289854+00:00"
     },
     {
       "id": "40bd0359772998b398658df959e697681dddef0a8de932235bc1a64115734103",
@@ -954,6 +954,34 @@
       "content_scope": "metadata",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-15T17:52:40.037053+00:00"
+    },
+    {
+      "id": "7066ba7728d568335b6b309b0ddad009ca2b37ea165512fb2ab5beb9faffa324",
+      "title": "《疯狂出租车：极速环游》WePlay 2026参展详情公开",
+      "original_url": "https://www.a9vg.com/article/246948",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-16T11:46:34.552783+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "e82c0333e405b41f7fd3c3c6b1c6896afd2ba6f83b1573208d199356717d9a57",
+      "title": "《STRANGER THAN HEAVEN》“广岛·吴”剧情预告片现已公开",
+      "original_url": "https://www.a9vg.com/article/246947",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-16T11:46:35.440768+00:00",
+      "summary_origin": "publisher_description"
     }
   ]
 }
