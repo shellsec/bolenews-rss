@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-17T14:41:54.145276+00:00",
+  "generated_at": "2026-11-17T23:00:35.860310+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -49,6 +49,75 @@
       "updated_at": "2026-11-17T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-17T14:41:52.132784+00:00"
+    },
+    {
+      "id": "c569fe818651b39948b6ea453ed494d57750e43f59b7f97b82c88f195525a204",
+      "title": "[移植游戏]刀魂2|SoulCalibur II",
+      "original_url": "https://nsthwj.cn/game/switch/138253",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.4.0",
+      "updated_at": "2026-11-17T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-17T23:00:31.045483+00:00"
+    },
+    {
+      "id": "5e21583ac25255cdddcd68aa1051030d6b498686183008e7879b5903a674ae80",
+      "title": "[移植游戏]迷你忍者|Mini Ninjas",
+      "original_url": "https://nsthwj.cn/game/switch/138252",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Mini Ninjas NX 进入游戏 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.2",
+      "updated_at": "2026-11-17T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-17T23:00:32.215501+00:00"
+    },
+    {
+      "id": "6a558c862fa5375ed0022fe1b486ec20d5ba071cc0207fb856b5dc0870c83d5b",
+      "title": "[移植游戏]缘之空|Yosuga no Sora中文",
+      "original_url": "https://nsthwj.cn/game/switch/138255",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-17T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-17T23:00:33.385900+00:00"
     },
     {
       "id": "435dc2c976b19ad4459dff2ef4bd0fafcaa7b601c2cc8bcdbef3c99b488cb0eb",
@@ -1441,75 +1510,6 @@
       "updated_at": "2026-11-14T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-14T14:20:12.067394+00:00"
-    },
-    {
-      "id": "96070c18321b39cb1e94d51bd6bf9591c540678135b10aeae774ed1d45462780",
-      "title": "银色事件2425|The Silver 2425汉化",
-      "original_url": "https://nsthwj.cn/game/switch/2612",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "《银色2425》杀死过去x杀死生命 从SUDA51的脑海中降落到一个反乌托邦的世界！ 关东的24个区构成了一个看似田园诗般的城市，尽管险恶的秘密隐藏在它的表面之下。在《白银案》中，作为病房的重罪组成员，揭开一系列残忍谋杀背后的谜团。回到关东市的第25区：银案，在该市乌托邦式的第25选区背后有一个新的政府项目。当Bay…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.3",
-      "updated_at": "2026-11-13T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-13T09:45:30.677891+00:00"
-    },
-    {
-      "id": "5c53160dbe04e6b0ba2ef6834722f898da320137c27d72403e19a77f6cd12d88",
-      "title": "[移植游戏]耻辱|Dishonored中文",
-      "original_url": "https://nsthwj.cn/game/switch/138112",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "耻辱是一款全新的 RPG 的动作冒险类游戏，游戏风格蕴含了多款游戏，如刺客信条的自由度，生化奇兵的科幻类魔法等等。 游戏的主角是一位专门保护女王的贴身皇家护卫，在一次保护女王的过程中遭受到了意外让女王身亡，而这一切并不是失误而是有人刻意去谋划了这一切他就是大臣雷金特，玩家们可以操控起主角进入这些腐败并让自己锒铛入狱的…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0",
-      "updated_at": "2026-11-13T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-13T09:45:32.145269+00:00"
-    },
-    {
-      "id": "2676444c38bbbdd616a2867bd58cda97f0a0773635fa849842e41a8c896e8fd7",
-      "title": "二之国：白色圣灰的女王|Ni no Kuni: Wrath of the White Witch汉化国语版",
-      "original_url": "https://nsthwj.cn/game/switch/740",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "回到那 Ni no Kuni: Wrath of the White Witch Remastered 另一个世界的旅程。LEVEL-5 的经典传奇以尽善尽美之姿回归，更进化的图像及表现。为了从一场悲剧之后找回母亲，加入 Oliver 在这充满凶险敌人的世界并结交新伙伴来展开冒险旅程。 此次充满魅力的作品，是由声名远…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：2.0",
-      "updated_at": "2026-11-13T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-13T09:45:33.486482+00:00"
     },
     {
       "id": "eb4ccf4deb0bae2f26ca4ce64de996d5c38883d4aded7d2137371428dfbcd35f",

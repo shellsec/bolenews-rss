@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-17T14:41:21.848638+00:00",
+  "generated_at": "2026-11-17T23:00:07.019525+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
     {
@@ -117,10 +117,10 @@
       "summary": "世雅股份有限公司預計於 2027 年在 XBOX Series X|S／XBOX on PC／PC（Steam）／PlayStation 5／Nintendo Switch 2 平台推出的遊戲軟體《瘋狂計程車：極速環遊》公布了可在劇情模式等內容中遊玩的第 5 個城市「印度」。 ­ 在印度地圖中，可以盡情欣賞被列為世界遺產的泰姬瑪哈陵（Taj Mahal）、神祕的遺跡群、壯麗的自然景觀、世界最古老的鐵路之一，",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-17T14:41:22.438799+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-17T14:41:22.438799+00:00"
     },
     {
       "title": "《Cozy Grove》團隊治癒系 MMO《靈渡之境》今日上市 靜靜陪伴彼此，希望讓世界少一點孤獨！",
@@ -196,10 +196,10 @@
       "summary": "松竹株式會社遊戲事業室（以下簡稱松竹遊戲）今（17）日宣布，由 Imanity 開發，PC（Steam）平台的 3D 音樂節奏遊戲《Estella》搶先體驗版將於 2027 年 1 月 29 日（五）正式上線，官方同步預告將參展 12 月的台灣獨立遊戲展 G-EIGHT 2026，現場將開放玩家試玩。 搶先體驗版，2027 年 1 月 29 日（五）上線！ 官方表示，《Estella》搶先體驗版上線日期",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-17T14:41:23.015750+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-17T14:41:23.015750+00:00"
     },
     {
       "title": "《閃耀之星》釋出 11 月更新資訊 全新「殭屍波浪 POP」模式登場、賓果活動同步推出",
@@ -210,10 +210,10 @@
       "summary": "由 KATKIT 開發的 K-POP 舞蹈節奏遊戲《閃耀之星》，即將於 11 月推出全新大型版本更新。本次更新將帶來全新玩法「殭屍波浪 POP」、每日任務賓果活動，以及偶像對決全新「體力 OVER HIT」系統，讓明星們在享受節奏挑戰的同時，也能獲得更多成長資源與獎勵。 【以下內容為廠商提供資料原文】 全新節奏挑戰「殭屍波浪 POP」登場！收集本季",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-17T14:41:23.587328+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-17T14:41:23.587328+00:00"
     },
     {
       "title": "第 15 屆 ACG 文化與技術國際學術研討會巴哈姆特論文獎 12 月在香港與日本舉辦 公開詳細議程資訊",

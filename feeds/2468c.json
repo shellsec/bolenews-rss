@@ -1,9 +1,78 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-17T14:41:19.997421+00:00",
+  "generated_at": "2026-11-17T23:00:05.273124+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "海的呼唤.Call of the Sea",
+      "original_url": "https://2468c.com/83349.html",
+      "published_at": "2026-11-17T22:58:45Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-17T22:59:05Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-17T23:00:06.923470+00:00"
+    },
+    {
+      "title": "虫子快餐店.Bugsnax",
+      "original_url": "https://2468c.com/83196.html",
+      "published_at": "2026-11-17T22:54:17Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-17T22:56:02Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "前线任务 1st：重制版 Front Mission 1st: Remake",
+      "original_url": "https://2468c.com/122055.html",
+      "published_at": "2026-11-17T22:48:05Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-17T22:48:05Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "宇宙，晚安 Goodnight Universe",
+      "original_url": "https://2468c.com/122053.html",
+      "published_at": "2026-11-17T22:38:29Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-17T22:38:29Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
     {
       "title": "最终幻想7：重生 – 数字豪华版.Final Fantasy VII Rebirth: Digital Deluxe Edition",
       "original_url": "https://2468c.com/112324.html",
@@ -1658,74 +1727,6 @@
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-09T02:09:32Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "使命召唤：黑色行动 冷战 Call of Duty: Black Ops Cold War",
-      "original_url": "https://2468c.com/113307.html",
-      "published_at": "2026-11-09T02:06:06Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T02:09:17Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "战地风云 6 Battlefield 6",
-      "original_url": "https://2468c.com/116496.html",
-      "published_at": "2026-11-09T02:03:15Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T02:04:11Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "地狱魅魔 Succubus",
-      "original_url": "https://2468c.com/121892.html",
-      "published_at": "2026-11-09T01:57:49Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T01:57:49Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "这个座位有人坐吗？ Is This Seat Taken?",
-      "original_url": "https://2468c.com/121890.html",
-      "published_at": "2026-11-09T01:52:26Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T01:52:26Z",
       "platform": [
         "ps5"
       ],

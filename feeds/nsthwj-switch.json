@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-17T14:41:50.674723+00:00",
+  "generated_at": "2026-11-17T23:00:29.587695+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -49,6 +49,75 @@
       "updated_at": "2026-11-17T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-17T14:41:52.132784+00:00"
+    },
+    {
+      "id": "c569fe818651b39948b6ea453ed494d57750e43f59b7f97b82c88f195525a204",
+      "title": "[移植游戏]刀魂2|SoulCalibur II",
+      "original_url": "https://nsthwj.cn/game/switch/138253",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.4.0",
+      "updated_at": "2026-11-17T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-17T23:00:31.045483+00:00"
+    },
+    {
+      "id": "5e21583ac25255cdddcd68aa1051030d6b498686183008e7879b5903a674ae80",
+      "title": "[移植游戏]迷你忍者|Mini Ninjas",
+      "original_url": "https://nsthwj.cn/game/switch/138252",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Mini Ninjas NX 进入游戏 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.2",
+      "updated_at": "2026-11-17T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-17T23:00:32.215501+00:00"
+    },
+    {
+      "id": "6a558c862fa5375ed0022fe1b486ec20d5ba071cc0207fb856b5dc0870c83d5b",
+      "title": "[移植游戏]缘之空|Yosuga no Sora中文",
+      "original_url": "https://nsthwj.cn/game/switch/138255",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-17T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-17T23:00:33.385900+00:00"
     },
     {
       "id": "435dc2c976b19ad4459dff2ef4bd0fafcaa7b601c2cc8bcdbef3c99b488cb0eb",
@@ -2409,111 +2478,6 @@
         }
       ],
       "summary_checked_at": "2026-11-04T14:20:32.031911+00:00"
-    },
-    {
-      "id": "8209a7d7ba487b36ee8866dbfa614dfcfe7c5576719289bcbac1fd26b329854d",
-      "title": "[移植游戏]大鱼吃小鱼|Feeding Frenzy中文",
-      "original_url": "https://nsthwj.cn/game/switch/137765",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Feeding Frenzy 进入游戏 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1M3oyGNOIbM_DaBMNi3cyHg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/99b6f6623cb3",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:32.827671+00:00"
-    },
-    {
-      "id": "c8e83c31e869fdd27590a49e6aad3ae6d90e2ac6a7148b0e53010bd2c09ec75d",
-      "title": "[移植游戏]宝可梦NDS合集|Pokémon FUlldex",
-      "original_url": "https://nsthwj.cn/game/switch/137809",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：0.4.2",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1OnrnSRxg8Hm1ZQhqOWF27g?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/f1f363df3984",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:34:21.221940+00:00"
-    },
-    {
-      "id": "a63a99e945edabd95c45d6fdc7a312f6a018ec743526039f17b1d2167b54a4e7",
-      "title": "[移植游戏]保卫萝卜2|Carrot Fantasy 2中文",
-      "original_url": "https://nsthwj.cn/game/switch/137813",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "[移植游戏]保卫萝卜2|Carrot Fantasy 2中文游戏资料",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：0.1.0",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1x7viysSeHTy1bj_RK08TMA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/1299a0b421cd",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T16:26:08.486266+00:00"
     }
   ]
 }
