@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-17T04:40:35.493282+00:00",
+  "generated_at": "2026-11-17T14:41:50.674723+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -26,6 +26,29 @@
       "updated_at": "2026-11-17T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-17T04:40:37.398564+00:00"
+    },
+    {
+      "id": "f37606dad6246af1db1564a3e1339f810d5fb810c9654d7931a653a63bab81e9",
+      "title": "[移植游戏]战神1+2合集|God of War Collection",
+      "original_url": "https://nsthwj.cn/game/switch/138250",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-17T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-17T14:41:52.132784+00:00"
     },
     {
       "id": "435dc2c976b19ad4459dff2ef4bd0fafcaa7b601c2cc8bcdbef3c99b488cb0eb",
@@ -2491,41 +2514,6 @@
         }
       ],
       "summary_checked_at": "2026-11-04T16:26:08.486266+00:00"
-    },
-    {
-      "id": "49d36f78a786de7a6d3134aa08c6407a125fb5aa729cd881820516193e70ff89",
-      "title": "[SS土星移植游戏]土星炸弹人|Saturn Bomberman",
-      "original_url": "https://nsthwj.cn/game/switch/137812",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "《Saturn Bomberman》是Hudson Soft为Sega Saturn平台开发的动作游戏。作为《Bomberman》系列的第十二部作品，它于1996年7月19日在日本首次发行，1997年5月1日在欧洲上市，1997年9月4日在北美推出。这款游戏的最大亮点在于支持最多10名玩家通过多个控制器同时进行游戏。…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1Tc7LF6kohBMsQt7t0U6K1A?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/bf8a8d071db8",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T16:26:09.448860+00:00"
     }
   ]
 }
