@@ -1,9 +1,82 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-16T22:21:30.194581+00:00",
+  "generated_at": "2026-11-17T04:40:10.774736+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "战神1|汉化配音|移植版|",
+      "original_url": "https://vip.gamers520.com/126132.html",
+      "published_at": "2026-11-16T21:00:24Z",
+      "summary": "《战神》系列由圣莫尼卡工作室开发，是索尼旗下最具代表性的动作冒险游戏大作之一。 游戏以希腊神话和北欧神话为宏大背景，讲述了战神奎托斯（Kratos）历经背叛、复仇、救赎与父子情感纠葛的史诗传奇。 该系 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-17T01:50:26Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "球比伦战记 BALL x PIT|官方中文|本体+1.308升补|NSP|",
+      "original_url": "https://vip.gamers520.com/100917.html",
+      "published_at": "2026-11-16T21:01:54Z",
+      "summary": "在《BALL x PIT》这款生存类roguelite游戏中击碎砖石、融合圆球并搭建基地。使用弹性十足的圆球对抗源源不断的敌人，想方设法搜刮深坑中的宝藏以扩建家园、生产资源并招募独特英雄。 《BALL …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-17T01:50:24Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.308"
+    },
+    {
+      "title": "恶魔城 贝尔蒙特的诅咒|官方中文|本体+1.1.4升补+2DLC|NSP|",
+      "original_url": "https://vip.gamers520.com/123961.html",
+      "published_at": "2026-11-16T21:10:01Z",
+      "summary": "Castlevania: Belmont’s Curse 发行日期：2026 年 10 月 14 日 游戏类型：动作 / 角色扮演 语言支持：简体中文 / 多国语言 游戏简介鲜红的诅咒，会 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-17T01:50:22Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.1.4"
+    },
+    {
+      "title": "二之国 白色圣灰的女王|V2.0汉化配音整合版|NSP|",
+      "original_url": "https://vip.gamers520.com/126136.html",
+      "published_at": "2026-11-16T21:10:18Z",
+      "summary": "转载 XXGAME汉化组  XXGAME隐退视频:[点我] 有些热爱,值得被看见 有些付出,值得被铭记。 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-17T01:50:05Z",
+      "platform": [
+        "switch1"
+      ],
+      "version": "v2.0"
+    },
     {
       "title": "守墓人2 Graveyard Keeper 2|官方中文|本体+1.0.5升补+1DLC|NSP|",
       "original_url": "https://vip.gamers520.com/122551.html",
@@ -271,7 +344,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-12T03:55:41.600203+00:00"
+      "summary_checked_at": "2026-11-17T04:40:13.484520+00:00"
     },
     {
       "title": "狸狸 胖哒的夏日 TANUKI Pon’s Summer|官方中文|本体+v1.0.28494.20.12升补|NSP|",
@@ -1680,70 +1753,6 @@
       "evidence": "community",
       "summary_origin": "publisher_excerpt",
       "updated_at": "2026-10-23T06:51:22Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "头文字D 街机版3 移植版",
-      "original_url": "https://vip.gamers520.com/124522.html",
-      "published_at": "2026-10-22T18:19:54Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-23T06:51:21Z",
-      "platform": [
-        "switch1"
-      ],
-      "summary_checked_at": "2026-11-13T17:53:30.343767+00:00"
-    },
-    {
-      "title": "星球田园诗Farlands|官方中文|NSP|",
-      "original_url": "https://vip.gamers520.com/124524.html",
-      "published_at": "2026-10-22T18:22:05Z",
-      "summary": "正在寻求改变生活方式的你，看到了无法抗拒的诱惑：一整颗星球在售，价格极其优惠！这是位于某一太阳系外围的古老农业岩石行星，已经废弃多年。就这样，仅凭一艘破旧的飞船和私人机器助理，你决定在那个星系里被遗忘 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-23T06:51:20Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "仙剑奇侠传2|官方中文|移植版|",
-      "original_url": "https://vip.gamers520.com/124511.html",
-      "published_at": "2026-10-22T18:50:28Z",
-      "summary": "发行日期：2021 年 4 月 14 日 游戏类型：角色扮演 语言支持：简体中文 / 多国语言 游戏简介《仙剑奇侠传二》故事发生在一代的8年之后，剧情紧接一代，围绕王小虎、苏媚、沈欺霜、李忆如展开，讲 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-23T05:06:19Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "死亡空间2|官方中文|移植版|",
-      "original_url": "https://vip.gamers520.com/124503.html",
-      "published_at": "2026-10-22T18:10:52Z",
-      "summary": "在 USS 石村号（USS Ishimura）的异形（Necromorph）感染事件发生三年后， 艾萨克·克拉克（Isaac Clarke）从昏迷中醒来。他神志不清、迷失方向，并发现自己身处一座名为“ …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-23T00:26:03Z",
       "platform": [
         "switch1"
       ]

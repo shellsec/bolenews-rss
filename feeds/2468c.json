@@ -1,9 +1,231 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-16T22:21:25.990666+00:00",
+  "generated_at": "2026-11-17T04:40:02.480579+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "最终幻想7：重生 – 数字豪华版.Final Fantasy VII Rebirth: Digital Deluxe Edition",
+      "original_url": "https://2468c.com/112324.html",
+      "published_at": "2026-11-16T23:50:37Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-16T23:51:03Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-17T04:40:04.571448+00:00"
+    },
+    {
+      "title": "最终幻想7：核心危机.CRISIS CORE –FINAL FANTASY VII",
+      "original_url": "https://2468c.com/112503.html",
+      "published_at": "2026-11-16T23:46:51Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-16T23:48:50Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "最终幻想7：重制版 Intergrade.Final Fantasy VII Remake Intergrade",
+      "original_url": "https://2468c.com/112345.html",
+      "published_at": "2026-11-16T23:43:29Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-16T23:47:03Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "最终幻想16.Final Fantasy XVI",
+      "original_url": "https://2468c.com/112351.html",
+      "published_at": "2026-11-16T23:40:13Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-16T23:43:27Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "最终幻想：共鸣 – 豪华版 FINAL FANTASY RESONANCE Deluxe Edition",
+      "original_url": "https://2468c.com/121525.html",
+      "published_at": "2026-11-16T23:39:15Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-16T23:40:47Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "最终幻想战略版：伊瓦利斯编年史 – 豪华版.Final Fantasy Tactics – The Ivalice Chronicles: Deluxe Edition",
+      "original_url": "https://2468c.com/112318.html",
+      "published_at": "2026-11-16T23:36:25Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-16T23:39:13Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "天堂的陌生人：最终幻想起源 – 豪华版 Stranger of Paradise: Final Fantasy Origin – Digital Deluxe",
+      "original_url": "https://2468c.com/82196.html",
+      "published_at": "2026-11-16T23:35:55Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-16T23:37:09Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "艾迪芬奇的记忆 What Remains of Edith Finch",
+      "original_url": "https://2468c.com/122033.html",
+      "published_at": "2026-11-16T23:31:24Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-16T23:31:24Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "失落的遗迹 Lost Ruins",
+      "original_url": "https://2468c.com/122036.html",
+      "published_at": "2026-11-16T23:31:24Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-16T23:31:24Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "Q 立方 2豪华版 QUBE 2 Ultimate Edition",
+      "original_url": "https://2468c.com/122038.html",
+      "published_at": "2026-11-16T23:31:24Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-16T23:31:24Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "死魂曲 Siren",
+      "original_url": "https://2468c.com/122040.html",
+      "published_at": "2026-11-16T23:31:24Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-16T23:31:24Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "死域 Rogue Deadzone Rogue",
+      "original_url": "https://2468c.com/122042.html",
+      "published_at": "2026-11-16T23:31:24Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-16T23:31:24Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "战神：斯巴达之子 God of War Sons of Sparta",
+      "original_url": "https://2468c.com/122044.html",
+      "published_at": "2026-11-16T23:31:02Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-16T23:31:02Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
     {
       "title": "模拟火车世界2：豪华版.Train Sim World 2：Deluxe Edition",
       "original_url": "https://2468c.com/83001.html",
@@ -439,24 +661,6 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "最终幻想7：核心危机.CRISIS CORE –FINAL FANTASY VII",
-      "original_url": "https://2468c.com/112503.html",
-      "published_at": "2026-09-27T00:18:51Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-13T08:46:25Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-13T09:45:07.526220+00:00"
     },
     {
       "title": "人中之龙0：誓约的场所 – 导演剪辑版.Yakuza 0 Director’s Cut",
@@ -1526,228 +1730,6 @@
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "西瓜游戏 Suika Game",
-      "original_url": "https://2468c.com/121888.html",
-      "published_at": "2026-11-09T01:48:02Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T01:48:02Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "桑塔：半精灵英雄 终极版 Shantae Half Genie Hero Ultimate Edition",
-      "original_url": "https://2468c.com/121886.html",
-      "published_at": "2026-11-09T01:43:52Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T01:43:52Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "德古拉的遗产 重制版 Dracula’s Legacy Remastered",
-      "original_url": "https://2468c.com/121884.html",
-      "published_at": "2026-11-09T01:39:54Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T01:39:54Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "实况足球 2021 （多版本合集）Pro Evolution Soccer 2021",
-      "original_url": "https://2468c.com/108946.html",
-      "published_at": "2026-11-08T01:20:59Z",
-      "summary": "平台：PlayStation4 发行商：Konami Digital Entertainment 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Konami Digital Entertainment 发行日期：2020-09-10 游戏版本：v1....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-08T01:21:22Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-08T06:59:38.247666+00:00"
-    },
-    {
-      "title": "苍穹雷霆 3 Azure Striker GUNVOLT 3",
-      "original_url": "https://2468c.com/121881.html",
-      "published_at": "2026-11-08T01:09:23Z",
-      "summary": "平台：PlayStation4 发行商：INTI CREATES CO, LTD 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Inti Creates 发行日期：2022-12-15 游戏版本：v1.01 游戏编号：CUSA33135 格式：PKG...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-08T01:09:23Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-08T06:59:38.946476+00:00"
-    },
-    {
-      "title": "潮流特警队 Fashion Police Squad",
-      "original_url": "https://2468c.com/121879.html",
-      "published_at": "2026-11-08T01:07:02Z",
-      "summary": "平台：PlayStation4 发行商：No More Robots 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Mopeful Games 发行日期：2023-02-02 游戏版本：v1.02 游戏编号：CUSA33305 格式：PKG 平台版本...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-08T01:07:02Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-08T06:59:39.586918+00:00"
-    },
-    {
-      "title": "刺客信条：英灵殿 – 终极版.Assassin’s Creed Valhalla Ultimate Edition",
-      "original_url": "https://2468c.com/64482.html",
-      "published_at": "2026-11-08T01:03:59Z",
-      "summary": "平台：PlayStation4 发行商：Ubisoft 语言：中文,日语,英语,韩语 开发商：Ubisoft Montreal 发行日期：2020年11月10日 游戏版本：v8.00/v9.00 (全DLC) 游戏编号：CUSA18524 格式：PKG 平台版本：适用使用5.xx...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-08T01:04:17Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-08T06:59:40.252946+00:00"
-    },
-    {
-      "title": "换影循迹 Bionic Bay",
-      "original_url": "https://2468c.com/121875.html",
-      "published_at": "2026-11-07T15:13:54Z",
-      "summary": "平台：PlayStation5 发行商：Kepler Interactive 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Psychoflow Studio 发行日期：2025-04-16 游戏版本：v01.000.008 游戏编号：PPSA237...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-07T15:13:54Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-07T16:55:08.759560+00:00"
-    },
-    {
-      "title": "光环：战役进化 – 高级版 Halo Campaign Evolved Premium Edition",
-      "original_url": "https://2468c.com/120875.html",
-      "published_at": "2026-11-07T05:03:56Z",
-      "summary": "平台：PlayStation5 发行商：Xbox Game Studios 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Halo Studios 发行日期：2026-07-23 游戏版本：v17.661.002 游戏编号：PPSA28038 格式：...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-07T05:04:48Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-07T10:28:27.474168+00:00"
-    },
-    {
-      "title": "奥特罗斯 Ultros",
-      "original_url": "https://2468c.com/121873.html",
-      "published_at": "2026-11-07T04:26:44Z",
-      "summary": "平台：PlayStation5 发行商：Kepler Interactive 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：El Huervo 发行日期：2024-02-13 游戏版本：v01.380 游戏编号：PPSA16280 格式：文件压缩包/...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-07T04:26:44Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-07T10:28:28.035869+00:00"
-    },
-    {
-      "title": "梦中影 Afterdream",
-      "original_url": "https://2468c.com/121871.html",
-      "published_at": "2026-11-07T04:22:01Z",
-      "summary": "平台：PlayStation4 发行商：Feardemic 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Jesse Makkonen 发行日期：2023-10-26 游戏版本：v1.01 游戏编号：CUSA45692 格式：PKG 平台版本：适用使...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-07T04:22:01Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-07T10:28:28.597411+00:00"
-    },
-    {
-      "title": "怪兽竞技场 Sportal",
-      "original_url": "https://2468c.com/121869.html",
-      "published_at": "2026-11-07T04:19:27Z",
-      "summary": "平台：PlayStation4 发行商：Retrovibe 语言：中文,日语,英语,德语,俄语,韩语,意大利语,法语,西班牙语 开发商：Sleepwalking Potatoes 发行日期：2026-06-11 游戏版本：v1.01 游戏编号：CUSA58764 格式：PKG 平...",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-07T04:19:27Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_origin": "publisher_description",
-      "summary_checked_at": "2026-11-07T10:28:29.170202+00:00"
     }
   ]
 }

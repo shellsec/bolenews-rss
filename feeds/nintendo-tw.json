@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-16T22:21:46.418177+00:00",
+  "generated_at": "2026-11-17T04:40:34.671989+00:00",
   "source_url": "https://www.nintendo.com/tw/topics",
   "items": [
     {
@@ -440,6 +440,20 @@
       "content_scope": "metadata",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-13T02:02:34.221310+00:00"
+    },
+    {
+      "id": "1c7806cf0f512c6edb4a1bba6856e053a93291102bf5664b3030209c1ab783af",
+      "title": "Nintendo Switch 2《Splatoon Raiders (斯普拉遁 塗擊隊)》體驗版發布中。2026.11.17",
+      "original_url": "https://www.nintendo.com/tw/topics/article/2sQBlir5roq0ct8EP0eqiU",
+      "summary": "Nintendo Switch 2《Splatoon Raiders (斯普拉遁 塗擊隊)》體驗版發布中。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hant",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-17T04:40:35.219565+00:00",
+      "summary_origin": "publisher_description"
     }
   ]
 }

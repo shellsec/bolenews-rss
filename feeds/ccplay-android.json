@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-16T22:22:52.097144+00:00",
+  "generated_at": "2026-11-17T04:41:55.335321+00:00",
   "source_url": "https://g.ccplay.cc/",
   "items": [
     {
@@ -241,6 +241,25 @@
       "version": "1.10.78.3021857",
       "summary": "1、头号公敌之上，巅峰不设限！冲分之路更清晰，匹配体验更顺畅！ 全新分数展示系统上线标准排位，「头号公敌」99星之后再无上限，累计分数清晰可见，每一分努力都值得被看见！同步优化排位匹配机制，开局更稳定，竞速之路更顺手、更尽兴！ 2、高速对决模式全新升级，继承箱扩容来袭！ 高速对决商城全新上架「扩容零件」，购买后即可永久扩容继承箱容量，心仪战利品不再忍痛舍弃，每一局的辛苦收获，都能稳稳带回家！ 3、速度传奇降临，德系传奇集结！科尼赛克 Jesko 领衔登场，保时捷阵容重磅上新！…",
       "image_url": "https://ws-resource.ccplay.cc/media/images/author/2026/04/24/1124-51-653/icon.png-icon.xhuge",
+      "content": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "source_name": "虫虫助手 · Android",
+      "platform": [
+        "android"
+      ],
+      "category": "discovery"
+    },
+    {
+      "title": "王者荣耀-S45赛季",
+      "original_url": "https://g.ccplay.cc/package/103407.html",
+      "published_at": "",
+      "updated_at": "2026-09-23T00:00:00+08:00",
+      "update_date_precision": "day",
+      "version": "12.1.1.1",
+      "summary": "【版本更新内容】 1.新英雄-王维：空山遗客，山水成诗，以雾御敌，支援八方。 2.新赛季-月照长安：S45新赛季现已开启，王维身在径山，心系天下，他如明月，照亮长安。 3.新赛季召唤师技能-雾行千山：乘云化雾，位移获得闪避效果，沿途可普攻或释放技能。 4.新体验： ①牛魔玩法升级，新增掷斧机制，远程拉扯开团； ②野区视野精灵升级，仅受普攻伤害，沿固定路线巡航并照亮沿途视野； ③新增友方协作提示，选择目标阶段，提前发出信号使队友感知。 5.新玩法：农场新增战令系统，昼夜变化、全…",
+      "image_url": "https://ws-resource.ccplay.cc/media/images/author/2026/09/23/0933-01-309/647f93cd7cc65f6a939cb26ecbbb6638.png-icon.xhuge",
       "content": "",
       "content_scope": "summary",
       "language": "zh-Hans",
