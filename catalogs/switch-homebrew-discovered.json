@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 6,
+  "config_version": 7,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-17T04:07:46.381233+00:00",
+  "generated_at": "2026-11-18T03:05:28.308960+00:00",
   "sources": [
     {
       "id": "gh-homebrew-287271987",
@@ -417,6 +417,23 @@
       "name": "SysToggle",
       "url": "https://github.com/muratkrdl/SysToggle/releases.atom",
       "repo": "muratkrdl/SysToggle",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1458245932",
+      "name": "HK-Checker",
+      "url": "https://github.com/gasu95/HK-Checker/releases.atom",
+      "repo": "gasu95/HK-Checker",
       "category": "homebrew",
       "language": "en",
       "platforms": [

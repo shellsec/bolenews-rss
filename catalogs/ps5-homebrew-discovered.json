@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 7,
+  "config_version": 8,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-17T04:07:46.381233+00:00",
+  "generated_at": "2026-11-18T03:05:28.308960+00:00",
   "sources": [
     {
       "id": "gh-homebrew-395383178",
@@ -502,6 +502,74 @@
       "name": "ps5-medic-ui-tool",
       "url": "https://github.com/strongt1me/ps5-medic-ui-tool/releases.atom",
       "repo": "strongt1me/ps5-medic-ui-tool",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1444560904",
+      "name": "FileDen",
+      "url": "https://github.com/realLesiedd/FileDen/releases.atom",
+      "repo": "realLesiedd/FileDen",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1452225903",
+      "name": "ps5-agentic-ui",
+      "url": "https://github.com/Laptopmini/ps5-agentic-ui/releases.atom",
+      "repo": "Laptopmini/ps5-agentic-ui",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1460738590",
+      "name": "lineage-ps2-for-ps5",
+      "url": "https://github.com/lineage-shell/lineage-ps2-for-ps5/releases.atom",
+      "repo": "lineage-shell/lineage-ps2-for-ps5",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1460738638",
+      "name": "lineage-ps1-for-ps5",
+      "url": "https://github.com/lineage-shell/lineage-ps1-for-ps5/releases.atom",
+      "repo": "lineage-shell/lineage-ps1-for-ps5",
       "category": "homebrew",
       "language": "en",
       "platforms": [
