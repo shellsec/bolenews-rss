@@ -1,13 +1,13 @@
 {
   "source": "4gamers-game-guides",
-  "attempted_at": "2026-11-18T04:34:27.624554+00:00",
+  "attempted_at": "2026-11-18T14:19:06.375917+00:00",
   "status": "ok",
-  "summary_count": 2,
+  "summary_count": 3,
   "summary_attempts": 0,
   "summary_missing": 0,
   "summary_errors": [],
-  "count": 2,
-  "fetched_count": 0,
+  "count": 3,
+  "fetched_count": 1,
   "retained_count": 2,
   "input_urls": [
     "https://www.4gamers.com.tw/rss/latest-news"

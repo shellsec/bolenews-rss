@@ -1,9 +1,147 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-18T04:34:49.828501+00:00",
+  "generated_at": "2026-11-18T14:19:31.764697+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "a4de6c6075ca5961dc87849ca56e4997c9c911f4c8ba1c8f523dcf5fe6f139fb",
+      "title": "斯普拉遁3|喷射战士3|Splatoon 3中文",
+      "original_url": "https://nsthwj.cn/game/switch/6661",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "本作的舞台位于“尚兴地区”，那是一片烈日高照的荒芜沙漠。沙漠的中心地带是以混杂街道为主的“蛮颓镇”，许多热爱对战的鱿鱼和章鱼皆聚集于此。鱿鱼和章鱼的时尚似乎也有所改变。 以墨汁涂抹面积一决胜负的 4 对 4“占地对战”虽然和以前相同，不过当中加入了可以从半空开始比赛的“鱿鱼生成”等新动作，似乎让对战的趋势发生了变化。…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：12.0.0含11.3.0金手指",
+      "updated_at": "2026-11-18T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-18T14:19:35.756846+00:00"
+    },
+    {
+      "id": "36758f8a5813b29a264244be4392743899769ffdc8d8e7f9e3e9de5ef1aecefa",
+      "title": "[移植游戏]索尼克英雄|Sonic Heroes",
+      "original_url": "https://nsthwj.cn/game/switch/138260",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.5.0",
+      "updated_at": "2026-11-18T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-18T14:19:37.235202+00:00"
+    },
+    {
+      "id": "02abe64e8a93b62ac371633cc7d875e7435aa395fb633570b58cd4f364df36c7",
+      "title": "[移植游戏]最终幻想13|Final Fantasy XIII",
+      "original_url": "https://nsthwj.cn/game/switch/138259",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-18T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-18T14:19:38.407637+00:00"
+    },
+    {
+      "id": "7481b99b4627c2869185c496e1e5cf5bd622f5dc8d84a0b8f5e4c0cd7d978d55",
+      "title": "[移植游戏]特殊行动：一线生机|Spec Ops: The Line",
+      "original_url": "https://nsthwj.cn/game/switch/138258",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-18T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-18T14:19:40.079682+00:00"
+    },
+    {
+      "id": "93bdf58e40d4dcc99a83033d3d4c1dd7f0142f796ecb576d7df90023737de087",
+      "title": "[移植游戏]模拟人生3|The Sims 3",
+      "original_url": "https://nsthwj.cn/game/switch/138257",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.1.0",
+      "updated_at": "2026-11-18T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-18T14:19:44.353683+00:00"
+    },
+    {
+      "id": "69b36410900f479e5768601a4af939bb26a82b9d0eb299dea36653bec0a939d1",
+      "title": "[移植游戏]暴走山地自行车|Downhill Domination",
+      "original_url": "https://nsthwj.cn/game/switch/138256",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-18T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-18T14:19:45.906833+00:00"
+    },
     {
       "id": "ca160dda96ecdc8bfb3c4f1c00fec2fc9ca412d4015d431e6fbb44fe34f8edb5",
       "title": "[移植游戏]寂静岭8：暴雨|Silent Hill: Downpour汉化",
@@ -2256,216 +2394,6 @@
         }
       ],
       "summary_checked_at": "2026-11-05T20:44:40.003245+00:00"
-    },
-    {
-      "id": "ed365f75d100a8a07f7d88d4de2505cb10513b9b8f349fdf24bcbcefd3b219a5",
-      "title": "玩具熊的五夜后宫：姐妹地点|Five Nights at Freddy's: Sister Location",
-      "original_url": "https://nsthwj.cn/game/switch/3424",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "欢迎来到「马戏团宝贝」披萨世界！这里的家庭乐趣以及互动性远远超出了你以前所看到的*其他*的披萨乐园！这里有顶尖的动画艺人会让您的孩子开怀大笑，不仅如此我们还提供定制披萨餐饮，没有马戏团宝贝和朋友的聚会绝对是不完整的！ 现在招聘：深夜技术员。必须能够在狭窄的空间以及运行中的机械旁维持正常的工作且不会感到不适。如果您不幸…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.2",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1CGgRm-QcElAhsPLkmW3j0A?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/d6072039b42f",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-05T20:44:41.067818+00:00"
-    },
-    {
-      "id": "adcf8f7810e4a010086cf0eda601c65aed70b6813f626913bfbb92157b772f3e",
-      "title": "[绅士游戏]爱之钥|アイカギ汉化",
-      "original_url": "https://nsthwj.cn/game/switch/5326",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "由于故事是独立的，您可以放心地独自享受这部作品。这是由黑太郎先生、剧本作家卢平R先生和工作人员传递的爱情故事。描绘与青梅竹马的女主角同居生活的《相花》，以及描绘此后同居生活的《相花～After Days～》。现在可以“随身携带”两件作品！",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1U6EQu9238OaSkXapdPBXYA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/76837c9e19c8",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-05T20:44:42.464787+00:00"
-    },
-    {
-      "id": "031848fe3e8e8a5511e04a7b2f70e2d5aad27bc49ad4e16ea6886a1c159e0a50",
-      "title": "[移植游戏]恶魔城：暗之咒印|Castlevania: Curse of Darkness",
-      "original_url": "https://nsthwj.cn/game/switch/137870",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：0.5.0",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/18xing7O39b74hqJtay23bQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/85c0600f3dde",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-05T20:44:43.579172+00:00"
-    },
-    {
-      "id": "b2a0e644198006c185115a619273bc3a5f7f855b0cc5a93a026c73127b42f208",
-      "title": "[移植游戏]寂静岭PT|P.T.中文",
-      "original_url": "https://nsthwj.cn/game/switch/137807",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1AmLZ5tx-KT94-Z7NJFUBnQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/b7e3ec154ac5",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:29.993133+00:00"
-    },
-    {
-      "id": "7e4c4474932d960257306dcb0d09590d222276183ef593fa0611ab90ed9f20ed",
-      "title": "[移植游戏]闪克|Shank汉化",
-      "original_url": "https://nsthwj.cn/game/switch/137756",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1dX_p6h-NVxHhybYrbSvFpw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/0417bd28b774",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:30.565236+00:00"
-    },
-    {
-      "id": "86c6add4731df510cbcc960a747218d52dab8b8ff1fcb031dbfff682519de1c4",
-      "title": "[移植游戏]光环：战斗进化|Halo: Combat Evolved汉化",
-      "original_url": "https://nsthwj.cn/game/switch/137320",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 [本体补丁两个文件都要安装] 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.2",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1ZDwoJBtEYHqF4UgkaIJAHw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/30b4e9c8bea4",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:31.173824+00:00"
     }
   ]
 }

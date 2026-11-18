@@ -1,9 +1,22 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-18T04:34:27.624554+00:00",
+  "generated_at": "2026-11-18T14:19:06.375917+00:00",
   "source_url": "https://www.4gamers.com.tw/rss/latest-news",
   "items": [
+    {
+      "title": "《俠盜獵車手6》微雷新手上手攻略 讓你在雷歐奈達不迷惘",
+      "original_url": "https://www.4gamers.com.tw/news/detail/83321/grand-theft-auto-vi-tips",
+      "published_at": "2026-11-18T12:26:34Z",
+      "source_name": "4Gamers 中文遊戲攻略",
+      "language": "zh-Hant",
+      "summary": "《Grand Theft Auto VI》（俠盜獵車手 6，簡稱 GTA 6）即將於明（19）日在全球正式推出，在此之前，我們也準備了一份玩後的感想攻略，讓你在漫遊雷歐奈達時可以更順利。 紅色：生命力（力量），可透過肌力健身提升最大值，若不健身會隨時間降低。",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "《薩爾達傳說 時之笛》初期流程攻略：德庫樹、多東哥、加卜加卜頭目打法，三顆精靈石輕鬆拿",
       "original_url": "https://www.4gamers.com.tw/news/detail/83156/the-legend-of-zelda-ocarina-of-time-remake-playthrough-guide",

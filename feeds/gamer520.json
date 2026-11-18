@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-18T04:34:30.493544+00:00",
+  "generated_at": "2026-11-18T14:19:08.636814+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -952,7 +952,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-14T06:45:12.304833+00:00"
+      "summary_checked_at": "2026-11-18T14:19:11.311935+00:00"
     },
     {
       "title": "鬼灭之刃 火之神血风谭2|官方中文|本体+v2.01升补+12DLC|NSP|原版|",
