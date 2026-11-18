@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-17T23:00:29.105800+00:00",
+  "generated_at": "2026-11-18T04:34:48.973649+00:00",
   "source_url": "https://www.nintendo.com/tw/topics",
   "items": [
     {
@@ -454,6 +454,20 @@
       "content_scope": "metadata",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-17T04:40:35.219565+00:00"
+    },
+    {
+      "id": "916c3d11040cc43f310f6af49d4e480b6a55eeacd2d14e55f03301f78a780dff",
+      "title": "《斯普拉遁 3》更新資料Ver.12.0.0已於本日發布。可獲得各種道具的遊戲新聞也現正發布中。2026.11.18",
+      "original_url": "https://www.nintendo.com/tw/topics/article/4m3aLNYDWbid2WhoikmUyv",
+      "summary": "《斯普拉遁 3》更新資料Ver.12.0.0已於本日發布。可獲得各種道具的遊戲新聞也現正發布中。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hant",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-18T04:34:49.562648+00:00",
+      "summary_origin": "publisher_description"
     }
   ]
 }

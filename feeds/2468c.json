@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-17T23:00:05.273124+00:00",
+  "generated_at": "2026-11-18T04:34:24.580277+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -14,13 +14,64 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
-      "updated_at": "2026-11-17T22:59:05Z",
+      "updated_at": "2026-11-17T23:10:50Z",
       "platform": [
         "ps5"
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-17T23:00:06.923470+00:00"
+      "summary_checked_at": "2026-11-18T04:34:26.808622+00:00"
+    },
+    {
+      "title": "怪物卡车：冠军赛.Monster Truck Championship",
+      "original_url": "https://2468c.com/82939.html",
+      "published_at": "2026-11-17T23:05:57Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-17T23:08:15Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "过山车之星.Planet Coaster",
+      "original_url": "https://2468c.com/83269.html",
+      "published_at": "2026-11-17T23:03:43Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-17T23:05:35Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "极速骑行4.RIDE 4",
+      "original_url": "https://2468c.com/83278.html",
+      "published_at": "2026-11-17T23:00:31Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-17T23:03:03Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
     },
     {
       "title": "虫子快餐店.Bugsnax",
@@ -1675,58 +1726,6 @@
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-09T21:32:07Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "东方红魔乡：新典 Touhou Koumakyou New Classic The Embodiment of Scarlet Devil",
-      "original_url": "https://2468c.com/121920.html",
-      "published_at": "2026-11-09T21:31:50Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T21:31:50Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "使命召唤：现代战争 2 Call of Duty: Modern Warfare 2",
-      "original_url": "https://2468c.com/113366.html",
-      "published_at": "2026-11-09T02:08:00Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T02:09:41Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-09T18:56:22.633740+00:00"
-    },
-    {
-      "title": "使命召唤：现代战争 3 Call of Duty Modern Warfare 3",
-      "original_url": "https://2468c.com/115880.html",
-      "published_at": "2026-11-09T02:07:10Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T02:09:32Z",
       "platform": [
         "ps5"
       ],

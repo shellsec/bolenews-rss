@@ -1,9 +1,89 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-17T23:00:09.444186+00:00",
+  "generated_at": "2026-11-18T04:34:30.493544+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "战神1+2合集|汉化移植版|",
+      "original_url": "https://vip.gamers520.com/126212.html",
+      "published_at": "2026-11-17T21:00:15Z",
+      "summary": "《战神1》（凡人的救赎与弑神）： 玩家扮演斯巴达战士奎托斯（Kratos）。他曾为求胜利向战神阿瑞斯（Ares）献出灵魂， 获赐锁链双刃“混沌之刃”，却在阿瑞斯的阴谋下亲手误杀妻女。为摆脱噩梦折磨，奎 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-18T02:37:39Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "最终幻想13-2|官方中文|移植版|",
+      "original_url": "https://vip.gamers520.com/126216.html",
+      "published_at": "2026-11-17T21:03:46Z",
+      "summary": "故事发生在《最终幻想13》大结局数年之后。随着“茧”的崩塌与人类重返地面，拯救了世界的英雄“雷霆”（Lightning）却神秘失踪， 所有人都认为她已经随大水晶一同消逝，只有她的妹妹塞拉（Serah …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-18T02:37:35Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "宝可梦GS Vitro|移植版|",
+      "original_url": "https://vip.gamers520.com/126218.html",
+      "published_at": "2026-11-17T21:03:35Z",
+      "summary": "《宝可梦GS Vitro》（Pokémon GS Vitro）是由海外同人开发团队（Perseida Project / 核心成员包括 ClaraDragon、Horo、Angeleiro 等）打造的 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-18T02:37:29Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "刀魂2|移植版|",
+      "original_url": "https://vip.gamers520.com/126214.html",
+      "published_at": "2026-11-17T21:01:28Z",
+      "summary": "游戏的故事背景围绕着两把拥有神秘力量的传奇兵刃展开：一把是滋生邪恶与毁灭的魔剑“Soul Edge（魂之利刃）”， 另一把则是与之对抗、代表净化与秩序的灵剑“Soul Calibur（灵魂能力）”。 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-18T02:37:26Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "仙剑奇侠传5|官方中文|移植版|",
+      "original_url": "https://vip.gamers520.com/126221.html",
+      "published_at": "2026-11-17T21:11:39Z",
+      "summary": "故事的时间线设定在《仙剑奇侠传一代》发生的数十年后及《仙剑奇侠传三》之后。由于魔界魔尊姜世离（原名姜承）被蜀山锁妖塔封印，人间与魔界隔阂加深。 主角团登场： 狂风寨少主姜云凡性格开朗、富有正义感，因缘 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-18T02:37:02Z",
+      "platform": [
+        "switch1"
+      ]
+    },
     {
       "title": "战神1|汉化配音|移植版|",
       "original_url": "https://vip.gamers520.com/126132.html",
@@ -248,7 +328,7 @@
         "game_update"
       ],
       "version": "1.26.62",
-      "summary_checked_at": "2026-11-13T02:02:13.571528+00:00"
+      "summary_checked_at": "2026-11-18T04:34:33.323295+00:00"
     },
     {
       "title": "无人深空|官方中文|本体+7.10.0升补|NSZ|原版|",
@@ -1672,90 +1752,6 @@
         "game_update"
       ],
       "version": "1.1.3.0"
-    },
-    {
-      "title": "最终幻想 共鸣|港版中文|本体+1.0.1升补+1DLC|NSP|",
-      "original_url": "https://vip.gamers520.com/124439.html",
-      "published_at": "2026-10-23T22:10:33Z",
-      "summary": "FINAL FANTASY RESONANCE 已更新港版中文",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-24T02:02:33Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ],
-      "version": "1.0.1"
-    },
-    {
-      "title": "蜘蛛侠2移植版",
-      "original_url": "https://vip.gamers520.com/124514.html",
-      "published_at": "2026-10-22T18:12:17Z",
-      "summary": "Marvel’s Spider-Man 2 蜘蛛感应响个不停… 带上面罩，随《Marvel’s Spider-Man 2》一起摆荡到PC平台，体验更多蛛丝交错的精彩英雄故事。 本作由Insomniac …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-23T06:51:32Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "吉他英雄3 xbox360移植版",
-      "original_url": "https://vip.gamers520.com/124516.html",
-      "published_at": "2026-10-22T18:13:20Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-23T06:51:29Z",
-      "platform": [
-        "switch1"
-      ],
-      "summary_checked_at": "2026-11-17T23:00:11.533948+00:00"
-    },
-    {
-      "title": "车神3|移植版|",
-      "original_url": "https://vip.gamers520.com/124518.html",
-      "published_at": "2026-10-22T18:18:08Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-23T06:51:25Z",
-      "platform": [
-        "switch1"
-      ],
-      "summary_checked_at": "2026-11-13T09:45:14.731280+00:00"
-    },
-    {
-      "title": "魂识界Tamashika|官方中文|NSP|",
-      "original_url": "https://vip.gamers520.com/124520.html",
-      "published_at": "2026-10-22T18:20:59Z",
-      "summary": "注意力就是你所需要的 TAMASHIKA 是一款节奏快的街机式走廊射击游戏,专注于流畅、精准和生存。 在变化的环境中移动,快速反应,并保持锁定状态。每一次跑步都关乎控制、时机,以及将你的思绪集中在一个 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-23T06:51:22Z",
-      "platform": [
-        "switch1"
-      ]
     }
   ]
 }

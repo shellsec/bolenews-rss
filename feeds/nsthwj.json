@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-17T23:00:35.860310+00:00",
+  "generated_at": "2026-11-18T04:34:54.752443+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -118,6 +118,29 @@
       "updated_at": "2026-11-17T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-17T23:00:33.385900+00:00"
+    },
+    {
+      "id": "b6138e7570de8d1d9d0051866fc87313491f41d05bb5c2076cdcf1cdc044c80e",
+      "title": "[移植游戏]坠落：重制版|Downfall: Redux",
+      "original_url": "https://nsthwj.cn/game/switch/138254",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "故事主角是乔・戴维斯（Joe Davis），他和妻子艾维（Ivy）的婚姻已经濒临破裂。艾维长期受精神疾病、进食障碍困扰，情绪极不稳定。乔计划带着妻子前往郊外的**宁静港湾酒店（Quiet Haven Hotel）**短暂度假，希望借此修复两人的关系，化解矛盾。 两人在暴雨夜里抵达酒店，当晚争吵不断，艾维陷入恐慌、胡言…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.2.0",
+      "updated_at": "2026-11-17T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-18T04:34:51.542720+00:00"
     },
     {
       "id": "435dc2c976b19ad4459dff2ef4bd0fafcaa7b601c2cc8bcdbef3c99b488cb0eb",
@@ -1487,29 +1510,6 @@
       "updated_at": "2026-11-14T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-14T14:20:08.994028+00:00"
-    },
-    {
-      "id": "425dbaa6c159a9b5f6993d1c0f0e0c3e484ded70969227dcd279898a49b4dce9",
-      "title": "[SS土星移植游戏]水浒演武：风云再起|Suiko Enbu Fuunsaiki",
-      "original_url": "https://nsthwj.cn/game/switch/138142",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "《隋唐演义》的强化版，专为土星平台打造。这款游戏属于2D对战类游戏，背景设定在中世纪的中华大地，其故事灵感源自中国经典的《水浒传》传说。与一般的格斗游戏一样，玩家可以从14名战士中选择自己喜欢的角色，然后运用各自的特殊技能和攻击手段进行战斗。此外，每个角色都有自己独特的武器，但若过度使用防御手段，武器就会损坏，此时玩…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-14T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-14T14:20:12.067394+00:00"
     },
     {
       "id": "eb4ccf4deb0bae2f26ca4ce64de996d5c38883d4aded7d2137371428dfbcd35f",

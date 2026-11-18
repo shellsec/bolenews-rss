@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-17T23:01:36.473428+00:00",
+  "generated_at": "2026-11-18T04:36:05.339346+00:00",
   "source_url": "https://g.ccplay.cc/",
   "items": [
     {
@@ -279,6 +279,25 @@
       "version": "1.25.0",
       "summary": "9月22日更新「决胜新境」版本 主要更新内容如下：新英雄「禁灭」登场，新地图「天枢云阙」上线，新玩法「回防模式」、「团队乱斗」上线 「2022全球冠军赛」系列皮肤将于9月24日上线",
       "image_url": "https://ws-resource.ccplay.cc/media/packages/2025/12/09/1220-34-094/0.png-icon.xhuge",
+      "content": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "source_name": "虫虫助手 · Android",
+      "platform": [
+        "android"
+      ],
+      "category": "discovery"
+    },
+    {
+      "title": "碧蓝航线-9周年庆典",
+      "original_url": "https://g.ccplay.cc/package/119566.html",
+      "published_at": "",
+      "updated_at": "2026-09-22T00:00:00+08:00",
+      "update_date_precision": "day",
+      "version": "9.7.25",
+      "summary": "1. SDK系统升级 2. 部分已知问题修复",
+      "image_url": "https://ws-resource.ccplay.cc/media/images/author/2025/01/03/1044-49-041/c4a54bbe1cc2901f913dbb4c894df5af.png-icon.xhuge",
       "content": "",
       "content_scope": "summary",
       "language": "zh-Hans",

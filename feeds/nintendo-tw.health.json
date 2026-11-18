@@ -1,14 +1,14 @@
 {
   "source": "nintendo-tw",
-  "attempted_at": "2026-11-17T23:00:29.105800+00:00",
+  "attempted_at": "2026-11-18T04:34:48.973649+00:00",
   "status": "ok",
-  "summary_count": 32,
-  "summary_attempts": 0,
+  "summary_count": 33,
+  "summary_attempts": 1,
   "summary_missing": 0,
   "summary_errors": [],
-  "count": 32,
+  "count": 33,
   "fetched_count": 24,
-  "retained_count": 8,
+  "retained_count": 9,
   "input_urls": [
     "https://www.nintendo.com/tw/topics"
   ],

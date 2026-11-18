@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-17T23:00:29.587695+00:00",
+  "generated_at": "2026-11-18T04:34:49.828501+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -118,6 +118,29 @@
       "updated_at": "2026-11-17T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-17T23:00:33.385900+00:00"
+    },
+    {
+      "id": "b6138e7570de8d1d9d0051866fc87313491f41d05bb5c2076cdcf1cdc044c80e",
+      "title": "[移植游戏]坠落：重制版|Downfall: Redux",
+      "original_url": "https://nsthwj.cn/game/switch/138254",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "故事主角是乔・戴维斯（Joe Davis），他和妻子艾维（Ivy）的婚姻已经濒临破裂。艾维长期受精神疾病、进食障碍困扰，情绪极不稳定。乔计划带着妻子前往郊外的**宁静港湾酒店（Quiet Haven Hotel）**短暂度假，希望借此修复两人的关系，化解矛盾。 两人在暴雨夜里抵达酒店，当晚争吵不断，艾维陷入恐慌、胡言…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.2.0",
+      "updated_at": "2026-11-17T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-18T04:34:51.542720+00:00"
     },
     {
       "id": "435dc2c976b19ad4459dff2ef4bd0fafcaa7b601c2cc8bcdbef3c99b488cb0eb",
@@ -2443,41 +2466,6 @@
         }
       ],
       "summary_checked_at": "2026-11-04T14:20:31.173824+00:00"
-    },
-    {
-      "id": "c31f4200895466db65011fd33d2ee6846ab697c20f30a2ab4b026ee07534bee8",
-      "title": "[移植游戏]大鱼吃小鱼2：海难大决战|Feeding Frenzy 2: Shipwreck Showdown中文",
-      "original_url": "https://nsthwj.cn/game/switch/137766",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Feeding Frenzy 2 进入游戏 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-04T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1xfm-ZsM68BvNR0uH13IphQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/b6ea9c8e6401",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:32.031911+00:00"
     }
   ]
 }
