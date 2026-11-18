@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-18T14:19:31.764697+00:00",
+  "generated_at": "2026-11-18T22:10:07.469611+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -141,6 +141,29 @@
       "updated_at": "2026-11-18T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-18T14:19:45.906833+00:00"
+    },
+    {
+      "id": "7add6eeeb82839a4846fcf0ac2ad5dd79bf2a107c02e696a7810af5a7167b960",
+      "title": "[移植游戏]巫师2：国王刺客|The Witcher 2: Assassins of Kings中文",
+      "original_url": "https://nsthwj.cn/game/switch/138261",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.1.4",
+      "updated_at": "2026-11-18T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-18T22:10:09.489084+00:00"
     },
     {
       "id": "ca160dda96ecdc8bfb3c4f1c00fec2fc9ca412d4015d431e6fbb44fe34f8edb5",
@@ -2359,41 +2382,6 @@
         }
       ],
       "summary_checked_at": "2026-11-05T20:44:38.638145+00:00"
-    },
-    {
-      "id": "2748bb9d59b6f8b99c26e61e2e7343a13bc94543ec2627de0f9af2665ed19ec9",
-      "title": "[移植游戏]恶魔城：绝望的和声|Castlevania: Harmony of Despair",
-      "original_url": "https://nsthwj.cn/game/switch/137871",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：0.295.f206be8+",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1-URWt9IHOvFQXheZINNpKg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/707072d80696",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-05T20:44:40.003245+00:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-18T14:19:49.507631+00:00",
+  "generated_at": "2026-11-18T22:10:12.289821+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -141,6 +141,29 @@
       "updated_at": "2026-11-18T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-18T14:19:45.906833+00:00"
+    },
+    {
+      "id": "7add6eeeb82839a4846fcf0ac2ad5dd79bf2a107c02e696a7810af5a7167b960",
+      "title": "[移植游戏]巫师2：国王刺客|The Witcher 2: Assassins of Kings中文",
+      "original_url": "https://nsthwj.cn/game/switch/138261",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.1.4",
+      "updated_at": "2026-11-18T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-18T22:10:09.489084+00:00"
     },
     {
       "id": "ca160dda96ecdc8bfb3c4f1c00fec2fc9ca412d4015d431e6fbb44fe34f8edb5",
@@ -1401,29 +1424,6 @@
       "summary_checked_at": "2026-11-15T17:52:55.907787+00:00"
     },
     {
-      "id": "60dd8550893f60de0d19b3536e48aa0a57ac38b65f95afa932b013211302a9f1",
-      "title": "芭比时光回溯|Barbie Rewind",
-      "original_url": "https://nsthwj.cn/game/switch/138176",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "穿越数十年时光，装饰芭比梦幻屋™，体验这场兼具舒适与创意的冒险，畅玩经典芭比游戏。进入《Barbie™ Rewind》的世界，你将在精美的像素艺术和复古风格中重温标志性的芭比时代。好闺蜜芭比邀请你进入她的世界，并委托你翻新她的梦幻屋。从芭比超过 65 年的历史长河中挑选各色物品，打造独特的风格。 从三种复古设计中为梦…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-15T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-15T17:52:57.071027+00:00"
-    },
-    {
       "id": "6cd43dd80b609662d87c141806d92ce3fb09caa1c72b0e95fa81dc69d28773a6",
       "title": "Hob",
       "original_url": "https://nsthwj.cn/game/pc/138211",
@@ -1490,11 +1490,11 @@
       "update_date_precision": "day"
     },
     {
-      "id": "c5ce7e6c457aa16b4867c65d64492bd9dae47db6aa80256762b39c654e74d08d",
-      "title": "爱与传奇|Love and Legends",
-      "original_url": "https://nsthwj.cn/game/switch/138213",
+      "id": "60dd8550893f60de0d19b3536e48aa0a57ac38b65f95afa932b013211302a9f1",
+      "title": "芭比时光回溯|Barbie Rewind",
+      "original_url": "https://nsthwj.cn/game/switch/138176",
       "source_name": "NS头号玩家 SWITCH",
-      "summary": "故事简介： 在下班回家的路上，一道突如其来的闪电改变了这一切。当你醒来时，发现自己身处一片陌生的土地……那是一个让人联想到中世纪欧洲的世界！ 你还来不及弄清楚状况，就被诬陷为邪恶女巫王的转世，随后被带到了王宫里。 你的无罪辩解根本无人理会。在众人的怀疑之下，你不得不做出选择：从五位宛如出自童话故事的英雄中挑选一位来保…",
+      "summary": "穿越数十年时光，装饰芭比梦幻屋™，体验这场兼具舒适与创意的冒险，畅玩经典芭比游戏。进入《Barbie™ Rewind》的世界，你将在精美的像素艺术和复古风格中重温标志性的芭比时代。好闺蜜芭比邀请你进入她的世界，并委托你翻新她的梦幻屋。从芭比超过 65 年的历史长河中挑选各色物品，打造独特的风格。 从三种复古设计中为梦…",
       "summary_origin": "publisher_description",
       "content": "",
       "image_url": "",
@@ -1510,7 +1510,7 @@
       "version": "最新版本：1.0.0",
       "updated_at": "2026-11-15T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-16T11:46:54.762529+00:00"
+      "summary_checked_at": "2026-11-15T17:52:57.071027+00:00"
     },
     {
       "id": "eb4ccf4deb0bae2f26ca4ce64de996d5c38883d4aded7d2137371428dfbcd35f",

@@ -1,9 +1,35 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-18T14:19:04.991676+00:00",
+  "generated_at": "2026-11-18T22:09:38.116990+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "PS5 釋出最新版系統軟體 想玩《俠盜獵車手 6》就一定得更新",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315253",
+      "published_at": "2026-11-18T16:16:53Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "索尼互動娛樂（SIE）於 11 月 18 日釋出 PlayStation 5 最新版系統 26.07-14.23.00。 根據官方公布資料，本次更新主要變更之處為修正系統軟體的安全性。不過 PlayStation 官方支援 X 特別發文提醒，玩家 “必....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
+    {
+      "title": "【G★2026】2026 韓國遊戲大獎揭曉 《赤血沙漠》橫掃 8 大獎、《AION 2》奪 2 獎項",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315252",
+      "published_at": "2026-11-18T15:13:03Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "2026 韓國遊戲大獎今日晚間揭曉，由珍艾碧絲研發的《赤血沙漠》拿下最高榮譽總統獎，同時拿下技術、創作獎 4 大部門獎項與優秀開發者獎等八大獎項，成為最大贏家。 由韓國文化體育觀光部主辦的 2026 韓國遊戲大獎 18 日晚間在釜山 BEXCO 展覽中心 G-STAR 舞台舉行；珍艾碧絲繼....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "2026 臺北城市盃國際電競大賽熱血落幕 結合《快打旋風 6》激戰、臺北隊強勢奪冠",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315251",
@@ -234,10 +260,10 @@
       "summary": "手機遊戲開發與發行公司的網石集團 (Netmarble Corporation) 宣布，旗下殘酷黑暗奇幻 MMORPG《RAVEN 2：渡鴉》正式展開「伊爾大慶典」。本次更新推出了 70 個階段的獎勵活動、特別簽到獎勵及額外任務，讓玩家有機會獲得共 1000 張召喚書與 7 種特別優惠券等獎勵。 正在進行的活動提供最多 2 個傳說與 6 個英雄階級獎勵，以及 7 種特別優惠券 【以",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-18T14:19:05.469600+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-18T14:19:05.469600+00:00"
     },
     {
       "title": "《MARVEL 未來之戰》推出「皇者之戰」更新與黑色星期五活動",
@@ -261,10 +287,10 @@
       "summary": "傳奇網路旗下手機遊戲《風之國度》與 TV 動畫《WIND BREAKER 一防風少年一》今日正式展開合作活動，本次聯動推出兩款全新小遊戲，邀請玩家在「祕法之地」展開緊張刺激的大逃殺生存對決，或走進「大狸咖啡廳」，體驗與時間賽跑的料理挑戰。各式聯動外觀與主題介面、可愛表情、角色頭像、待機動作也同步登場。 【以下內容為廠商提供",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-18T14:19:06.079070+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-18T14:19:06.079070+00:00"
     },
     {
       "title": "《模擬國家公園：護林員之路》正式版登上 PC、主機平台 新增雙人合作多人模式及新任務",
@@ -1293,32 +1319,6 @@
       "source_name": "巴哈姆特 GNN",
       "language": "zh-Hant",
       "summary": "由高松美咲所著作品改編，電視動畫《躍動青春 第二季》今日公開了首波宣傳影片與追加聲優名單。 《躍動青春》故事描述，在高一的春天，從偏遠地區來的岩倉美津未，順利進入東京的升學名校──燕西高中。原以為一切都能按照計畫萬無一失得進行，卻在開學的第一天就急轉直下、陷入困....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "羚邦集團與 KADOKAWA 集團簽訂協議 透過在香港與泰國成立合資公司深化合作",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315103",
-      "published_at": "2026-11-16T09:40:08Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "羚邦集團有限公司（「羚邦集團」股份代號： 2230.HK ）今日宣布與 KADOKAWA 集團（「KADOKAWA 集團」股份代號：9468.T）簽訂合資協議，透過在香港及泰國成立合資公司，深化雙方合作。 【以下內容為廠商提供資料原文】 是次合營公司的成立，標誌著羚邦首次與領先綜合娛....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "《活俠傳》武俠音樂會圓滿落幕 作曲家幽火揭籌備過程與表演心情、黑子娛樂宣布周邊線上通販將開跑",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315102",
-      "published_at": "2026-11-16T09:36:13Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "由獨立遊戲團隊「原始鳥熊」開發、武俠角色扮演遊戲《活俠傳》主題「君所願兮江湖行」武俠音樂會在歷經三日共四場演出後圓滿落幕，音樂原聲帶作曲家、也是原作音樂監修幽火老師今（16）日在巴哈姆特哈拉板分享了音樂會從籌備到登台指揮的心路歷程與幕後花絮；音樂會主辦單位黑子娛樂也在今日宣布，由於音樂會周邊商品反應熱烈、部分品....",
       "content": "",
       "image_url": "",
       "content_scope": "summary",
