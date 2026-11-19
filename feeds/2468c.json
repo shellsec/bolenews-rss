@@ -1,9 +1,163 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-18T22:09:35.872591+00:00",
+  "generated_at": "2026-11-19T03:41:22.479488+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "绊爱 AI：悦动音符！ Kizuna AI: Touch the Beat!",
+      "original_url": "https://2468c.com/122064.html",
+      "published_at": "2026-11-19T01:27:20Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-19T01:27:20Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-19T03:41:24.653388+00:00"
+    },
+    {
+      "title": "城市 VR 增强版 Cities: VR – Enhanced Edition",
+      "original_url": "https://2468c.com/122066.html",
+      "published_at": "2026-11-19T01:27:20Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-19T01:27:20Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "幽灵信号：星际游戏 Ghost Signal: A Stellaris Game",
+      "original_url": "https://2468c.com/122068.html",
+      "published_at": "2026-11-19T01:27:20Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-19T01:27:20Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "不予播出 VR Not For Broadcast VR",
+      "original_url": "https://2468c.com/122070.html",
+      "published_at": "2026-11-19T01:27:20Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-19T01:27:20Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "雨中冒险 2 Risk of Rain 2",
+      "original_url": "https://2468c.com/122081.html",
+      "published_at": "2026-11-19T01:26:54Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-19T01:26:54Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "救命！怎么又塌了! HASTE",
+      "original_url": "https://2468c.com/122079.html",
+      "published_at": "2026-11-19T01:19:59Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-19T01:19:59Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "前进，天空塔！ Forward To The Sky",
+      "original_url": "https://2468c.com/122077.html",
+      "published_at": "2026-11-19T01:11:57Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-19T01:11:57Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "魔女祇兵 Majogami",
+      "original_url": "https://2468c.com/122075.html",
+      "published_at": "2026-11-19T01:04:25Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-19T01:04:25Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "天际海洋：雇佣之翼 Sky Oceans Wings For Hire",
+      "original_url": "https://2468c.com/122072.html",
+      "published_at": "2026-11-19T00:58:20Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-19T00:58:20Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
     {
       "title": "海的呼唤.Call of the Sea",
       "original_url": "https://2468c.com/83349.html",
@@ -1575,159 +1729,6 @@
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-09T21:32:19Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "阿吉菲尔德高中：反转校园 Agefield High Rock The School",
-      "original_url": "https://2468c.com/121901.html",
-      "published_at": "2026-11-09T21:32:19Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T21:32:19Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "霓虹地狱 Neon Inferno",
-      "original_url": "https://2468c.com/121903.html",
-      "published_at": "2026-11-09T21:32:19Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T21:32:19Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "海之号角 2：失落王国骑士 Oceanhorn 2 Knights of The Lost Realm",
-      "original_url": "https://2468c.com/121905.html",
-      "published_at": "2026-11-09T21:32:07Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T21:32:07Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "死亡呼啸 Death Howl",
-      "original_url": "https://2468c.com/121907.html",
-      "published_at": "2026-11-09T21:32:07Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T21:32:07Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "掘地求财 A Game About Digging A Hole",
-      "original_url": "https://2468c.com/121909.html",
-      "published_at": "2026-11-09T21:32:07Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T21:32:07Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "哥斯拉：怪兽大乱斗 重制版 Godzilla Destroy All Monsters Melee Remastered",
-      "original_url": "https://2468c.com/121911.html",
-      "published_at": "2026-11-09T21:32:07Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T21:32:07Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "心跳文学部Plus Doki Doki Literature Club Plus",
-      "original_url": "https://2468c.com/121913.html",
-      "published_at": "2026-11-09T21:32:07Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T21:32:07Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "红魔城蕾米莉亚：绯色交响曲 Koumajou Remilia Scarlet Symphony",
-      "original_url": "https://2468c.com/121915.html",
-      "published_at": "2026-11-09T21:32:07Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T21:32:07Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "避难所 Asylum",
-      "original_url": "https://2468c.com/121917.html",
-      "published_at": "2026-11-09T21:32:07Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-09T21:32:07Z",
       "platform": [
         "ps5"
       ],

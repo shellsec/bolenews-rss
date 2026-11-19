@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-18T22:10:12.289821+00:00",
+  "generated_at": "2026-11-19T03:41:50.306630+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -164,6 +164,29 @@
       "updated_at": "2026-11-18T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-18T22:10:09.489084+00:00"
+    },
+    {
+      "id": "ca297f5ecdf36fed9b8397092c88b4d04cd280e53d1352e2a370c921dc1af8e8",
+      "title": "[移植游戏]轩辕剑4|Xuan-Yuan Sword 4中文",
+      "original_url": "https://nsthwj.cn/game/switch/138262",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《轩辕剑肆：黑龙舞兮云飞扬》是大宇资讯旗下经典单机角色扮演游戏《轩辕剑》系列的第六部作品。故事设定在已经完成”大一统“的秦朝初期。配乐也大胆借鉴了中国商周时期的“金石”雅乐。 从这款作品开始，轩辕剑系列全面采用 3D 画面，在 3D 效果下，此作也呈现出叹为观止的古代科技文明。 系统方面，以前几代的“炼妖壶”为蓝本，…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-18T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-19T03:41:47.040047+00:00"
     },
     {
       "id": "ca160dda96ecdc8bfb3c4f1c00fec2fc9ca412d4015d431e6fbb44fe34f8edb5",
@@ -1401,29 +1424,6 @@
       "summary_checked_at": "2026-11-15T17:52:54.514379+00:00"
     },
     {
-      "id": "73cce8d752c5d5a0883b743769008ea425b2889be797942877697912967cde27",
-      "title": "孩之宝儿童桌游合集|Hasbro Games Junior Collection中文",
-      "original_url": "https://nsthwj.cn/game/switch/138177",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "畅玩《Monopoly Jr.》《Clue Jr.》和《The Game of Life Jr.》。自定义你的角色，解锁丰富奖励，支持最多 4 人本地同乐。 准备迎接一场充满欢笑、惊喜和“再来一局！”的精彩游戏之夜吧！本合集将 3 款经典儿童桌游化为一款适合孩子与全家同乐的精彩电子游戏。 在《Monopoly Jr.…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.1",
-      "updated_at": "2026-11-15T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-15T17:52:55.907787+00:00"
-    },
-    {
       "id": "6cd43dd80b609662d87c141806d92ce3fb09caa1c72b0e95fa81dc69d28773a6",
       "title": "Hob",
       "original_url": "https://nsthwj.cn/game/pc/138211",
@@ -1490,11 +1490,11 @@
       "update_date_precision": "day"
     },
     {
-      "id": "60dd8550893f60de0d19b3536e48aa0a57ac38b65f95afa932b013211302a9f1",
-      "title": "芭比时光回溯|Barbie Rewind",
-      "original_url": "https://nsthwj.cn/game/switch/138176",
+      "id": "73cce8d752c5d5a0883b743769008ea425b2889be797942877697912967cde27",
+      "title": "孩之宝儿童桌游合集|Hasbro Games Junior Collection中文",
+      "original_url": "https://nsthwj.cn/game/switch/138177",
       "source_name": "NS头号玩家 SWITCH",
-      "summary": "穿越数十年时光，装饰芭比梦幻屋™，体验这场兼具舒适与创意的冒险，畅玩经典芭比游戏。进入《Barbie™ Rewind》的世界，你将在精美的像素艺术和复古风格中重温标志性的芭比时代。好闺蜜芭比邀请你进入她的世界，并委托你翻新她的梦幻屋。从芭比超过 65 年的历史长河中挑选各色物品，打造独特的风格。 从三种复古设计中为梦…",
+      "summary": "畅玩《Monopoly Jr.》《Clue Jr.》和《The Game of Life Jr.》。自定义你的角色，解锁丰富奖励，支持最多 4 人本地同乐。 准备迎接一场充满欢笑、惊喜和“再来一局！”的精彩游戏之夜吧！本合集将 3 款经典儿童桌游化为一款适合孩子与全家同乐的精彩电子游戏。 在《Monopoly Jr.…",
       "summary_origin": "publisher_description",
       "content": "",
       "image_url": "",
@@ -1507,10 +1507,10 @@
       ],
       "category": "discovery",
       "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
+      "version": "最新版本：1.0.1",
       "updated_at": "2026-11-15T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-15T17:52:57.071027+00:00"
+      "summary_checked_at": "2026-11-15T17:52:55.907787+00:00"
     },
     {
       "id": "eb4ccf4deb0bae2f26ca4ce64de996d5c38883d4aded7d2137371428dfbcd35f",

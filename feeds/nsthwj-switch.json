@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-18T22:10:07.469611+00:00",
+  "generated_at": "2026-11-19T03:41:44.628701+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -164,6 +164,29 @@
       "updated_at": "2026-11-18T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-18T22:10:09.489084+00:00"
+    },
+    {
+      "id": "ca297f5ecdf36fed9b8397092c88b4d04cd280e53d1352e2a370c921dc1af8e8",
+      "title": "[移植游戏]轩辕剑4|Xuan-Yuan Sword 4中文",
+      "original_url": "https://nsthwj.cn/game/switch/138262",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《轩辕剑肆：黑龙舞兮云飞扬》是大宇资讯旗下经典单机角色扮演游戏《轩辕剑》系列的第六部作品。故事设定在已经完成”大一统“的秦朝初期。配乐也大胆借鉴了中国商周时期的“金石”雅乐。 从这款作品开始，轩辕剑系列全面采用 3D 画面，在 3D 效果下，此作也呈现出叹为观止的古代科技文明。 系统方面，以前几代的“炼妖壶”为蓝本，…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-18T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-19T03:41:47.040047+00:00"
     },
     {
       "id": "ca160dda96ecdc8bfb3c4f1c00fec2fc9ca412d4015d431e6fbb44fe34f8edb5",
@@ -2347,41 +2370,6 @@
         }
       ],
       "summary_checked_at": "2026-11-05T20:44:37.518482+00:00"
-    },
-    {
-      "id": "3c8453cd5601d52d2ebbb51256e9da609262162c207f6fade468a42f1bbab039",
-      "title": "无尽幻樱阁|Eternal Palace Sakura中文",
-      "original_url": "https://nsthwj.cn/game/switch/137872",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "磨利刀锋，踏入樱花飞舞的永恒迷宫——“无尽幻樱阁”吧！这里是无法安息的怪物四处徘徊的梦幻迷宫。在不断变化的领域中杀出重围，用奖励道具强化自己！以华丽的战斗与机智策略挑战“高难度内容”的 Roguelite 3D 动作游戏！ 《无尽幻樱阁》是一款 3D 动作 Roguelite 游戏。玩家可以探索樱花飞舞的迷宫、强化角…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-05T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1_jax2XOhzOtyxxQVL5EbcA?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "夸克网盘",
-          "url": "https://pan.quark.cn/s/77aa4c7a32da",
-          "extraction_code": ""
-        }
-      ],
-      "summary_checked_at": "2026-11-05T20:44:38.638145+00:00"
     }
   ]
 }

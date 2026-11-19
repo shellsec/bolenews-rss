@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-18T22:10:06.909332+00:00",
+  "generated_at": "2026-11-19T03:41:43.887221+00:00",
   "source_url": "https://www.nintendo.com/tw/topics",
   "items": [
     {
@@ -468,6 +468,20 @@
       "content_scope": "metadata",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-18T04:34:49.562648+00:00"
+    },
+    {
+      "id": "1badeeac4b31a2345de80828fe5558b424363c5d42100317c1224e514fefd711",
+      "title": "和角落小夥伴們一同幫忙溫泉旅館，打造一間大家都想去的好旅館吧！ 《角落小夥伴 歡迎來到暖呼呼溫泉》今日正式發售。2026.11.19",
+      "original_url": "https://www.nintendo.com/tw/topics/article/oR5YxYDdL8EA45pNTneFK",
+      "summary": "和角落小夥伴們一同幫忙溫泉旅館，打造一間大家都想去的好旅館吧！ 《角落小夥伴 歡迎來到暖呼呼溫泉》今日正式發售。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hant",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-19T03:41:44.387941+00:00",
+      "summary_origin": "publisher_description"
     }
   ]
 }

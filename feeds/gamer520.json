@@ -1,9 +1,85 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-18T22:09:40.319971+00:00",
+  "generated_at": "2026-11-19T03:41:27.184256+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "忍者神龟 斯普特林的命运|官方中文|本体+2.1.1升补+4DLC|NSZ|原版|",
+      "original_url": "https://vip.gamers520.com/79485.html",
+      "published_at": "2026-11-18T21:00:44Z",
+      "summary": "在Roguelike任务中释放乌龟之力，从大脚帮的手中救出斯普林特！掌握忍者技能，在惊心动魄的合作游戏中团结一心，征服纽约各大标志性地区。 当斯普林特被施瑞德绑架后，整个纽约市同时出现了很多神秘的传送 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-19T01:42:02Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "2.1.1"
+    },
+    {
+      "title": "斯普拉遁3|官方中文|本体+12.0.0升补+3DLC|NSZ|原版|",
+      "original_url": "https://vip.gamers520.com/107148.html",
+      "published_at": "2026-11-18T21:02:34Z",
+      "summary": "斯普拉遁3 Splatoon 3 在最新鲜的射击游戏中墨水、游泳和泼溅 在这款充满风格和态度的色彩缤纷的动作射击游戏中加入 4 对 4* 的泼墨战斗。作为一个像乌贼一样的 Inkling …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-19T01:41:59Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "12.0.0"
+    },
+    {
+      "title": "泪之境 Tearscape|官方中文|本体+1.0.2升补|NSP|",
+      "original_url": "https://vip.gamers520.com/126277.html",
+      "published_at": "2026-11-18T21:05:16Z",
+      "summary": "介绍使用的是PC版和NS版一模一样的",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-19T01:41:57Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.2"
+    },
+    {
+      "title": "生前夜初代|移植版|60帧+国语配音+地图+任务+即时存档|",
+      "original_url": "https://vip.gamers520.com/126279.html",
+      "published_at": "2026-11-18T21:05:33Z",
+      "summary": "《寄生前夜》（Parasite Eve）是史克威尔（Square，现史克威尔艾尼克斯）在 PlayStation 平台推出的经典“电影式 RPG”（Cinematic RPG）。 游戏改编自日本作家濑 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-19T01:41:42Z",
+      "platform": [
+        "switch1"
+      ]
+    },
     {
       "title": "战神1+2合集|汉化移植版|",
       "original_url": "https://vip.gamers520.com/126212.html",
@@ -1144,7 +1220,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-14T23:08:50.296923+00:00"
+      "summary_checked_at": "2026-11-19T03:41:29.953168+00:00"
     },
     {
       "title": "现代战争4 决战时刻|移植版|",
@@ -1677,81 +1753,6 @@
       "platform": [
         "switch1"
       ]
-    },
-    {
-      "title": "造物主2 Reus 2|官方中文|本体+1.5.6升补+1DLC|NSP|",
-      "original_url": "https://vip.gamers520.com/124590.html",
-      "published_at": "2026-10-23T22:15:43Z",
-      "summary": "运用6名强大的巨人，每个巨人都具备有关植物、动物和矿物的独特能力，让你能够为人类营造新的生态环境。随着你累积游戏进度，可获得灵感解锁更多巨人技能，为你提供多样化的选择。 关系与灾难 随着 !新大灾变更 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-24T15:58:32Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ],
-      "version": "1.5.6"
-    },
-    {
-      "title": "双人成行|官方中文|本体+1.0.5+2DLC|NSP|",
-      "original_url": "https://vip.gamers520.com/44563.html",
-      "published_at": "2026-10-23T22:02:35Z",
-      "summary": "双人成行 It Takes Two 游玩《双人成行》，踏上生命中最疯狂的旅程，这是一款别开生面的平台冒险游戏，完全为合作模式而设计。 利用好友通行证*邀请一位好友免费游玩，共同体验多 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-24T15:58:27Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ]
-    },
-    {
-      "title": "Neet And Angel|移植版|",
-      "original_url": "https://vip.gamers520.com/124594.html",
-      "published_at": "2026-10-23T22:03:09Z",
-      "summary": "玩法简单，玩家借此沉浸于各类有趣剧情，在轻松操作中开启游戏之旅。 人物造型设计精细，提供多种角色供玩家挑选，满足不同喜好，增添游戏代入感",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-24T15:58:23Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "我的世界 地下城2|豪华中文|本体+1.1.3.0升补+1DLC|NSP|",
-      "original_url": "https://vip.gamers520.com/122991.html",
-      "published_at": "2026-10-23T22:05:22Z",
-      "summary": "Minecraft Dungeons II 放下镐，拿起剑，奔赴 Minecraft Dungeons II 这场惊心动魄的全新冒险！踏足未曾探索的土地与神秘之境，踏上阻止全新邪恶势力的征程，它将在不 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-24T02:02:46Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ],
-      "version": "1.1.3.0"
     }
   ]
 }
