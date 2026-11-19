@@ -1,9 +1,22 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-19T03:41:25.581698+00:00",
+  "generated_at": "2026-11-19T13:33:24.059115+00:00",
   "source_url": "https://www.4gamers.com.tw/rss/latest-news",
   "items": [
+    {
+      "title": "延期一年多《異世界小白玩家－用HP1展開最強最快的迷宮攻略－》動畫2027年1月登場",
+      "original_url": "https://www.4gamers.com.tw/news/detail/83418/otherworldly-munchkin-animation-release-in-2027-january",
+      "published_at": "2026-11-19T11:24:18Z",
+      "source_name": "4Gamers 中文遊戲攻略",
+      "language": "zh-Hant",
+      "summary": "志瑞祐原作、青桐良作畫的漫畫作品《異世界小白玩家－用HP1展開最強最快的迷宮攻略－》（暫譯，原名：異世界マンチキン ―HP1のままで最強最速ダンジョン攻略―）改編電視動畫將於. 2027 年 1 月 7 日正式播出。",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "《俠盜獵車手6》微雷新手上手攻略 讓你在雷歐奈達不迷惘",
       "original_url": "https://www.4gamers.com.tw/news/detail/83321/grand-theft-auto-vi-tips",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-18T22:09:45.174352+00:00",
+  "generated_at": "2026-11-19T13:33:31.205957+00:00",
   "source_url": "https://www.a9vg.com/",
   "items": [
     {
@@ -346,7 +346,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-18T14:19:19.906404+00:00"
+      "summary_checked_at": "2026-11-19T13:33:35.078201+00:00"
     },
     {
       "id": "655eddeafc21739f04d1f82db240da5a78e6dcafe0a13e3a4a14bdb4d40270fa",
@@ -359,7 +359,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-18T14:19:22.060523+00:00"
+      "summary_checked_at": "2026-11-19T13:33:35.872155+00:00"
     },
     {
       "id": "668e31641b54c0b1064d43165b647b37fff1f78791606fc59d1c7dc59af9c266",
@@ -372,7 +372,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-18T14:19:24.376999+00:00"
+      "summary_checked_at": "2026-11-19T13:33:38.517426+00:00"
     },
     {
       "id": "f20aeebc375d9ddfc9f4f461ded35e4b1b75f247f326e5b3ac5caff37c8445ea",
@@ -399,7 +399,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-18T14:19:25.968029+00:00"
+      "summary_checked_at": "2026-11-19T13:33:39.653023+00:00"
     },
     {
       "id": "5bd4486b124041b17ca2459677938eea0171102c6985cde457d3ce6ceb81de16",
@@ -482,7 +482,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-18T14:19:27.746001+00:00"
+      "summary_checked_at": "2026-11-19T13:33:40.437202+00:00"
     },
     {
       "id": "979b5ac62091f936a8fc75426cc5a4a46557dce413b89eb918a2abed6dda6594",
@@ -495,7 +495,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-18T22:09:47.785218+00:00"
+      "summary_checked_at": "2026-11-19T13:33:42.135913+00:00"
     },
     {
       "id": "9beea7f3a60a8a493e3b40c6775cf01ac189158daad179987104fea8ac163079",
@@ -705,7 +705,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-18T22:09:49.820227+00:00"
+      "summary_checked_at": "2026-11-19T13:33:42.889327+00:00"
     },
     {
       "id": "bc9a5d4bfb656cbff57b962c5d712232435bb8eb876b0cb22adc387f173403f4",
@@ -773,7 +773,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-18T14:19:22.679158+00:00"
+      "summary_checked_at": "2026-11-19T13:33:36.566242+00:00"
     },
     {
       "id": "40bd0359772998b398658df959e697681dddef0a8de932235bc1a64115734103",
@@ -1036,7 +1036,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-18T14:19:23.524648+00:00"
+      "summary_checked_at": "2026-11-19T13:33:37.509726+00:00"
     },
     {
       "id": "3b7e190b0a7bb35ff4d2d5c1367fefa050f48ab05be4d75bf8b670fc01f655c4",
@@ -1051,6 +1051,51 @@
       "content_scope": "metadata",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-18T04:34:39.009915+00:00"
+    },
+    {
+      "id": "45140e7539383bbcfc025a90f1a40f6c3f7429f8a2998b78731ce1f19ea3c057",
+      "title": "《砍与售》确认参展WePlay上海！波兰展区C04展位现场可试玩完整版本",
+      "original_url": "https://www.a9vg.com/article/247132",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-19T13:33:32.266294+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "c67acae4f98d1408d03c70d86a32e17d8973098a9b52578f2dbaf67556ec23e4",
+      "title": "总奖金420万美元 SWC 2026 Finals将于11月27日瑞典·斯德哥尔摩开幕",
+      "original_url": "https://www.a9vg.com/article/247117",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-19T13:33:33.094436+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "355c6003088b1cdddaa5b26be6995d65f494566f464b1721bd7ca0b21365531d",
+      "title": "《饿狼传说：群狼之城》季票3 DLC角色“拉奥”今日上线！由大张正己打造的动画宣传片公开！",
+      "original_url": "https://www.a9vg.com/article/247116",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "tags": [
+        "game_update"
+      ],
+      "summary_checked_at": "2026-11-19T13:33:34.188761+00:00",
+      "summary_origin": "publisher_description"
     }
   ]
 }

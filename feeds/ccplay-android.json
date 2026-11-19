@@ -1,9 +1,47 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-19T03:42:59.003936+00:00",
+  "generated_at": "2026-11-19T13:35:04.779555+00:00",
   "source_url": "https://g.ccplay.cc/",
   "items": [
+    {
+      "title": "地铁跑酷（腾讯版）",
+      "original_url": "https://g.ccplay.cc/package/390.html",
+      "published_at": "",
+      "updated_at": "2026-11-19T00:00:00+08:00",
+      "update_date_precision": "day",
+      "version": "7.08.0",
+      "summary": "【微境奇遇地图惊喜上线】 熟悉的居家空间，开启全新的微观冒险！周年庆自研地图「微境奇遇」惊喜登场，意外触发的维度缩放仪，将日常家居变成奇妙的微观世界。穿越巨型书桌构筑的桌面秘境、探索厨房中的纵深峡谷、奔跑在如森林般绵密的地毯之上，开启别具一格的微观跑酷体验！ 【周年限定角色集结】 艾蕾娜、薇奥拉、咔琪、阿胧携专属装备登场，风格各异的全新形象带来丰富收藏乐趣。更多新形象与经典角色也将在赛季玩法中亮相！ 【闪闪二期优化，跑酷陪伴再升级】 闪闪互动体验全面优化！全新每日话题涵盖冷笑…",
+      "image_url": "https://ws-resource.ccplay.cc/media/images/author/2026/03/26/1526-49-154/149df690f8e926d715ee46c43d5ca58b.png-icon.xhuge",
+      "content": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "source_name": "虫虫助手 · Android",
+      "platform": [
+        "android"
+      ],
+      "category": "discovery"
+    },
+    {
+      "title": "现代战舰国服-暗海行动",
+      "original_url": "https://g.ccplay.cc/package/226940.html",
+      "published_at": "",
+      "updated_at": "2026-11-19T00:00:00+08:00",
+      "update_date_precision": "day",
+      "version": "0.110.0.57463",
+      "summary": "更新11月通行证",
+      "image_url": "https://ws-resource.ccplay.cc/media/images/author/2026/11/18/0910-01-751/icon.jpg-icon.xhuge",
+      "content": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "source_name": "虫虫助手 · Android",
+      "platform": [
+        "android"
+      ],
+      "category": "discovery"
+    },
     {
       "title": "火影忍者手游-川木「楔二」",
       "original_url": "https://g.ccplay.cc/package/104320.html",
@@ -184,25 +222,6 @@
       "version": "12.4.0",
       "summary": "全新12.4版本【升级焕新】 新手任务调整：优化新手任务引导流程，让新手玩家更快上手，体验更顺畅。 界面体验升级：重构资源面板展示逻辑，升级弹窗视觉效果，界面呈现更清晰、更统一。 UI 与弹窗优化：打磨界面细节并新增动效，优化弹窗展示顺序，重要内容更直观、更优先。 修复了一些已知BUG：修复部分已知问题，进一步提升整体体验与运行稳定性。",
       "image_url": "https://ws-resource.ccplay.cc/media/images/author/2024/04/26/1412-02-194/icon.png-icon.xhuge",
-      "content": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "source_name": "虫虫助手 · Android",
-      "platform": [
-        "android"
-      ],
-      "category": "discovery"
-    },
-    {
-      "title": "地铁跑酷（腾讯版）",
-      "original_url": "https://g.ccplay.cc/package/390.html",
-      "published_at": "",
-      "updated_at": "2026-10-15T00:00:00+08:00",
-      "update_date_precision": "day",
-      "version": "7.07.0",
-      "summary": "【墨西哥地图重磅回归】 穿越昼夜，再临异域墨西哥！疾驰于绚丽街巷、特色建筑与热闹节庆场景之间，感受浓郁的异域风情。当夜幕降临，皎月映照古老街道，神秘暗影悄然穿梭，为熟悉的赛道增添未知与奇幻色彩，开启一场跨越昼夜的暗夜冒险！ 【谎言镇角色登场】 血月升起，钟声敲响，谎言镇陷入漫漫长夜。女巫、预言家、狼人、猎人四种身份齐聚于此，真实与谎言交织。塞西尔、露西娅、凯恩·洛威尔、维克托·凡四位全新角色携专属装备登场，共赴一场神秘的身份迷局！ 【万圣节跑分大作战】 全新万圣节跑分玩法开启…",
-      "image_url": "https://ws-resource.ccplay.cc/media/images/author/2026/03/26/1526-49-154/149df690f8e926d715ee46c43d5ca58b.png-icon.xhuge",
       "content": "",
       "content_scope": "summary",
       "language": "zh-Hans",

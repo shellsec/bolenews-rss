@@ -1,18 +1,18 @@
 {
   "source": "nsthwj-switch",
-  "attempted_at": "2026-11-19T03:41:44.628701+00:00",
+  "attempted_at": "2026-11-19T13:33:43.848143+00:00",
   "status": "ok",
   "summary_count": 100,
-  "summary_attempts": 1,
+  "summary_attempts": 5,
   "summary_missing": 0,
   "summary_errors": [],
-  "download_items": 6,
-  "download_links": 11,
+  "download_items": 1,
+  "download_links": 2,
   "count": 100,
   "fetched_count": 24,
   "retained_count": 76,
   "input_urls": [
     "https://nsthwj.cn/"
   ],
-  "dropped_by_limit": 1
+  "dropped_by_limit": 5
 }
