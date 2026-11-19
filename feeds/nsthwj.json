@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-19T13:33:55.978730+00:00",
+  "generated_at": "2026-11-19T22:19:00.429132+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -118,6 +118,78 @@
       "updated_at": "2026-11-19T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-19T13:33:53.023692+00:00"
+    },
+    {
+      "id": "f42929a5b7e35004ab85f188da767ae0e61aa9e64a36c7608b34ce23b4b5b90d",
+      "title": "★[工具]大气层整合包1.12.2+Hekate6.5.5(含23.5.0固件包)",
+      "original_url": "https://nsthwj.cn/game/switch/3220",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "###升级须知### 1.建议读卡器 传输系统文件 不建议用数据线传输系统文件 2.建议win系统 传输系统 不建议用苹果系统传输系统文件 3. 国行机器要先转换为国际版之后再升级固件 4. 游戏都能运行情况下建议不用升级 5.如 担心升级系统导致游戏存档丢失请务必提前使用JKSV备份存档 6. 升级完大气层如有无可…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "1.12.2",
+      "updated_at": "2026-11-19T00:00:00+08:00",
+      "update_date_precision": "day",
+      "tags": [
+        "firmware_update"
+      ],
+      "summary_checked_at": "2026-11-19T22:18:54.858859+00:00"
+    },
+    {
+      "id": "80e5f82f2db2335d8d7928966d1851214ecc889417c86e38140187d39375102c",
+      "title": "[移植游戏]街头赛车：火力全开|Blur",
+      "original_url": "https://nsthwj.cn/game/switch/138324",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-19T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-19T22:18:55.926411+00:00"
+    },
+    {
+      "id": "93878046f53f8f2d969dc13f370dd3dc551dd11e2c817005be72e0a896b19415",
+      "title": "希尔维娅：败北传承|Cielvia-Inherited By Defeat-中文",
+      "original_url": "https://nsthwj.cn/game/switch/138323",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "年轻的少女西尔维娅继续在充满怪物的世界中战斗着。 光明形态擅长远程攻击，而黑暗形态则优势在于近战。你可以在这两种形态之间切换，从而应对成群的敌人以及强大的首领。 失败并非终点。你可以通过战斗获得新的能力，打造属于自己的独特战斗风格，不断挑战自我。 【在光明形态与黑暗形态之间切换】 光明形态让你能够发动范围广泛的远程攻…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.01",
+      "updated_at": "2026-11-19T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-19T22:18:57.271426+00:00"
     },
     {
       "id": "b3d777e1533c9ef6e07e6713ba5f863e4eac871a198c9f5fcd30f9a4bfcac3de",
@@ -1441,75 +1513,6 @@
       "updated_at": "2026-11-15T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-15T11:15:42.807771+00:00"
-    },
-    {
-      "id": "88e539758741441788c9789be0ec31b36710f7ab80f2432a5ad94a00667b34f2",
-      "title": "丰收之月：特拉迪亚的回响|牧场物语：特拉底亚回响|Harvest Moon: Echoes of Teradea中文",
-      "original_url": "https://nsthwj.cn/game/switch/137408",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "踏上穿越奇幻世界特拉底亚的难忘旅程，体验宁静农场生活与刺激冒险的完美结合！神秘迷雾从回音森林蔓延而来，野兽在夜幕下出没，奇异灾难威胁着大地上的村庄。 经营农场，探索世界，发现未知奇迹！ 踏上前往奇幻世界特拉底亚的难忘旅程，在这里，宁静的农场生活与惊心动魄的冒险交织在一起！ 你在宁静祥和的花绽村中成长，而如今，你的生活…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.4.0含1.2.0金手指",
-      "updated_at": "2026-11-15T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-15T11:15:45.570711+00:00"
-    },
-    {
-      "id": "61ae33bcaa9a16650ee398aa86e5ce700f8ec8fe572c035378a33a8b14dfb310",
-      "title": "暗黑破坏神2：狱火重生|Diablo II: Resurrected中文",
-      "original_url": "https://nsthwj.cn/game/switch/4775",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "《暗黑破坏神II：狱火重生™》是暴雪娱乐旗下动作角色扮演系列游戏的年代经典作品《暗黑破坏神II》和《毁灭之王》资料片的决定重制版。不论你是不是二十年前就玩过 PC 原版游戏作品的老玩家，现在都有机会体验到《暗黑破坏神II》历久弥新的经典内容，同时还能享受现代游戏硬体设备所营造出来的高品质音效与视觉飨宴。 攀登遗忘之塔…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.35.0含1.0.35.0金手指",
-      "updated_at": "2026-11-15T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-15T11:15:46.938181+00:00"
-    },
-    {
-      "id": "59aafe5795d5826b074ee006f134ca445b07501fa5689e222f0c8ede96746f8b",
-      "title": "[SS土星移植游戏]恶魔城X：月下夜想曲|Castlevania: Symphony of the Night汉化",
-      "original_url": "https://nsthwj.cn/game/switch/134816",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "《恶魔城 X：月下夜想曲》是 KCET（PS 版）、KCEN（SS 版）开发，KONAMI 发行的一款动作角色扮演游戏，于 1997 年在 SONY 的 PS 主机上发行，1998 年移植 SEGA 的 SS 平台，2007 年再次登陆 SONY 掌机 PSP，是《恶魔城》系列经典作品之一。《恶魔城 X：月下夜想曲》…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-15T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-15T11:15:48.567685+00:00"
     },
     {
       "id": "eb4ccf4deb0bae2f26ca4ce64de996d5c38883d4aded7d2137371428dfbcd35f",
