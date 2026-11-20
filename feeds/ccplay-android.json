@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-19T22:20:13.215455+00:00",
+  "generated_at": "2026-11-20T03:35:46.458876+00:00",
   "source_url": "https://g.ccplay.cc/",
   "items": [
     {
@@ -176,7 +176,7 @@
       "category": "discovery"
     },
     {
-      "title": "三角洲行动-影之刃零联动",
+      "title": "三角洲行动-极夜烽火",
       "original_url": "https://g.ccplay.cc/package/204859.html",
       "published_at": "",
       "updated_at": "2026-11-05T00:00:00+08:00",
@@ -184,6 +184,44 @@
       "version": "1.201.37119.49",
       "summary": "《三角洲行动》全新赛季“微光”11月5日正式上线！新玩法、新干员、新武器等多项更新，带来超越以往的战斗体验！还有海量优化内容，欢迎干员们前来体验！ 烽火地带巴克什全新体验、烽火地带绝密行动「AZ3-超临界」限时开启、全面战场UE5规格新地图「天际港」、全新突击型干员「野火」、全新靶场升级等即将跟随新版本到来。此外，全新武器「AN94突击步枪」及更多武器配件也将在新赛季登陆战场。 新赛季通行证、新曼德尔砖、多项战斗系统和系统优化也将同步上线。纵是棋子，亦燃微光！11月5日，全新…",
       "image_url": "https://ws-resource.ccplay.cc/media/images/author/2026/06/05/0946-48-388/10342822429.png-icon.xhuge",
+      "content": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "source_name": "虫虫助手 · Android",
+      "platform": [
+        "android"
+      ],
+      "category": "discovery"
+    },
+    {
+      "title": "洛克王国：世界-圣龙宝藏",
+      "original_url": "https://g.ccplay.cc/package/122653.html",
+      "published_at": "",
+      "updated_at": "2026-11-05T00:00:00+08:00",
+      "update_date_precision": "day",
+      "version": "1.112.0.116",
+      "summary": "旧印封缄，浮光往昔。 《洛克王国：世界》S5赛季「圣龙宝藏」正式开岛，神秘的传说将小洛克引向那座热热闹闹的圣龙乐园。循着往昔的浮光，一段追寻圣龙宝藏的冒险，就此开场。 >>>全新赛季主题「圣龙宝藏」上线 乐园的骰子已经擦亮，圣龙的宝藏也已埋好。在骰子滚落之时，与赛季奇遇异色精灵不期而遇，与传说精灵「冥古龙」缔结契约。还有丰富的赛季奖励，等你来「圣龙乐园」探索！ >>>全新精灵 蛋包蛋、乐乐鲨、蟹蟹椰、豆粒鹅、滴溜豚、西瓜虫、小剪影、鲸羽，8个全新赛季奇遇精灵家族出现在卡洛西亚…",
+      "image_url": "https://ws-resource.ccplay.cc/media/images/author/2026/05/21/0949-19-464/icon.jpg-icon.xhuge",
+      "content": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "source_name": "虫虫助手 · Android",
+      "platform": [
+        "android"
+      ],
+      "category": "discovery"
+    },
+    {
+      "title": "燕云十六声-承文脉",
+      "original_url": "https://g.ccplay.cc/package/235348.html",
+      "published_at": "",
+      "updated_at": "2026-10-31T00:00:00+08:00",
+      "update_date_precision": "day",
+      "version": "4.22",
+      "summary": "金船接运，荧光环岛：海上奇境“未央城”正式开放，四海游侠齐聚蜃楼竞宝，潜游海底探秘。现诸多问题已修复，包体更如扬帆般顺畅无碍，待与少东家同启不夜之旅！",
+      "image_url": "https://ws-resource.ccplay.cc/media/images/author/2026/01/16/1015-28-473/icon.png-icon.xhuge",
       "content": "",
       "content_scope": "summary",
       "language": "zh-Hans",

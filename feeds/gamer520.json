@@ -1,9 +1,109 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-19T22:18:35.482468+00:00",
+  "generated_at": "2026-11-20T03:34:12.660901+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "希尔维娅 败北传承 Cielvia-Inherited By Defeat|官方中文|本体+1.01升补|NSP|",
+      "original_url": "https://vip.gamers520.com/126365.html",
+      "published_at": "2026-11-19T22:10:13Z",
+      "summary": "使用PC介绍 SWITCH版一模一样的",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-20T02:35:18Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.01"
+    },
+    {
+      "title": "迪士尼梦幻星谷|官方中文|本体+1.26.1升补+3DLC|NSZ|原版|",
+      "original_url": "https://vip.gamers520.com/41011.html",
+      "published_at": "2026-11-19T22:00:09Z",
+      "summary": "下载在底部 迪士尼梦幻星谷 Disney Dreamlight Valley 在这款生活模拟冒险游戏中探索充满迪士尼魔法的世界， 体验丰富的剧情，同迪士尼和皮克斯的英雄与反派一起打造完美的社区。 &n …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-20T02:35:13Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.26.1"
+    },
+    {
+      "title": "打骨折超市日记 Discounty|官方中文|本体+1.2.2升补|NSZ|原版|",
+      "original_url": "https://vip.gamers520.com/98322.html",
+      "published_at": "2026-11-19T22:01:18Z",
+      "summary": "Discounty 打骨折超市日记 经营你自己的折扣超市吧！卷入小镇风云，规划并设计你的店铺布局，还要达成利润丰厚的贸易协议，拓展你神秘的姨妈的商业帝国。卖出更多冷冻薯条肯定能治愈这个支离破碎的社区… …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-20T02:35:10Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.2.2"
+    },
+    {
+      "title": "终极幸运之塔|官方中文|本体+1.24G升补|NSZ|",
+      "original_url": "https://vip.gamers520.com/111963.html",
+      "published_at": "2026-11-19T22:02:19Z",
+      "summary": "下载在底部 这是一场与众不同的 Roguelite 冒险，即使没能逃出危险塔楼，也能体验一把诙谐有趣的卡通小剧场。勇敢的主角，前进吧！ Lucky Tower Ultimate 关于这款游戏 冯·万斯 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-20T02:35:07Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.24g"
+    },
+    {
+      "title": "绝对魔权 Absolum|官方中文|本体+1.2.2升补|NSZ|",
+      "original_url": "https://vip.gamers520.com/100627.html",
+      "published_at": "2026-11-19T22:12:11Z",
+      "summary": "进入由Dotemu出品的原创Roguelite清版动作游戏《绝对魔权》，化身塔拉姆大陆的流亡英雄，投身一场惊心动魄的战斗，从太阳王阿兹拉的手中夺回魔法。 由重新定义清版动作类型的梦幻团队 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-20T02:35:05Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.2.2"
+    },
     {
       "title": "忍者神龟 斯普特林的命运|官方中文|本体+2.1.1升补+4DLC|NSZ|原版|",
       "original_url": "https://vip.gamers520.com/79485.html",
@@ -1340,7 +1440,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-15T17:52:21.845135+00:00"
+      "summary_checked_at": "2026-11-20T03:34:15.354478+00:00"
     },
     {
       "title": "现代战争3 堕落国度|移植版|",
@@ -1670,86 +1770,6 @@
       "evidence": "community",
       "summary_origin": "publisher_excerpt",
       "updated_at": "2026-10-24T16:01:03Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "寂静岭4|汉化中文|移植版|",
-      "original_url": "https://vip.gamers520.com/124577.html",
-      "published_at": "2026-10-23T22:11:41Z",
-      "summary": "寂静岭系列的第四部作品，该作相比前几部相比，这一部更注重于剧情解谜方面， 它不仅在场景的刻画氛围与紧张刺激的音效进行了极大程度的优化，还保留了系列的标志性心理悬疑的故事情节， 绝对能够为玩家带来不一样 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-24T15:58:48Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "上古卷轴3|汉化中文|移植版|",
-      "original_url": "https://vip.gamers520.com/124579.html",
-      "published_at": "2026-10-23T22:12:20Z",
-      "summary": "自由度极高的沙盒世界：游戏没有固定的职业限制和强迫性的主线推进。你可以自由创建任何想象中的角色，无论是法师、潜行刺客还是重甲战士，甚至能通过练习各种技能组合出独特的玩法。 庞大的异域世界观：故事发生在 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-24T15:58:46Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "街头霸王4|汉化中文|移植版|",
-      "original_url": "https://vip.gamers520.com/124581.html",
-      "published_at": "2026-10-23T22:13:03Z",
-      "summary": "世界上最伟大的格斗游戏发展到全新水平。 延续系列的卓越传说，五位新角色和六个新关卡，令战斗增加更多乐器。 重新调整游戏平衡，令游戏玩法超越过去的终极版本。",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-24T15:58:44Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "战争机器2|移植版|",
-      "original_url": "https://vip.gamers520.com/124583.html",
-      "published_at": "2026-10-23T22:13:01Z",
-      "summary": "《战争机器2》（Gears of War 2） 是一款由 Epic Games 开发、微软游戏工作室在 Xbox 360 平台独占发行的第三人称战术射击游戏，也是该系列口碑最高的代表作之一。 🎮 游戏 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-24T15:58:41Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "变形金刚 毁灭|移植版|",
-      "original_url": "https://vip.gamers520.com/124585.html",
-      "published_at": "2026-10-23T22:15:50Z",
-      "summary": "金工作室招牌动作手感：游戏融合了白金工作室标志性的“极限闪避（极限回避）”机制——在敌方攻击命中前一瞬闪避可触发慢动作（类似《天使猎魔》的巫女时间），并能无缝在人形态与载具形态之间切换，做出极具连击感 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-24T15:58:39Z",
       "platform": [
         "switch1"
       ]
