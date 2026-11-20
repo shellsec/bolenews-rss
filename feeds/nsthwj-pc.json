@@ -1,9 +1,31 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-20T13:14:51.494281+00:00",
+  "generated_at": "2026-11-20T21:19:34.749447+00:00",
   "source_url": "https://nsthwj.cn/pc",
   "items": [
+    {
+      "id": "0b1f5af08e5faf7ab223b6ecda5621f767308b053d16ce87815cdcc2a9cdb85b",
+      "title": "回合制坦克大战|ShellShock Live",
+      "original_url": "https://nsthwj.cn/game/pc/137991",
+      "source_name": "NS头号玩家 PC",
+      "summary": "在这个紧张刺激的多人在线坦克游戏中，你可以从你的自定义的坦克中发射数以百计的可升级的武器来把你朋友给boom了。赚取经验来升级并解锁新的坦克部件、武器和装备。在团队合作亦或是各自为营的游戏中与你的朋友并肩作战或者把他们炸上天",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.02052023",
+      "updated_at": "2026-11-21T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
     {
       "id": "73ef884076c885dc5e3f5be78fda63f47830770646a400ec83e48ed03fe2b579",
       "title": "好友诈骗模拟器|Scam With Your Friends",
@@ -2180,28 +2202,6 @@
       "download_status": "not_verified",
       "version": "Build.20144935",
       "updated_at": "2026-11-16T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "6cd43dd80b609662d87c141806d92ce3fb09caa1c72b0e95fa81dc69d28773a6",
-      "title": "Hob",
-      "original_url": "https://nsthwj.cn/game/pc/138211",
-      "source_name": "NS头号玩家 PC",
-      "summary": "改造Hob世界！曾打造出《火炬之光》和《火炬之光II》并屡获殊荣的Runic Games工作室现推出了一款全新动作冒险游戏。你的机会来了。把它带回家吧。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "v1.7.3.0",
-      "updated_at": "2026-11-15T00:00:00+08:00",
       "update_date_precision": "day"
     }
   ]

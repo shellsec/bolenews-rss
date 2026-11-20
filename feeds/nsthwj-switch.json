@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-20T13:14:44.262144+00:00",
+  "generated_at": "2026-11-20T21:19:30.613539+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -97,6 +97,75 @@
       "summary_checked_at": "2026-11-20T13:14:50.356826+00:00"
     },
     {
+      "id": "0efad7b32fcd379fdca7cefcd4090d13a41e6bd0e769f3e2eb39b563970397b3",
+      "title": "[移植游戏]铁拳3：决定版|Tekken 3: Definitive Edition",
+      "original_url": "https://nsthwj.cn/game/switch/138363",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Super Paper Mario NX 进入游戏 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-20T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-20T21:19:31.824147+00:00"
+    },
+    {
+      "id": "f414d2d5c94f229672995759002537067c2a95117445d47cb95969d4972e8581",
+      "title": "月下梦景|Reverie in the Moonlight中文",
+      "original_url": "https://nsthwj.cn/game/switch/138362",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "我渴望一场永眠，相信你也是如此。 “月下梦景”是在鬼怪的追逐下展开的捉迷藏式动作游戏。与富有个性的布偶们齐心协力，逃离难以成眠的夜晚吧。 夜幕下相识的神秘少女 由于鬼怪们在梦中的骚扰，名为「蒂蒂」的少年已经不知度过了多少难寐的夜晚。但某天夜里，在突然出现的少女「露娜」的指引下，他开始率领拥有神奇力量的布偶们一起消灭鬼…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.7.1",
+      "updated_at": "2026-11-20T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-20T21:19:32.808000+00:00"
+    },
+    {
+      "id": "bfe5b2998814a256e10afb026732451ee1f4a8e4503db3afc60c724342b05ecc",
+      "title": "[移植游戏]山脊赛车6|Ridge Racer 6",
+      "original_url": "https://nsthwj.cn/game/switch/138361",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.1",
+      "updated_at": "2026-11-20T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-20T21:19:33.779878+00:00"
+    },
+    {
       "id": "a352f02d3141f5845aadd50cdc9ddc7a171e2f43dcac60385c841aea727fd31a",
       "title": "忍者神龟：斯普特林的命运|忍者神龟：史林特的命运|Teenage Mutant Ninja Turtles: Splintered Fate中文",
       "original_url": "https://nsthwj.cn/game/switch/10272",
@@ -183,7 +252,7 @@
       ],
       "category": "discovery",
       "download_status": "not_verified",
-      "version": "最新版本：",
+      "version": "最新版本：1.0.0",
       "updated_at": "2026-11-19T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-19T13:33:51.520883+00:00"
@@ -2237,75 +2306,6 @@
       "updated_at": "2026-11-08T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-08T15:24:02.398271+00:00"
-    },
-    {
-      "id": "72c0e3d932a32a4238f7aecd524ea6e1d930600414e7ec0ea54e8dfeae66e4b8",
-      "title": "[移植游戏]宝可梦无限融合|Pokémon Infinite Fusion中文",
-      "original_url": "https://nsthwj.cn/game/switch/137941",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "以关都地区为主舞台，在火红的经典框架上重构剧情。你作为新人训练家踏上旅途，挑战 8 座道馆、击败四天王与冠军；通关后还能前往城都地区、菲维岛等后日谈区域，解锁更多剧情与隐藏内容。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：6.9.1-b6",
-      "updated_at": "2026-11-08T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-08T15:24:03.767099+00:00"
-    },
-    {
-      "id": "31633b9810b265263417d2b1e5435ae40218727b573210c19b6f30ae5660688b",
-      "title": "虚空奇旅|Journey to the Void中文",
-      "original_url": "https://nsthwj.cn/game/switch/137899",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "准备好迎接来自四面八方的攻击吧，在这款策略类卡牌 roguelite 游戏中展开你的冒险。多样的网格化地形，控制好你的距离！100 多张卡牌、物品、武器，超过 100 种敌人，9 个强敌首领，各种各样的元素环境。勇敢向前迈进，踏上位于虚空的奇幻旅途，决定世界的命运！ 特色 - 跨越 8 大元素疆域，探索 25 座风格…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.1",
-      "updated_at": "2026-11-06T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-06T09:32:36.362703+00:00"
-    },
-    {
-      "id": "cc6cd701326e7c639550938d10d58bac58b29b5c087069f76d8ef7d362bc3479",
-      "title": "四十九把钥匙|49 Keys中文",
-      "original_url": "https://nsthwj.cn/game/switch/137898",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "你收到了一封源自已故导师的信函，信中提到他留下的神秘遗产。为了追寻导师留给你的宝藏，你踏上他生前所居住的岛屿，开启了一场令人不安的旅途。这是一款解谜游戏书形式的互动小说游戏，一边阅读文字，一边探索和解谜，最终通向意外的结局。 《四十九把钥匙》是一款解谜游戏书形式的互动小说游戏，它将引人入胜的文字叙述与探索解谜玩法相结…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.3",
-      "updated_at": "2026-11-06T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-06T09:32:37.743930+00:00"
     }
   ]
 }

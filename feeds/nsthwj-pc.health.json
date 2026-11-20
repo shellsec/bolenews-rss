@@ -1,6 +1,6 @@
 {
   "source": "nsthwj-pc",
-  "attempted_at": "2026-11-20T13:14:51.494281+00:00",
+  "attempted_at": "2026-11-20T21:19:34.749447+00:00",
   "status": "ok",
   "summary_count": 100,
   "summary_attempts": 0,
@@ -14,5 +14,5 @@
   "input_urls": [
     "https://nsthwj.cn/pc"
   ],
-  "dropped_by_limit": 33
+  "dropped_by_limit": 1
 }

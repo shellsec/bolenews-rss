@@ -1,9 +1,31 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-20T13:14:54.587057+00:00",
+  "generated_at": "2026-11-20T21:19:36.073263+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "0b1f5af08e5faf7ab223b6ecda5621f767308b053d16ce87815cdcc2a9cdb85b",
+      "title": "回合制坦克大战|ShellShock Live",
+      "original_url": "https://nsthwj.cn/game/pc/137991",
+      "source_name": "NS头号玩家 PC",
+      "summary": "在这个紧张刺激的多人在线坦克游戏中，你可以从你的自定义的坦克中发射数以百计的可升级的武器来把你朋友给boom了。赚取经验来升级并解锁新的坦克部件、武器和装备。在团队合作亦或是各自为营的游戏中与你的朋友并肩作战或者把他们炸上天",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.02052023",
+      "updated_at": "2026-11-21T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
     {
       "id": "83730c787dcd2c7ad309146e29a605d812e94fba077e66e986678742b98c8f34",
       "title": "[移植游戏]超级纸片马里奥wii|Super Paper Mario",
@@ -95,6 +117,75 @@
       "updated_at": "2026-11-20T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-20T13:14:50.356826+00:00"
+    },
+    {
+      "id": "0efad7b32fcd379fdca7cefcd4090d13a41e6bd0e769f3e2eb39b563970397b3",
+      "title": "[移植游戏]铁拳3：决定版|Tekken 3: Definitive Edition",
+      "original_url": "https://nsthwj.cn/game/switch/138363",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Super Paper Mario NX 进入游戏 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-20T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-20T21:19:31.824147+00:00"
+    },
+    {
+      "id": "f414d2d5c94f229672995759002537067c2a95117445d47cb95969d4972e8581",
+      "title": "月下梦景|Reverie in the Moonlight中文",
+      "original_url": "https://nsthwj.cn/game/switch/138362",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "我渴望一场永眠，相信你也是如此。 “月下梦景”是在鬼怪的追逐下展开的捉迷藏式动作游戏。与富有个性的布偶们齐心协力，逃离难以成眠的夜晚吧。 夜幕下相识的神秘少女 由于鬼怪们在梦中的骚扰，名为「蒂蒂」的少年已经不知度过了多少难寐的夜晚。但某天夜里，在突然出现的少女「露娜」的指引下，他开始率领拥有神奇力量的布偶们一起消灭鬼…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.7.1",
+      "updated_at": "2026-11-20T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-20T21:19:32.808000+00:00"
+    },
+    {
+      "id": "bfe5b2998814a256e10afb026732451ee1f4a8e4503db3afc60c724342b05ecc",
+      "title": "[移植游戏]山脊赛车6|Ridge Racer 6",
+      "original_url": "https://nsthwj.cn/game/switch/138361",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.1",
+      "updated_at": "2026-11-20T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-20T21:19:33.779878+00:00"
     },
     {
       "id": "73ef884076c885dc5e3f5be78fda63f47830770646a400ec83e48ed03fe2b579",
@@ -909,7 +1000,7 @@
       ],
       "category": "discovery",
       "download_status": "not_verified",
-      "version": "最新版本：",
+      "version": "最新版本：1.0.0",
       "updated_at": "2026-11-19T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-19T13:33:51.520883+00:00"
@@ -1008,28 +1099,6 @@
       "updated_at": "2026-11-19T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-19T22:18:57.271426+00:00"
-    },
-    {
-      "id": "b3d777e1533c9ef6e07e6713ba5f863e4eac871a198c9f5fcd30f9a4bfcac3de",
-      "title": "月华辉映之刻",
-      "original_url": "https://nsthwj.cn/game/pc/138322",
-      "source_name": "NS头号玩家 PC",
-      "summary": "——这是由阴阳两面的夹缝中，诞生的深刻羁绊。世人只言开封繁华，歌舞升平，却难以看到那，被隐藏起来的黑暗背面。粉饰的美好，残酷的真相。生者的思念，亡者的祝福。所以，你要止步当前，还是深究一切？",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.21840407",
-      "updated_at": "2026-11-19T00:00:00+08:00",
-      "update_date_precision": "day"
     },
     {
       "id": "a4de6c6075ca5961dc87849ca56e4997c9c911f4c8ba1c8f523dcf5fe6f139fb",
@@ -1444,75 +1513,6 @@
       "updated_at": "2026-11-16T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-16T11:46:53.539927+00:00"
-    },
-    {
-      "id": "1f09bb445ec697b19929741daf823c9b698692e0e95125abd7819372259da985",
-      "title": "[移植游戏]最终幻想13-2|Final Fantasy XIII-2",
-      "original_url": "https://nsthwj.cn/game/switch/138247",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：0.1.0",
-      "updated_at": "2026-11-16T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-16T22:21:49.467657+00:00"
-    },
-    {
-      "id": "c9d4428c37463de1afbc0428d39b702ab8d0f1b04d45118c8c8be4ddcac9b325",
-      "title": "球比伦战记|Ball x Pit中文",
-      "original_url": "https://nsthwj.cn/game/switch/11906",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "《BALL x PIT》是一款奇幻背景的快节奏 roguelite 游戏，在游戏中，英雄们必须寻找强力圆球来不断探索充满无数怪物的深坑。发展奥术弹药与资源以追寻宝藏，招募额外的英雄来帮助你完成危机四伏的征程。 球比伦已经陨落。从天而降的陨石引发了超乎想象的灾难，原本宏伟的都城已经沦为了一座充满不详意味的无底深坑。如今…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.308含1.301金手指",
-      "updated_at": "2026-11-16T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-16T22:21:50.356389+00:00"
-    },
-    {
-      "id": "0b22820a1eb19ea16810a708788c0998e327b835aa52bcf10ca5f132a1d11c3b",
-      "title": "[移植游戏]宝可梦GS Vitro|Pokémon GS Vitro中文",
-      "original_url": "https://nsthwj.cn/game/switch/138249",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "由开发者Clara_Dragon制作的《Pokemon GS Vitro》，本质上是《Pokemon Crystal》的复刻版，其最大亮点便是拥有开放式的城都环境。敌方宝可梦的等级会随着玩家队伍的实力而变化，道馆馆主也会根据玩家访问的顺序来安排不同的对手。玩家一开始就身处圆朱市，整个城都地图会立即向玩家开放；秘传招式…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.1-b11",
-      "updated_at": "2026-11-16T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-16T22:21:51.844296+00:00"
     },
     {
       "id": "eb4ccf4deb0bae2f26ca4ce64de996d5c38883d4aded7d2137371428dfbcd35f",

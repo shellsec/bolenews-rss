@@ -1,9 +1,22 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-20T13:14:14.668435+00:00",
+  "generated_at": "2026-11-20T21:19:12.569513+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "【電玩瘋】832 集 《俠盜獵車手 6》破紀錄奇蹟與彩蛋一次看！",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315385",
+      "published_at": "2026-11-20T14:03:39Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "本週巴哈姆特電玩瘋將帶來《俠盜獵車手 6》綜合媒體評分高達 99 分、打破觀看遊戲直播人數和歷年預購量等各種歷史紀錄、相關趣聞以及遊戲內彩蛋等發售後新聞，和年度遊戲大獎 The Game Awards 公開入圍名單報導，以及東方黑暗奇幻 ARPG《解緣輪迴》、前 NCSoft 開發者團隊新作《Project R....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "《英雄聯盟》Dplus KIA 戰隊宣布全新選手名單 前 T1 Doran 與 HLE Kanavi 加入征途",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315381",
@@ -52,13 +65,13 @@
       "summary": "宇峻奧汀旗下經典戰棋 SRPG《幻世錄 重製版》今（20）日宣布，即將於今年 12 月推出免費 DLC《殘燼之痕》。本次追加內容將帶領玩家回到主角雷歐納德的少年時代，揭開他不為人知的神祕過去，並曝光全新角色、劇情與戰鬥系統，帶來不同於本傳的冒險體驗。 此外，官方也宣布《幻世錄 重製版》將參加 2026 G-EIGHT 遊戲展，於 12 月 4 日（五",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
       "tags": [
         "game_update"
       ],
-      "summary_checked_at": "2026-11-20T13:14:15.222678+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-20T13:14:15.222678+00:00"
     },
     {
       "title": "Sony 全新有線耳機 MDR-3R 登台 同步推出 Netflix《怪奇物語》聯名款",
@@ -69,10 +82,10 @@
       "summary": "Sony 今（20)日在台推出全新 USB-C 有線耳機 MDR-3R，延續 Sony 於 1979 年和初代 Walkman TPS-L2 同時推出的有線耳機 MDR-3 系列設計理念，保留經典外型，並新增 USB-C 連接、內建麥克風及線控操作等符合現代使用需求的功能，而《怪奇物語》特別版同步登場。 Sony 復刻初代 Walkman 耳機，打造全新有線耳機 MDR-3R。 官方表示，同步推出 MDR-3R《怪奇物語",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-20T13:14:15.858376+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-20T13:14:15.858376+00:00"
     },
     {
       "title": "集英社遊戲公開 2026 G-EIGHT 遊戲展參展陣容 《封神演義逆命承天》首次於台灣亮相",
@@ -265,10 +278,10 @@
       "summary": "《冰原歷險記 6：沸常危機》全新預告與海報正式公開。經典角色再度集結，深入危機四伏的失落世界。全新預告帶領觀眾一窺這場充滿恐龍與熔岩的瘋狂大冒險！原班人馬全數回歸，這次鼠奎特更將迎來體型驚人的侏儸紀鼠奎特。一行人將與其他夥伴深入危機四伏的失落世界，探索前所未見的神祕區域，展開一連串驚險又爆笑的史前冒險",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-20T13:14:16.653213+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-20T13:14:16.653213+00:00"
     },
     {
       "title": "《神力科莎：拉力賽》推出大型更新 加入經典車款以及瑞典拉力賽賽段",
@@ -1301,19 +1314,6 @@
       "source_name": "巴哈姆特 GNN",
       "language": "zh-Hant",
       "summary": "Shinise Games Ltd.（しにせゲームズ株式会社）宣布，正在開發中的電車駕駛遊戲《Train Plus PRO 2027》（日文名稱：トレインプラスプロ2027）Steam 商店頁面已於今日（2026 年 11 月 18 日）上線，即日起開放加入願望清單。預計於 2026 年內發售。 ....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "《VAMPIR：血之繼承者》全面調整職業平衡性 同步開放全新高等級區域「提哈」",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315221",
-      "published_at": "2026-11-18T07:56:15Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "遊戲開發與發行商的網石集團 (Netmarble Corporation) 宣布，旗下大規模吸血鬼風格 MMORPG《VAMPIR：血之繼承者》推出更新，包含全面性的職業平衡改善、全新地區「提哈」、哀泣溪谷全新賽季，以及黑色星期五特別活動。 【以下內容為廠商提供....",
       "content": "",
       "image_url": "",
       "content_scope": "summary",
