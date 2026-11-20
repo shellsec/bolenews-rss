@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 8,
+  "config_version": 9,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-19T02:44:34.926520+00:00",
+  "generated_at": "2026-11-20T02:30:57.948763+00:00",
   "sources": [
     {
       "id": "gh-homebrew-287271987",
@@ -451,6 +451,23 @@
       "name": "RadioNX",
       "url": "https://github.com/Muveeer/RadioNX/releases.atom",
       "repo": "Muveeer/RadioNX",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1423299830",
+      "name": "UURemote-ns",
+      "url": "https://github.com/Antman2023/UURemote-ns/releases.atom",
+      "repo": "Antman2023/UURemote-ns",
       "category": "homebrew",
       "language": "en",
       "platforms": [

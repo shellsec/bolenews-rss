@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 8,
+  "config_version": 9,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-18T03:05:28.308960+00:00",
+  "generated_at": "2026-11-20T02:30:57.948763+00:00",
   "sources": [
     {
       "id": "gh-homebrew-395383178",
@@ -570,6 +570,23 @@
       "name": "lineage-ps1-for-ps5",
       "url": "https://github.com/lineage-shell/lineage-ps1-for-ps5/releases.atom",
       "repo": "lineage-shell/lineage-ps1-for-ps5",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1464180843",
+      "name": "ps5-return-home",
+      "url": "https://github.com/gentrydeng/ps5-return-home/releases.atom",
+      "repo": "gentrydeng/ps5-return-home",
       "category": "homebrew",
       "language": "en",
       "platforms": [
