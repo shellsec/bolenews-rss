@@ -1,9 +1,101 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-20T03:34:32.205577+00:00",
+  "generated_at": "2026-11-20T13:14:44.262144+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "83730c787dcd2c7ad309146e29a605d812e94fba077e66e986678742b98c8f34",
+      "title": "[移植游戏]超级纸片马里奥wii|Super Paper Mario",
+      "original_url": "https://nsthwj.cn/game/switch/138360",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Super Paper Mario NX 进入游戏 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.5.0",
+      "updated_at": "2026-11-20T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-20T13:14:46.490951+00:00"
+    },
+    {
+      "id": "9d51bf795cdd6bbfbaeae5d264b9238d6d9097fc602839870399df55ada349b5",
+      "title": "[移植游戏]古惑狼：泰坦|Crash of the Titans",
+      "original_url": "https://nsthwj.cn/game/switch/138327",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-20T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-20T13:14:47.591101+00:00"
+    },
+    {
+      "id": "9949fc0b1062d76e3bd2a1ecdfe50069db42a191c89bbfdfe6c9ba2692627fe2",
+      "title": "[移植游戏]忍者龙剑传：黑之章|Ninja Gaiden Black",
+      "original_url": "https://nsthwj.cn/game/switch/138326",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Ninja Gaiden Black 进入游戏 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-20T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-20T13:14:49.070864+00:00"
+    },
+    {
+      "id": "c64b23f8809c284689b072d59f100b760124a7e5956a4a9c37faf6d16a5956e6",
+      "title": "[移植游戏]死侍|Deadpool中文",
+      "original_url": "https://nsthwj.cn/game/switch/138325",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "在你一头栽进我棒到抓狂的游戏之前，有几件重要的事情我得先跟你说。（唉呦，又来了。）我是名佣兵，拥有高速自我癒合能力。人家说我反復无常，就是根本脑残啦（等等，除了乡民有人用脑残这个词吗？）我将替人类和变种人（甚至是变种男人）的安全而战。做好准备吧，什么怪事都可能发生。（哈！） 主要特色： - 我要我的游戏是第三人称动作…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-20T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-20T13:14:50.356826+00:00"
+    },
     {
       "id": "a352f02d3141f5845aadd50cdc9ddc7a171e2f43dcac60385c841aea727fd31a",
       "title": "忍者神龟：斯普特林的命运|忍者神龟：史林特的命运|Teenage Mutant Ninja Turtles: Splintered Fate中文",
@@ -2214,98 +2306,6 @@
       "updated_at": "2026-11-06T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-06T09:32:37.743930+00:00"
-    },
-    {
-      "id": "7151a75701792e7a70082c6690e41a47ac0c8e922df4c8fc14535cc4e96f2943",
-      "title": "[SS土星移植游戏]热血高校|Crows: The Battle Action For Sega Saturn",
-      "original_url": "https://nsthwj.cn/game/switch/137897",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "世嘉土星平台上的一款横板卷轴格斗动作游戏，基于《月刊少年》上连载的系列作品《热血高校》。 游戏的目标是通过创造招式组合和使用各种物品来击败关卡中的所有敌人。 玩家每过一个关卡都可以选择一次角色。 攻击动作包括拳击、踢击、投掷、抓取、武器攻击和武器投掷。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-06T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-06T09:32:40.424836+00:00"
-    },
-    {
-      "id": "2f511a5137192dd321c22804139c98ab81e3ffc55125c18022593d911ffb98da",
-      "title": "[移植游戏]可可罗|Cocoro中文",
-      "original_url": "https://nsthwj.cn/game/switch/137896",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "“请将我变成人类。” 这部视觉小说描绘了一个，在因 AI 的暴走而崩溃的世界中，机器人少女想要变成人类的故事。失去了故乡的少年与梦想着结婚的仿生人少女，开始了他们那无可替代的夏天。 “COCORO”是一部由企划/剧本绀野アスタ和角色设计渡边明夫共同制作的视觉小说。 请享受在这因不明原因的 AI 暴走而崩溃的世界中，失…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.2",
-      "updated_at": "2026-11-06T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-06T09:32:41.824144+00:00"
-    },
-    {
-      "id": "d38095ecd0ab9c49cd11862eb053f6934b037ba9a387923dd6e39b4878f60a8b",
-      "title": "[移植游戏]日在校园HQ|School Days HQ中文",
-      "original_url": "https://nsthwj.cn/game/switch/137692",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "在第二学期的开始时，诚在去学校的火车上第一次看到了美丽的琴音。从那以后，看着她阅读就成了他平日里单调生活中为数不多的乐趣所在。 他并非想与她交往，甚至也不希望被她注意到。只是远远地看着她，就能让他的日子变得明亮一些——当然，他并不相信人们所说的那种魅力…… 一天，诚的同班同学世海看到了他手机里的琴音的照片，从而发现了…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：0.3.12",
-      "updated_at": "2026-11-06T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-06T17:35:11.061327+00:00"
-    },
-    {
-      "id": "1e787e037834c2275f7d5fc1bfc29dd15bfee22b5028e06c676e9de044079d73",
-      "title": "[移植游戏]寂静岭5：归乡|Silent Hill: Homecoming",
-      "original_url": "https://nsthwj.cn/game/switch/137900",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-06T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-06T17:35:12.260732+00:00"
     }
   ]
 }

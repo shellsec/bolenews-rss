@@ -1,9 +1,146 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-20T03:34:07.816867+00:00",
+  "generated_at": "2026-11-20T13:14:12.373809+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "战场的赋格曲.Fuga: Melodies of Steel",
+      "original_url": "https://2468c.com/122127.html",
+      "published_at": "2026-11-20T04:39:35Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-20T04:39:35Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-20T13:14:14.439371+00:00"
+    },
+    {
+      "title": "战场的赋格曲2.Fuga: Melodies of Steel 2",
+      "original_url": "https://2468c.com/122129.html",
+      "published_at": "2026-11-20T04:39:35Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-20T04:39:35Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "战场的赋格曲3.Fuga: Melodies of Steel 3",
+      "original_url": "https://2468c.com/122132.html",
+      "published_at": "2026-11-20T04:39:35Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-20T04:39:35Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "灵魂幸存者 Keepers Toll",
+      "original_url": "https://2468c.com/122135.html",
+      "published_at": "2026-11-20T04:39:34Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-20T04:39:34Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "星界战士 Astral Ascent",
+      "original_url": "https://2468c.com/122137.html",
+      "published_at": "2026-11-20T04:39:34Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-20T04:39:34Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "巴别塔圣歌 Chants of Sennaar",
+      "original_url": "https://2468c.com/122139.html",
+      "published_at": "2026-11-20T04:39:33Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-20T04:39:33Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "幻想生活ｉ 转圈圈的龙和偷取时间的少女 – 数字豪华版.Fantasy Life i: The Girl Who Steals Time – Digital Deluxe Edition",
+      "original_url": "https://2468c.com/103553.html",
+      "published_at": "2026-11-20T04:20:10Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-20T04:22:29Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "妖精的尾巴2：数字豪华版.Fairy Tail 2: Digital Deluxe",
+      "original_url": "https://2468c.com/98419.html",
+      "published_at": "2026-11-20T04:18:43Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-20T04:20:02Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
     {
       "title": "同行：月球逃脱 Together: Moon Escape",
       "original_url": "https://2468c.com/122084.html",
@@ -1591,143 +1728,6 @@
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
       "summary_checked_at": "2026-11-12T12:58:17.631521+00:00"
-    },
-    {
-      "title": "生化危机9：安魂曲 Resident Evil Requiem Deluxe Edition",
-      "original_url": "https://2468c.com/111453.html",
-      "published_at": "2026-11-12T01:03:49Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-12T01:05:34Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-12T20:57:19.831257+00:00"
-    },
-    {
-      "title": "生化危机8：村庄 – 黄金版.Resident Evil Village Gold Edition",
-      "original_url": "https://2468c.com/98197.html",
-      "published_at": "2026-11-12T01:01:10Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-12T01:02:30Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "生化危机7：黄金版.Resident Evil 7 biohazard Gold Edition",
-      "original_url": "https://2468c.com/99135.html",
-      "published_at": "2026-11-12T01:00:42Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-12T01:01:17Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "生化危机 4：黄金重制版 Resident Evil 4: Gold Edition",
-      "original_url": "https://2468c.com/111594.html",
-      "published_at": "2026-11-12T00:58:40Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-12T00:59:43Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "生化危机3：重制版.RESIDENT EVIL 3",
-      "original_url": "https://2468c.com/98796.html",
-      "published_at": "2026-11-12T00:56:20Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-12T00:57:31Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "生化危机2：豪华版.Resident Evil 2 Remake Deluxe Edition",
-      "original_url": "https://2468c.com/98350.html",
-      "published_at": "2026-11-12T00:55:52Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-12T00:56:18Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "赛博朋克2077.Cyberpunk 2077",
-      "original_url": "https://2468c.com/104075.html",
-      "published_at": "2026-11-12T00:48:10Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-12T00:49:24Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "怪物猎人物语 3：命运双龙 Monster Hunter Stories 3 Twisted Reflection",
-      "original_url": "https://2468c.com/111508.html",
-      "published_at": "2026-11-12T00:38:22Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-12T00:40:56Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
     }
   ]
 }
