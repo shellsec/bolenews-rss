@@ -1,9 +1,49 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-20T21:19:14.445168+00:00",
+  "generated_at": "2026-11-21T02:34:42.706935+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "异度之刃3|官方中文|本体+3.0.0升补+4DLC|NSP|",
+      "original_url": "https://vip.gamers520.com/48547.html",
+      "published_at": "2026-11-20T21:00:39Z",
+      "summary": "异度神剑3|异度之刃3 為了生存而戰，為了戰鬥而生。 連繫過去與未來，生命的故事。 壯闊的自然環境連綿不斷的世界「艾歐尼翁」。 由兩個敵對國家「科維斯」和「安格努斯」引起的激烈爭鬥中，分別隸屬於兩國的 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-21T01:24:39Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "3.0.0"
+    },
+    {
+      "title": "星之海|官方中文|本体+3.0.60151a升补+1DLC|NSP|原版|",
+      "original_url": "https://vip.gamers520.com/63797.html",
+      "published_at": "2026-11-20T21:03:02Z",
+      "summary": "下载在底部 《星之海 Sea of Stars》承载着Sabotage工作室的目标——用现代的方式重现经典角色扮演游戏： 从回合制战斗到跌宕起伏的故事，从世界探索到细腻的环境交互，让大家重回独属怀旧游 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-21T01:24:37Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "3.0.60151a"
+    },
     {
       "title": "希尔维娅 败北传承 Cielvia-Inherited By Defeat|官方中文|本体+1.01升补|NSP|",
       "original_url": "https://vip.gamers520.com/126365.html",
@@ -1504,7 +1544,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-16T11:46:29.790465+00:00"
+      "summary_checked_at": "2026-11-21T02:34:45.529663+00:00"
     },
     {
       "title": "近地联盟先遣队3|中文|移植版|",
@@ -1738,38 +1778,6 @@
       "evidence": "community",
       "summary_origin": "publisher_excerpt",
       "updated_at": "2026-10-25T23:54:10Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "仙剑奇侠传4|官方中文|移植版|",
-      "original_url": "https://vip.gamers520.com/124634.html",
-      "published_at": "2026-10-24T22:30:29Z",
-      "summary": "故事背景 从未下山的少年云天河，某日遇到一名闯上山来寻找剑仙的少女韩菱纱。两人下山后机缘巧合结识了寿阳城的县令千金柳梦璃，后来与琼华派弟子慕容紫英结为好友。尘封的旧事渐渐揭开，众人将要行至何方…… 玩 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-25T23:53:32Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "寂静岭8 暴雨|移植版|",
-      "original_url": "https://vip.gamers520.com/124589.html",
-      "published_at": "2026-10-23T22:18:40Z",
-      "summary": "《寂静岭：暴雨》（Silent Hill: Downpour）是 Konami 发行、Vatra Games 开发的生存恐怖动作解谜游戏，为《寂静岭》主线系列的第 8 部作品。 1. 剧情背景 主角墨 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-24T16:01:03Z",
       "platform": [
         "switch1"
       ]

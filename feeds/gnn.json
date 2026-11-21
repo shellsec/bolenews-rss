@@ -1,9 +1,22 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-20T21:19:12.569513+00:00",
+  "generated_at": "2026-11-21T02:34:38.538491+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "《Pikmin Bloom》向台灣玩家發布聲明 強調個人資料僅儲存於美國伺服器",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315387",
+      "published_at": "2026-11-20T23:58:30Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "由任天堂授權、Scopely Explore 營運的手機遊戲《Pikmin Bloom》營運團隊透過遊戲內公告發布聲明，向台灣玩家表達感謝，並強調玩家的個人資料僅儲存在位於美國的伺服器上，未來也將持續遵循相關原則。 《Pikmin Bloom》官方此次以「謝謝你遊玩《Pikmin Bloo....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "【電玩瘋】832 集 《俠盜獵車手 6》破紀錄奇蹟與彩蛋一次看！",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315385",
@@ -1301,19 +1314,6 @@
       "source_name": "巴哈姆特 GNN",
       "language": "zh-Hant",
       "summary": "為紀念《死亡筆記本》動畫 20 週年，《死亡筆記本》動畫代理商「回歸線娛樂」與「優視傳播」共同宣布，將於 2026 年 12 月 19 日至 2027 年 4 月 6 日，在華山 1914 文化創意產業園區西一館舉辦「死亡筆記本【正義的對決】沉浸體驗展」。這是《死亡筆記本》睽違許久的盛大活動，也是全台首次的《死亡....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "正統電車駕駛遊戲《Train Plus PRO 2027》公開 以 UE5 引擎重新打造 《Train Plus 西日本》",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315222",
-      "published_at": "2026-11-18T08:00:01Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "Shinise Games Ltd.（しにせゲームズ株式会社）宣布，正在開發中的電車駕駛遊戲《Train Plus PRO 2027》（日文名稱：トレインプラスプロ2027）Steam 商店頁面已於今日（2026 年 11 月 18 日）上線，即日起開放加入願望清單。預計於 2026 年內發售。 ....",
       "content": "",
       "image_url": "",
       "content_scope": "summary",
