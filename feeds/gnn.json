@@ -1,9 +1,35 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-21T11:27:27.790745+00:00",
+  "generated_at": "2026-11-21T19:30:50.152568+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "「Pikmin Bloom Journey 2026 in 神戶」現場直擊！與皮克敏漫步港都收集明信片",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315390",
+      "published_at": "2026-11-21T15:57:18Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "以散步與種花為主題的智慧型手機遊戲《Pikmin Bloom》於 11 月 21 日至 22 日在日本兵庫縣神戶市舉辦實體活動「Pikmin Bloom Journey 2026 in 神戶」，邀請玩家帶著皮克敏一同漫步神戶街頭，走訪散布在城市各處的特殊地點，透過步行、種花及完成任務，蒐集當地限定的飾品皮克敏、....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
+    {
+      "title": "【電玩瘋】手機週報《WendyQuest》、《Booster Pack Heroes》與《Hillthorn》等遊戲",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315389",
+      "published_at": "2026-11-21T12:00:01Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "巴哈姆特電玩瘋本週介紹共 9 款手機遊戲，包含獨特的冒險遊戲《A Fool's Errand 》、博派與狂派破例結盟的策略 RPG《變形金剛：無盡戰爭》、獨立遊戲開發者 Bart Bonte 打造的第九部以色彩為主題的古怪挑戰解謎系列《brown》、讓人欲罷不能的開卡包結合塔防玩法的遊戲《Booster....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "《鳴潮》公開 4.0 版本全新實機展示影片 帶來新角色「安娜」、「露希爾」及全新機甲",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315388",
@@ -13,10 +39,10 @@
       "summary": "庫洛遊戲宣布，開放世界動作 RPG《鳴潮》（Windows / Mac / PlayStation 5 / XBOX / iOS / Android）今日正式公開 4.0 版本全新實機展示影片，供玩家們先睹為快。 1/31 《寰宇人類注疏：群星交錯》 「漫漫長夜，慾望如醇。」——安娜 檔案資料>> 舊伊甸的老闆，行於黑與白之間的灰色之人。 異能力>>欲染血壑 作為一位優雅的慾望掠奪者，",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-21T11:27:28.321053+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-21T11:27:28.321053+00:00"
     },
     {
       "title": "《Pikmin Bloom》向台灣玩家發布聲明 強調個人資料僅儲存於美國伺服器",
@@ -1289,32 +1315,6 @@
       "source_name": "巴哈姆特 GNN",
       "language": "zh-Hant",
       "summary": "由 Funcore Games 開發、2P Games 發行的非對稱派對獨立遊戲《我帶過的最差一屆（Worst Class Ever）》今日宣布，首週銷量突破 60 萬份。 官方表示，自正式發售以來，老師忙著抓人，學生忙著搗蛋，教室裡上演了不少令人捧腹的名場面。如今，遊戲迎來發售後的首次....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "《爆米花歡樂大亂鬥》Steam 商店頁面公開 盡情蹦跳直到剩下最後一粒爆米花為止",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315225",
-      "published_at": "2026-11-18T08:36:59Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "NEOLAVI 今日宣布，現已公開 PC（Steam）平台新作《爆米花歡樂大亂鬥（暫譯，原名：Popcoooorn Party）》Steam 商店頁面。本作是一款最多支援 100 人線上遊玩的派對大逃殺遊戲，以「化身小小的爆米花，在熟悉的日常場景中奔馳」為主題。 ....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "《紅眼露比》進行效能最佳化並新增西、德、法、義四種語言 Steam 限時 8 折至 12/2",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315224",
-      "published_at": "2026-11-18T08:09:06Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "台灣獨立遊戲開發團隊「杯狗遊戲」旗下自製新款 PC 動作遊戲《紅眼露比》今日宣布，即日起新增西班牙文、德文、法文、義大利文四種語言，連同原有語言，現已支援 12 種語言。此外，即日起至 12 月 2 日展開限時特價，Steam 全球 8 折（20% OFF）。遊戲方面則進行了效能最佳化，針對部分場景與戰鬥進行了....",
       "content": "",
       "image_url": "",
       "content_scope": "summary",

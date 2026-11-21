@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-21T11:28:07.008190+00:00",
+  "generated_at": "2026-11-21T19:31:19.167359+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -49,6 +49,121 @@
       "updated_at": "2026-11-21T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-21T11:27:58.278039+00:00"
+    },
+    {
+      "id": "f37606dad6246af1db1564a3e1339f810d5fb810c9654d7931a653a63bab81e9",
+      "title": "[移植游戏]战神1+2合集|God of War Collection汉化国语版",
+      "original_url": "https://nsthwj.cn/game/switch/138250",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.3",
+      "updated_at": "2026-11-21T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-21T19:31:12.823341+00:00"
+    },
+    {
+      "id": "561ff586d276a73da4225c1d0a4cb2213603eecd7548ab1ec5c7e5b52eefb105",
+      "title": "[移植游戏]真三国无双：联合突袭|Dynasty Warriors: Strikeforce中文",
+      "original_url": "https://nsthwj.cn/game/switch/138368",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《真·三国无双：联合作战》将采用《真三国无双 5》中的人物造型，武将在满足特定条件后即可进行“真·无双觉醒”，使用之后能力和外形均会发生变化。 游戏将以压制敌人据点为目标，在敌方据点处将有强力武将和巨型兵器登场。此外还加入了武器锻造和人物育成要素，玩家可以通过锻冶屋将所持素材对武器进行强化。游戏支持 4 人一同进行任…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-21T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-21T19:31:13.982732+00:00"
+    },
+    {
+      "id": "368bbcab1df14dc42ad0cd86ff65b6e3ddfd23c33fc496f9173e349bef8d28a9",
+      "title": "迪士尼梦幻星谷|Disney Dreamlight Valley中文",
+      "original_url": "https://nsthwj.cn/game/switch/6690",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《迪士尼梦幻星谷》是一款生活模拟和冒险游戏的结合体，拥有丰富的任务、探索、以及引人入胜的活动，迪斯尼和皮克斯的新老朋友均会登场。 梦幻星谷曾是一片梦幻田园之地，迪斯尼和皮克斯的角色们在这里和睦相处——直到“大遗忘”来临。暗夜荆棘在各处肆意生长，切断了与这个神奇之地相连的美好回忆。梦幻星谷中绝望的居民们无处可去，躲进了…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.26.2含1.20.10金手指",
+      "updated_at": "2026-11-21T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-21T19:31:14.939755+00:00"
+    },
+    {
+      "id": "9944d5f287ebe40bb990773244118612591f0179e2cfb1cab9b63eab0196ba69",
+      "title": "[移植游戏]龙珠Z：武道会4|Dragon Ball Z: Budokai Tenkaichi 4",
+      "original_url": "https://nsthwj.cn/game/switch/138367",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 DBZ: Budokai Tenkaichi 4 进入游戏 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0",
+      "updated_at": "2026-11-21T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-21T19:31:15.884189+00:00"
+    },
+    {
+      "id": "eeef64d3f49517aa8c70c9dadcb4b1045eb38ef4dfbc2ce044895992a7ff37e3",
+      "title": "[移植游戏]教父|The Godfather",
+      "original_url": "https://nsthwj.cn/game/switch/138366",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-21T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-21T19:31:16.938776+00:00"
     },
     {
       "id": "0b1f5af08e5faf7ab223b6ecda5621f767308b053d16ce87815cdcc2a9cdb85b",
@@ -1377,29 +1492,6 @@
       "summary_checked_at": "2026-11-17T04:40:37.398564+00:00"
     },
     {
-      "id": "f37606dad6246af1db1564a3e1339f810d5fb810c9654d7931a653a63bab81e9",
-      "title": "[移植游戏]战神1+2合集|God of War Collection",
-      "original_url": "https://nsthwj.cn/game/switch/138250",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-17T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-17T14:41:52.132784+00:00"
-    },
-    {
       "id": "c569fe818651b39948b6ea453ed494d57750e43f59b7f97b82c88f195525a204",
       "title": "[移植游戏]刀魂2|SoulCalibur II",
       "original_url": "https://nsthwj.cn/game/switch/138253",
@@ -1421,98 +1513,6 @@
       "updated_at": "2026-11-17T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-17T23:00:31.045483+00:00"
-    },
-    {
-      "id": "5e21583ac25255cdddcd68aa1051030d6b498686183008e7879b5903a674ae80",
-      "title": "[移植游戏]迷你忍者|Mini Ninjas",
-      "original_url": "https://nsthwj.cn/game/switch/138252",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Mini Ninjas NX 进入游戏 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.2",
-      "updated_at": "2026-11-17T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-17T23:00:32.215501+00:00"
-    },
-    {
-      "id": "6a558c862fa5375ed0022fe1b486ec20d5ba071cc0207fb856b5dc0870c83d5b",
-      "title": "[移植游戏]缘之空|Yosuga no Sora中文",
-      "original_url": "https://nsthwj.cn/game/switch/138255",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-17T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-17T23:00:33.385900+00:00"
-    },
-    {
-      "id": "b6138e7570de8d1d9d0051866fc87313491f41d05bb5c2076cdcf1cdc044c80e",
-      "title": "[移植游戏]坠落：重制版|Downfall: Redux",
-      "original_url": "https://nsthwj.cn/game/switch/138254",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "故事主角是乔・戴维斯（Joe Davis），他和妻子艾维（Ivy）的婚姻已经濒临破裂。艾维长期受精神疾病、进食障碍困扰，情绪极不稳定。乔计划带着妻子前往郊外的**宁静港湾酒店（Quiet Haven Hotel）**短暂度假，希望借此修复两人的关系，化解矛盾。 两人在暴雨夜里抵达酒店，当晚争吵不断，艾维陷入恐慌、胡言…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：0.2.0",
-      "updated_at": "2026-11-17T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-18T04:34:51.542720+00:00"
-    },
-    {
-      "id": "435dc2c976b19ad4459dff2ef4bd0fafcaa7b601c2cc8bcdbef3c99b488cb0eb",
-      "title": "[移植游戏]战神1|God of War中文国语版",
-      "original_url": "https://nsthwj.cn/game/switch/138245",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.成功运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.2",
-      "updated_at": "2026-11-16T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-16T11:46:50.467176+00:00"
     },
     {
       "id": "eb4ccf4deb0bae2f26ca4ce64de996d5c38883d4aded7d2137371428dfbcd35f",
