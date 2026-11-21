@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-21T02:35:03.829062+00:00",
+  "generated_at": "2026-11-21T11:28:03.496298+00:00",
   "source_url": "https://nsthwj.cn/pc",
   "items": [
     {
@@ -815,6 +815,116 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "Build.15032024",
+      "updated_at": "2026-11-21T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "4a3e52f3daebcfa8cbcf9b553fc31dccdf0875a61816eb85d831b4437480bb3a",
+      "title": "海绵宝宝：宇宙摇摆|SpongeBob SquarePants: The Cosmic Shake",
+      "original_url": "https://nsthwj.cn/game/pc/138318",
+      "source_name": "NS头号玩家 PC",
+      "summary": "当能让愿望成真的美人鱼眼泪落入了海绵宝宝和派大星的手里……这应该不会出什么事吧？当然，这种将不同次元联系在一起的组合可能看上去并不怎么靠谱，而且还会为您打开通往狂野许愿世界的传送门。但万千宠爱的海绵宝宝可没有完成不了的任务——只要穿上合适的宇宙服饰就可以啦！",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v1.5a",
+      "updated_at": "2026-11-21T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "145d65c20ffbad0b349c7c6fc07469414898a6674dce954a037d2bef384cef4e",
+      "title": "超级领地：六英寸之下|Supraland Six Inches Under",
+      "original_url": "https://nsthwj.cn/game/pc/138292",
+      "source_name": "NS头号玩家 PC",
+      "summary": "一款混合了传送门、萨尔达以及密特罗德的游戏，结合探索、解谜以及战斗！在Supraland世界地底6英寸冒险的第一人称类银河战士恶魔城游戏",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v1.2.3349",
+      "updated_at": "2026-11-21T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "a31cf975967ae1b8e0b65e36f6d3bac27bf01cbe0fa3cd8f848cb187d7832a25",
+      "title": "蜘蛛侠客|SpiderHeck",
+      "original_url": "https://nsthwj.cn/game/pc/138165",
+      "source_name": "NS头号玩家 PC",
+      "summary": "挥舞激光剑的蜘蛛！决一死战，或选择组队来击退疯狂黄蜂群的攻击。在地图上挥剑、刺杀并射击，同时像在电影一般地跑酷，不费吹灰之力。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v1.2.0",
+      "updated_at": "2026-11-21T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "d29a919fdf1e3437f50e791c02d2c066d74d5d916fae08f1b7e57234d0ac4ccf",
+      "title": "幽灵诡计：幻影侦探|Ghost Trick: Phantom Detective",
+      "original_url": "https://nsthwj.cn/game/pc/138120",
+      "source_name": "NS头号玩家 PC",
+      "summary": "经典的解谜神秘冒险名作回来了！ 《逆转裁判》系列作者巧 舟所制作的《Ghost Trick: Phantom Detective》，将推出期待已久的高清重制版。 由负责《大逆转裁判》BGM的人气作曲家北川保昌对原版乐曲进行的同期编曲外，还有插画集和BGM集等新追加内容！",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v1.0.0",
+      "updated_at": "2026-11-21T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "1814eeabeef8b0dc2a2250d02c4db20ce78f60ea9d70a925133a535490f23c25",
+      "title": "瘦长鬼影：降临|Slender: The Arrival",
+      "original_url": "https://nsthwj.cn/game/pc/138104",
+      "source_name": "NS头号玩家 PC",
+      "summary": "瘦长魔回归，恐怖度爆表。你孤身一人。没人会帮助你，也没人能听到你的尖叫。享受10周年纪念更新版的尖端视觉效果，重温恐惧之旅，体验让人汗毛倒竖的生存恐怖。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v20231107",
       "updated_at": "2026-11-21T00:00:00+08:00",
       "update_date_precision": "day"
     },
@@ -1633,28 +1743,6 @@
       "update_date_precision": "day"
     },
     {
-      "id": "4a3e52f3daebcfa8cbcf9b553fc31dccdf0875a61816eb85d831b4437480bb3a",
-      "title": "海绵宝宝：宇宙摇摆|SpongeBob SquarePants: The Cosmic Shake",
-      "original_url": "https://nsthwj.cn/game/pc/138318",
-      "source_name": "NS头号玩家 PC",
-      "summary": "当能让愿望成真的美人鱼眼泪落入了海绵宝宝和派大星的手里……这应该不会出什么事吧？当然，这种将不同次元联系在一起的组合可能看上去并不怎么靠谱，而且还会为您打开通往狂野许愿世界的传送门。但万千宠爱的海绵宝宝可没有完成不了的任务——只要穿上合适的宇宙服饰就可以啦！",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "v1.5a",
-      "updated_at": "2026-11-19T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
       "id": "4a1fd0a58019494bfb984f9586ff6c97e235736665ae8dfe38046a44c94b53aa",
       "title": "火星第一物流|Mars First Logistics",
       "original_url": "https://nsthwj.cn/game/pc/138317",
@@ -2113,94 +2201,6 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "Build.24881239",
-      "updated_at": "2026-11-19T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "a48357dc2195795e26369701aceee06b6ea2e9a138c35b7756cac700b33163cd",
-      "title": "黯井微光|Well Dweller",
-      "original_url": "https://nsthwj.cn/game/pc/138294",
-      "source_name": "NS头号玩家 PC",
-      "summary": "《黯井微光》是一款暗黑童话风格的类银河城游戏，讲述了栖身于破败王国中的一群迷人角色的故事。玩家将扮演一只手持火柴棒的小鸟——微光，踏上焚灭邪恶女王、拯救家族的旅程。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.25633433",
-      "updated_at": "2026-11-19T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "3acd1db8fee8552f20d40d407e2b6020d5aa215a5e8934c1995786ba1e0fb4e2",
-      "title": "节奏次元|Spin Rhythm XD",
-      "original_url": "https://nsthwj.cn/game/pc/138293",
-      "source_name": "NS头号玩家 PC",
-      "summary": "进入节奏次元。通过旋转，点击，轻弹和滑动全球最棒的节奏将颜色和节拍合在一起。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.23959388",
-      "updated_at": "2026-11-19T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "145d65c20ffbad0b349c7c6fc07469414898a6674dce954a037d2bef384cef4e",
-      "title": "超级领地：六英寸之下|Supraland Six Inches Under",
-      "original_url": "https://nsthwj.cn/game/pc/138292",
-      "source_name": "NS头号玩家 PC",
-      "summary": "一款混合了传送门、萨尔达以及密特罗德的游戏，结合探索、解谜以及战斗！在Supraland世界地底6英寸冒险的第一人称类银河战士恶魔城游戏",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "v1.2.3349",
-      "updated_at": "2026-11-19T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "0e5d79ddf8ae94d2fff871e4648ac5eedd833919312527c2b767f9bae344cc05",
-      "title": "青蛙的空之绿洲|Ropuka's Idle Island",
-      "original_url": "https://nsthwj.cn/game/pc/138291",
-      "source_name": "NS头号玩家 PC",
-      "summary": "可以放置于桌面任意一角的养成游戏。在工作休闲的同时陪小青蛙洛普卡割草，升级道具，装扮岛屿。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.24638719",
       "updated_at": "2026-11-19T00:00:00+08:00",
       "update_date_precision": "day"
     }

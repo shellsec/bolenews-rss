@@ -1,9 +1,55 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-21T02:35:02.040411+00:00",
+  "generated_at": "2026-11-21T11:27:52.764425+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "95824c5df6468461c051988f9499017f754e197fc2180b6fc237d6c3c1fb9096",
+      "title": "[移植游戏]轩辕剑外传：苍之涛|Xuan-Yuan Jiàn Wàizhuàn: Cāng zhī Tāo中文",
+      "original_url": "https://nsthwj.cn/game/switch/138365",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《轩辕剑外传：苍之涛》是大宇资讯旗下经典单机角色扮演游戏《轩辕剑》系列的第七部作品。故事主要设定在群雄并起的东周春秋时期，并涉及到了距离春秋时期近千年之后，公元 383 年淝水之战的历史。本作延续并改良了前作引擎，以更纯熟的 3D 技术，更完美画面呈现古中国世界风貌。 该作的职业系统“木甲师”拥有独特木甲机关技术升级…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-21T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-21T11:27:56.740428+00:00"
+    },
+    {
+      "id": "4f4120b70aaf7a27d660b92a649411d53535f1d6c78d851d25a69197f3bde67b",
+      "title": "异度之刃3|异度神剑3|Xenoblade Chronicles 3中文国语版",
+      "original_url": "https://nsthwj.cn/game/switch/6507",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "分别隶属于两个敌对国家“科维斯”和“安格努斯”的 6 位少年少女，即将展开一场以“生命”为主轴的故事。 故事的舞台“艾欧尼翁”有着壮阔的自然环境、巨大的原生生物，以及用来当作军队据点的巨型移动兵器“铁巨神”。 这是一个全新的故事，连结了《异度神剑》与《异度神剑 2》两个世界的未来。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：3.0.0含2.2.1金手指",
+      "updated_at": "2026-11-21T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-21T11:27:58.278039+00:00"
+    },
     {
       "id": "83730c787dcd2c7ad309146e29a605d812e94fba077e66e986678742b98c8f34",
       "title": "[移植游戏]超级纸片马里奥wii|Super Paper Mario",
@@ -164,6 +210,29 @@
       "updated_at": "2026-11-20T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-20T21:19:33.779878+00:00"
+    },
+    {
+      "id": "c6659f25b68319b0eebd2d9ccdb7c5421195f4b70e5dbbce72261cfbc0a370c5",
+      "title": "[移植游戏]英雄丹|Dan the Man",
+      "original_url": "https://nsthwj.cn/game/switch/138364",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《Fruit Ninja》和《Jetpack Joyride》的开发者Halfbrick Studios再次回归N64时代的风格，为你带来一款独一无二的动作平台游戏。游戏中有类似马里奥的主角、能发出巨大声响的武器，以及极具冲击力的战斗场景。《Dan The Man》堪称新型手机游戏的先驱之作。 你可以在故事模式、无尽…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.2.1-fix2",
+      "updated_at": "2026-11-20T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-21T11:28:00.720235+00:00"
     },
     {
       "id": "a352f02d3141f5845aadd50cdc9ddc7a171e2f43dcac60385c841aea727fd31a",
@@ -2237,75 +2306,6 @@
       "updated_at": "2026-11-08T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-08T15:23:56.522485+00:00"
-    },
-    {
-      "id": "2c5944b2fc3ea322df2695baa713d4fdd317f3ad4acdf6abff685f87c0f5dac1",
-      "title": "[移植游戏]宝可梦和音|Pokémon Consonancia中文",
-      "original_url": "https://nsthwj.cn/game/switch/137971",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "舞台是帕西欧地区，也就是宝可梦大师的舞台。你作为新人训练家来到这里，参加「世界宝可梦大师赛 WPM」，目标拿下大赛冠军。在这里可以邂逅关都到帕底亚全世代的训练家、伙伴，包含大师原作原创角色，组队搭档、同步对战。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.2-b10",
-      "updated_at": "2026-11-08T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-08T15:23:59.720093+00:00"
-    },
-    {
-      "id": "31f550b67ccc628963e27a80af832fef1e0754d63d4f1085cbffcbbe73a300aa",
-      "title": "[移植游戏]宝可梦轴芯|Pokémon Axon中文",
-      "original_url": "https://nsthwj.cn/game/switch/137970",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "舞台是寒带风格的原创地区 卡雷利亚 ，带有浓厚俄式风情，雪原、针叶林、工业城镇交织。你作为新人训练家，在帕弗博士的引导下开启旅途，穿梭 20 座城镇、30 条道路，挑战 8 座道馆，揭开这片土地隐藏的秘密。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：3.06-b6",
-      "updated_at": "2026-11-08T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-08T15:24:01.242353+00:00"
-    },
-    {
-      "id": "51fc83d693c2c2b6241beba710c0c5c1f2fcbb6c49cbca40d598a487041ac3e0",
-      "title": "[移植游戏]宝可梦九重天|Pokémon Empyrean中文",
-      "original_url": "https://nsthwj.cn/game/switch/137969",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "舞台是原创地区 奥穆兰 。你和父亲来到临湾镇度假，身为前特工的父亲前去追查反派「沃德夫团」残党，不幸被敌人俘获。你一边踏上宝可梦训练家的冒险、收集 8 枚道馆徽章冲击联盟，一边寻找线索，营救父亲，对抗与神秘异灵结盟的沃德夫团。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：2.0-b5",
-      "updated_at": "2026-11-08T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-08T15:24:02.398271+00:00"
     }
   ]
 }

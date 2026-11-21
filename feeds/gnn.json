@@ -1,9 +1,23 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-21T02:34:38.538491+00:00",
+  "generated_at": "2026-11-21T11:27:27.790745+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "《鳴潮》公開 4.0 版本全新實機展示影片 帶來新角色「安娜」、「露希爾」及全新機甲",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315388",
+      "published_at": "2026-11-21T03:30:01Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "庫洛遊戲宣布，開放世界動作 RPG《鳴潮》（Windows / Mac / PlayStation 5 / XBOX / iOS / Android）今日正式公開 4.0 版本全新實機展示影片，供玩家們先睹為快。 1/31 《寰宇人類注疏：群星交錯》 「漫漫長夜，慾望如醇。」——安娜 檔案資料>> 舊伊甸的老闆，行於黑與白之間的灰色之人。 異能力>>欲染血壑 作為一位優雅的慾望掠奪者，",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_checked_at": "2026-11-21T11:27:28.321053+00:00",
+      "summary_origin": "publisher_description"
+    },
     {
       "title": "《Pikmin Bloom》向台灣玩家發布聲明 強調個人資料僅儲存於美國伺服器",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315387",
@@ -1301,19 +1315,6 @@
       "source_name": "巴哈姆特 GNN",
       "language": "zh-Hant",
       "summary": "台灣獨立遊戲開發團隊「杯狗遊戲」旗下自製新款 PC 動作遊戲《紅眼露比》今日宣布，即日起新增西班牙文、德文、法文、義大利文四種語言，連同原有語言，現已支援 12 種語言。此外，即日起至 12 月 2 日展開限時特價，Steam 全球 8 折（20% OFF）。遊戲方面則進行了效能最佳化，針對部分場景與戰鬥進行了....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "《死亡筆記本》動畫 20 週年全台首次推出沉浸式解謎展「正義的對決」12/19 華山開展",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315223",
-      "published_at": "2026-11-18T08:04:29Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "為紀念《死亡筆記本》動畫 20 週年，《死亡筆記本》動畫代理商「回歸線娛樂」與「優視傳播」共同宣布，將於 2026 年 12 月 19 日至 2027 年 4 月 6 日，在華山 1914 文化創意產業園區西一館舉辦「死亡筆記本【正義的對決】沉浸體驗展」。這是《死亡筆記本》睽違許久的盛大活動，也是全台首次的《死亡....",
       "content": "",
       "image_url": "",
       "content_scope": "summary",

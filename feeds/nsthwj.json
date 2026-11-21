@@ -1,9 +1,55 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-21T02:35:05.794899+00:00",
+  "generated_at": "2026-11-21T11:28:07.008190+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "95824c5df6468461c051988f9499017f754e197fc2180b6fc237d6c3c1fb9096",
+      "title": "[移植游戏]轩辕剑外传：苍之涛|Xuan-Yuan Jiàn Wàizhuàn: Cāng zhī Tāo中文",
+      "original_url": "https://nsthwj.cn/game/switch/138365",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《轩辕剑外传：苍之涛》是大宇资讯旗下经典单机角色扮演游戏《轩辕剑》系列的第七部作品。故事主要设定在群雄并起的东周春秋时期，并涉及到了距离春秋时期近千年之后，公元 383 年淝水之战的历史。本作延续并改良了前作引擎，以更纯熟的 3D 技术，更完美画面呈现古中国世界风貌。 该作的职业系统“木甲师”拥有独特木甲机关技术升级…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-21T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-21T11:27:56.740428+00:00"
+    },
+    {
+      "id": "4f4120b70aaf7a27d660b92a649411d53535f1d6c78d851d25a69197f3bde67b",
+      "title": "异度之刃3|异度神剑3|Xenoblade Chronicles 3中文国语版",
+      "original_url": "https://nsthwj.cn/game/switch/6507",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "分别隶属于两个敌对国家“科维斯”和“安格努斯”的 6 位少年少女，即将展开一场以“生命”为主轴的故事。 故事的舞台“艾欧尼翁”有着壮阔的自然环境、巨大的原生生物，以及用来当作军队据点的巨型移动兵器“铁巨神”。 这是一个全新的故事，连结了《异度神剑》与《异度神剑 2》两个世界的未来。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：3.0.0含2.2.1金手指",
+      "updated_at": "2026-11-21T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-21T11:27:58.278039+00:00"
+    },
     {
       "id": "0b1f5af08e5faf7ab223b6ecda5621f767308b053d16ce87815cdcc2a9cdb85b",
       "title": "回合制坦克大战|ShellShock Live",
@@ -914,6 +960,29 @@
       "summary_checked_at": "2026-11-20T21:19:33.779878+00:00"
     },
     {
+      "id": "c6659f25b68319b0eebd2d9ccdb7c5421195f4b70e5dbbce72261cfbc0a370c5",
+      "title": "[移植游戏]英雄丹|Dan the Man",
+      "original_url": "https://nsthwj.cn/game/switch/138364",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《Fruit Ninja》和《Jetpack Joyride》的开发者Halfbrick Studios再次回归N64时代的风格，为你带来一款独一无二的动作平台游戏。游戏中有类似马里奥的主角、能发出巨大声响的武器，以及极具冲击力的战斗场景。《Dan The Man》堪称新型手机游戏的先驱之作。 你可以在故事模式、无尽…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.2.1-fix2",
+      "updated_at": "2026-11-20T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-21T11:28:00.720235+00:00"
+    },
+    {
       "id": "a352f02d3141f5845aadd50cdc9ddc7a171e2f43dcac60385c841aea727fd31a",
       "title": "忍者神龟：斯普特林的命运|忍者神龟：史林特的命运|Teenage Mutant Ninja Turtles: Splintered Fate中文",
       "original_url": "https://nsthwj.cn/game/switch/10272",
@@ -1444,75 +1513,6 @@
       "updated_at": "2026-11-16T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-16T11:46:50.467176+00:00"
-    },
-    {
-      "id": "a83df17ad0cba47fe8e9d17b422dbf8718b2941d53ca39b15f1abc29d8b61806",
-      "title": "恶魔城：贝尔蒙特的诅咒|Castlevania: Belmont's Curse中文",
-      "original_url": "https://nsthwj.cn/game/switch/137103",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "鲜红的诅咒，会是绝望还是希望？在悪魔城伝说 (Castlevania Dracula's Curse) 的 23 年之后，随着年轻的贝尔蒙特在巴黎冒险并成长。KONAMI × Evil Empire × Motion Twin 联手推出最新的探索型 2D 动作游戏。 中世纪的巴黎，宣告末日来临的钟声回荡 1499 年…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.1.4含1.1.0金手指",
-      "updated_at": "2026-11-16T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-16T11:46:51.475028+00:00"
-    },
-    {
-      "id": "55ef3f173886d74fc563b1f2726c548536ad32f09241f833e34debc552599ad0",
-      "title": "锈迹游侠|生锈的游侠|Rusty Rangers",
-      "original_url": "https://nsthwj.cn/game/switch/138246",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "《锈迹游侠》是一款融合动作平台、Roguelike 与类银河战士恶魔城元素的游戏。选择你的游侠，探索程序生成的地牢。你能击败所有的首领吗？ 曾经的世界如今无人记得，只剩下一支勇敢的游侠小队还铭记着过往。如今混乱与不可预测性主宰一切——曾经无害的生物如今带来毁灭，周围的世界也在不断变化，一次次将熟悉的环境化为乌有。 经…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-16T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-16T11:46:52.505371+00:00"
-    },
-    {
-      "id": "82873db93b53ab5f0924071476ce60dd9d4a9e33b2b449d6c57e453723f28cdf",
-      "title": "[移植游戏]仙剑奇侠传五|The Legend of Sword and Fairy 5中文",
-      "original_url": "https://nsthwj.cn/game/switch/138244",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "游戏简介：远古的血族，如今再度觉醒。人性与魔心，宿命与血缘，道义与爱情，当这些同时摆在前面，该如何抉择。千年的封印，连接两界的神魔之井成为震动六界的焦点，众人的命运逐渐交织在一起。四个身负不同秘密的人相遇，相识，相知，原本平淡的生活渐起波澜。事情的真相往往并非肉眼能够看清，为了所爱的人，即使万劫不复也绝不回头。当不得…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-16T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-16T11:46:53.539927+00:00"
     },
     {
       "id": "eb4ccf4deb0bae2f26ca4ce64de996d5c38883d4aded7d2137371428dfbcd35f",
