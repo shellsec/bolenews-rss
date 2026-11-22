@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 9,
+  "config_version": 10,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-20T02:30:57.948763+00:00",
+  "generated_at": "2026-11-22T01:30:12.801327+00:00",
   "sources": [
     {
       "id": "gh-homebrew-287271987",
@@ -468,6 +468,40 @@
       "name": "UURemote-ns",
       "url": "https://github.com/Antman2023/UURemote-ns/releases.atom",
       "repo": "Antman2023/UURemote-ns",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1466565718",
+      "name": "tsto-nx",
+      "url": "https://github.com/neverlless/tsto-nx/releases.atom",
+      "repo": "neverlless/tsto-nx",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1465982321",
+      "name": "Greeny",
+      "url": "https://github.com/JhondyDario/Greeny/releases.atom",
+      "repo": "JhondyDario/Greeny",
       "category": "homebrew",
       "language": "en",
       "platforms": [
