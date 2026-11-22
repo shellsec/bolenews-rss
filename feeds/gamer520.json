@@ -1,9 +1,29 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-22T16:27:25.614446+00:00",
+  "generated_at": "2026-11-22T22:35:42.079816+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "奥兹国安魂曲|官方中文|本体+1.0.1升补|NSP|",
+      "original_url": "https://vip.gamers520.com/122797.html",
+      "published_at": "2026-11-22T16:00:04Z",
+      "summary": "无论前方等待著怎样的痛楚，我都不会后悔自己的选择。 在国王与四位魔女共同统治的国度，『奥兹国』。那裡四处散佈著被称為『废墟』的神秘建筑。 破败的高楼，爬满藤蔓的电车。 你曾经熟悉的建筑物，却成為了这个 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-22T17:06:44Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.1"
+    },
     {
       "title": "异度之刃3|官方中文|本体+3.0.0升补+4DLC|NSP|",
       "original_url": "https://vip.gamers520.com/48547.html",
@@ -1224,7 +1244,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-18T22:09:42.731144+00:00"
+      "summary_checked_at": "2026-11-22T22:35:44.436979+00:00"
     },
     {
       "title": "帝国时代2|移植版|",
@@ -1755,22 +1775,6 @@
       "original_url": "https://vip.gamers520.com/124626.html",
       "published_at": "2026-10-24T22:01:15Z",
       "summary": "Dead Space 3 与艾萨克·克拉克和约翰·卡佛中士穿越冰封星球塔瓦兰提斯的大地，探查并摧毁尸变体爆发的源头。 为原材料和拾荒零件清理严酷的环境，打造终极自定义武器和求生工具——如果艾萨克和卡佛 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-25T23:54:10Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "红色警戒1代|移植版|",
-      "original_url": "https://vip.gamers520.com/124624.html",
-      "published_at": "2026-10-24T22:00:23Z",
-      "summary": "《红色警报1》（Command & Conquer: Red Alert）是Westwood Studios开发的一款经典即时战略游戏（RTS）， 属于《命令与征服》（Command &amp …",
       "content": "",
       "image_url": "",
       "content_scope": "summary",

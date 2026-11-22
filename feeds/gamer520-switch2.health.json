@@ -1,6 +1,6 @@
 {
   "source": "gamer520-switch2",
-  "attempted_at": "2026-11-22T16:27:28.564812+00:00",
+  "attempted_at": "2026-11-22T22:35:44.615475+00:00",
   "status": "ok",
   "robots_status": 403,
   "summary_count": 23,
@@ -8,12 +8,11 @@
   "summary_missing": 0,
   "summary_errors": [],
   "count": 23,
-  "fetched_count": 0,
-  "retained_count": 23,
+  "fetched_count": 23,
+  "retained_count": 0,
   "input_urls": [
     "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=1493&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
     "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=1493&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt&orderby=modified&order=desc"
   ],
-  "dropped_by_limit": 0,
-  "upstream_empty": true
+  "dropped_by_limit": 0
 }

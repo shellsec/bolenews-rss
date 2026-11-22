@@ -1,204 +1,9 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-22T16:27:28.564812+00:00",
+  "generated_at": "2026-11-22T22:35:44.615475+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=1493&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
-    {
-      "title": "异度神剑 终极版 Switch2版.Xenoblade Chronicles: Definitive Edition – Nintendo Switch 2 Edition|官方中文|NUP|",
-      "original_url": "https://vip.gamers520.com/125613.html",
-      "published_at": "2026-11-08T19:00:10Z",
-      "summary": "异度之刃 终极版 加入这场备受赞誉的角色扮演游戏《人与机器之争》 探索舒尔克的起源,他与同伴们正与一个看似不可阻挡的机械威胁发生冲突。携手未来,将攻击紧密联系在一起,在穿越广阔世界的过程中,精心定位你 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-09T04:04:39Z",
-      "platform": [
-        "switch2"
-      ]
-    },
-    {
-      "title": "异度神剑2 Switch2版 Xenoblade Chronicles 2|官方中文|NUP|",
-      "original_url": "https://vip.gamers520.com/125596.html",
-      "published_at": "2026-11-08T21:00:57Z",
-      "summary": "我們去樂園吧！ 被雲海覆蓋，人們在龐大的生物「巨神獸（阿魯斯）」身上生活的世界──「阿爾斯特」。 少年雷克斯成為了「劍主」，透過使用亞種生命體「神劍」的少女焰的力量， 以「樂園」為目標邁進。 驅使各式 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-09T00:45:20Z",
-      "platform": [
-        "switch2"
-      ]
-    },
-    {
-      "title": "赛博朋克2077 终极版.Cyberpunk 2077: Ultimate Edition|官方中文|NUP|",
-      "original_url": "https://vip.gamers520.com/125599.html",
-      "published_at": "2026-11-08T22:02:04Z",
-      "summary": "《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。 故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会， 权力更迭和无尽的身体改造是这里不变的主题。 游戏截图",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-09T00:44:59Z",
-      "platform": [
-        "switch2"
-      ]
-    },
-    {
-      "title": "黄昏血族 The Duskbloods|官方英文|测试版|NUP|",
-      "original_url": "https://vip.gamers520.com/125543.html",
-      "published_at": "2026-11-07T22:00:09Z",
-      "summary": "化身为「黄昏血族」的一员，施展血之力赋予你的超凡异能，投身最多八人同场的线上战斗。* 当「人类黄昏」降临，血族应召而战。你将与其他血族结成短暂的同盟，并肩迎敌，也会与宿敌激烈交锋，争夺获得「初始之血」 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-08T01:40:19Z",
-      "platform": [
-        "switch2"
-      ]
-    },
-    {
-      "title": "生化危机4 重制版 黄金版.Resident Evil 4 Remake Gold Edition|豪华中文|NUP|",
-      "original_url": "https://vip.gamers520.com/125544.html",
-      "published_at": "2026-11-07T21:01:23Z",
-      "summary": "成功逃脱并战胜死亡的快感。一切在此集结。 包含《Resident Evil 4 Gold Edition》本篇、追加剧情 DLC“逆命殊途”以及追加DLC组合“额外内容扩展包”在内的“Gold Edi …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-08T01:40:17Z",
-      "platform": [
-        "switch2"
-      ]
-    },
-    {
-      "title": "识质存在 豪华版 PRAGMATA Deluxe Edition|官方中文|NUP|",
-      "original_url": "https://vip.gamers520.com/125547.html",
-      "published_at": "2026-11-07T21:02:21Z",
-      "summary": "【早购特典内容】 ・休服装「新派武士道」 ・戴安娜服装「新派女忍者」 分别为休和戴安娜换上以战国时代英勇无畏的武士，以及在暗处活动的迷人忍者为主题的服装游玩吧。 ※早购特典有可能在日后提供其他获取方式 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-08T01:40:16Z",
-      "platform": [
-        "switch2"
-      ]
-    },
-    {
-      "title": "轨道双子星 数字豪华版.Orbitals Digital Deluxe|官方中文|NUP|",
-      "original_url": "https://vip.gamers520.com/125549.html",
-      "published_at": "2026-11-07T21:03:17Z",
-      "summary": "– 《軌道雙子星》遊戲本體 – 數位美術設定集*（收錄滿滿復古動畫風格的概念圖與插畫） – 《軌道雙子星》數位遊戲原聲帶* – 兩套專屬角色服裝（麻希與 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-08T01:40:15Z",
-      "platform": [
-        "switch2"
-      ]
-    },
-    {
-      "title": "异度神剑X 终极版 Xenoblade Chronicles X Definitive Edition|官方中文|NUP|",
-      "original_url": "https://vip.gamers520.com/125551.html",
-      "published_at": "2026-11-07T21:05:56Z",
-      "summary": "《Xenoblade X》的「终极版」这次要在 Nintendo Switch 登场。 2015 年发售的 Wii U 专用游戏软体、开放世界 RPG《Xenoblade X》于 Nintendo S …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-08T01:40:13Z",
-      "platform": [
-        "switch2"
-      ]
-    },
-    {
-      "title": "荒野大镖客 救赎 Red Dead Redemption|官方中文|NUP|",
-      "original_url": "https://vip.gamers520.com/125553.html",
-      "published_at": "2026-11-07T21:10:22Z",
-      "summary": "體驗開創遊戲世代的史詩西部荒野冒險 昔日亡命之徒約翰．瑪斯頓遭到聯邦探員以家人要挾，不得不去追捕那些自己以前曾經稱兄道弟的幫派罪犯。 體驗瑪斯頓在幅員遼闊的美國西部和墨西哥的旅程， 看他如何在這部 2 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-08T01:39:33Z",
-      "platform": [
-        "switch2"
-      ]
-    },
-    {
-      "title": "极速融合 Fast Fusion|官方中文|V1.4.0|NUP|",
-      "original_url": "https://vip.gamers520.com/125505.html",
-      "published_at": "2026-11-06T22:00:31Z",
-      "summary": "未来是融合 Fast Fusion 是你可能经历过的最快的反重力赛车游戏。 将您的防重力车辆穿过壮丽的赛道,如美丽的红木森林、风暴星球坦佩斯塔,或穿过雅马峰的高处。 使用令人兴奋的“融合”功能!“Fu …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-07T01:12:49Z",
-      "platform": [
-        "switch2"
-      ],
-      "version": "v1.4.0"
-    },
-    {
-      "title": "火焰纹章 万缕千丝|官方中文|V1.1.1|NUP|",
-      "original_url": "https://vip.gamers520.com/125361.html",
-      "published_at": "2026-11-06T22:02:15Z",
-      "summary": "火焰纹章 万缕千丝 Fire Emblem: Fortune’s Weave 引導4種命運，拯救世界！ 在眾神的統治下，極其繁榮的韃古扎帝國。 如今，這段歷史將隨著魔神霸羅爾的復活而迎來終焉。 你身為 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-07T01:12:42Z",
-      "platform": [
-        "switch2"
-      ],
-      "version": "v1.1.1"
-    },
-    {
-      "title": "马力欧赛车世界.Mario Kart World|官方中文|V1.8.0|NUP|",
-      "original_url": "https://vip.gamers520.com/125351.html",
-      "published_at": "2026-11-05T21:00:08Z",
-      "summary": "马里奥赛车世界 马力欧卡丁车世界 Mario Kart World 游戏突破了传统赛道竞速的限制，将广阔的开放世界与刺激的卡丁车比赛相结合，让玩家驾驶各式各样的赛车，在城市、草原、沙漠、雪山和海洋等丰 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-06T01:51:48Z",
-      "platform": [
-        "switch2"
-      ],
-      "version": "v1.8.0"
-    },
     {
       "title": "宝可梦Pokopia.Pokémon Pokopia|官方中文|v2.0.1|NUP|",
       "original_url": "https://vip.gamers520.com/125353.html",
@@ -210,7 +15,7 @@
       "language": "zh-Hans",
       "evidence": "community",
       "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-06T01:51:47Z",
+      "updated_at": "2026-11-22T17:24:26Z",
       "platform": [
         "switch2"
       ],
@@ -227,7 +32,7 @@
       "language": "zh-Hans",
       "evidence": "community",
       "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-06T01:51:46Z",
+      "updated_at": "2026-11-22T17:24:25Z",
       "platform": [
         "switch2"
       ]
@@ -243,7 +48,7 @@
       "language": "zh-Hans",
       "evidence": "community",
       "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-06T01:51:44Z",
+      "updated_at": "2026-11-22T17:24:24Z",
       "platform": [
         "switch2"
       ]
@@ -259,10 +64,61 @@
       "language": "zh-Hans",
       "evidence": "community",
       "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-06T01:51:42Z",
+      "updated_at": "2026-11-22T17:24:24Z",
       "platform": [
         "switch2"
       ]
+    },
+    {
+      "title": "极速融合 Fast Fusion|官方中文|V1.4.0|NUP|",
+      "original_url": "https://vip.gamers520.com/125505.html",
+      "published_at": "2026-11-06T22:00:31Z",
+      "summary": "未来是融合 Fast Fusion 是你可能经历过的最快的反重力赛车游戏。 将您的防重力车辆穿过壮丽的赛道,如美丽的红木森林、风暴星球坦佩斯塔,或穿过雅马峰的高处。 使用令人兴奋的“融合”功能!“Fu …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-22T17:24:23Z",
+      "platform": [
+        "switch2"
+      ],
+      "version": "v1.4.0"
+    },
+    {
+      "title": "火焰纹章 万缕千丝|官方中文|V1.1.1|NUP|",
+      "original_url": "https://vip.gamers520.com/125361.html",
+      "published_at": "2026-11-06T22:02:15Z",
+      "summary": "火焰纹章 万缕千丝 Fire Emblem: Fortune’s Weave 引導4種命運，拯救世界！ 在眾神的統治下，極其繁榮的韃古扎帝國。 如今，這段歷史將隨著魔神霸羅爾的復活而迎來終焉。 你身為 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-22T17:24:23Z",
+      "platform": [
+        "switch2"
+      ],
+      "version": "v1.1.1"
+    },
+    {
+      "title": "马力欧赛车世界.Mario Kart World|官方中文|V1.8.0|NUP|",
+      "original_url": "https://vip.gamers520.com/125351.html",
+      "published_at": "2026-11-05T21:00:08Z",
+      "summary": "马里奥赛车世界 马力欧卡丁车世界 Mario Kart World 游戏突破了传统赛道竞速的限制，将广阔的开放世界与刺激的卡丁车比赛相结合，让玩家驾驶各式各样的赛车，在城市、草原、沙漠、雪山和海洋等丰 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-22T17:24:23Z",
+      "platform": [
+        "switch2"
+      ],
+      "version": "v1.8.0"
     },
     {
       "title": "马力欧网球 狂热.Mario Tennis Fever|官方中文|V1.1.1|NUP|",
@@ -275,7 +131,7 @@
       "language": "zh-Hans",
       "evidence": "community",
       "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-06T01:51:41Z",
+      "updated_at": "2026-11-22T17:24:23Z",
       "platform": [
         "switch2"
       ],
@@ -292,7 +148,7 @@
       "language": "zh-Hans",
       "evidence": "community",
       "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-06T01:51:39Z",
+      "updated_at": "2026-11-22T17:24:23Z",
       "platform": [
         "switch2"
       ]
@@ -308,7 +164,7 @@
       "language": "zh-Hans",
       "evidence": "community",
       "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-06T01:51:38Z",
+      "updated_at": "2026-11-22T17:24:23Z",
       "platform": [
         "switch2"
       ]
@@ -324,7 +180,7 @@
       "language": "zh-Hans",
       "evidence": "community",
       "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-06T01:51:37Z",
+      "updated_at": "2026-11-22T17:24:23Z",
       "platform": [
         "switch2"
       ]
@@ -340,23 +196,7 @@
       "language": "zh-Hans",
       "evidence": "community",
       "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-06T01:51:35Z",
-      "platform": [
-        "switch2"
-      ]
-    },
-    {
-      "title": "塞尔达传说 时之笛 重制版.The Legend of Zelda: Ocarina of Time|官方中文|NUP|",
-      "original_url": "https://vip.gamers520.com/125375.html",
-      "published_at": "2026-11-05T21:13:06Z",
-      "summary": "跨越時空，少年將成為勇者 居住在科奇里森林的少年林克，某天被森之守護神「德庫樹長老」告知，自己原來身負拯救海拉魯的命運。為了對抗心懷強大野望的加儂多夫，少年林克和搭檔妖精「娜薇」一同離開 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-06T01:51:34Z",
+      "updated_at": "2026-11-22T17:24:23Z",
       "platform": [
         "switch2"
       ]
@@ -372,11 +212,171 @@
       "language": "zh-Hans",
       "evidence": "community",
       "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-06T01:51:33Z",
+      "updated_at": "2026-11-22T17:24:23Z",
       "platform": [
         "switch2"
       ],
       "version": "v1.3.3"
+    },
+    {
+      "title": "异度神剑 终极版 Switch2版.Xenoblade Chronicles: Definitive Edition – Nintendo Switch 2 Edition|官方中文|NUP|",
+      "original_url": "https://vip.gamers520.com/125613.html",
+      "published_at": "2026-11-08T19:00:10Z",
+      "summary": "异度之刃 终极版 加入这场备受赞誉的角色扮演游戏《人与机器之争》 探索舒尔克的起源,他与同伴们正与一个看似不可阻挡的机械威胁发生冲突。携手未来,将攻击紧密联系在一起,在穿越广阔世界的过程中,精心定位你 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-22T17:24:22Z",
+      "platform": [
+        "switch2"
+      ]
+    },
+    {
+      "title": "异度神剑2 Switch2版 Xenoblade Chronicles 2|官方中文|NUP|",
+      "original_url": "https://vip.gamers520.com/125596.html",
+      "published_at": "2026-11-08T21:00:57Z",
+      "summary": "我們去樂園吧！ 被雲海覆蓋，人們在龐大的生物「巨神獸（阿魯斯）」身上生活的世界──「阿爾斯特」。 少年雷克斯成為了「劍主」，透過使用亞種生命體「神劍」的少女焰的力量， 以「樂園」為目標邁進。 驅使各式 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-22T17:24:22Z",
+      "platform": [
+        "switch2"
+      ]
+    },
+    {
+      "title": "赛博朋克2077 终极版.Cyberpunk 2077: Ultimate Edition|官方中文|NUP|",
+      "original_url": "https://vip.gamers520.com/125599.html",
+      "published_at": "2026-11-08T22:02:04Z",
+      "summary": "《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。 故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会， 权力更迭和无尽的身体改造是这里不变的主题。 游戏截图",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-22T17:24:22Z",
+      "platform": [
+        "switch2"
+      ]
+    },
+    {
+      "title": "黄昏血族 The Duskbloods|官方英文|测试版|NUP|",
+      "original_url": "https://vip.gamers520.com/125543.html",
+      "published_at": "2026-11-07T22:00:09Z",
+      "summary": "化身为「黄昏血族」的一员，施展血之力赋予你的超凡异能，投身最多八人同场的线上战斗。* 当「人类黄昏」降临，血族应召而战。你将与其他血族结成短暂的同盟，并肩迎敌，也会与宿敌激烈交锋，争夺获得「初始之血」 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-22T17:24:22Z",
+      "platform": [
+        "switch2"
+      ]
+    },
+    {
+      "title": "生化危机4 重制版 黄金版.Resident Evil 4 Remake Gold Edition|豪华中文|NUP|",
+      "original_url": "https://vip.gamers520.com/125544.html",
+      "published_at": "2026-11-07T21:01:23Z",
+      "summary": "成功逃脱并战胜死亡的快感。一切在此集结。 包含《Resident Evil 4 Gold Edition》本篇、追加剧情 DLC“逆命殊途”以及追加DLC组合“额外内容扩展包”在内的“Gold Edi …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-22T17:24:22Z",
+      "platform": [
+        "switch2"
+      ]
+    },
+    {
+      "title": "识质存在 豪华版 PRAGMATA Deluxe Edition|官方中文|NUP|",
+      "original_url": "https://vip.gamers520.com/125547.html",
+      "published_at": "2026-11-07T21:02:21Z",
+      "summary": "【早购特典内容】 ・休服装「新派武士道」 ・戴安娜服装「新派女忍者」 分别为休和戴安娜换上以战国时代英勇无畏的武士，以及在暗处活动的迷人忍者为主题的服装游玩吧。 ※早购特典有可能在日后提供其他获取方式 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-22T17:24:22Z",
+      "platform": [
+        "switch2"
+      ]
+    },
+    {
+      "title": "轨道双子星 数字豪华版.Orbitals Digital Deluxe|官方中文|NUP|",
+      "original_url": "https://vip.gamers520.com/125549.html",
+      "published_at": "2026-11-07T21:03:17Z",
+      "summary": "– 《軌道雙子星》遊戲本體 – 數位美術設定集*（收錄滿滿復古動畫風格的概念圖與插畫） – 《軌道雙子星》數位遊戲原聲帶* – 兩套專屬角色服裝（麻希與 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-22T17:24:22Z",
+      "platform": [
+        "switch2"
+      ]
+    },
+    {
+      "title": "异度神剑X 终极版 Xenoblade Chronicles X Definitive Edition|官方中文|NUP|",
+      "original_url": "https://vip.gamers520.com/125551.html",
+      "published_at": "2026-11-07T21:05:56Z",
+      "summary": "《Xenoblade X》的「终极版」这次要在 Nintendo Switch 登场。 2015 年发售的 Wii U 专用游戏软体、开放世界 RPG《Xenoblade X》于 Nintendo S …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-22T17:24:22Z",
+      "platform": [
+        "switch2"
+      ]
+    },
+    {
+      "title": "荒野大镖客 救赎 Red Dead Redemption|官方中文|NUP|",
+      "original_url": "https://vip.gamers520.com/125553.html",
+      "published_at": "2026-11-07T21:10:22Z",
+      "summary": "體驗開創遊戲世代的史詩西部荒野冒險 昔日亡命之徒約翰．瑪斯頓遭到聯邦探員以家人要挾，不得不去追捕那些自己以前曾經稱兄道弟的幫派罪犯。 體驗瑪斯頓在幅員遼闊的美國西部和墨西哥的旅程， 看他如何在這部 2 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-22T17:24:22Z",
+      "platform": [
+        "switch2"
+      ]
+    },
+    {
+      "title": "塞尔达传说 时之笛 重制版.The Legend of Zelda: Ocarina of Time|官方中文|NUP|",
+      "original_url": "https://vip.gamers520.com/125375.html",
+      "published_at": "2026-11-05T21:13:06Z",
+      "summary": "跨越時空，少年將成為勇者 居住在科奇里森林的少年林克，某天被森之守護神「德庫樹長老」告知，自己原來身負拯救海拉魯的命運。為了對抗心懷強大野望的加儂多夫，少年林克和搭檔妖精「娜薇」一同離開 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-22T17:24:20Z",
+      "platform": [
+        "switch2"
+      ]
     }
   ]
 }

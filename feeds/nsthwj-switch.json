@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-22T16:27:45.768956+00:00",
+  "generated_at": "2026-11-22T22:35:58.500506+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -256,6 +256,52 @@
       "updated_at": "2026-11-22T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-22T16:27:57.128246+00:00"
+    },
+    {
+      "id": "0c82133ee19701fa71440175d4ef921493c9f04929024a80bb6d8146c4476887",
+      "title": "苍之彼方的四重奏EXTRA1S|蒼の彼方のフォーリズム EXTRA1S汉化",
+      "original_url": "https://nsthwj.cn/game/switch/138398",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《苍之彼方的四重奏 EXTRA 1》是由日本知名美少女游戏品牌 sprite 于 2017 年推出的以《苍之彼方的四重奏》中人气角色有坂真白为主角的 Fan Disc。虽然只是以单角色为主的 FD，但是游戏中使用了大量全新 CG 进行演出，品质优异。是热爱本系列的玩家不可错过的作品。 国际版收录了简体中文版、繁体中文…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.2",
+      "updated_at": "2026-11-22T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-22T22:36:00.149719+00:00"
+    },
+    {
+      "id": "a6d9708758bbda80b25493aa41a3b41c2511c77fa6f61a14257ff9c4e4f8c808",
+      "title": "苍之彼方的四重奏EXTRA2S|蒼の彼方のフォーリズム EXTRA2S汉化",
+      "original_url": "https://nsthwj.cn/game/switch/138397",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《苍之彼方的四重奏 EXTRA 2》是日本美少女游戏知名品牌 sprite 所制作的超人气作品系列《苍之彼方的四重奏》于 2022 年夏天推出的最新续作，是围绕人气女主角鸢泽美咲所展开的续篇故事。游戏中使用了大量全新 CG 进行演出，品质优异。是热爱本系列的玩家不可错过的作品。 国际版收录了简体中文版、繁体中文版、英…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.2",
+      "updated_at": "2026-11-22T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-22T22:36:01.410013+00:00"
     },
     {
       "id": "95824c5df6468461c051988f9499017f754e197fc2180b6fc237d6c3c1fb9096",
@@ -2260,52 +2306,6 @@
       "updated_at": "2026-11-12T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-13T02:04:37.767120+00:00"
-    },
-    {
-      "id": "d35d31cfa7026027cbd63bb8219e93ca74720586c020cd8343d61d915da4c7c1",
-      "title": "[移植游戏]植物大战僵尸2：返茂版|Plants vs. Zombies 2: Reflourished汉化",
-      "original_url": "https://nsthwj.cn/game/switch/136807",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-12T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-13T02:04:50.056351+00:00"
-    },
-    {
-      "id": "bf4b43d22447bf7c0186017fc8ad09767064bf7c36b375757765063e5bef02f1",
-      "title": "我的世界：基岩版|Minecraft中文",
-      "original_url": "https://nsthwj.cn/game/switch/717",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "《我的世界》是一款沙盒游戏，整个游戏没有剧情，玩家在游戏中自由建设和破坏。玩家可以通过搭积木一样的方式，轻而易举的就能制作出小木屋、城堡甚至城市。而且玩家不仅可以单人娱乐，还可以多人联机，也可以安装一些其他玩家自制的模组来增加游戏趣味性。 《我的世界》着重于让玩家去探索、交互，并且改变由方块所搭建成的地图。除了方块以…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.26.62",
-      "updated_at": "2026-11-12T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-13T02:05:06.575630+00:00"
     }
   ]
 }
