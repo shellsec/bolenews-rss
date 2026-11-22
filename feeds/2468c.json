@@ -1,9 +1,180 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-22T00:29:32.625403+00:00",
+  "generated_at": "2026-11-22T08:12:59.271251+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "奇唤士 The Thaumaturge",
+      "original_url": "https://2468c.com/122175.html",
+      "published_at": "2026-11-22T03:58:38Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-22T03:58:38Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-22T08:13:01.275069+00:00"
+    },
+    {
+      "title": "奇迹时代 4 Age of Wonders 4",
+      "original_url": "https://2468c.com/122157.html",
+      "published_at": "2026-11-22T03:52:35Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-22T03:52:35Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "纸艺历险 Papetura",
+      "original_url": "https://2468c.com/122159.html",
+      "published_at": "2026-11-22T03:52:35Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-22T03:52:35Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "死亡之门 Death’s Door",
+      "original_url": "https://2468c.com/122161.html",
+      "published_at": "2026-11-22T03:52:35Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-22T03:52:35Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "玩具熊的五夜后宫：陷落球池 Five Nights at Freddys Into The Pit",
+      "original_url": "https://2468c.com/122163.html",
+      "published_at": "2026-11-22T03:52:35Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-22T03:52:35Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "橡皮鸭子波浪赛车 Rubberduck Wave Racer",
+      "original_url": "https://2468c.com/122165.html",
+      "published_at": "2026-11-22T03:52:35Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-22T03:52:35Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "爱多爵士 Sir Lovelot",
+      "original_url": "https://2468c.com/122167.html",
+      "published_at": "2026-11-22T03:52:34Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-22T03:52:34Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "莱卡：鲜血铸就 Laika Aged Through Blood",
+      "original_url": "https://2468c.com/122169.html",
+      "published_at": "2026-11-22T03:52:34Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-22T03:52:34Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "玩具熊的五夜后宫：救命 Five Nights at Freddys Help Wanted Full Time Edition",
+      "original_url": "https://2468c.com/122171.html",
+      "published_at": "2026-11-22T03:52:34Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-22T03:52:34Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "红色物质 2 Red Matter 2",
+      "original_url": "https://2468c.com/122173.html",
+      "published_at": "2026-11-22T03:52:11Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-22T03:52:11Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
     {
       "title": "完蛋！我被美女包围了！ Love Is All Around",
       "original_url": "https://2468c.com/113216.html",
@@ -1555,178 +1726,6 @@
       "updated_at": "2026-11-13T22:19:49Z",
       "platform": [
         "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "逆袭重启 Rebooted Fate",
-      "original_url": "https://2468c.com/121995.html",
-      "published_at": "2026-11-13T22:17:10Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-13T22:17:10Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "彩虹万岁 Hail to the Rainbow",
-      "original_url": "https://2468c.com/121997.html",
-      "published_at": "2026-11-13T22:13:02Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-13T22:13:02Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "人中之龙0：誓约的场所 – 导演剪辑版.Yakuza 0 Director’s Cut",
-      "original_url": "https://2468c.com/112409.html",
-      "published_at": "2026-11-13T01:44:05Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-13T01:45:45Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-13T02:02:06.791713+00:00"
-    },
-    {
-      "title": "人中之龙3：外传 Dark Ties- Dark Ties.Yakuza Kiwami 3 & Dark Ties",
-      "original_url": "https://2468c.com/112412.html",
-      "published_at": "2026-11-13T01:38:25Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-13T01:44:03Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-13T17:53:25.440152+00:00"
-    },
-    {
-      "title": "如龙：极 1 + 2.Yakuza Kiwami 1+2",
-      "original_url": "https://2468c.com/112414.html",
-      "published_at": "2026-11-13T01:41:21Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-13T01:43:22Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "如龙 7：光与暗的去向 – 英雄版 Yakuza Like A Dragon Hero Edition",
-      "original_url": "https://2468c.com/112457.html",
-      "published_at": "2026-11-13T01:37:27Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-13T01:38:52Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "如龙7外传：无名之龙.Like a Dragon Gaiden: The Man Who Erased His Name",
-      "original_url": "https://2468c.com/112912.html",
-      "published_at": "2026-11-13T01:36:39Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-13T01:37:29Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "如龙 8：无尽财富 – 终极版 Like a Dragon: Infinite Wealth – Ultimate Edition",
-      "original_url": "https://2468c.com/112473.html",
-      "published_at": "2026-11-13T01:34:30Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-13T01:35:42Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "如龙：维新！极.Like a Dragon: Ishin!",
-      "original_url": "https://2468c.com/100069.html",
-      "published_at": "2026-11-13T01:33:27Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-13T01:34:20Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "病态：艾尔之王 Morbid The Lords of Ire",
-      "original_url": "https://2468c.com/121974.html",
-      "published_at": "2026-11-13T01:31:01Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-13T01:31:01Z",
-      "platform": [
-        "ps4"
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5"

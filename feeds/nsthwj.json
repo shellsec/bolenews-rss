@@ -1,9 +1,78 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-22T00:30:05.551552+00:00",
+  "generated_at": "2026-11-22T08:13:37.923811+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "9949fc0b1062d76e3bd2a1ecdfe50069db42a191c89bbfdfe6c9ba2692627fe2",
+      "title": "[移植游戏]忍者龙剑传：黑之章|Ninja Gaiden Black汉化",
+      "original_url": "https://nsthwj.cn/game/switch/138326",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Ninja Gaiden Black 进入游戏 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-22T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-22T08:13:31.637802+00:00"
+    },
+    {
+      "id": "3f35fa4af198a565ec2bdc0dc260ead1a46fc7c607773a45ab716423b311c49f",
+      "title": "终极幸运塔楼|终极幸运之塔|Lucky Tower Ultimate中文",
+      "original_url": "https://nsthwj.cn/game/switch/15052",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "这是一场与众不同的 Roguelite 冒险，即使没能逃出危险塔楼，也能体验一把诙谐有趣的卡通小剧场。勇敢的主角，前进吧！ 冯·万斯特正努力逃离一座难关重重的塔楼，玩家要与这位极具魅力、拥有迷人发型的自恋骑士一同踏上冒险之旅，探索迷宫，这里遍布各种难以预测的致命陷阱和怪物，途中甚至可能会有其他困于塔中之人加入逃脱计划…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.2.4g含1.0.14金手指",
+      "updated_at": "2026-11-22T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-22T08:13:33.002765+00:00"
+    },
+    {
+      "id": "11ff98947034482dbdfb54ff3a85adb5431cb750fe00998db6a6972b2ed69102",
+      "title": "恐龙战队：丽塔回溯|Mighty Morphin Power Rangers: Rita's Rewind汉化",
+      "original_url": "https://nsthwj.cn/game/switch/10966",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "在《恐龙战队：丽塔回溯》中，队员们要面对他们长期以来的克星——机器人丽塔的转世。机器人丽塔变出了一个传送门，把自己送回了过去，这样她就可以和年轻时的自己结成联盟，最终消灭恐龙战队。 两位丽塔与她们跨越《恐龙战队》时间线的怪兽军团，能否成功摧毁恐龙战队？还是这群充满活力的少年会学会团结协作，扭转这场灾难性的时间对抗？…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.4含1.0.4金手指",
+      "updated_at": "2026-11-22T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-22T08:13:34.570049+00:00"
+    },
     {
       "id": "6abe55d666393ae7be5ad51990636f8eb087da7024c255dc13012efb52e48d80",
       "title": "最终幻想4像素复刻版|FINAL FANTASY IV",
@@ -960,29 +1029,6 @@
       "summary_checked_at": "2026-11-20T13:14:47.591101+00:00"
     },
     {
-      "id": "9949fc0b1062d76e3bd2a1ecdfe50069db42a191c89bbfdfe6c9ba2692627fe2",
-      "title": "[移植游戏]忍者龙剑传：黑之章|Ninja Gaiden Black",
-      "original_url": "https://nsthwj.cn/game/switch/138326",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Ninja Gaiden Black 进入游戏 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-20T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-20T13:14:49.070864+00:00"
-    },
-    {
       "id": "c64b23f8809c284689b072d59f100b760124a7e5956a4a9c37faf6d16a5956e6",
       "title": "[移植游戏]死侍|Deadpool中文",
       "original_url": "https://nsthwj.cn/game/switch/138325",
@@ -1467,52 +1513,6 @@
       "updated_at": "2026-11-18T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-19T03:41:47.040047+00:00"
-    },
-    {
-      "id": "ca160dda96ecdc8bfb3c4f1c00fec2fc9ca412d4015d431e6fbb44fe34f8edb5",
-      "title": "[移植游戏]寂静岭8：暴雨|Silent Hill: Downpour汉化",
-      "original_url": "https://nsthwj.cn/game/switch/137517",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：0.2.0",
-      "updated_at": "2026-11-17T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-17T04:40:37.398564+00:00"
-    },
-    {
-      "id": "c569fe818651b39948b6ea453ed494d57750e43f59b7f97b82c88f195525a204",
-      "title": "[移植游戏]刀魂2|SoulCalibur II",
-      "original_url": "https://nsthwj.cn/game/switch/138253",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：0.4.0",
-      "updated_at": "2026-11-17T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-17T23:00:31.045483+00:00"
     },
     {
       "id": "eb4ccf4deb0bae2f26ca4ce64de996d5c38883d4aded7d2137371428dfbcd35f",
