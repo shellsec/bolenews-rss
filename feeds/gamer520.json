@@ -1,9 +1,48 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-22T22:35:42.079816+00:00",
+  "generated_at": "2026-11-23T03:48:59.833781+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "恶魔城 贝尔蒙特的诅咒|官方中文|本体+1.1.4升补+2DLC|NSP|",
+      "original_url": "https://vip.gamers520.com/123961.html",
+      "published_at": "2026-11-16T21:10:01Z",
+      "summary": "Castlevania: Belmont’s Curse 发行日期：2026 年 10 月 14 日 游戏类型：动作 / 角色扮演 语言支持：简体中文 / 多国语言 游戏简介鲜红的诅咒，会 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-23T02:40:02Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.1.4"
+    },
+    {
+      "title": "恶魔城 绝望的和声|豪华中文+全人物DLC|移植版|",
+      "original_url": "https://vip.gamers520.com/126517.html",
+      "published_at": "2026-11-22T22:00:05Z",
+      "summary": "Castlevania: Harmony of Despair 《恶魔城：绝望的和声》是由 Konami 推出的一款经典横版动作冒险游戏，融合了《恶魔城》系列标志性的哥特式美术风格、探索战斗与角色成长 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-23T02:10:46Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ]
+    },
     {
       "title": "奥兹国安魂曲|官方中文|本体+1.0.1升补|NSP|",
       "original_url": "https://vip.gamers520.com/122797.html",
@@ -355,26 +394,6 @@
         "game_update"
       ],
       "version": "1.308"
-    },
-    {
-      "title": "恶魔城 贝尔蒙特的诅咒|官方中文|本体+1.1.4升补+2DLC|NSP|",
-      "original_url": "https://vip.gamers520.com/123961.html",
-      "published_at": "2026-11-16T21:10:01Z",
-      "summary": "Castlevania: Belmont’s Curse 发行日期：2026 年 10 月 14 日 游戏类型：动作 / 角色扮演 语言支持：简体中文 / 多国语言 游戏简介鲜红的诅咒，会 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-17T01:50:22Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ],
-      "version": "1.1.4"
     },
     {
       "title": "二之国 白色圣灰的女王|V2.0汉化配音整合版|NSP|",
@@ -1380,7 +1399,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-19T03:41:29.953168+00:00"
+      "summary_checked_at": "2026-11-23T03:49:02.584567+00:00"
     },
     {
       "title": "现代战争4 决战时刻|移植版|",
@@ -1759,22 +1778,6 @@
       "original_url": "https://vip.gamers520.com/124630.html",
       "published_at": "2026-10-24T22:05:50Z",
       "summary": "《极度恐慌》（F.E.A.R.）是一款融合了心理恐怖与第一人称射击（FPS）的经典游戏大作。 游戏以超自然灵异现象与紧张刺激的枪战交织为核心特色，最具代表性的标志便是带有标志性红外眼镜与恐怖小女孩“阿 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-25T23:54:10Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "死亡空间3|移植版|",
-      "original_url": "https://vip.gamers520.com/124626.html",
-      "published_at": "2026-10-24T22:01:15Z",
-      "summary": "Dead Space 3 与艾萨克·克拉克和约翰·卡佛中士穿越冰封星球塔瓦兰提斯的大地，探查并摧毁尸变体爆发的源头。 为原材料和拾荒零件清理严酷的环境，打造终极自定义武器和求生工具——如果艾萨克和卡佛 …",
       "content": "",
       "image_url": "",
       "content_scope": "summary",
