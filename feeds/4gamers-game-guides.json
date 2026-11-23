@@ -1,9 +1,22 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-23T03:48:57.869619+00:00",
+  "generated_at": "2026-11-23T14:58:45.366485+00:00",
   "source_url": "https://www.4gamers.com.tw/rss/latest-news",
   "items": [
+    {
+      "title": "別人打劫他賞鳥《GTA6》玩家單日收齊60種圖鑑獲R星開發者讚賞",
+      "original_url": "https://www.4gamers.com.tw/news/detail/83459/gta-6-vice-city-leonida-wildlife-birdwatching",
+      "published_at": "2026-11-23T09:22:51Z",
+      "source_name": "4Gamers 中文遊戲攻略",
+      "language": "zh-Hant",
+      "summary": "《GTA6》發售後玩家陸續投入雷歐奈達的愜意生活與搶劫事件中，但美國奧杜邦學會專欄作者 Nicholas Lund 則是在第一時間投入收集，於發售隔日早上集齊全數 60 種鳥類圖鑑。",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "延期一年多《異世界小白玩家－用HP1展開最強最快的迷宮攻略－》動畫2027年1月登場",
       "original_url": "https://www.4gamers.com.tw/news/detail/83418/otherworldly-munchkin-animation-release-in-2027-january",

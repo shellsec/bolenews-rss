@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-23T03:48:59.833781+00:00",
+  "generated_at": "2026-11-23T14:58:46.612203+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -503,7 +503,7 @@
         "game_update"
       ],
       "version": "v1.4.0",
-      "summary_checked_at": "2026-11-19T13:33:28.721053+00:00"
+      "summary_checked_at": "2026-11-23T14:58:48.908804+00:00"
     },
     {
       "title": "和平之怒|官方中文|本体+1.2.0升补|NSP|",

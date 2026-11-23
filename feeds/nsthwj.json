@@ -1,9 +1,78 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-23T03:49:23.720592+00:00",
+  "generated_at": "2026-11-23T14:59:08.364502+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "5e04b9767c7203296cc23df0d00f24af8b1412aed27cf93a4a7f7a57ded82c4d",
+      "title": "[移植游戏]银河战士：萨姆斯归来|Metroid: Samus Returns",
+      "original_url": "https://nsthwj.cn/game/switch/138399",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.5.0",
+      "updated_at": "2026-11-23T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-23T14:59:05.296095+00:00"
+    },
+    {
+      "id": "1b67be7ad1ccd42350fafa3eef6da57c302c8aa3fdf6b9165aa4882b2e02ee3c",
+      "title": "苍之彼方的四重奏|Aokana: Four Rhythms Across the Blue汉化",
+      "original_url": "https://nsthwj.cn/game/switch/1379",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《苍之彼方的四重奏》的故事设定在一个人类可以自由自在地翱翔于天际，甚至比骑自行车还要简单的普通世界。在那里，流行着一种名为“Flying Circus(飞翔马戏团)”的运动，而曾被视为该项运动的未来之星、被寄予厚望的天才少年日向晶也，因为某一次压倒性的败北，而选择默默地离开了空中竞技的赛场。但是，在他与突然转校而来的…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.02",
+      "updated_at": "2026-11-23T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-23T14:59:06.259175+00:00"
+    },
+    {
+      "id": "ba90d5480097fa36029a9cdcf327242351ba05a7bf333abcc48685c93b63a2ba",
+      "title": "病态：艾尔之王|病态：愤怒之王|Morbid: The Lords of Ire中文",
+      "original_url": "https://nsthwj.cn/game/ps4/138020",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "由《Morbid:The Seven Acolytes》的创作者倾力打造……引领您踏上一场血腥险恶的冒险，体验令人不安的场景、深渊怪物和大量鲜血，在严酷的恐怖朋克世界中击败艾尔之王。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.06 系统要求：≥ 5.05",
+      "updated_at": "2026-11-23T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-23T14:59:09.526498+00:00"
+    },
     {
       "id": "9949fc0b1062d76e3bd2a1ecdfe50069db42a191c89bbfdfe6c9ba2692627fe2",
       "title": "[移植游戏]忍者龙剑传：黑之章|Ninja Gaiden Black汉化",
@@ -1466,55 +1535,6 @@
       "summary_checked_at": "2026-11-19T13:33:51.520883+00:00"
     },
     {
-      "id": "636cc2564e16ef1ef6b982d777bffe7862442cd97c925e75280e28b84a4c7350",
-      "title": "[移植游戏]寄生前夜高清版|Parasite Eve中文国语版",
-      "original_url": "https://nsthwj.cn/game/switch/138263",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "故事讲述了纽约市警官阿雅·布莱亚（Aya Brea）在1997年的六天时间里，试图阻止正在引发人类自燃，从而毁灭人类的怪物。玩家可以在几个开放的环境中自由移动，同时利用一个可暂停的实时战斗系统，游戏包含了一些角色扮演游戏元素。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-19T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-19T13:33:53.023692+00:00"
-    },
-    {
-      "id": "f42929a5b7e35004ab85f188da767ae0e61aa9e64a36c7608b34ce23b4b5b90d",
-      "title": "★[工具]大气层整合包1.12.2+Hekate6.5.5(含23.5.0固件包)",
-      "original_url": "https://nsthwj.cn/game/switch/3220",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "###升级须知### 1.建议读卡器 传输系统文件 不建议用数据线传输系统文件 2.建议win系统 传输系统 不建议用苹果系统传输系统文件 3. 国行机器要先转换为国际版之后再升级固件 4. 游戏都能运行情况下建议不用升级 5.如 担心升级系统导致游戏存档丢失请务必提前使用JKSV备份存档 6. 升级完大气层如有无可…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "1.12.2",
-      "updated_at": "2026-11-19T00:00:00+08:00",
-      "update_date_precision": "day",
-      "tags": [
-        "firmware_update"
-      ],
-      "summary_checked_at": "2026-11-19T22:18:54.858859+00:00"
-    },
-    {
       "id": "eb4ccf4deb0bae2f26ca4ce64de996d5c38883d4aded7d2137371428dfbcd35f",
       "title": "地狱魅魔|Succubus中文",
       "original_url": "https://nsthwj.cn/game/ps4/137984",
@@ -2381,41 +2401,6 @@
         }
       ],
       "summary_checked_at": "2026-11-04T14:20:53.914849+00:00"
-    },
-    {
-      "id": "7d11aa4ed92a1827c061ebc4918e640a4335bbd97efd5f074cbe89666d20c00d",
-      "title": "午夜赤霞|Cabernet中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137710",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "《Cabernet》是一款以19世纪东欧世界为背景的2D剧情类角色扮演游戏。年轻的吸血鬼吉德·丽莎将在一群毫无戒心的镇民之中，以不死之身开启新生活。你会选择维持人性，还是毅然走上恐怖的吸血鬼之路？",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.09 系统要求：≥ 5.05",
-      "updated_at": "2026-11-02T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/15Qy5HGzPi4VMN6kPCNPdhw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5Re2HtdDdQuqwAnsakPOy0A1?pwd=nrqq",
-          "extraction_code": "nrqq"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:54.521361+00:00"
     }
   ]
 }
