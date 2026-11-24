@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 10,
+  "config_version": 11,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-22T01:30:12.801327+00:00",
+  "generated_at": "2026-11-24T05:27:42.988399+00:00",
   "sources": [
     {
       "id": "gh-homebrew-287271987",
@@ -502,6 +502,23 @@
       "name": "Greeny",
       "url": "https://github.com/JhondyDario/Greeny/releases.atom",
       "repo": "JhondyDario/Greeny",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "switch1"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1467349490",
+      "name": "switch-shell-car",
+      "url": "https://github.com/tomeoeo/switch-shell-car/releases.atom",
+      "repo": "tomeoeo/switch-shell-car",
       "category": "homebrew",
       "language": "en",
       "platforms": [

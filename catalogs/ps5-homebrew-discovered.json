@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 10,
+  "config_version": 11,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-21T02:43:03.914042+00:00",
+  "generated_at": "2026-11-24T05:27:42.988399+00:00",
   "sources": [
     {
       "id": "gh-homebrew-395383178",
@@ -604,6 +604,23 @@
       "name": "mediathek-ps5",
       "url": "https://github.com/M0S4YSH3LL0/mediathek-ps5/releases.atom",
       "repo": "M0S4YSH3LL0/mediathek-ps5",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1469595302",
+      "name": "chiaki4ps5",
+      "url": "https://github.com/Valevixi/chiaki4ps5/releases.atom",
+      "repo": "Valevixi/chiaki4ps5",
       "category": "homebrew",
       "language": "en",
       "platforms": [
