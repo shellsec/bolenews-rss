@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-24T02:23:03.046536+00:00",
+  "generated_at": "2026-11-24T12:46:33.659293+00:00",
   "source_url": "https://www.a9vg.com/",
   "items": [
     {
@@ -15,7 +15,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-24T02:23:04.882995+00:00"
+      "summary_checked_at": "2026-11-24T12:46:49.103849+00:00"
     },
     {
       "id": "10170203b71618388d4261e526d39ae2f475ecad0ffeb3be97a55c2492c678a2",
@@ -372,7 +372,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-23T14:58:55.946201+00:00"
+      "summary_checked_at": "2026-11-24T12:46:38.450927+00:00"
     },
     {
       "id": "f20aeebc375d9ddfc9f4f461ded35e4b1b75f247f326e5b3ac5caff37c8445ea",
@@ -399,7 +399,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-23T14:58:57.155071+00:00"
+      "summary_checked_at": "2026-11-24T12:46:40.002600+00:00"
     },
     {
       "id": "5bd4486b124041b17ca2459677938eea0171102c6985cde457d3ce6ceb81de16",
@@ -482,7 +482,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-23T14:58:58.282908+00:00"
+      "summary_checked_at": "2026-11-24T12:46:41.983729+00:00"
     },
     {
       "id": "979b5ac62091f936a8fc75426cc5a4a46557dce413b89eb918a2abed6dda6594",
@@ -495,7 +495,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-23T14:58:59.106377+00:00"
+      "summary_checked_at": "2026-11-24T12:46:42.882672+00:00"
     },
     {
       "id": "9beea7f3a60a8a493e3b40c6775cf01ac189158daad179987104fea8ac163079",
@@ -508,7 +508,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-23T14:59:01.386055+00:00"
+      "summary_checked_at": "2026-11-24T12:46:45.521470+00:00"
     },
     {
       "id": "e4c5c3f96bfa3c43c6b6c4e908cb41482de46e0d8b7a7274df8c9c1fea1609cd",
@@ -549,7 +549,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-23T14:59:02.840009+00:00"
+      "summary_checked_at": "2026-11-24T12:46:46.840325+00:00"
     },
     {
       "id": "74e4cba70b600f200a6bc42400f5757cc1d8827a44345075795b32013a9e5992",
@@ -705,7 +705,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-23T14:58:59.837253+00:00"
+      "summary_checked_at": "2026-11-24T12:46:43.848352+00:00"
     },
     {
       "id": "bc9a5d4bfb656cbff57b962c5d712232435bb8eb876b0cb22adc387f173403f4",
@@ -718,7 +718,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-23T14:59:00.545264+00:00"
+      "summary_checked_at": "2026-11-24T12:46:44.774931+00:00"
     },
     {
       "id": "7883f389ffc67bdafb2e63fc044123cb0b3467e012ff7cf90d7b70e0e132137f",
@@ -1122,7 +1122,35 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-24T02:23:04.168891+00:00"
+      "summary_checked_at": "2026-11-24T12:46:48.220586+00:00"
+    },
+    {
+      "id": "5fc252f86ed26b005a3f4557b363d3fb9e24bbd74e973fb133c486b6b3c54fd7",
+      "title": "在末日倒计时中陪伴女高中生：专访《追逐末日之光》制作人",
+      "original_url": "https://www.a9vg.com/article/247313",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-24T12:46:35.788137+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "6d2b35f72b017e8a08870e29194683befd1270a4d7bcf8ba1d8c8a81c7767eb5",
+      "title": "KONAMI 集团将主办并担任 LPGA 官方赛事“KONAMI CHAMPIONSHIP”特别赞助商",
+      "original_url": "https://www.a9vg.com/article/247285",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-24T12:46:36.698972+00:00",
+      "summary_origin": "publisher_description"
     }
   ]
 }

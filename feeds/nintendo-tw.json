@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-24T02:23:18.503266+00:00",
+  "generated_at": "2026-11-24T12:46:51.883385+00:00",
   "source_url": "https://www.nintendo.com/tw/topics",
   "items": [
     {
@@ -496,6 +496,34 @@
       "content_scope": "metadata",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-20T13:14:43.968344+00:00"
+    },
+    {
+      "id": "74d872c7d1b3d326447afa85f8892ae27ae78a94b39e72e0ca630ee869f9b176",
+      "title": "【11月24日新增】《Nintendo GameCube™ – Nintendo Classics》新增遊戲作品《ウェーブレース ブルーストーム》。2026.11.24",
+      "original_url": "https://www.nintendo.com/tw/topics/article/3Fng4jlSvJCNsrCnMnldwI",
+      "summary": "【11月24日新增】《Nintendo GameCube™ – Nintendo Classics》新增遊戲作品《ウェーブレース ブルーストーム》。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hant",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-24T12:46:52.336270+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "12b7c6af24879d2bdad523c0f074594924606cb9a597ce2c716c6f8597f228c2",
+      "title": "善用當多慮消除方塊，以取得王者盃為目標。TETRIS®王者盃「皮克敏4當多慮檢定 合作祭！」即將舉辦。2026.11.24",
+      "original_url": "https://www.nintendo.com/tw/topics/article/9rvRskcyL0VjTO8nNquRY",
+      "summary": "善用當多慮消除方塊，以取得王者盃為目標。TETRIS®王者盃「皮克敏4當多慮檢定 合作祭！」即將舉辦。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hant",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-24T12:46:52.858579+00:00",
+      "summary_origin": "publisher_description"
     }
   ]
 }
