@@ -1,9 +1,65 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-23T14:58:46.612203+00:00",
+  "generated_at": "2026-11-24T02:22:57.471991+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "东方少女绮想谭|官方中文|本体+1.0.5升补|NSZ|原版|",
+      "original_url": "https://vip.gamers520.com/42246.html",
+      "published_at": "2026-11-23T22:00:42Z",
+      "summary": "东方少女绮想谭 Touhou Shoujo Tale of Beautiful Memories 俯视着像素风的幻想乡并在里面尽情冒险的模拟3D动作RPG! 通过冲刺、跳跃、射击绕过或击倒碍事的敌人! …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-24T02:12:17Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.5"
+    },
+    {
+      "title": "未来骑士团 Future Knight|官方中文|本体+1.5.0升补|NSP|",
+      "original_url": "https://vip.gamers520.com/126572.html",
+      "published_at": "2026-11-23T22:01:16Z",
+      "summary": "下面是PC介绍 和NS版本一样的",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-24T02:12:14Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.5.0"
+    },
+    {
+      "title": "阿修罗之怒|官方中文|移植版|",
+      "original_url": "https://vip.gamers520.com/126575.html",
+      "published_at": "2026-11-23T22:10:33Z",
+      "summary": "《阿修罗之怒》（日语：アスラズラース） 背景与剧情 • 世界观：融合印度教神话色彩与科幻、宗教元素的世界，存在半机械神明与宏大的神国设定。 • 核心故事：主角阿修罗原是神国“八神将”之一，却遭其余七神 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-24T02:12:13Z",
+      "platform": [
+        "switch1"
+      ]
+    },
     {
       "title": "恶魔城 贝尔蒙特的诅咒|官方中文|本体+1.1.4升补+2DLC|NSP|",
       "original_url": "https://vip.gamers520.com/123961.html",
@@ -1471,7 +1527,7 @@
         "game_update"
       ],
       "version": "1.27.00",
-      "summary_checked_at": "2026-11-19T22:18:37.907743+00:00"
+      "summary_checked_at": "2026-11-24T02:23:00.181549+00:00"
     },
     {
       "title": "红色警戒2|移植版|",
@@ -1740,54 +1796,6 @@
         "game_update"
       ],
       "version": "2.0.2"
-    },
-    {
-      "title": "守护英雄 高清|移植版|",
-      "original_url": "https://vip.gamers520.com/124628.html",
-      "published_at": "2026-10-24T22:07:33Z",
-      "summary": "《守護者列傳 HD》（Guardian Heroes HD）是日本傳奇開發商 Treasure 於 2011 年推出的經典動作遊戲重製版。 遊戲完美融合了橫向捲軸清版動作、格鬥指令連招與 RPG 成長 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-26T00:09:04Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "极度深寒|移植版|",
-      "original_url": "https://vip.gamers520.com/124632.html",
-      "published_at": "2026-10-24T22:06:31Z",
-      "summary": "玩家将扮演美国海岸警卫队队员汤姆·汉森（Tom Hansen），在狂风暴雨的波令海接获求救信号，登上了一艘被突变生物与恐怖异形占据的俄罗斯捕鲸船，展开一场生死存亡的求生之旅。 核心特色： 动态摇晃场景 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-25T23:54:10Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "极度恐慌|移植版|",
-      "original_url": "https://vip.gamers520.com/124630.html",
-      "published_at": "2026-10-24T22:05:50Z",
-      "summary": "《极度恐慌》（F.E.A.R.）是一款融合了心理恐怖与第一人称射击（FPS）的经典游戏大作。 游戏以超自然灵异现象与紧张刺激的枪战交织为核心特色，最具代表性的标志便是带有标志性红外眼镜与恐怖小女孩“阿 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-25T23:54:10Z",
-      "platform": [
-        "switch1"
-      ]
     }
   ]
 }

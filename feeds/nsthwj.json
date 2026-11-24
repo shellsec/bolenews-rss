@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-23T14:59:08.364502+00:00",
+  "generated_at": "2026-11-24T02:23:26.545161+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -51,6 +51,75 @@
       "summary_checked_at": "2026-11-23T14:59:06.259175+00:00"
     },
     {
+      "id": "89dd64ee171c0c09e24d259325aed73676689312de324ad8523673a137145e63",
+      "title": "[移植游戏]阿修罗之怒|Asura's Wrath汉化",
+      "original_url": "https://nsthwj.cn/game/switch/138400",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.1",
+      "updated_at": "2026-11-23T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-24T02:23:20.935146+00:00"
+    },
+    {
+      "id": "2748bb9d59b6f8b99c26e61e2e7343a13bc94543ec2627de0f9af2665ed19ec9",
+      "title": "[移植游戏]恶魔城：绝望的和声|Castlevania: Harmony of Despair汉化",
+      "original_url": "https://nsthwj.cn/game/switch/137871",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.295.f206be8+",
+      "updated_at": "2026-11-23T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-24T02:23:22.288955+00:00"
+    },
+    {
+      "id": "fdb6d7e421d474310538527cb6b749e5cefd5fb38745cd5379d7455103da1bf6",
+      "title": "[移植游戏]轩辕剑5：一剑凌云山海情|Xuan-Yuan Sword 5中文",
+      "original_url": "https://nsthwj.cn/game/switch/138401",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《轩辕剑伍：一剑凌云山海情》是大宇资讯旗下经典单机角色扮演游戏《轩辕剑》系列的第八部作品。本作的故事背景与前几代不同，不再设定于真实历史之中，而是以古籍《山海经》为主轴，向玩家展示了十多个风格迥异的山海界国家。 根据剧情设定与官方说法，本作与之后的《轩辕剑外传：汉之云》和《轩辕剑外传：云之遥》并称“轩辕剑伍系列三部曲…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-23T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-24T02:23:23.543859+00:00"
+    },
+    {
       "id": "ba90d5480097fa36029a9cdcf327242351ba05a7bf333abcc48685c93b63a2ba",
       "title": "病态：艾尔之王|病态：愤怒之王|Morbid: The Lords of Ire中文",
       "original_url": "https://nsthwj.cn/game/ps4/138020",
@@ -72,6 +141,52 @@
       "updated_at": "2026-11-23T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-23T14:59:09.526498+00:00"
+    },
+    {
+      "id": "cf01871c893ab37ac6b7e44a3d2f2ee4dc49dff68c5656e65b0a9c08abd0e831",
+      "title": "星界战士|Astral Ascent中文",
+      "original_url": "https://nsthwj.cn/game/ps4/138402",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "《星界战士》（原名：星座上升）是一款以现代幻想世界为背景的2D平台rogue-lite游戏。作为4个性格迥异的英雄之一，你必须设法从花园逃离，这个大花园是一座由12个强大且邪恶的boss守护的星界监狱，另称“十二星宫”。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.23 系统要求：≥ 5.05",
+      "updated_at": "2026-11-23T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-24T02:23:28.072421+00:00"
+    },
+    {
+      "id": "e9120fa866453301172653e76226654a15728fd101e5bb69911e3f415e187783",
+      "title": "质量效应：仙女座|Mass Effect: Andromeda汉化",
+      "original_url": "https://nsthwj.cn/game/ps4/12612",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "《Mass Effect™：Andromeda》将带着玩家探索远在银河系之外的仙女星系。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.10系统要求：≥ 5.05",
+      "updated_at": "2026-11-23T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-24T02:23:29.083304+00:00"
     },
     {
       "id": "9949fc0b1062d76e3bd2a1ecdfe50069db42a191c89bbfdfe6c9ba2692627fe2",
@@ -1466,75 +1581,6 @@
       "summary_checked_at": "2026-11-19T13:33:45.963519+00:00"
     },
     {
-      "id": "9d99ee9897bb634bc2c1b966ef0e00752306abb2ddf8b329528b0ce902633461",
-      "title": "打骨折超市日记|Discounty中文",
-      "original_url": "https://nsthwj.cn/game/switch/11753",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "在这款温馨的经营模拟 RPG 游戏中经营自己的超市，探索布洛姆克斯特关系紧密的社区，在揭晓城镇秘密的过程中结交朋友或树立敌人！ 踏入古怪的海港城镇布洛姆克斯特，接受你姨妈的委托，经营这里唯一一家超市。设计和整理店面，管理库存水平，妥善处理结账，并达成贸易协议。与有趣的当地人结交，壮大你的商业帝国，同时处理各种社区关系…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.2.2含1.2.1金手指",
-      "updated_at": "2026-11-19T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-19T13:33:47.602067+00:00"
-    },
-    {
-      "id": "9ba1dfe3982a982fc029e16d6c29c4708c9873caf8e1fc288e29231698fb71b7",
-      "title": "[移植游戏]狂野飙车8：极速凌云|Asphalt 8: Airborne中文",
-      "original_url": "https://nsthwj.cn/game/switch/137366",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面打开相册点击 [应用仓库]Sphaira 没有的话换系统包  3.选择需要安装前端的游戏 按X键 4.选择 Install Forwarder 选项 5.选择 Enab…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-19T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-19T13:33:48.716359+00:00"
-    },
-    {
-      "id": "7d7625c1c2acc129924c0f018fe5217cbc4f8a0e507205990d5f12058bff47f1",
-      "title": "[移植游戏]登山赛车|Hill Climb Racing",
-      "original_url": "https://nsthwj.cn/game/switch/138302",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-19T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-19T13:33:51.520883+00:00"
-    },
-    {
       "id": "eb4ccf4deb0bae2f26ca4ce64de996d5c38883d4aded7d2137371428dfbcd35f",
       "title": "地狱魅魔|Succubus中文",
       "original_url": "https://nsthwj.cn/game/ps4/137984",
@@ -2331,76 +2377,6 @@
         }
       ],
       "summary_checked_at": "2026-11-04T14:20:52.720880+00:00"
-    },
-    {
-      "id": "a0d92cf59b403943f8434bef661c58eec8b8e0a96f3a95348fc2268009585162",
-      "title": "弗拉德马戏团：堕入疯狂|Vlad Circus: Descend Into Madness英文",
-      "original_url": "https://nsthwj.cn/game/ps4/137712",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "Vlad Circus: Descend into Madness考验你的理智，在你逃离噩梦与苦难交织的迷宫途中设下种种挑战。 在慢烧脑谜题、轻生存机制及死规则行动中考验自己的头脑。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.01 系统要求：≥ 5.05",
-      "updated_at": "2026-11-02T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/18ReCPcVg1iyDFb5eS0a6pw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5RjHN3R-OHkZOFCYekZV1VA1?pwd=5ixw",
-          "extraction_code": "5ixw"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:53.341038+00:00"
-    },
-    {
-      "id": "7e48999c0ab00f548031e154400578f50a3ea0c6a9eae757975d9111f2b5b07e",
-      "title": "飙马野娘|芭比马术之旅|Barbie: Horse Trails中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137711",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "快呀！扮演两位Barbie™，进入冒险之中，骑着马儿吉祥穿越坎特伯雷步道公园。成为小小园林官，探索令人惊叹的野生动物，抓拍不可思议的照片。与好友一起寻找收藏品，为Barbie和吉祥换上闪耀外观。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.01 系统要求：≥ 5.05",
-      "updated_at": "2026-11-02T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1k0ZeoGwCyYX1zXC18ZCkJQ?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5RgbWIkHxFAlLGboOGGIm2A1?pwd=hp7d",
-          "extraction_code": "hp7d"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:53.914849+00:00"
     }
   ]
 }
