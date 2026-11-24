@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-24T12:46:51.883385+00:00",
+  "generated_at": "2026-11-24T23:07:47.956503+00:00",
   "source_url": "https://www.nintendo.com/tw/topics",
   "items": [
     {
@@ -507,9 +507,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-24T12:46:52.336270+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-24T12:46:52.336270+00:00"
     },
     {
       "id": "12b7c6af24879d2bdad523c0f074594924606cb9a597ce2c716c6f8597f228c2",
@@ -521,9 +521,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-24T12:46:52.858579+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-24T12:46:52.858579+00:00"
     }
   ]
 }

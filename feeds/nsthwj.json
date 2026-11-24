@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-24T12:47:08.713061+00:00",
+  "generated_at": "2026-11-24T23:08:02.196599+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -164,6 +164,236 @@
       "updated_at": "2026-11-24T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-24T12:47:05.000393+00:00"
+    },
+    {
+      "id": "f93a823d4c30d98ffb825f223f4659cb2cc0d50dc4e6713c39afb1a8a066fb42",
+      "title": "[移植游戏]宝可梦回忆录|Pokémon Reminiscencia中文",
+      "original_url": "https://nsthwj.cn/game/switch/138411",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "宝可梦回忆录是一款由海外玩家匠心打造的宝可梦同人像素风冒险手游，深度融合Roguelike随机性与经典回合制对战，完整收录第1至第9世代全部1025只宝可梦。游戏以原创岛屿探险剧情为背景，独创钛晶化战斗系统与心之鳞片进化机制，兼顾怀旧情怀与深度养成体验，是宝可梦粉丝不可错过的高完成度同人佳作。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：2.2-b9",
+      "updated_at": "2026-11-24T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-24T23:07:50.547251+00:00"
+    },
+    {
+      "id": "b156c1fd31d03ad32b5e7380e2f9d6bea402a3e326ba63257f49bece867f1880",
+      "title": "[移植游戏]宝可梦极夜永昼：无相|Pokémon: Eternal Night & Day Wuxiang中文",
+      "original_url": "https://nsthwj.cn/game/switch/138410",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "口袋妖怪极夜永昼无相是一款像素风格超棒的宠物冒险游戏，为玩家打造了超多充满无限创意的内容，你可以直接选择自己喜欢的部分。各种不同的战斗玩法都在这里，不同的技能体验，还有各种独特的奇幻战斗，能让你训练自己的宠物们。游戏里有很多刺激的内容，大家可以体验到众多关卡，玩法非常丰富哦！",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：A12-b8",
+      "updated_at": "2026-11-24T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-24T23:07:51.857699+00:00"
+    },
+    {
+      "id": "d775b061ffd08fa341dade241798d8f786f6ade5db803190f308e2b59bf98401",
+      "title": "[移植游戏]宝可梦：靛蓝|Pokémon Añil中文",
+      "original_url": "https://nsthwj.cn/game/switch/137390",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：4.14-b7",
+      "updated_at": "2026-11-24T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-24T23:07:53.229444+00:00"
+    },
+    {
+      "id": "fd521dc4495986e4a245fcad60ae9cacd7ad7887d5044534dfd0d01f95ecafc0",
+      "title": "[移植游戏]狂野飙车7：极速热力|Asphalt 7: Heat中文",
+      "original_url": "https://nsthwj.cn/game/switch/138409",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.2.0",
+      "updated_at": "2026-11-24T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-24T23:07:54.524983+00:00"
+    },
+    {
+      "id": "d9110c7a40e67878b5bd8515fe0f1dac0860ae0350f009b581f35101626c40f7",
+      "title": "[移植游戏]狂野飙车6：火线追击|Asphalt 6: Adrenaline中文",
+      "original_url": "https://nsthwj.cn/game/switch/138408",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.1.0",
+      "updated_at": "2026-11-24T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-24T23:07:55.823578+00:00"
+    },
+    {
+      "id": "f3d7d9fa2a9d2eb926d821e3e093aaf5167902fca4b54bca106f38dc6b7ff0cd",
+      "title": "随动回旋镖|Boomerang Fu中文",
+      "original_url": "https://nsthwj.cn/game/switch/1341",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "在这款疯狂又好玩的多人物理游戏中，利用回旋镖将好友一个个“大卸八块”。加入喜爱的食物战队，用烧烤、冰冻、打漏等各种方式杀得敌人落花流水。 获取各种荒唐怪诞的提升道具，将它们叠加使用，以致命威力问鼎终极《随动回旋镖》大师头衔。 爽玩多人大乱斗 在快如闪电、呆萌有趣的物理对战中，将好友变成美味烧烤或可口糕点。最多可供 6…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.4.0",
+      "updated_at": "2026-11-24T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-24T23:07:57.195124+00:00"
+    },
+    {
+      "id": "e1d1ff2bb10deb85201d2b8ea90f6c777b69659f013523d92352c5e1ed2f5779",
+      "title": "[移植游戏]疾风滑雪板|SSX",
+      "original_url": "https://nsthwj.cn/game/switch/138407",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-24T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-24T23:07:58.258096+00:00"
+    },
+    {
+      "id": "b88c3d4c7e8fc33341c05414fd38afff01d042cdd51549e66646e14b01290556",
+      "title": "[移植游戏]魂斗罗：铁血兵团|Hard Corps: Uprising汉化",
+      "original_url": "https://nsthwj.cn/game/switch/138406",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行 [提示：同时按两个摇杆可关闭帧数显示]",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-24T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-24T23:07:59.662599+00:00"
+    },
+    {
+      "id": "4d96fab49697da91ce90f62d726d3a773b005f8e4656d8be893d37aa33539ee2",
+      "title": "灵魂幸存者|Keeper's Toll中文",
+      "original_url": "https://nsthwj.cn/game/ps4/138414",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "这是一款充满挑战的暗黑风动作肉鸽。 暗黑风、讲究技能操控，多样的敌人，在无情的群攻和守护者Boss战中生存下来。 来吧，步入这黑暗世界，净化这片诅咒之地。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.09 系统要求：≥ 5.05",
+      "updated_at": "2026-11-24T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-24T23:08:03.798134+00:00"
+    },
+    {
+      "id": "60cbc0f888d22d87c5b25f768a29b55a7a988387b3dd960d0bbcf97c9e209da9",
+      "title": "国王传说：最终幻想15|A King's Tale: Final Fantasy XV汉化",
+      "original_url": "https://nsthwj.cn/game/ps4/138413",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "本作以发生在 FFXV 的时代 30 年前的传说故事为题材，加入速度感十足的现代游戏战斗系统，并搭配怀旧的美术风格。游戏舞台是 FFXV 世界的三个地区，玩家可以自由使出攻击、魔法、召唤和本作特有的连结攻击，展开充满深度的战斗。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.00 系统要求：≥ 9.00",
+      "updated_at": "2026-11-24T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-24T23:08:04.890661+00:00"
     },
     {
       "id": "5e04b9767c7203296cc23df0d00f24af8b1412aed27cf93a4a7f7a57ded82c4d",
@@ -1155,167 +1385,6 @@
       "update_date_precision": "day"
     },
     {
-      "id": "95824c5df6468461c051988f9499017f754e197fc2180b6fc237d6c3c1fb9096",
-      "title": "[移植游戏]轩辕剑外传：苍之涛|Xuan-Yuan Jiàn Wàizhuàn: Cāng zhī Tāo中文",
-      "original_url": "https://nsthwj.cn/game/switch/138365",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "《轩辕剑外传：苍之涛》是大宇资讯旗下经典单机角色扮演游戏《轩辕剑》系列的第七部作品。故事主要设定在群雄并起的东周春秋时期，并涉及到了距离春秋时期近千年之后，公元 383 年淝水之战的历史。本作延续并改良了前作引擎，以更纯熟的 3D 技术，更完美画面呈现古中国世界风貌。 该作的职业系统“木甲师”拥有独特木甲机关技术升级…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-21T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-21T11:27:56.740428+00:00"
-    },
-    {
-      "id": "4f4120b70aaf7a27d660b92a649411d53535f1d6c78d851d25a69197f3bde67b",
-      "title": "异度之刃3|异度神剑3|Xenoblade Chronicles 3中文国语版",
-      "original_url": "https://nsthwj.cn/game/switch/6507",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "分别隶属于两个敌对国家“科维斯”和“安格努斯”的 6 位少年少女，即将展开一场以“生命”为主轴的故事。 故事的舞台“艾欧尼翁”有着壮阔的自然环境、巨大的原生生物，以及用来当作军队据点的巨型移动兵器“铁巨神”。 这是一个全新的故事，连结了《异度神剑》与《异度神剑 2》两个世界的未来。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：3.0.0含2.2.1金手指",
-      "updated_at": "2026-11-21T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-21T11:27:58.278039+00:00"
-    },
-    {
-      "id": "f37606dad6246af1db1564a3e1339f810d5fb810c9654d7931a653a63bab81e9",
-      "title": "[移植游戏]战神1+2合集|God of War Collection汉化国语版",
-      "original_url": "https://nsthwj.cn/game/switch/138250",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.3",
-      "updated_at": "2026-11-21T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-21T19:31:12.823341+00:00"
-    },
-    {
-      "id": "561ff586d276a73da4225c1d0a4cb2213603eecd7548ab1ec5c7e5b52eefb105",
-      "title": "[移植游戏]真三国无双：联合突袭|Dynasty Warriors: Strikeforce中文",
-      "original_url": "https://nsthwj.cn/game/switch/138368",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "《真·三国无双：联合作战》将采用《真三国无双 5》中的人物造型，武将在满足特定条件后即可进行“真·无双觉醒”，使用之后能力和外形均会发生变化。 游戏将以压制敌人据点为目标，在敌方据点处将有强力武将和巨型兵器登场。此外还加入了武器锻造和人物育成要素，玩家可以通过锻冶屋将所持素材对武器进行强化。游戏支持 4 人一同进行任…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-21T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-21T19:31:13.982732+00:00"
-    },
-    {
-      "id": "368bbcab1df14dc42ad0cd86ff65b6e3ddfd23c33fc496f9173e349bef8d28a9",
-      "title": "迪士尼梦幻星谷|Disney Dreamlight Valley中文",
-      "original_url": "https://nsthwj.cn/game/switch/6690",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "《迪士尼梦幻星谷》是一款生活模拟和冒险游戏的结合体，拥有丰富的任务、探索、以及引人入胜的活动，迪斯尼和皮克斯的新老朋友均会登场。 梦幻星谷曾是一片梦幻田园之地，迪斯尼和皮克斯的角色们在这里和睦相处——直到“大遗忘”来临。暗夜荆棘在各处肆意生长，切断了与这个神奇之地相连的美好回忆。梦幻星谷中绝望的居民们无处可去，躲进了…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.26.2含1.20.10金手指",
-      "updated_at": "2026-11-21T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-21T19:31:14.939755+00:00"
-    },
-    {
-      "id": "9944d5f287ebe40bb990773244118612591f0179e2cfb1cab9b63eab0196ba69",
-      "title": "[移植游戏]龙珠Z：武道会4|Dragon Ball Z: Budokai Tenkaichi 4",
-      "original_url": "https://nsthwj.cn/game/switch/138367",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 DBZ: Budokai Tenkaichi 4 进入游戏 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0",
-      "updated_at": "2026-11-21T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-21T19:31:15.884189+00:00"
-    },
-    {
-      "id": "eeef64d3f49517aa8c70c9dadcb4b1045eb38ef4dfbc2ce044895992a7ff37e3",
-      "title": "[移植游戏]教父|The Godfather",
-      "original_url": "https://nsthwj.cn/game/switch/138366",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-21T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-21T19:31:16.938776+00:00"
-    },
-    {
       "id": "0b1f5af08e5faf7ab223b6ecda5621f767308b053d16ce87815cdcc2a9cdb85b",
       "title": "回合制坦克大战|ShellShock Live",
       "original_url": "https://nsthwj.cn/game/pc/137991",
@@ -1536,33 +1605,11 @@
       "update_date_precision": "day"
     },
     {
-      "id": "0af290438d8227e0a323b0e015b7e246fb8bc408938a072e8e115d74b711bb59",
-      "title": "我曾是少年|I Was a Teenage Exocolonist",
-      "original_url": "https://nsthwj.cn/game/pc/138269",
-      "source_name": "NS头号玩家 PC",
-      "summary": "在这款基于卡牌战斗的叙事RPG游戏中度过你外星星球上的青春期。探索、成长、坠入爱河。你在十年中做出的选择和掌握的技能将决定你的人生轨迹和你殖民地的生死存亡。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.11802051",
-      "updated_at": "2026-11-21T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "83730c787dcd2c7ad309146e29a605d812e94fba077e66e986678742b98c8f34",
-      "title": "[移植游戏]超级纸片马里奥wii|Super Paper Mario",
-      "original_url": "https://nsthwj.cn/game/switch/138360",
+      "id": "95824c5df6468461c051988f9499017f754e197fc2180b6fc237d6c3c1fb9096",
+      "title": "[移植游戏]轩辕剑外传：苍之涛|Xuan-Yuan Jiàn Wàizhuàn: Cāng zhī Tāo中文",
+      "original_url": "https://nsthwj.cn/game/switch/138365",
       "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Super Paper Mario NX 进入游戏 4.完美运行",
+      "summary": "《轩辕剑外传：苍之涛》是大宇资讯旗下经典单机角色扮演游戏《轩辕剑》系列的第七部作品。故事主要设定在群雄并起的东周春秋时期，并涉及到了距离春秋时期近千年之后，公元 383 年淝水之战的历史。本作延续并改良了前作引擎，以更纯熟的 3D 技术，更完美画面呈现古中国世界风貌。 该作的职业系统“木甲师”拥有独特木甲机关技术升级…",
       "summary_origin": "publisher_description",
       "content": "",
       "image_url": "",
@@ -1575,10 +1622,10 @@
       ],
       "category": "discovery",
       "download_status": "not_verified",
-      "version": "最新版本：0.5.0",
-      "updated_at": "2026-11-20T00:00:00+08:00",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-21T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-20T13:14:46.490951+00:00"
+      "summary_checked_at": "2026-11-21T11:27:56.740428+00:00"
     },
     {
       "id": "eb4ccf4deb0bae2f26ca4ce64de996d5c38883d4aded7d2137371428dfbcd35f",
@@ -2307,76 +2354,6 @@
         }
       ],
       "summary_checked_at": "2026-11-04T14:20:51.284610+00:00"
-    },
-    {
-      "id": "1951df577d0999dd1791bf999b117bf911c2e829ed3acc645bb1e75aee5f894c",
-      "title": "终结者2D：命运未定|Terminator 2D: No Fate中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137714",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "以街机操控风格和超赞像素画面畅享《终结者2》的惊心动魄！本作将电影中广为人知的场景与原创游戏场景和多重结局融为一炉，为你讲述一个独一无二的故事，让你来决定人类命运的走向。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.02 系统要求：≥ 5.05",
-      "updated_at": "2026-11-02T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1FDKNCGbwGrI3D2Tlr9VC0A?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5Rr4hi0pqe0kyef3iIWR0yA1?pwd=s47c",
-          "extraction_code": "s47c"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:52.127496+00:00"
-    },
-    {
-      "id": "949dd61dac9e7b6644805a15644e6738d06592964d8338f24658ce70243faea1",
-      "title": "火星2120|Mars 2120英文",
-      "original_url": "https://nsthwj.cn/game/ps4/137713",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "这款混合了近战和远程格斗的 Metroidvania 游戏，灵感来自《超级 Metroid》、《恶魔城：夜之交响曲》或《Guacamelee》等经典游戏！帮助 \"十三 \"安娜-夏洛特（Anna \"Thirteen\" Charlotte）穿越火星的秘密。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.05 系统要求：≥ 5.05",
-      "updated_at": "2026-11-02T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1Y91shtgUGAeqM4VnHX1tyw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5RlWqaxOKD5aCTFgTQj-XzA1?pwd=26fj",
-          "extraction_code": "26fj"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:52.720880+00:00"
     }
   ]
 }

@@ -1,9 +1,74 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-24T12:46:22.880850+00:00",
+  "generated_at": "2026-11-24T23:07:27.115121+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "《女神異聞錄 4 Revival》介紹會在八十神高中認識的同學與「社群」系統",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315519",
+      "published_at": "2026-11-24T15:21:03Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "世雅股份有限公司即日起公開在 ATLUS 新作 RPG《女神異聞錄 4 Revival》中主人公會在八十神高中認識的同學，以及可以與故事中相遇的人們建立情誼的「社群」與「社群能力」的詳細介紹。 本作預計於 2027 年 2 月 18 日（四）發售（對應平台：X....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
+    {
+      "title": "《愚者不滅》公布與最終頭目展開決戰的「最終宣傳片」",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315518",
+      "published_at": "2026-11-24T15:08:19Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "世雅股份有限公司宣布，已在 PlayStation 5／PC（Steam）平台發售的動作 RPG 新作《愚者不滅（Stupid Never Dies）》即日起正式公開與最終頭目・KOM（King of Monsters）展開戰鬥的「最終宣傳片」。 此外，本作即日起也在 Steam 平台....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
+    {
+      "title": "迎接《寶可夢》30 週年 CASETiFY 推出全新像素風寶可夢系列手機殼",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315517",
+      "published_at": "2026-11-24T14:56:17Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "手機配件品牌 CASETiFY 今（24）日宣布推出全新寶可夢系列，融合備受喜愛的寶可夢與標誌性像素風格打造全新印花設計，從有著精靈球外型的「Pokémon 耳機保護殼」、「Pokémon 冒險搖搖手機殼」、散發閃耀光芒的「皮卡丘發光吊飾」，到「Pokémon 手機吊飾....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
+    {
+      "title": "《生死格鬥 6 Last Round》公開系列 30 週年紀念影片與免費更新內容",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315516",
+      "published_at": "2026-11-24T14:50:25Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "臺灣光榮特庫摩於今日釋出 3D 對戰格鬥遊戲《生死格鬥》系列 30 週年紀念宣傳影片，並公開激鬥娛樂遊戲《生死格鬥 6 Last Round》（PS5／Xbox Series X|S／Steam）包含服裝與關卡等 30 週年紀念免費更新內容。此外，也宣布將舉辦「DEAD OR ALIVE 6 Last Round....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
+    {
+      "title": "大阪「LUCUA SOUTH」今日正式開幕 數十間 ACG 角色商店齊聚一堂",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315515",
+      "published_at": "2026-11-24T14:28:34Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "與日本 JR 大阪站直接連通的購物中心「LUCUA 大阪」旗下新館「LUCUA SOUTH（ルクア サウス）」今（24）日正式迎來第二期開幕。本次以匯集動漫、遊戲及人氣角色周邊商品的「LUCUA Characters World」為核心，包括日本首間「吉伊卡哇樂園商店」、「Sanrio Hello Stage....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "《俠盜獵車手 6》11/23 釋出首波更新 修正遊戲中出現的多項異常問題",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315514",
@@ -26,10 +91,10 @@
       "summary": "遊戲開發商 Eldritch House 趁「2026 恐怖遊戲大獎（The Horror Game Awards 2026）」活動，公開旗下新作《暗影聖禮：邪惡根源（暫譯，Shadow Sacrament: The Roots of Evil）》全新預告片，展現遊戲怪誕生物與充滿壓迫感的恐怖氣氛。 官方指出，《暗影聖禮：邪惡根源》是由曾參與《埃爾德蘭德（Elderand）》的開發團隊 Eldritch House 操刀，是款結合「類銀河戰",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-24T12:46:23.534701+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-24T12:46:23.534701+00:00"
     },
     {
       "title": "克蘇魯風敘事恐怖遊戲《詭語共鳴》預計 2027 年推出 解開異界存在的秘密",
@@ -131,10 +196,10 @@
       "summary": "NEXON 宣布，旗下子公司 Embark Studios 開發的團隊型動作 FPS《最終決戰（暫譯，原名：The Finals）》舉辦的全球電競賽事「The Grand Major 2026（以下簡稱 TGM26）」將於 11 月 27 日至 29 日一連三天在瑞典開戰，16 支隊伍將角逐最終榮耀。 《最終決戰》TGM26 為今年橫跨 APAC（亞太）、AMERICAS（美洲）與 EMEA（歐洲、中東與非洲）三大賽區的全球整合聯賽",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-24T12:46:24.115500+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-24T12:46:24.115500+00:00"
     },
     {
       "title": "【試玩】《鋼彈激戰指令》網路測試報導 以放置玩法輕鬆享受機動戰士的戰場",
@@ -184,10 +249,10 @@
       "summary": "遊戲團隊 RUSHEIGHT 宣布，旗下於《楓之谷世界（MapleStory Worlds）》營運的經典 MMORPG《Artale》已正式推出新職業群「皇家騎士團」，並同步擴充多角色欄位、開放「武陵道場 Season 2」。此外，官方預告 12 月推出新地區「獅子王城」及新突襲「困難殘暴炎魔」等內容。 於《Artale》中新開放的新職業群「皇家騎士團」擁有豐富多樣的技能與獨特",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-24T12:46:24.816420+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-24T12:46:24.816420+00:00"
     },
     {
       "title": "《幻塔》6.5 版本「時間背面的謎底」上線 全新擬態角色「黑利・佩茵特」登場",
@@ -211,10 +276,10 @@
       "summary": "宏碁推出新電競筆電 Acer Nitro V 16（ANV16-I12），瞄準首次入手電競筆電的學生族群與玩家。該新機搭載 Intel Core 5 205H 處理器、NVIDIA GeForce RTX 3050 獨立顯示晶片，以及 16 吋 165Hz 高更新率螢幕，建議售價 36,900 元。 Acer Nitro V 16 採用 Intel Core 5 系列 3（205H）高效能 H 處理器，兼具多工處理能力與運算效率，無論日常學習、影音娛樂、遊戲實況或",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-24T12:46:25.424492+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-24T12:46:25.424492+00:00"
     },
     {
       "title": "《雀魂麻將》ｘ《葬送的芙莉蓮》聯動大賽圓滿落幕 金古盃由咪咪蛋逆轉奪冠",
@@ -1264,72 +1329,6 @@
       "content_scope": "summary",
       "evidence": "community",
       "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "《心動小鎮》×《彩虹小馬》二期聯動 11 月 21 日登場 全新主題時裝與跑車繽紛亮相",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315352",
-      "published_at": "2026-11-20T06:55:12Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "《心動小鎮》將於明（21）日攜手人氣動畫《彩虹小馬》，以「雙曜同行」為主題開啟期間限定聯動，當日光與月華一同照亮小鎮，「宇宙公主」與「月亮公主」的璀璨色彩也隨之融入小鎮生活。聯動期間，發展家可與其他發展家互相傳遞「友誼火種」，攜手恢復和諧之樹的光彩；還能加入「碧琪的跑酷派對」，與好友在繽紛賽道上一較高下。兩位公....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "【G★2026】小行星撞擊倒數！敘事解謎新作《追逐末日之光》公開最新預告影片 宣布 2027 年初正式上市",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315351",
-      "published_at": "2026-11-20T06:45:26Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "由 NEOWIZ 發行、JINO GAMES 開發的敘事解謎冒險遊戲《追逐末日之光》今日公開全新預告片，同時宣布遊戲將於 2027 年初正式推出，希望帶領玩家一同踏上末日降臨前的冒險旅程。 《追逐末日之光》配合韓國釜山 BEXCO 第二展覽館舉行的 G-STAR....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "TYPE-MOON 長篇視覺小說《魔法使之夜》於日本推出買斷制 iOS／Android 版",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315350",
-      "published_at": "2026-11-20T06:28:21Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "株式會社 Aniplex 宣布，已推出 PlayStation 4、Nintendo Switch、Steam 移植版且全球出貨量突破 50 萬套的家用主機版《魔法使之夜（魔法使いの夜）》，其智慧型手機應用程式版已於今日 2026 年 11 月 20 日（五）起於日本地區正式發售。此外，為紀念劇場版上映，Nin....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "玩遊戲就好、切勿以身試法！ 美國各地警署呼籲大眾不要模仿《俠盜獵車手 6》中的犯罪行為",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315349",
-      "published_at": "2026-11-20T05:47:46Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "Rockstar Games 開發的開放世界動作冒險遊戲《俠盜獵車手 6（Grand Theft Auto VI）》（PS5 / Xbox Series X|S）已於 11 月 19 日全球同步推出，掀起一股熱潮。然而遊戲中標榜的偷車、搶劫等犯罪玩法也引起美國各地警署的關注，並透過社群網路呼籲大家分清楚虛擬與現實....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "Q 版輕鬆冒險仙俠新作《萌混成仙》今日上市 萌混人間也能逍遙成仙",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315340",
-      "published_at": "2026-11-20T02:56:46Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "【以下內容為廠商提供資料原文】 Q 版輕鬆冒險仙俠 RPG《萌混成仙》今日正式上市，誠邀各位仙友一起踏入人間，體會全新修仙之旅。「誒，我怎麼跑到人間了？管他呢，什麼三界大戰、九死一生、閉關苦修都離我遠遠的，我只想結識仙友共同遊玩、自由自在探索天地、逍遙快樂一步成仙！」——這正是《萌混成仙》想帶給每一位玩",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_checked_at": "2026-11-20T03:34:10.720163+00:00",
-      "summary_origin": "publisher_description"
     }
   ]
 }

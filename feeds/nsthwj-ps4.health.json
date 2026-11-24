@@ -1,16 +1,16 @@
 {
   "source": "nsthwj-ps4",
-  "attempted_at": "2026-11-24T12:47:08.713061+00:00",
+  "attempted_at": "2026-11-24T23:08:02.196599+00:00",
   "status": "ok",
-  "summary_count": 59,
-  "summary_attempts": 1,
+  "summary_count": 61,
+  "summary_attempts": 3,
   "summary_missing": 1,
   "summary_errors": [],
   "download_items": 36,
   "download_links": 71,
-  "count": 60,
+  "count": 62,
   "fetched_count": 36,
-  "retained_count": 24,
+  "retained_count": 26,
   "input_urls": [
     "https://nsthwj.cn/ps4"
   ],
