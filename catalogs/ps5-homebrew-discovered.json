@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 11,
+  "config_version": 12,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-24T05:27:42.988399+00:00",
+  "generated_at": "2026-11-25T04:29:57.256038+00:00",
   "sources": [
     {
       "id": "gh-homebrew-395383178",
@@ -621,6 +621,40 @@
       "name": "chiaki4ps5",
       "url": "https://github.com/Valevixi/chiaki4ps5/releases.atom",
       "repo": "Valevixi/chiaki4ps5",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1471020343",
+      "name": "frequency-remaster",
+      "url": "https://github.com/thesmokesession-bit/frequency-remaster/releases.atom",
+      "repo": "thesmokesession-bit/frequency-remaster",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1438638650",
+      "name": "Dulcamara",
+      "url": "https://github.com/Oliv3rmoon/Dulcamara/releases.atom",
+      "repo": "Oliv3rmoon/Dulcamara",
       "category": "homebrew",
       "language": "en",
       "platforms": [
