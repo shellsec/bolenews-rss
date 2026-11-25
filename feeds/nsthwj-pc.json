@@ -1,9 +1,31 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-24T23:08:00.371574+00:00",
+  "generated_at": "2026-11-25T05:31:58.302563+00:00",
   "source_url": "https://nsthwj.cn/pc",
   "items": [
+    {
+      "id": "175b4cc931c77b6665cfd8c7cef7375a180c59ac63c8b785edf6d0b46e6ba95a",
+      "title": "马力欧赛车8 豪华版（PC 原生移植版）|Mario Kart 8 Deluxe",
+      "original_url": "https://nsthwj.cn/game/pc/138415",
+      "source_name": "NS头号玩家 PC",
+      "summary": "《马力欧赛车8 豪华版》PC 原生移植成品版：基于 MK8-online v0.3.0 对 Switch 版 v4.0.1（含新增赛道通行证全部 48 条 DLC 赛道，共 96 条赛道）静态重编译构建，Windows 原生运行，非模拟器，已修复并默认官方简体中文，免启动器解压即玩，支持键盘与手柄自定义改键。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "MK8-online v0.3.0 成品版（游戏 v4.0.1 全 DLC）",
+      "updated_at": "2026-11-25T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
     {
       "id": "6abe55d666393ae7be5ad51990636f8eb087da7024c255dc13012efb52e48d80",
       "title": "最终幻想4像素复刻版|FINAL FANTASY IV",
@@ -2179,28 +2201,6 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "Build.24934655",
-      "updated_at": "2026-11-20T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "86976bd24339b6f732df5f19160d6d7a9dc074e2f5542156cfd75645e04d14fc",
-      "title": "焕然异星|Terraformers",
-      "original_url": "https://nsthwj.cn/game/pc/138333",
-      "source_name": "NS头号玩家 PC",
-      "summary": "进入这款回合制拓殖地建设与资源经营类Rogue游戏，探索火星，推进火星的地球话改造，建设壮美城市，让生命开枝散叶，令红色星球摇身变成绿色家园！",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.24233750",
       "updated_at": "2026-11-20T00:00:00+08:00",
       "update_date_precision": "day"
     }

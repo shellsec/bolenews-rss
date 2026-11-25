@@ -1,9 +1,28 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-24T23:09:15.300359+00:00",
+  "generated_at": "2026-11-25T05:32:56.383829+00:00",
   "source_url": "https://g.ccplay.cc/",
   "items": [
+    {
+      "title": "植物大战僵尸2-双人对决新赛季",
+      "original_url": "https://g.ccplay.cc/package/224264.html",
+      "published_at": "",
+      "updated_at": "2026-11-25T00:00:00+08:00",
+      "update_date_precision": "day",
+      "version": "4.3.0",
+      "summary": "1、优化了包体大小，画质不变，加载更流畅！ 2、双人对决新赛季开启，同步大幅优化，体验全面升级！",
+      "image_url": "https://ws-resource.ccplay.cc/media/images/author/2026/10/29/1415-49-588/10265247529.png-icon.xhuge",
+      "content": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "source_name": "虫虫助手 · Android",
+      "platform": [
+        "android"
+      ],
+      "category": "discovery"
+    },
     {
       "title": "乱涂彩世界官服-星紫童话季",
       "original_url": "https://g.ccplay.cc/package/275256.html",

@@ -1,9 +1,31 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-24T23:08:02.196599+00:00",
+  "generated_at": "2026-11-25T05:31:59.756966+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "175b4cc931c77b6665cfd8c7cef7375a180c59ac63c8b785edf6d0b46e6ba95a",
+      "title": "马力欧赛车8 豪华版（PC 原生移植版）|Mario Kart 8 Deluxe",
+      "original_url": "https://nsthwj.cn/game/pc/138415",
+      "source_name": "NS头号玩家 PC",
+      "summary": "《马力欧赛车8 豪华版》PC 原生移植成品版：基于 MK8-online v0.3.0 对 Switch 版 v4.0.1（含新增赛道通行证全部 48 条 DLC 赛道，共 96 条赛道）静态重编译构建，Windows 原生运行，非模拟器，已修复并默认官方简体中文，免启动器解压即玩，支持键盘与手柄自定义改键。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "MK8-online v0.3.0 成品版（游戏 v4.0.1 全 DLC）",
+      "updated_at": "2026-11-25T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
     {
       "id": "89dd64ee171c0c09e24d259325aed73676689312de324ad8523673a137145e63",
       "title": "[移植游戏]阿修罗之怒|Asura's Wrath汉化",
@@ -1579,28 +1601,6 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "Build.12734593",
-      "updated_at": "2026-11-21T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "21a7b431dcca7c182c975b366452444df65f5f5248174e4691ed5788a316374b",
-      "title": "城堡满是猫|A Castle Full of Cats",
-      "original_url": "https://nsthwj.cn/game/pc/138278",
-      "source_name": "NS头号玩家 PC",
-      "summary": "“城堡满是猫”是一个关于猫咪的寻物类游戏。你需要找到城堡中所有被诅咒的猫。拯救每一只小猫并释放爱的力量！",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.11365142",
       "updated_at": "2026-11-21T00:00:00+08:00",
       "update_date_precision": "day"
     },

@@ -1,11 +1,11 @@
 {
   "source": "ccplay-android",
-  "attempted_at": "2026-11-24T23:09:15.300359+00:00",
+  "attempted_at": "2026-11-25T05:32:56.383829+00:00",
   "status": "partial",
   "robots_status": 404,
-  "count": 21,
+  "count": 22,
   "fetched_count": 12,
-  "retained_count": 9,
+  "retained_count": 10,
   "input_urls": [
     "https://g.ccplay.cc/"
   ],

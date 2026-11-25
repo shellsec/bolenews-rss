@@ -1,9 +1,299 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-24T23:07:25.007511+00:00",
+  "generated_at": "2026-11-25T05:31:31.940629+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "怪物猎人：崛起 Monster Hunter Rise",
+      "original_url": "https://2468c.com/122309.html",
+      "published_at": "2026-11-25T02:16:11Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-25T02:16:11Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-25T05:31:33.563825+00:00"
+    },
+    {
+      "title": "九日 Nine Sols",
+      "original_url": "https://2468c.com/122311.html",
+      "published_at": "2026-11-25T02:16:10Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-25T02:16:10Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "公理边缘 2 Axiom Verge 2",
+      "original_url": "https://2468c.com/122315.html",
+      "published_at": "2026-11-25T02:16:10Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-25T02:16:10Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "指环王：夏尔传说 Tales of The Shire A The Lord of The Rings Game",
+      "original_url": "https://2468c.com/122317.html",
+      "published_at": "2026-11-25T02:16:10Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-25T02:16:10Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "魔骨 Morkull Ragasts Rage",
+      "original_url": "https://2468c.com/122319.html",
+      "published_at": "2026-11-25T02:16:10Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-25T02:16:10Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "霓虹白客 Neon White",
+      "original_url": "https://2468c.com/122321.html",
+      "published_at": "2026-11-25T02:16:10Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-25T02:16:10Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "灵魂坠落 Spiritfall",
+      "original_url": "https://2468c.com/122323.html",
+      "published_at": "2026-11-25T02:16:09Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-25T02:16:09Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "丘尼卡传说 Tunic",
+      "original_url": "https://2468c.com/122325.html",
+      "published_at": "2026-11-25T02:16:09Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-25T02:16:09Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "禁闭求生 Grounded",
+      "original_url": "https://2468c.com/122327.html",
+      "published_at": "2026-11-25T02:16:09Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-25T02:16:09Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "小小书店 Tiny Bookshop",
+      "original_url": "https://2468c.com/122329.html",
+      "published_at": "2026-11-25T02:16:09Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-25T02:16:09Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "纸兽：增强版 Paper Beast Enhanced Edition",
+      "original_url": "https://2468c.com/122331.html",
+      "published_at": "2026-11-25T02:16:08Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-25T02:16:08Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "莫斯 Moss VR",
+      "original_url": "https://2468c.com/122333.html",
+      "published_at": "2026-11-25T02:16:08Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-25T02:16:08Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "莫斯 2 Moss Book 2 VR",
+      "original_url": "https://2468c.com/122336.html",
+      "published_at": "2026-11-25T02:16:08Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-25T02:16:08Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "指挥家 Maestro",
+      "original_url": "https://2468c.com/122338.html",
+      "published_at": "2026-11-25T02:16:08Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-25T02:16:08Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "德米欧 Demeo",
+      "original_url": "https://2468c.com/122340.html",
+      "published_at": "2026-11-25T02:16:08Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-25T02:16:08Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "拉格纳克 Ragnarock",
+      "original_url": "https://2468c.com/122342.html",
+      "published_at": "2026-11-25T02:16:02Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-25T02:16:02Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "九日.Nine Sols",
+      "original_url": "https://2468c.com/98361.html",
+      "published_at": "2026-02-22T01:30:47Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-25T00:37:54Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
     {
       "title": "告别回忆：历代回忆录 – 第1册.Memories Off Historia Volume 1",
       "original_url": "https://2468c.com/59223.html",
@@ -1415,302 +1705,6 @@
       "updated_at": "2026-11-23T04:46:04Z",
       "platform": [
         "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "奇唤士 The Thaumaturge",
-      "original_url": "https://2468c.com/122175.html",
-      "published_at": "2026-11-22T03:58:38Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-22T03:58:38Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-22T08:13:01.275069+00:00"
-    },
-    {
-      "title": "奇迹时代 4 Age of Wonders 4",
-      "original_url": "https://2468c.com/122157.html",
-      "published_at": "2026-11-22T03:52:35Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-22T03:52:35Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-22T16:27:22.707123+00:00"
-    },
-    {
-      "title": "纸艺历险 Papetura",
-      "original_url": "https://2468c.com/122159.html",
-      "published_at": "2026-11-22T03:52:35Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-22T03:52:35Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-22T22:35:39.215744+00:00"
-    },
-    {
-      "title": "死亡之门 Death’s Door",
-      "original_url": "https://2468c.com/122161.html",
-      "published_at": "2026-11-22T03:52:35Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-22T03:52:35Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-23T03:48:57.093360+00:00"
-    },
-    {
-      "title": "玩具熊的五夜后宫：陷落球池 Five Nights at Freddys Into The Pit",
-      "original_url": "https://2468c.com/122163.html",
-      "published_at": "2026-11-22T03:52:35Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-22T03:52:35Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "橡皮鸭子波浪赛车 Rubberduck Wave Racer",
-      "original_url": "https://2468c.com/122165.html",
-      "published_at": "2026-11-22T03:52:35Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-22T03:52:35Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "爱多爵士 Sir Lovelot",
-      "original_url": "https://2468c.com/122167.html",
-      "published_at": "2026-11-22T03:52:34Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-22T03:52:34Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "莱卡：鲜血铸就 Laika Aged Through Blood",
-      "original_url": "https://2468c.com/122169.html",
-      "published_at": "2026-11-22T03:52:34Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-22T03:52:34Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "玩具熊的五夜后宫：救命 Five Nights at Freddys Help Wanted Full Time Edition",
-      "original_url": "https://2468c.com/122171.html",
-      "published_at": "2026-11-22T03:52:34Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-22T03:52:34Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "红色物质 2 Red Matter 2",
-      "original_url": "https://2468c.com/122173.html",
-      "published_at": "2026-11-22T03:52:11Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-22T03:52:11Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "完蛋！我被美女包围了！ Love Is All Around",
-      "original_url": "https://2468c.com/113216.html",
-      "published_at": "2026-11-21T01:50:13Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-21T02:39:56Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-21T11:27:27.563517+00:00"
-    },
-    {
-      "title": "美女，请别影响我学习 Knowledge, or Know Lady",
-      "original_url": "https://2468c.com/113389.html",
-      "published_at": "2026-11-21T01:52:25Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-21T01:54:16Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-21T19:30:50.060192+00:00"
-    },
-    {
-      "title": "美女，请别影响我成仙 God bless, or Goddess Global",
-      "original_url": "https://2468c.com/113387.html",
-      "published_at": "2026-11-21T01:51:05Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-21T01:53:20Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-22T00:29:34.668431+00:00"
-    },
-    {
-      "title": "完蛋！我被美女包围了！2 Love Is All Around 2",
-      "original_url": "https://2468c.com/113213.html",
-      "published_at": "2026-11-21T01:50:35Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-21T01:52:20Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "苍蓝雷霆 GUNVOLT 三棱合极版 Azure Striker Gunvolt Trilogy Enhanced",
-      "original_url": "https://2468c.com/122141.html",
-      "published_at": "2026-11-21T01:40:35Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-21T01:40:35Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "天穹卡牌录 Card-en-Ciel",
-      "original_url": "https://2468c.com/122143.html",
-      "published_at": "2026-11-21T01:40:35Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-21T01:40:35Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "神椿市协奏中 Kamitsubaki City Ensemble",
-      "original_url": "https://2468c.com/122145.html",
-      "published_at": "2026-11-21T01:40:35Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-21T01:40:35Z",
-      "platform": [
-        "ps5"
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5"
