@@ -1,9 +1,32 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-25T05:31:59.756966+00:00",
+  "generated_at": "2026-11-25T17:27:07.371312+00:00",
   "source_url": "https://nsthwj.cn/ps4",
   "items": [
+    {
+      "id": "7b64a6833f24b5eff4a72e08edc3251e8634cc7fdded973039d80e8fe5245458",
+      "title": "夜迴3|夜回三|Yomawari 3中文",
+      "original_url": "https://nsthwj.cn/game/ps4/138432",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "眼皮之下，你将死去。主角为解开自己身上的诅咒，在有恐怖鬼怪潜伏的街道上徘徊，寻找关键的「回忆」。「前往记忆中看到的场所，或许就能知道更多。」凭借从过往记忆中获得的线索，踏上夜晚的街道，寻找「重要的回忆」。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.01 系统要求：≥ 5.05",
+      "updated_at": "2026-11-25T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-25T17:27:09.011271+00:00"
+    },
     {
       "id": "4d96fab49697da91ce90f62d726d3a773b005f8e4656d8be893d37aa33539ee2",
       "title": "灵魂幸存者|Keeper's Toll中文",
@@ -1715,7 +1738,7 @@
           "extraction_code": "jdsy"
         }
       ],
-      "summary_checked_at": "2026-11-25T05:32:01.144468+00:00"
+      "summary_checked_at": "2026-11-25T17:27:10.137090+00:00"
     },
     {
       "id": "ab7c206e9352b578ccd33269d35767111a6f67f2e01edcdb64c85f804f09e3b3",
