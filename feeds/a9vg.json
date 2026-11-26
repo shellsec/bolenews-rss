@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-25T17:26:37.767643+00:00",
+  "generated_at": "2026-11-26T01:51:44.693798+00:00",
   "source_url": "https://www.a9vg.com/",
   "items": [
     {
@@ -15,7 +15,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T05:31:51.195438+00:00"
+      "summary_checked_at": "2026-11-26T01:51:52.737914+00:00"
     },
     {
       "id": "10170203b71618388d4261e526d39ae2f475ecad0ffeb3be97a55c2492c678a2",
@@ -28,7 +28,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T05:31:53.720656+00:00"
+      "summary_checked_at": "2026-11-26T01:51:55.911112+00:00"
     },
     {
       "id": "2838a1dbbff68f49f8765d7532ba8dc5f9e4d7f15f214c4d4d0542863472c486",
@@ -55,7 +55,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T05:31:54.547430+00:00"
+      "summary_checked_at": "2026-11-26T01:51:56.615804+00:00"
     },
     {
       "id": "d443e73893e48649df3c76de7158ef9daa8db6e2d4317ea6bc18926c22b8e8cb",
@@ -68,7 +68,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T17:26:38.750612+00:00"
+      "summary_checked_at": "2026-11-26T01:51:57.818785+00:00"
     },
     {
       "id": "438caa189fd677324f3eb98d948fccc0e605d3f9add7a94c9de7c395df94b629",
@@ -319,7 +319,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T17:26:39.349818+00:00"
+      "summary_checked_at": "2026-11-26T01:51:59.038486+00:00"
     },
     {
       "id": "28eae1d8be16f4f6648fd21f98fa20b0a77618b18b63584f61b60a95f27d51cc",
@@ -508,7 +508,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T05:31:47.430094+00:00"
+      "summary_checked_at": "2026-11-26T01:51:49.257421+00:00"
     },
     {
       "id": "e4c5c3f96bfa3c43c6b6c4e908cb41482de46e0d8b7a7274df8c9c1fea1609cd",
@@ -549,7 +549,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T05:31:48.237015+00:00"
+      "summary_checked_at": "2026-11-26T01:51:50.605468+00:00"
     },
     {
       "id": "74e4cba70b600f200a6bc42400f5757cc1d8827a44345075795b32013a9e5992",
@@ -800,7 +800,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T05:31:52.366876+00:00"
+      "summary_checked_at": "2026-11-26T01:51:54.023831+00:00"
     },
     {
       "id": "7dfd5646a20e699661f0cbd33ae61f8445f32adee28ccc41d34c4efe69b0e9a4",
@@ -813,7 +813,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T05:31:52.948236+00:00"
+      "summary_checked_at": "2026-11-26T01:51:55.189738+00:00"
     },
     {
       "id": "ba8ae0c69c06614b039713e13c1bbf13accf29460ff1beb681e538a09c5eaaa8",
@@ -1122,7 +1122,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T05:31:50.369166+00:00"
+      "summary_checked_at": "2026-11-26T01:51:51.314328+00:00"
     },
     {
       "id": "5fc252f86ed26b005a3f4557b363d3fb9e24bbd74e973fb133c486b6b3c54fd7",
@@ -1151,6 +1151,32 @@
       "content_scope": "metadata",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-24T12:46:36.698972+00:00"
+    },
+    {
+      "id": "1d71e39320a7674fbb6e62ca57e630e62f07a5f0e190cd2a4dbebc3b626f8555",
+      "title": "《月姬格斗：TWI-LUMINA》公开由武内崇全新绘制KV与新PV",
+      "original_url": "https://www.a9vg.com/article/247381",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "metadata",
+      "summary_checked_at": "2026-11-26T01:51:46.985888+00:00"
+    },
+    {
+      "id": "87657a57af548981d0eeaac01d2f71fae21e770f49172c248ede08283210dca3",
+      "title": "系列最新作《信长之野望 飞翔》首部宣传片",
+      "original_url": "https://www.a9vg.com/article/247380",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "metadata",
+      "summary_checked_at": "2026-11-26T01:51:48.268168+00:00"
     }
   ]
 }

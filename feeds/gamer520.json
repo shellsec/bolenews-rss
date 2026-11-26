@@ -1,9 +1,45 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-25T17:26:32.242055+00:00",
+  "generated_at": "2026-11-26T01:51:39.676077+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "轩辕剑外传 汉之云|官方中文|移植版|",
+      "original_url": "https://vip.gamers520.com/126747.html",
+      "published_at": "2026-11-25T22:00:10Z",
+      "summary": "《轩辕剑外传 汉之云》是一款单人回合制角色扮演游戏，游戏背景设定为英雄辈出的三国乱世。本作与《轩辕剑伍 一剑凌云山海情》、《轩辕剑外传 云之遥》合称「轩辕剑伍系列三部曲」。《轩辕剑外传 汉之云》故事发 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-26T00:05:18Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "文明7 Sid Meier’s Civilization® VII|官方中文|本体+1.5.1.1升补+30DLC|NSZ|",
+      "original_url": "https://vip.gamers520.com/104614.html",
+      "published_at": "2026-11-25T22:00:54Z",
+      "summary": "文明7 Sid Meier’s Civilization® VII 在《文明VII》中，你的战略决策影响着帝国的独特文化血脉，伴随其不断发展。化身历史长河中的一位传奇领袖，统治你的帝国。在 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-26T00:05:16Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.5.1.1"
+    },
     {
       "title": "西瓜游戏 合成大西瓜 スイカゲーム|官方中文|本体+2.4.3升补+30DLC|NSZ|原版|",
       "original_url": "https://vip.gamers520.com/66897.html",
@@ -676,26 +712,6 @@
         "game_update"
       ],
       "version": "1.0.35.0"
-    },
-    {
-      "title": "文明7 Sid Meier’s Civilization® VII|官方中文|本体+1.5.1升补+30DLC|NSZ|",
-      "original_url": "https://vip.gamers520.com/104614.html",
-      "published_at": "2026-11-12T19:00:54Z",
-      "summary": "文明7 Sid Meier’s Civilization® VII 在《文明VII》中，你的战略决策影响着帝国的独特文化血脉，伴随其不断发展。化身历史长河中的一位传奇领袖，统治你的帝国。在 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-13T01:15:56Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ],
-      "version": "1.5.1"
     },
     {
       "title": "我的世界 基岩版|官方中文|本体+1.26.62升补|NSZ|原版|",
@@ -1711,7 +1727,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-21T11:27:33.082868+00:00"
+      "summary_checked_at": "2026-11-26T01:51:42.292088+00:00"
     },
     {
       "title": "孤胆枪手2|移植版|",
@@ -1780,26 +1796,6 @@
         "game_update"
       ],
       "version": "v1.4.2"
-    },
-    {
-      "title": "任天堂明星大乱斗|官方中文|本体+13.0.5升补+99DLC|NSZ|原版|",
-      "original_url": "https://vip.gamers520.com/102142.html",
-      "published_at": "2025-06-25T02:55:09Z",
-      "summary": "任天堂明星大乱斗 Super Smash Bros 《任天堂明星大乱斗 特别版》包含系列历代所有参战角色， 还在此基础上新增了许多全新的斗士；游戏内含超过100个对战地图， 还加入了战斗中切换的功能； …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-27T00:12:14Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ],
-      "version": "13.0.5"
     }
   ]
 }

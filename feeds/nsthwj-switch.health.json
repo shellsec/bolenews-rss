@@ -1,9 +1,9 @@
 {
   "source": "nsthwj-switch",
-  "attempted_at": "2026-11-25T17:26:47.996141+00:00",
+  "attempted_at": "2026-11-26T01:52:00.361585+00:00",
   "status": "ok",
   "summary_count": 100,
-  "summary_attempts": 12,
+  "summary_attempts": 3,
   "summary_missing": 0,
   "summary_errors": [],
   "download_items": 0,
@@ -14,5 +14,5 @@
   "input_urls": [
     "https://nsthwj.cn/"
   ],
-  "dropped_by_limit": 9
+  "dropped_by_limit": 3
 }

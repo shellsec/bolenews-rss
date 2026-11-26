@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-25T17:26:28.980926+00:00",
+  "generated_at": "2026-11-26T01:51:35.023498+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
     {
@@ -78,10 +78,10 @@
       "summary": "由 Capcom 製作、Netflix 推出的多人動作遊戲《魔物獵人 崛起 NETFLIX（MONSTER HUNTER RISE NETFLIX）》已於 11 月 24 日在 Google Play、App Store 商店推出，須具備 Netflix 會員資格方可遊玩。 《魔物獵人 崛起》是一款酣暢淋漓的多人動作 RPG，不僅帶來造型精美絕倫的致命武器，更有形態萬千的魔物躍然眼前。玩家將以和風村莊「神火村」為根據地，出發",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-25T17:26:29.593590+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-25T17:26:29.593590+00:00"
     },
     {
       "title": "療癒系釣⿂冒險遊戲《獵⼾座之藍》預定 11 ⽉ 30 ⽇發售 釣魚玩法將經過重新設計",

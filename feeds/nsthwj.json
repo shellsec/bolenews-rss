@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-25T17:27:07.371312+00:00",
+  "generated_at": "2026-11-26T01:52:08.018818+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -279,6 +279,75 @@
       "updated_at": "2026-11-25T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-25T17:27:04.181215+00:00"
+    },
+    {
+      "id": "90f396af212017a933f3ecebaffe2b9c8ef31599cd659255c1ab66fcbb2d3d24",
+      "title": "银松镇|Silver Pines中文",
+      "original_url": "https://nsthwj.cn/game/switch/137388",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《银松镇》是一款生存、恐怖、类银河战士恶魔城游戏，背景设定在美国小镇。在噩梦般的恐怖中奋战，破解重重谜题，同时管理稀缺资源，逐步揭开那些可能掌握救赎之钥的谜团。 寻找 Eddie Velvet。 私家侦探 Red Walker 来到了半荒废、半遗忘的偏远小镇银松镇，只为追查 Eddie Velvet 的下落。Velv…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.2含1.0.1金手指",
+      "updated_at": "2026-11-25T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-26T01:52:02.304913+00:00"
+    },
+    {
+      "id": "e20c81278f213bd61a89b5b629e5a6281d58599f50668c7605f36a3bba8de4e0",
+      "title": "星矿公司|Star Ores Inc中文",
+      "original_url": "https://nsthwj.cn/game/switch/12005",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《星矿公司》接管一个废弃的空间站，管理你自己的矿。用你的激光在小行星上雕刻，出售矿石，并建立一个机器人助手的自动化网络。 《星矿公司》是一个星际采矿冒险，弹射你到一个废弃的空间站在宇宙中心。作为一个新晋的企业家，你在一个充满矿石、机器和银河可能性的世界开始你的职业生涯。 挖掘巨大的小行星，开采稀有矿物，提炼成有价值的…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.43",
+      "updated_at": "2026-11-25T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-26T01:52:03.745473+00:00"
+    },
+    {
+      "id": "ede59d7ce9416cfa61ba3fd1c59d9822ebe2dee1bfa4c46b2867a4778ceea1ad",
+      "title": "混乱出租车2|Taxi Chaos 2中文",
+      "original_url": "https://nsthwj.cn/game/switch/138433",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《Taxi Chaos 2》是一款节奏紧凑的街机出租车竞速游戏，你需要与时间赛跑，甩开凶猛的 AI TaxiBots，在充满混乱、升级系统和不断变化挑战的活力城市中运送乘客。 《Taxi Chaos 2》是一款高能量的街机风格出租车竞速游戏，故事发生在一座被 AI 出租车占领的城市中。与时间赛跑，甩开竞争对手，在混乱…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.4",
+      "updated_at": "2026-11-25T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-26T01:52:05.028202+00:00"
     },
     {
       "id": "175b4cc931c77b6665cfd8c7cef7375a180c59ac63c8b785edf6d0b46e6ba95a",
@@ -1028,52 +1097,6 @@
       "summary_checked_at": "2026-11-24T02:23:22.288955+00:00"
     },
     {
-      "id": "fdb6d7e421d474310538527cb6b749e5cefd5fb38745cd5379d7455103da1bf6",
-      "title": "[移植游戏]轩辕剑5：一剑凌云山海情|Xuan-Yuan Sword 5中文",
-      "original_url": "https://nsthwj.cn/game/switch/138401",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "《轩辕剑伍：一剑凌云山海情》是大宇资讯旗下经典单机角色扮演游戏《轩辕剑》系列的第八部作品。本作的故事背景与前几代不同，不再设定于真实历史之中，而是以古籍《山海经》为主轴，向玩家展示了十多个风格迥异的山海界国家。 根据剧情设定与官方说法，本作与之后的《轩辕剑外传：汉之云》和《轩辕剑外传：云之遥》并称“轩辕剑伍系列三部曲…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-23T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-24T02:23:23.543859+00:00"
-    },
-    {
-      "id": "2e99b28ae8a5b7727ec7bd1cfca9f5a5d3fc29f9b977e19129bcd584173af990",
-      "title": "[移植游戏]冒险岛[需要联网]|MapleStory中文",
-      "original_url": "https://nsthwj.cn/game/switch/138393",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "欢迎来到《MapleStory》——这款经典的横向卷轴式MMORPG，这里有精彩的冒险、激烈的战斗，还有许多好友在等待着你。游戏内容丰富，拥有数百小时的游玩时长，让你能够尽情展现自己的潜力：打造强大的英雄、挑战危险的地下城、击败可怕的BOSS、与朋友们互动……你的《MapleStory》之旅，从今天开始！",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.64",
-      "updated_at": "2026-11-23T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-24T12:47:05.968107+00:00"
-    },
-    {
       "id": "ba90d5480097fa36029a9cdcf327242351ba05a7bf333abcc48685c93b63a2ba",
       "title": "病态：艾尔之王|病态：愤怒之王|Morbid: The Lords of Ire中文",
       "original_url": "https://nsthwj.cn/game/ps4/138020",
@@ -1143,11 +1166,11 @@
       "summary_checked_at": "2026-11-24T02:23:29.083304+00:00"
     },
     {
-      "id": "9949fc0b1062d76e3bd2a1ecdfe50069db42a191c89bbfdfe6c9ba2692627fe2",
-      "title": "[移植游戏]忍者龙剑传：黑之章|Ninja Gaiden Black汉化",
-      "original_url": "https://nsthwj.cn/game/switch/138326",
+      "id": "fdb6d7e421d474310538527cb6b749e5cefd5fb38745cd5379d7455103da1bf6",
+      "title": "[移植游戏]轩辕剑5：一剑凌云山海情|Xuan-Yuan Sword 5中文",
+      "original_url": "https://nsthwj.cn/game/switch/138401",
       "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Ninja Gaiden Black 进入游戏 4.完美运行",
+      "summary": "《轩辕剑伍：一剑凌云山海情》是大宇资讯旗下经典单机角色扮演游戏《轩辕剑》系列的第八部作品。本作的故事背景与前几代不同，不再设定于真实历史之中，而是以古籍《山海经》为主轴，向玩家展示了十多个风格迥异的山海界国家。 根据剧情设定与官方说法，本作与之后的《轩辕剑外传：汉之云》和《轩辕剑外传：云之遥》并称“轩辕剑伍系列三部曲…",
       "summary_origin": "publisher_description",
       "content": "",
       "image_url": "",
@@ -1161,9 +1184,9 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-22T00:00:00+08:00",
+      "updated_at": "2026-11-23T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-22T08:13:31.637802+00:00"
+      "summary_checked_at": "2026-11-24T02:23:23.543859+00:00"
     },
     {
       "id": "6abe55d666393ae7be5ad51990636f8eb087da7024c255dc13012efb52e48d80",
@@ -1626,29 +1649,6 @@
       "version": "v1.2.1",
       "updated_at": "2026-11-22T00:00:00+08:00",
       "update_date_precision": "day"
-    },
-    {
-      "id": "3f35fa4af198a565ec2bdc0dc260ead1a46fc7c607773a45ab716423b311c49f",
-      "title": "终极幸运塔楼|终极幸运之塔|Lucky Tower Ultimate中文",
-      "original_url": "https://nsthwj.cn/game/switch/15052",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "这是一场与众不同的 Roguelite 冒险，即使没能逃出危险塔楼，也能体验一把诙谐有趣的卡通小剧场。勇敢的主角，前进吧！ 冯·万斯特正努力逃离一座难关重重的塔楼，玩家要与这位极具魅力、拥有迷人发型的自恋骑士一同踏上冒险之旅，探索迷宫，这里遍布各种难以预测的致命陷阱和怪物，途中甚至可能会有其他困于塔中之人加入逃脱计划…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.2.4g含1.0.14金手指",
-      "updated_at": "2026-11-22T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-22T08:13:33.002765+00:00"
     },
     {
       "id": "eb4ccf4deb0bae2f26ca4ce64de996d5c38883d4aded7d2137371428dfbcd35f",
