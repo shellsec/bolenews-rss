@@ -1,9 +1,22 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-26T11:07:42.720217+00:00",
+  "generated_at": "2026-11-26T20:17:58.404230+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
+    {
+      "title": "《復活邪神 3 錯綜宿命》介紹夥伴角色以及進化後的「貿易」和「茨威格淘汰賽」",
+      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315682",
+      "published_at": "2026-11-26T11:24:00Z",
+      "source_name": "巴哈姆特 GNN",
+      "language": "zh-Hant",
+      "summary": "由 SQUARE ENIX 製作，預定 2027 年 2 月 16 日推出的重製版角色扮演遊戲《復活邪神 3 錯綜宿命（Romancing SaGa 3 Destinies United）》（Nintendo Switch 2 / Nintendo Switch / PS5 / Xbox Series X|S ....",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "evidence": "community",
+      "summary_origin": "publisher_feed_excerpt"
+    },
     {
       "title": "《水上摩托車 藍色風暴》加入 Nintendo GameCube – Nintendo Classics 陣容",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315681",
@@ -273,10 +286,10 @@
       "summary": "獨立遊戲發行商 PLAYISM 宣布，由 Cyber Space Biotope 所開發的深層下落動作策略遊戲《百萬深淵（million depth）》Nintendo Switch 實體版所附帶的首發限定特典「收錄 72 首原創音樂的原聲音樂集」CD 光碟設計，以及各通路原創特典陣容現已公布。 【以下內容為廠商提供資料原文】 《百萬深淵》Nintendo Switch 實體版首發限定特典 CD 設計 計劃於 2026 年",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-26T11:07:43.265930+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-26T11:07:43.265930+00:00"
     },
     {
       "title": "為避開《絲之歌》而延期一年的《永恆之光》可能再次強碰 DLC？團隊幽默聲明：這次不延！",
@@ -1303,19 +1316,6 @@
       "source_name": "巴哈姆特 GNN",
       "language": "zh-Hant",
       "summary": "曼迪動漫狂歡祭宣布將於 11/25~12/13 前進 Mitsui Shopping Park LaLaport 南港的消息。現場提供《名偵探柯南》《守護甜心》《KERORO 軍曹》《家庭教師 HITMAN REBORN!》等作品，超過 600 樣台日版商品同場集結。 ....",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "evidence": "community",
-      "summary_origin": "publisher_feed_excerpt"
-    },
-    {
-      "title": "「MUNDO PIXAR 皮克斯世界巡迴展」即將登場 台灣站將推限定小彩蛋商品",
-      "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315489",
-      "published_at": "2026-11-24T08:55:15Z",
-      "source_name": "巴哈姆特 GNN",
-      "language": "zh-Hant",
-      "summary": "備受粉絲期待的「MUNDO PIXAR 皮克斯世界巡迴展」台灣站即將登場，由 30 人組成的國際原廠團隊於 11 月 16 日正式進駐台灣展區，展開大型場景搭建、展件組裝與現場細節工程。屆時，皮克斯粉絲們除了欣賞展覽，還能化身為電影故事中的一員，走進最喜愛的經典場景，親身感受皮克斯動畫 40 年來帶給觀眾的驚喜....",
       "content": "",
       "image_url": "",
       "content_scope": "summary",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-26T11:07:40.243876+00:00",
+  "generated_at": "2026-11-26T20:17:56.041432+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -14,13 +14,13 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
-      "updated_at": "2026-11-26T11:04:04Z",
+      "updated_at": "2026-11-26T14:37:40Z",
       "platform": [
         "ps5"
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-26T11:07:42.458364+00:00"
+      "summary_checked_at": "2026-11-26T20:17:58.195560+00:00"
     },
     {
       "title": "狂野之心.The Wild at Heart",
