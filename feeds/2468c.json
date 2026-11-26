@@ -1,9 +1,27 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-26T01:51:32.935241+00:00",
+  "generated_at": "2026-11-26T11:07:40.243876+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "侠盗猎车手6.Grand Theft Auto Vl",
+      "original_url": "https://2468c.com/122376.html",
+      "published_at": "2026-11-26T03:26:32Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-26T11:04:04Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-26T11:07:42.458364+00:00"
+    },
     {
       "title": "狂野之心.The Wild at Heart",
       "original_url": "https://2468c.com/60525.html",
@@ -1679,23 +1697,6 @@
     {
       "title": "秘奥：秘宇奥忆 MIO Memories In Orbit",
       "original_url": "https://2468c.com/122231.html",
-      "published_at": "2026-11-24T01:34:58Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-24T01:34:58Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "生命的种子 Seed of Life",
-      "original_url": "https://2468c.com/122233.html",
       "published_at": "2026-11-24T01:34:58Z",
       "summary": "",
       "content": "",

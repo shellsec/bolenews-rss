@@ -1,9 +1,101 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-26T01:52:00.361585+00:00",
+  "generated_at": "2026-11-26T11:08:06.736103+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "477f42b883e4b23e1b327b7d7fcce49401b169f4b4b42ea1ddc6fbcc48b00ab9",
+      "title": "[移植游戏]龙之皇冠Pro|Dragon's Crown Pro中文国语版",
+      "original_url": "https://nsthwj.cn/game/switch/138416",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.1.0",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-26T11:08:10.798568+00:00"
+    },
+    {
+      "id": "a81a8451f638a45f4c0164bcacdcda7491053105ed00128d11f29b7ad19186ba",
+      "title": "[移植游戏]宝可梦新星|Pokémon Nova中文",
+      "original_url": "https://nsthwj.cn/game/switch/138436",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "西班牙同人神作宝可梦新星最新汉化版，全新的剧情，究极空洞玩法，9代宝可梦肉鸽地牢，开放世界全图鉴1025，异兽区域探索、扭蛋抽奖等",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.5-b4",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-26T11:08:12.234050+00:00"
+    },
+    {
+      "id": "6f2f9fae4ed100ee5f07923dfd7054759c7c699cbbdef1e805d00bb3310f2643",
+      "title": "[移植游戏]宝可梦复兴正传+外传|Pokémon Rejuvenation中文",
+      "original_url": "https://nsthwj.cn/game/switch/138435",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《宝可梦复兴》走的是经典像素风，地图、对战和探索的感觉都比较纯正，玩起来会让人很自然地想继续往下推进剧情。游戏里最吸引人的地方之一，就是能自己挑初始宝可梦， 然后慢慢把队伍养起来。随着等级提升， 技能也会逐步解锁，战斗的变化会越来越多，不会一直停留在前期那种单调节奏里。如果你喜欢一边跑图边看剧情推进，这作也比较对味。…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：14.0.3-b17",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-26T11:08:15.872142+00:00"
+    },
+    {
+      "id": "429479be26804470761d027b1d5c8dfc357abebaddbfaeeae31df9e2c248ed8e",
+      "title": "七龙珠：电光炸裂！ZERO|Dragon Ball: Sparking! Zero中文",
+      "original_url": "https://nsthwj.cn/game/switch/11974",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "“七龙珠 电光炸裂！ZERO”堂堂登场！本作超越“七龙珠 Z 电光炸裂！”（即过去“七龙珠 Z Sparking!”）到达新的境界，可操作角色的阵容令人惊艳，学习并掌握角色独特的能力、变身和技巧吧。 让你拥有毁灭性的力量，成为七龙珠史上最强的战士！ 身临其境的 3D 对战 加入紧张刺激的高速 3D 对战，忠实呈现动画…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：2.0.76",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-26T11:08:17.156517+00:00"
+    },
     {
       "id": "6e67df9ee4a7d872c93cdb7577672a7b32e51841545153c7b8c20f0d133505da",
       "title": "[移植游戏]终极漫威英雄VS卡普空3|Ultimate Marvel vs. Capcom 3汉化",
@@ -233,29 +325,6 @@
       "updated_at": "2026-11-25T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-25T17:27:01.265812+00:00"
-    },
-    {
-      "id": "477f42b883e4b23e1b327b7d7fcce49401b169f4b4b42ea1ddc6fbcc48b00ab9",
-      "title": "[移植游戏]龙之皇冠Pro|Dragon's Crown Pro",
-      "original_url": "https://nsthwj.cn/game/switch/138416",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.4.0",
-      "updated_at": "2026-11-25T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-25T17:27:02.690602+00:00"
     },
     {
       "id": "eeff182f6b081e9a0472477692596349013c03c73b498811f233332218209f4d",
@@ -2237,75 +2306,6 @@
       "updated_at": "2026-11-15T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-15T17:52:50.616031+00:00"
-    },
-    {
-      "id": "ce20d0a5b6d2f2af023711d21baf0e88731426ef19de84d3d476aadb40f6c251",
-      "title": "[SS土星移植游戏]热血亲子|Nekketsu Oyako",
-      "original_url": "https://nsthwj.cn/game/switch/138179",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "中年家庭主妇 Saeko Hibino 有一个秘密：她实际上是一位诺贝尔奖理论物理学家，在年仅17岁时就设计了一种全新的反物质核聚变反应堆。但当一个自称 Haraguro-dan 的组织发现后，他们认为她是帮助他们完成终极秘密末日武器的最佳人选，于是绑架了她。不过，她的家人并不打算就此罢休，他们拿起武器，要不惜一切代…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-15T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-15T17:52:53.345019+00:00"
-    },
-    {
-      "id": "1ffa31fd091188f4794da081da4d1aae6bfe168598857c7b4b8072e76f26af3a",
-      "title": "自然之声：重获生机|Unpetrified: Echoes of Nature中文",
-      "original_url": "https://nsthwj.cn/game/switch/138178",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "化身石制魔像，在一只可爱狐狸的帮助下拯救自然！在环保谜题中重新接通古老能量之源。在温馨多彩的世界中踏上情感之旅，发现失落文明的秘密，拯救动物。 踏上情感冒险之旅 《Unpetrified：自然回响》是一段宁静且引人深思的体验，充满了意义深远的收藏品、独特的情感驱动互动以及环境谜题。管弦乐配乐烘托出一段关于不寻常友谊、…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.3.0",
-      "updated_at": "2026-11-15T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-15T17:52:54.514379+00:00"
-    },
-    {
-      "id": "73cce8d752c5d5a0883b743769008ea425b2889be797942877697912967cde27",
-      "title": "孩之宝儿童桌游合集|Hasbro Games Junior Collection中文",
-      "original_url": "https://nsthwj.cn/game/switch/138177",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "畅玩《Monopoly Jr.》《Clue Jr.》和《The Game of Life Jr.》。自定义你的角色，解锁丰富奖励，支持最多 4 人本地同乐。 准备迎接一场充满欢笑、惊喜和“再来一局！”的精彩游戏之夜吧！本合集将 3 款经典儿童桌游化为一款适合孩子与全家同乐的精彩电子游戏。 在《Monopoly Jr.…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.1",
-      "updated_at": "2026-11-15T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-15T17:52:55.907787+00:00"
     }
   ]
 }

@@ -1,9 +1,47 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-26T01:53:20.578039+00:00",
+  "generated_at": "2026-11-26T11:09:40.216114+00:00",
   "source_url": "https://g.ccplay.cc/",
   "items": [
+    {
+      "title": "迷你世界-雪宝派对",
+      "original_url": "https://g.ccplay.cc/package/132769.html",
+      "published_at": "",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day",
+      "version": "1.61.0",
+      "summary": "【一起堆雪人】 [聚灵手套]：全新手套工具上线——聚灵手套，戴上它，只需一步就能生成雪人素体。雪人材料在冒险途中可以轻松收集，快和朋友一起堆雪人吧； [雪人装扮]：雪人装扮由头、脸、身体、手臂四个部位组成。四个装扮部位有共22个不同的装扮外观，可随时变换自己喜欢的雪人外观。官方精选两套特色外观组合作为特殊搭配。 雪人还新增了多个动作，超萌超生动。 【创作工具优化】 [道具新增包裹模板]：新增包裹组件；支持配置包裹固定概率、随机概率产出包裹对象，可以更方便地制作掉落玩法； [实…",
+      "image_url": "https://ws-resource.ccplay.cc/media/images/author/2026/11/26/1047-56-616/icon.png-icon.xhuge",
+      "content": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "source_name": "虫虫助手 · Android",
+      "platform": [
+        "android"
+      ],
+      "category": "discovery"
+    },
+    {
+      "title": "无畏契约：源能行动-新频共振",
+      "original_url": "https://g.ccplay.cc/package/146098.html",
+      "published_at": "",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day",
+      "version": "1.26.0",
+      "summary": "11月26日更新「新频共振」版本，主要更新内容如下： 新英雄「迷核」登场，新武器「悍狼」上线，「噬影者」、「笔械工坊」主题套装皮肤、全新赛季通行证上线",
+      "image_url": "https://ws-resource.ccplay.cc/media/packages/2025/12/09/1220-34-094/0.png-icon.xhuge",
+      "content": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "source_name": "虫虫助手 · Android",
+      "platform": [
+        "android"
+      ],
+      "category": "discovery"
+    },
     {
       "title": "植物大战僵尸2-双人对决新赛季",
       "original_url": "https://g.ccplay.cc/package/224264.html",
@@ -176,25 +214,6 @@
       "category": "discovery"
     },
     {
-      "title": "迷你世界-萌兽天团票选",
-      "original_url": "https://g.ccplay.cc/package/132769.html",
-      "published_at": "",
-      "updated_at": "2026-11-06T00:00:00+08:00",
-      "update_date_precision": "day",
-      "version": "1.60.1",
-      "summary": "【萌兽天团票选】 为你喜爱的迷你生物投票打CALL！人气前五名的生物将作为设计蓝本，由官方创作拟人角色外观。选票可通过每日任务、发布动态获取，也可参与社区话题投稿应援。 【游戏体验优化】 [方块复制器]：修复部分老多格方块复制问题（睡袋截半等），精确复制多格方块； [组件触发器]：道具堆叠上限提升，可按品质设置道具品质。新增显示板对象，可在地图中放置文本、图片、进度条、可交互界面的显示板，并挂载到各种对象上。新增枪械监听事件。（腰射、瞄准开火均可监听每一颗子弹的发射）； [资…",
-      "image_url": "https://ws-resource.ccplay.cc/media/images/author/2026/09/22/1014-36-650/18564947383.png-icon.xhuge",
-      "content": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "source_name": "虫虫助手 · Android",
-      "platform": [
-        "android"
-      ],
-      "category": "discovery"
-    },
-    {
       "title": "无悔华夏-全新北宋本",
       "original_url": "https://g.ccplay.cc/package/183326.html",
       "published_at": "",
@@ -355,25 +374,6 @@
       "version": "12.1.1.1",
       "summary": "【版本更新内容】 1.新英雄-王维：空山遗客，山水成诗，以雾御敌，支援八方。 2.新赛季-月照长安：S45新赛季现已开启，王维身在径山，心系天下，他如明月，照亮长安。 3.新赛季召唤师技能-雾行千山：乘云化雾，位移获得闪避效果，沿途可普攻或释放技能。 4.新体验： ①牛魔玩法升级，新增掷斧机制，远程拉扯开团； ②野区视野精灵升级，仅受普攻伤害，沿固定路线巡航并照亮沿途视野； ③新增友方协作提示，选择目标阶段，提前发出信号使队友感知。 5.新玩法：农场新增战令系统，昼夜变化、全…",
       "image_url": "https://ws-resource.ccplay.cc/media/images/author/2026/09/23/0933-01-309/647f93cd7cc65f6a939cb26ecbbb6638.png-icon.xhuge",
-      "content": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "source_name": "虫虫助手 · Android",
-      "platform": [
-        "android"
-      ],
-      "category": "discovery"
-    },
-    {
-      "title": "无畏契约：源能行动-新频共振",
-      "original_url": "https://g.ccplay.cc/package/146098.html",
-      "published_at": "",
-      "updated_at": "2026-09-22T00:00:00+08:00",
-      "update_date_precision": "day",
-      "version": "1.25.0",
-      "summary": "11月26日更新「新频共振」版本，主要更新内容如下： 新英雄「迷核」登场，新武器「悍狼」上线，「噬影者」、「笔械工坊」主题套装皮肤、全新赛季通行证上线",
-      "image_url": "https://ws-resource.ccplay.cc/media/packages/2025/12/09/1220-34-094/0.png-icon.xhuge",
       "content": "",
       "content_scope": "summary",
       "language": "zh-Hans",

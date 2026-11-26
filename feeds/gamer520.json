@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-26T01:51:39.676077+00:00",
+  "generated_at": "2026-11-26T11:07:46.711750+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -827,7 +827,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-21T19:30:54.901239+00:00"
+      "summary_checked_at": "2026-11-26T11:07:50.034630+00:00"
     },
     {
       "title": "狸狸 胖哒的夏日 TANUKI Pon’s Summer|官方中文|本体+v1.0.28494.20.12升补|NSP|",

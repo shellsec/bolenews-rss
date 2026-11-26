@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-26T01:51:44.693798+00:00",
+  "generated_at": "2026-11-26T11:07:52.821931+00:00",
   "source_url": "https://www.a9vg.com/",
   "items": [
     {
@@ -346,7 +346,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T17:26:40.658974+00:00"
+      "summary_checked_at": "2026-11-26T11:07:56.111733+00:00"
     },
     {
       "id": "655eddeafc21739f04d1f82db240da5a78e6dcafe0a13e3a4a14bdb4d40270fa",
@@ -359,7 +359,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T17:26:41.323186+00:00"
+      "summary_checked_at": "2026-11-26T11:07:56.902813+00:00"
     },
     {
       "id": "668e31641b54c0b1064d43165b647b37fff1f78791606fc59d1c7dc59af9c266",
@@ -372,7 +372,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T17:26:43.137276+00:00"
+      "summary_checked_at": "2026-11-26T11:07:59.382526+00:00"
     },
     {
       "id": "f20aeebc375d9ddfc9f4f461ded35e4b1b75f247f326e5b3ac5caff37c8445ea",
@@ -399,7 +399,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T17:26:43.764822+00:00"
+      "summary_checked_at": "2026-11-26T11:08:00.594729+00:00"
     },
     {
       "id": "5bd4486b124041b17ca2459677938eea0171102c6985cde457d3ce6ceb81de16",
@@ -482,7 +482,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T17:26:44.371124+00:00"
+      "summary_checked_at": "2026-11-26T11:08:01.572412+00:00"
     },
     {
       "id": "979b5ac62091f936a8fc75426cc5a4a46557dce413b89eb918a2abed6dda6594",
@@ -495,7 +495,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T17:26:45.608435+00:00"
+      "summary_checked_at": "2026-11-26T11:08:03.103500+00:00"
     },
     {
       "id": "9beea7f3a60a8a493e3b40c6775cf01ac189158daad179987104fea8ac163079",
@@ -705,7 +705,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T17:26:46.365129+00:00"
+      "summary_checked_at": "2026-11-26T11:08:04.390256+00:00"
     },
     {
       "id": "bc9a5d4bfb656cbff57b962c5d712232435bb8eb876b0cb22adc387f173403f4",
@@ -718,7 +718,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T17:26:47.093262+00:00"
+      "summary_checked_at": "2026-11-26T11:08:05.346427+00:00"
     },
     {
       "id": "7883f389ffc67bdafb2e63fc044123cb0b3467e012ff7cf90d7b70e0e132137f",
@@ -773,7 +773,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T17:26:41.950745+00:00"
+      "summary_checked_at": "2026-11-26T11:07:57.844311+00:00"
     },
     {
       "id": "40bd0359772998b398658df959e697681dddef0a8de932235bc1a64115734103",
@@ -1036,7 +1036,7 @@
       "evidence": "community",
       "language": "zh-Hans",
       "content_scope": "metadata",
-      "summary_checked_at": "2026-11-25T17:26:42.548498+00:00"
+      "summary_checked_at": "2026-11-26T11:07:58.595498+00:00"
     },
     {
       "id": "3b7e190b0a7bb35ff4d2d5c1367fefa050f48ab05be4d75bf8b670fc01f655c4",
@@ -1177,6 +1177,33 @@
       "language": "zh-Hans",
       "content_scope": "metadata",
       "summary_checked_at": "2026-11-26T01:51:48.268168+00:00"
+    },
+    {
+      "id": "233d2aca1bbcbcdc0ee9bf1c3e2943f8f4ef34a258cb2ccdd7d5254fbb2b0992",
+      "title": "《PICROSS S CLIMAX》将于12月10日登陆NS2/NS",
+      "original_url": "https://www.a9vg.com/article/247396",
+      "summary": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-26T11:07:54.052827+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "4e432327151fc1ae5bb6ddec1f4868f4f614e82ca1eda38e55751c34e52ec107",
+      "title": "世嘉土星经典恋爱名作《青涩宝贝 重制版》发售日确定",
+      "original_url": "https://www.a9vg.com/article/247388",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hans",
+      "content_scope": "metadata",
+      "summary_checked_at": "2026-11-26T11:07:55.225825+00:00"
     }
   ]
 }

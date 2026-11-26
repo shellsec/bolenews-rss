@@ -1,9 +1,257 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-26T01:52:08.018818+00:00",
+  "generated_at": "2026-11-26T11:08:21.627358+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "477f42b883e4b23e1b327b7d7fcce49401b169f4b4b42ea1ddc6fbcc48b00ab9",
+      "title": "[移植游戏]龙之皇冠Pro|Dragon's Crown Pro中文国语版",
+      "original_url": "https://nsthwj.cn/game/switch/138416",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.1.0",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-26T11:08:10.798568+00:00"
+    },
+    {
+      "id": "a81a8451f638a45f4c0164bcacdcda7491053105ed00128d11f29b7ad19186ba",
+      "title": "[移植游戏]宝可梦新星|Pokémon Nova中文",
+      "original_url": "https://nsthwj.cn/game/switch/138436",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "西班牙同人神作宝可梦新星最新汉化版，全新的剧情，究极空洞玩法，9代宝可梦肉鸽地牢，开放世界全图鉴1025，异兽区域探索、扭蛋抽奖等",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.5-b4",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-26T11:08:12.234050+00:00"
+    },
+    {
+      "id": "6f2f9fae4ed100ee5f07923dfd7054759c7c699cbbdef1e805d00bb3310f2643",
+      "title": "[移植游戏]宝可梦复兴正传+外传|Pokémon Rejuvenation中文",
+      "original_url": "https://nsthwj.cn/game/switch/138435",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《宝可梦复兴》走的是经典像素风，地图、对战和探索的感觉都比较纯正，玩起来会让人很自然地想继续往下推进剧情。游戏里最吸引人的地方之一，就是能自己挑初始宝可梦， 然后慢慢把队伍养起来。随着等级提升， 技能也会逐步解锁，战斗的变化会越来越多，不会一直停留在前期那种单调节奏里。如果你喜欢一边跑图边看剧情推进，这作也比较对味。…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：14.0.3-b17",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-26T11:08:15.872142+00:00"
+    },
+    {
+      "id": "429479be26804470761d027b1d5c8dfc357abebaddbfaeeae31df9e2c248ed8e",
+      "title": "七龙珠：电光炸裂！ZERO|Dragon Ball: Sparking! Zero中文",
+      "original_url": "https://nsthwj.cn/game/switch/11974",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "“七龙珠 电光炸裂！ZERO”堂堂登场！本作超越“七龙珠 Z 电光炸裂！”（即过去“七龙珠 Z Sparking!”）到达新的境界，可操作角色的阵容令人惊艳，学习并掌握角色独特的能力、变身和技巧吧。 让你拥有毁灭性的力量，成为七龙珠史上最强的战士！ 身临其境的 3D 对战 加入紧张刺激的高速 3D 对战，忠实呈现动画…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：2.0.76",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-26T11:08:17.156517+00:00"
+    },
+    {
+      "id": "6a592f75fe8426e20ccbe46a1e3ed8f3dece5f6ac7e7d447274e3ce11e1dd106",
+      "title": "骗子酒吧|Liar's Bar",
+      "original_url": "https://nsthwj.cn/game/pc/138440",
+      "source_name": "NS头号玩家 PC",
+      "summary": "沉浸在这个设定在阴暗酒吧的多人在线体验中，游戏的危险程度与酒客们一样。加入四人桌，测试你在《骗子骰子》和《骗子牌》中的技巧，在这些游戏中，撒谎和诈唬是胜利的关键。准备好在《骗子酒吧》度过一个夜晚了吗？",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v0.99",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "a10895e784ae8acf5afe3b59ab67c64c8656aa7c7fff74b7d59e46c463f358d8",
+      "title": "模拟农场19|Farming Simulator 19",
+      "original_url": "https://nsthwj.cn/game/pc/138439",
+      "source_name": "NS头号玩家 PC",
+      "summary": "百万销量的品牌以全新的图形引擎、让人着迷的游戏玩法以及身临其境的视效又向前迈出重要一步，诚邀您体验有史以来最大型的农耕模拟游戏。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v1.7.1.0",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "930cb96231cb9b28e14370b76cf258341e840565269bfb99c5d87c596fcd23cb",
+      "title": "超级肉肉男孩3D|Super Meat Boy 3D",
+      "original_url": "https://nsthwj.cn/game/pc/138438",
+      "source_name": "NS头号玩家 PC",
+      "summary": "那款大名鼎鼎、硬核到炸裂的平台跳跃游戏推出 3D 版了！",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.23341285",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "3fbb2df4fe234dd18f46f4e32db5dddd119e84e234291b9fdce5aa3fd2a022fc",
+      "title": "勇敢者之试炼|Invokyr",
+      "original_url": "https://nsthwj.cn/game/pc/138437",
+      "source_name": "NS头号玩家 PC",
+      "summary": "一款以诅咒桌游为主题的多人合作生存恐怖游戏。一盒尘封的棋盘，一栋闹鬼的老宅。支持最多6人联机。掷出骰子，在接踵而至的恐怖中拼死求生，击败游戏主宰，赢回你的自由。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.26485130",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "e757d72b12dbbf4330fe986d6bc55a49c80127ed77118fab536905187be587bc",
+      "title": "战神：弑神自封（升天 PC 原生移植版）|God of War: Ascension",
+      "original_url": "https://nsthwj.cn/game/pc/138434",
+      "source_name": "NS头号玩家 PC",
+      "summary": "《战神：弑神自封（战神：升天）》PC 原生移植成品版 v0.1.35：基于静态重编译（AscensionRecomp）打造的 Windows 原生运行版本，非通用 PS3 模拟器，解压即玩，游戏内支持中文，支持 4K 高分辨率与 120 帧帧生成，畅玩奎托斯打破阿瑞斯血誓的希腊神话前传大作。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "PC 原生移植 v0.1.35（4K 120 帧）",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "5be9809597915ffd85c4862edc0b95fa9df33787ee0e10e8e83f5ee4723cae87",
+      "title": "疯狂麦克斯|Mad Max汉化",
+      "original_url": "https://nsthwj.cn/game/ps4/13517",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "扮演Mad Max，一位打不垮的英雄和生还者，Max欲将一切疯狂抛在脑后，只为找到属于自己的那份慰藉",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.06 系统要求：≥ 5.05",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-26T11:08:27.137113+00:00"
+    },
+    {
+      "id": "699498a969188e5391753f6ac2094e04ebbda134743183f5dc70611b0bda4ba3",
+      "title": "双人成行|It Takes Two中文",
+      "original_url": "https://nsthwj.cn/game/ps4/12457",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "游玩《双人成行》，踏上生命中最疯狂的旅程。利用好友通行证*邀请一位好友免费游玩，共同体验多种多样的乐趣，享受颠覆性的玩法挑战。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.05系统要求：≥ 5.05",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-26T11:08:28.658140+00:00"
+    },
     {
       "id": "6e67df9ee4a7d872c93cdb7577672a7b32e51841545153c7b8c20f0d133505da",
       "title": "[移植游戏]终极漫威英雄VS卡普空3|Ultimate Marvel vs. Capcom 3汉化",
@@ -233,29 +481,6 @@
       "updated_at": "2026-11-25T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-25T17:27:01.265812+00:00"
-    },
-    {
-      "id": "477f42b883e4b23e1b327b7d7fcce49401b169f4b4b42ea1ddc6fbcc48b00ab9",
-      "title": "[移植游戏]龙之皇冠Pro|Dragon's Crown Pro",
-      "original_url": "https://nsthwj.cn/game/switch/138416",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.4.0",
-      "updated_at": "2026-11-25T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-25T17:27:02.690602+00:00"
     },
     {
       "id": "eeff182f6b081e9a0472477692596349013c03c73b498811f233332218209f4d",
@@ -1028,75 +1253,6 @@
       "summary_checked_at": "2026-11-24T23:08:04.890661+00:00"
     },
     {
-      "id": "5e04b9767c7203296cc23df0d00f24af8b1412aed27cf93a4a7f7a57ded82c4d",
-      "title": "[移植游戏]银河战士：萨姆斯归来|Metroid: Samus Returns",
-      "original_url": "https://nsthwj.cn/game/switch/138399",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：0.5.0",
-      "updated_at": "2026-11-23T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-23T14:59:05.296095+00:00"
-    },
-    {
-      "id": "1b67be7ad1ccd42350fafa3eef6da57c302c8aa3fdf6b9165aa4882b2e02ee3c",
-      "title": "苍之彼方的四重奏|Aokana: Four Rhythms Across the Blue汉化",
-      "original_url": "https://nsthwj.cn/game/switch/1379",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "《苍之彼方的四重奏》的故事设定在一个人类可以自由自在地翱翔于天际，甚至比骑自行车还要简单的普通世界。在那里，流行着一种名为“Flying Circus(飞翔马戏团)”的运动，而曾被视为该项运动的未来之星、被寄予厚望的天才少年日向晶也，因为某一次压倒性的败北，而选择默默地离开了空中竞技的赛场。但是，在他与突然转校而来的…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.02",
-      "updated_at": "2026-11-23T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-23T14:59:06.259175+00:00"
-    },
-    {
-      "id": "2748bb9d59b6f8b99c26e61e2e7343a13bc94543ec2627de0f9af2665ed19ec9",
-      "title": "[移植游戏]恶魔城：绝望的和声|Castlevania: Harmony of Despair汉化",
-      "original_url": "https://nsthwj.cn/game/switch/137871",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：0.295.f206be8+",
-      "updated_at": "2026-11-23T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-24T02:23:22.288955+00:00"
-    },
-    {
       "id": "ba90d5480097fa36029a9cdcf327242351ba05a7bf333abcc48685c93b63a2ba",
       "title": "病态：艾尔之王|病态：愤怒之王|Morbid: The Lords of Ire中文",
       "original_url": "https://nsthwj.cn/game/ps4/138020",
@@ -1166,11 +1322,11 @@
       "summary_checked_at": "2026-11-24T02:23:29.083304+00:00"
     },
     {
-      "id": "fdb6d7e421d474310538527cb6b749e5cefd5fb38745cd5379d7455103da1bf6",
-      "title": "[移植游戏]轩辕剑5：一剑凌云山海情|Xuan-Yuan Sword 5中文",
-      "original_url": "https://nsthwj.cn/game/switch/138401",
+      "id": "5e04b9767c7203296cc23df0d00f24af8b1412aed27cf93a4a7f7a57ded82c4d",
+      "title": "[移植游戏]银河战士：萨姆斯归来|Metroid: Samus Returns",
+      "original_url": "https://nsthwj.cn/game/switch/138399",
       "source_name": "NS头号玩家 SWITCH",
-      "summary": "《轩辕剑伍：一剑凌云山海情》是大宇资讯旗下经典单机角色扮演游戏《轩辕剑》系列的第八部作品。本作的故事背景与前几代不同，不再设定于真实历史之中，而是以古籍《山海经》为主轴，向玩家展示了十多个风格迥异的山海界国家。 根据剧情设定与官方说法，本作与之后的《轩辕剑外传：汉之云》和《轩辕剑外传：云之遥》并称“轩辕剑伍系列三部曲…",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
       "summary_origin": "publisher_description",
       "content": "",
       "image_url": "",
@@ -1183,10 +1339,10 @@
       ],
       "category": "discovery",
       "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
+      "version": "最新版本：0.5.0",
       "updated_at": "2026-11-23T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-24T02:23:23.543859+00:00"
+      "summary_checked_at": "2026-11-23T14:59:05.296095+00:00"
     },
     {
       "id": "6abe55d666393ae7be5ad51990636f8eb087da7024c255dc13012efb52e48d80",
@@ -1537,116 +1693,6 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "Build.24956683",
-      "updated_at": "2026-11-22T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "94b957e1d1a63c1acde4a0ada33578ac9c3480b52a37464e675caa57cac613cf",
-      "title": "拉格纳克|Ragnarock",
-      "original_url": "https://nsthwj.cn/game/pc/138375",
-      "source_name": "NS头号玩家 PC",
-      "summary": "在这款节奏游戏中带领你的维京船走向胜利！敲响你的鼓，演奏凯尔特摇滚到维京力量金属等史诗般的音乐，与你的对手展开较量。 包括单人、分屏和在线 PVP。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.30062026",
-      "updated_at": "2026-11-22T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "c7bc01f4e575f12a0ad09a7a635d867512318fc20754f256abbe006f01be1c87",
-      "title": "剁手哥布林|Chop Goblins",
-      "original_url": "https://nsthwj.cn/game/pc/138374",
-      "source_name": "NS头号玩家 PC",
-      "summary": "A fast-paced micro FPS in which The Chop Goblins are loose, chopping their way through time itself in their ravenous quest for cheese. And THE CHOP WILL NOT STOP.",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "v1.41a",
-      "updated_at": "2026-11-22T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "31e86280ad58dec505abe5951086f49df90e7ae9d7cad12efdb217400ded4bac",
-      "title": "洛蕾莱与激光眼|Lorelei and the Laser Eyes",
-      "original_url": "https://nsthwj.cn/game/pc/138373",
-      "source_name": "NS头号玩家 PC",
-      "summary": "场景已设定：想像一座传统的巴洛克庄园，可能是一家酒店或是博物馆，位于欧洲中部某地。一个女人在徘徊着寻找答案。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "v20241203",
-      "updated_at": "2026-11-22T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "000f49b0ef18ecdda822a0af7c60ae808fe48cf57e6e2031ab7288d11590614a",
-      "title": "VR乒乓球|Eleven Table Tennis VR",
-      "original_url": "https://nsthwj.cn/game/pc/138372",
-      "source_name": "NS头号玩家 PC",
-      "summary": "We're obsessed with creating the most realistic VR table tennis simulator the world has ever seen. After 5 years and countless hours of hard work, we believe that we have accomplished that goal.: : : [Play over Oculus Link/AirLink/Virtual D…",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "v354.4",
-      "updated_at": "2026-11-22T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "6b5213d0196a063ce3a1196376a8ef063444c840ead75a4ecc9f4ca33dda5101",
-      "title": "棋弈无限：围棋|Just Go",
-      "original_url": "https://nsthwj.cn/game/pc/138371",
-      "source_name": "NS头号玩家 PC",
-      "summary": "在这款游戏中，你不仅可以探索从围棋新手成长到职业棋手的过程，体验顶级的围棋联赛，还可以重温历史上著名的围棋棋局。全程的配音教程可以让身为围棋初学者的你轻松感受围棋的魅力。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "v1.2.1",
       "updated_at": "2026-11-22T00:00:00+08:00",
       "update_date_precision": "day"
     },
@@ -2272,76 +2318,6 @@
         }
       ],
       "summary_checked_at": "2026-11-04T14:20:49.075527+00:00"
-    },
-    {
-      "id": "fe8cabc067af6ce41b3edf5fe88cdc7b2bf568221929b20b7a5be43c166db2b1",
-      "title": "鳄鱼侦探布罗格：乱斗酒吧|Brok the Investigator: The Brawl Bar中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137758",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "《鳄鱼侦探布罗格：乱斗吧》是狂野热烈的横板清关游戏！ 赶快来接受这些疯狂的挑战，战胜危险的对手，登上地下酒吧的顶点，结识意想不到的朋友吧！",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.06 系统要求：≥ 5.05",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1K1bQv9H3rV9XyN13I7ZvLg?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5Wiyh8e-JIigHiqhIsncfIA1?pwd=x4tm",
-          "extraction_code": "x4tm"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:50.163920+00:00"
-    },
-    {
-      "id": "dd2db4e0d6ebe739bfc5e55e0ad4a5b166f66e13c630860872352b5b2628c7f7",
-      "title": "鳄鱼侦探布罗格：尾诞节，新的圣诞|Brok: Natal Tail, A New Christmas中文",
-      "original_url": "https://nsthwj.cn/game/ps4/137716",
-      "source_name": "NS头号玩家 PS4",
-      "summary": "这是一篇背景设定在《鳄鱼侦探布罗格》世界中的圣诞故事，以独立视觉小说的形式呈现。",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "ps4"
-      ],
-      "category": "discovery",
-      "download_status": "public_browser_verified",
-      "version": "最新版本：1.02 系统要求：≥ 5.05",
-      "updated_at": "2026-11-03T00:00:00+08:00",
-      "update_date_precision": "day",
-      "download_links": [
-        {
-          "provider": "百度网盘",
-          "url": "https://pan.baidu.com/s/1BRs2lDWCrBdW0DGu_w8Qfw?pwd=thwj",
-          "extraction_code": "thwj"
-        },
-        {
-          "provider": "迅雷网盘",
-          "url": "https://pan.xunlei.com/s/VP5WQgrnKq-nQN_Dn0phDsBcA1?pwd=w7ii",
-          "extraction_code": "w7ii"
-        }
-      ],
-      "summary_checked_at": "2026-11-04T14:20:50.740867+00:00"
     }
   ]
 }

@@ -1,9 +1,119 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-26T01:52:06.024443+00:00",
+  "generated_at": "2026-11-26T11:08:18.371989+00:00",
   "source_url": "https://nsthwj.cn/pc",
   "items": [
+    {
+      "id": "6a592f75fe8426e20ccbe46a1e3ed8f3dece5f6ac7e7d447274e3ce11e1dd106",
+      "title": "骗子酒吧|Liar's Bar",
+      "original_url": "https://nsthwj.cn/game/pc/138440",
+      "source_name": "NS头号玩家 PC",
+      "summary": "沉浸在这个设定在阴暗酒吧的多人在线体验中，游戏的危险程度与酒客们一样。加入四人桌，测试你在《骗子骰子》和《骗子牌》中的技巧，在这些游戏中，撒谎和诈唬是胜利的关键。准备好在《骗子酒吧》度过一个夜晚了吗？",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v0.99",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "a10895e784ae8acf5afe3b59ab67c64c8656aa7c7fff74b7d59e46c463f358d8",
+      "title": "模拟农场19|Farming Simulator 19",
+      "original_url": "https://nsthwj.cn/game/pc/138439",
+      "source_name": "NS头号玩家 PC",
+      "summary": "百万销量的品牌以全新的图形引擎、让人着迷的游戏玩法以及身临其境的视效又向前迈出重要一步，诚邀您体验有史以来最大型的农耕模拟游戏。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v1.7.1.0",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "930cb96231cb9b28e14370b76cf258341e840565269bfb99c5d87c596fcd23cb",
+      "title": "超级肉肉男孩3D|Super Meat Boy 3D",
+      "original_url": "https://nsthwj.cn/game/pc/138438",
+      "source_name": "NS头号玩家 PC",
+      "summary": "那款大名鼎鼎、硬核到炸裂的平台跳跃游戏推出 3D 版了！",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.23341285",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "3fbb2df4fe234dd18f46f4e32db5dddd119e84e234291b9fdce5aa3fd2a022fc",
+      "title": "勇敢者之试炼|Invokyr",
+      "original_url": "https://nsthwj.cn/game/pc/138437",
+      "source_name": "NS头号玩家 PC",
+      "summary": "一款以诅咒桌游为主题的多人合作生存恐怖游戏。一盒尘封的棋盘，一栋闹鬼的老宅。支持最多6人联机。掷出骰子，在接踵而至的恐怖中拼死求生，击败游戏主宰，赢回你的自由。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.26485130",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "e757d72b12dbbf4330fe986d6bc55a49c80127ed77118fab536905187be587bc",
+      "title": "战神：弑神自封（升天 PC 原生移植版）|God of War: Ascension",
+      "original_url": "https://nsthwj.cn/game/pc/138434",
+      "source_name": "NS头号玩家 PC",
+      "summary": "《战神：弑神自封（战神：升天）》PC 原生移植成品版 v0.1.35：基于静态重编译（AscensionRecomp）打造的 Windows 原生运行版本，非通用 PS3 模拟器，解压即玩，游戏内支持中文，支持 4K 高分辨率与 120 帧帧生成，畅玩奎托斯打破阿瑞斯血誓的希腊神话前传大作。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "PC 原生移植 v0.1.35（4K 120 帧）",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
     {
       "id": "175b4cc931c77b6665cfd8c7cef7375a180c59ac63c8b785edf6d0b46e6ba95a",
       "title": "马力欧赛车8 豪华版（PC 原生移植版）|Mario Kart 8 Deluxe",
@@ -2091,116 +2201,6 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "Build.175024793",
-      "updated_at": "2026-11-20T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "9acd15a32accdbc44c38f09b5840e448ec275842c11b64673ecda9dbf8cd4081",
-      "title": "ΔV：土星环|ΔV: Rings of Saturn",
-      "original_url": "https://nsthwj.cn/game/pc/138349",
-      "source_name": "NS头号玩家 PC",
-      "summary": "这是一款基于物理模拟的拟真采矿游戏，背景设置在太阳系内最厚的碎片场中。 每个动作都会有反作用力，激光在没有介质的情况下是看不见的，而你的引擎推力是一种强大的武器。 寻找贸易机会，调整您的设备以适应您的风格，雇用船员来帮忙。 揭开环区的神秘面纱，或者专心让自己钱包鼓鼓。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.24594767",
-      "updated_at": "2026-11-20T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "9f135aadde77d7ec3286f631df662ce0349ad230a41ff8bf1b286abb6def8ed6",
-      "title": "王牌与冒险|Aces & Adventures",
-      "original_url": "https://nsthwj.cn/game/pc/138348",
-      "source_name": "NS头号玩家 PC",
-      "summary": "《王牌与冒险》是一款以扑克牌为基础进行战斗的卡牌构建RPG游戏。请在由北欧与中东神话所启发的世界中徜徉，并从啃噬生命之树根须的邪恶手中拯救她吧。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "v1.221",
-      "updated_at": "2026-11-20T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "622f61283686567bd39476af47a2ecf82f8f737e41690da08c544b660827b65c",
-      "title": "真探|The Truth",
-      "original_url": "https://nsthwj.cn/game/pc/138347",
-      "source_name": "NS头号玩家 PC",
-      "summary": "没有多余的画面，只有极致的脑力激荡。在错综复杂的线索库中主动检索、交叉比对、抽丝剥茧。在这场纯文字硬核推理中，魔鬼永远藏在细节里。侦探，你准备好了吗？",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.16036730",
-      "updated_at": "2026-11-20T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "df4a95d8501e6bfc258d0a290c23227584e398338733263e410e06be9fd768fc",
-      "title": "低魔时代|Low Magic Age",
-      "original_url": "https://nsthwj.cn/game/pc/138346",
-      "source_name": "NS头号玩家 PC",
-      "summary": "在开放式的中世纪奇幻世界里冒险与战斗！培养能力各异的英雄角色，游历于星罗棋布的村庄，城塞，亦或危机四伏的地下城。经典硬核的回合制小队战斗和角色培养系统：视野，战雾，冲锋，夹击，法术，战技，你可以在“踢门团”式的竞技场模式中自由体验更多有趣的游戏元素。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.24517358",
-      "updated_at": "2026-11-20T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "0a8a7bda49b3bcb2eefdff1eccdb2eae6ba06c270afdcf73e94b34de14a6a081",
-      "title": "新星之地|Nova Lands",
-      "original_url": "https://nsthwj.cn/game/pc/138345",
-      "source_name": "NS头号玩家 PC",
-      "summary": "《Nova Lands》是一款着眼于工厂建造、探索以及岛屿管理的开放世界游戏。探索脚下的星球，依托乐于助人的机器人打造自动化工厂，并且通过武力或谈判手段克服重重挑战与任务。欢迎来到群星之间的新家园！",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "v1.1.18",
       "updated_at": "2026-11-20T00:00:00+08:00",
       "update_date_precision": "day"
     }

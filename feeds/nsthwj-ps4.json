@@ -1,9 +1,55 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-26T01:52:08.018818+00:00",
+  "generated_at": "2026-11-26T11:08:21.627358+00:00",
   "source_url": "https://nsthwj.cn/ps4",
   "items": [
+    {
+      "id": "5be9809597915ffd85c4862edc0b95fa9df33787ee0e10e8e83f5ee4723cae87",
+      "title": "疯狂麦克斯|Mad Max汉化",
+      "original_url": "https://nsthwj.cn/game/ps4/13517",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "扮演Mad Max，一位打不垮的英雄和生还者，Max欲将一切疯狂抛在脑后，只为找到属于自己的那份慰藉",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.06 系统要求：≥ 5.05",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-26T11:08:27.137113+00:00"
+    },
+    {
+      "id": "699498a969188e5391753f6ac2094e04ebbda134743183f5dc70611b0bda4ba3",
+      "title": "双人成行|It Takes Two中文",
+      "original_url": "https://nsthwj.cn/game/ps4/12457",
+      "source_name": "NS头号玩家 PS4",
+      "summary": "游玩《双人成行》，踏上生命中最疯狂的旅程。利用好友通行证*邀请一位好友免费游玩，共同体验多种多样的乐趣，享受颠覆性的玩法挑战。",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "ps4"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.05系统要求：≥ 5.05",
+      "updated_at": "2026-11-26T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-26T11:08:28.658140+00:00"
+    },
     {
       "id": "7b64a6833f24b5eff4a72e08edc3251e8634cc7fdded973039d80e8fe5245458",
       "title": "夜迴3|夜回三|Yomawari 3中文",
@@ -1738,7 +1784,7 @@
           "extraction_code": "jdsy"
         }
       ],
-      "summary_checked_at": "2026-11-26T01:52:09.666480+00:00"
+      "summary_checked_at": "2026-11-26T11:08:30.202004+00:00"
     },
     {
       "id": "ab7c206e9352b578ccd33269d35767111a6f67f2e01edcdb64c85f804f09e3b3",
