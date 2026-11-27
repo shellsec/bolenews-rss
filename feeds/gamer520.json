@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-27T12:48:47.128654+00:00",
+  "generated_at": "2026-11-27T22:08:47.895717+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -1427,7 +1427,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-22T22:35:44.436979+00:00"
+      "summary_checked_at": "2026-11-27T22:08:49.802922+00:00"
     },
     {
       "title": "帝国时代2|移植版|",

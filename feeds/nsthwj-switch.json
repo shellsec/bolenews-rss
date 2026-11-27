@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-27T12:49:07.566335+00:00",
+  "generated_at": "2026-11-27T22:09:07.546795+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -187,6 +187,144 @@
       "updated_at": "2026-11-27T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-27T12:49:21.687130+00:00"
+    },
+    {
+      "id": "8bc261d1905271318869bb9956e71a6d518ccd80e4cfdd6b38e262e92fb52900",
+      "title": "冥狱战术|Hadean Tactics中文",
+      "original_url": "https://nsthwj.cn/game/switch/138464",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "《冥狱战术》是一款融合自走棋元素的 roguelike 卡组构筑游戏，带来独特的策略体验。 使用卡牌影响单位的行动，协助你的英雄击败地狱六翼。 随机生成的路线、足以扭转战局的各种遗物、独特的单位，以及结合卡组构筑策略与半即时战斗的创新战斗系统，让《冥狱战术》的每次冒险都带来不同体验。 招募你的队伍 招募被困在冥界的灵…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-27T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-27T22:09:09.155909+00:00"
+    },
+    {
+      "id": "37532cb536d59363bdaa9eeaec605756ba9cf05cf2a981b9e0f6b9a0a9cfe814",
+      "title": "[移植游戏]兽化格斗：极限|Bloody Roar Extreme",
+      "original_url": "https://nsthwj.cn/game/switch/138463",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Bloody Roar Extreme 进入游戏 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.1.0",
+      "updated_at": "2026-11-27T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-27T22:09:10.281737+00:00"
+    },
+    {
+      "id": "05ac98b2ce76d51847a394bd59401e43f72784d34c0c8bc18eb65700a6f65317",
+      "title": "[移植游戏]伊洛纳|Elona中文",
+      "original_url": "https://nsthwj.cn/game/switch/138462",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Elona Plus 进入游戏 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：2.33",
+      "updated_at": "2026-11-27T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-27T22:09:11.339685+00:00"
+    },
+    {
+      "id": "5662320e08c69198f8a59f6fcee66ce2a2ae8b274b6b48c4a398deeb0f0afd11",
+      "title": "[移植游戏]使命召唤5：战争世界|Call of Duty: World at War汉化",
+      "original_url": "https://nsthwj.cn/game/switch/138461",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "在太平洋战区，1942年，被日军俘虏的美国海军陆战队士兵米勒在马金岛上获救，之后在罗巴克下士的指挥下继续参与佩莱利乌岛和冲绳岛的战斗。在东线战场上，1942年，苏联士兵迪米特里·佩特连科在斯大林格勒的废墟中被维克托·雷兹诺夫中士找到，两人一起设法除掉了那个犯下战争罪的德国将军。几年后的1945年，迪米特里和雷兹诺夫从…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0",
+      "updated_at": "2026-11-27T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-27T22:09:12.597862+00:00"
+    },
+    {
+      "id": "77845ea21c4944903293b27556e93674fce7196503906bf3fed6b63bfc150282",
+      "title": "[移植游戏]街头涂鸦未来版|Jet Set Radio Future",
+      "original_url": "https://nsthwj.cn/game/switch/138460",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 JSRF Unleashed NX 进入游戏 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.5.6",
+      "updated_at": "2026-11-27T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-27T22:09:13.704151+00:00"
+    },
+    {
+      "id": "e94bab280458e44285f2c6bed53c976306d1a2a02a4a7859b8acf33da7d159d2",
+      "title": "[移植游戏]新光之神话：帕鲁迪娜之镜|Kid Icarus: Uprising",
+      "original_url": "https://nsthwj.cn/game/switch/138459",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-27T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-27T22:09:14.606768+00:00"
     },
     {
       "id": "477f42b883e4b23e1b327b7d7fcce49401b169f4b4b42ea1ddc6fbcc48b00ab9",
@@ -2168,144 +2306,6 @@
       "updated_at": "2026-11-18T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-18T14:19:40.079682+00:00"
-    },
-    {
-      "id": "93bdf58e40d4dcc99a83033d3d4c1dd7f0142f796ecb576d7df90023737de087",
-      "title": "[移植游戏]模拟人生3|The Sims 3",
-      "original_url": "https://nsthwj.cn/game/switch/138257",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：0.1.0",
-      "updated_at": "2026-11-18T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-18T14:19:44.353683+00:00"
-    },
-    {
-      "id": "69b36410900f479e5768601a4af939bb26a82b9d0eb299dea36653bec0a939d1",
-      "title": "[移植游戏]暴走山地自行车|Downhill Domination",
-      "original_url": "https://nsthwj.cn/game/switch/138256",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-18T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-18T14:19:45.906833+00:00"
-    },
-    {
-      "id": "7add6eeeb82839a4846fcf0ac2ad5dd79bf2a107c02e696a7810af5a7167b960",
-      "title": "[移植游戏]巫师2：国王刺客|The Witcher 2: Assassins of Kings中文",
-      "original_url": "https://nsthwj.cn/game/switch/138261",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：0.1.4",
-      "updated_at": "2026-11-18T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-18T22:10:09.489084+00:00"
-    },
-    {
-      "id": "ca297f5ecdf36fed9b8397092c88b4d04cd280e53d1352e2a370c921dc1af8e8",
-      "title": "[移植游戏]轩辕剑4|Xuan-Yuan Sword 4中文",
-      "original_url": "https://nsthwj.cn/game/switch/138262",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "《轩辕剑肆：黑龙舞兮云飞扬》是大宇资讯旗下经典单机角色扮演游戏《轩辕剑》系列的第六部作品。故事设定在已经完成”大一统“的秦朝初期。配乐也大胆借鉴了中国商周时期的“金石”雅乐。 从这款作品开始，轩辕剑系列全面采用 3D 画面，在 3D 效果下，此作也呈现出叹为观止的古代科技文明。 系统方面，以前几代的“炼妖壶”为蓝本，…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-18T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-19T03:41:47.040047+00:00"
-    },
-    {
-      "id": "ca160dda96ecdc8bfb3c4f1c00fec2fc9ca412d4015d431e6fbb44fe34f8edb5",
-      "title": "[移植游戏]寂静岭8：暴雨|Silent Hill: Downpour汉化",
-      "original_url": "https://nsthwj.cn/game/switch/137517",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：0.2.0",
-      "updated_at": "2026-11-17T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-17T04:40:37.398564+00:00"
-    },
-    {
-      "id": "c569fe818651b39948b6ea453ed494d57750e43f59b7f97b82c88f195525a204",
-      "title": "[移植游戏]刀魂2|SoulCalibur II",
-      "original_url": "https://nsthwj.cn/game/switch/138253",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：0.4.0",
-      "updated_at": "2026-11-17T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-17T23:00:31.045483+00:00"
     }
   ]
 }
