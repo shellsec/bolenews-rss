@@ -1,9 +1,45 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-27T02:58:29.827607+00:00",
+  "generated_at": "2026-11-27T12:48:47.128654+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "冥狱战术 Hadean Tactics|官方中文|NSP|",
+      "original_url": "https://vip.gamers520.com/126816.html",
+      "published_at": "2026-11-26T22:10:59Z",
+      "summary": "《冥狱战术》是一款roguelike卡组构筑游戏，融合了自走棋元素，创造了独一无二的战略体验。使用你的卡牌来影响单位的行动，并协助你的英雄击败地狱六翼！ 关于此游戏 《冥狱战术》是一款r …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-27T03:03:18Z",
+      "platform": [
+        "switch1"
+      ]
+    },
+    {
+      "title": "农场营地 Farming Camp|官方中文|本体+1.0.4升补|NSZ|",
+      "original_url": "https://vip.gamers520.com/123054.html",
+      "published_at": "2026-11-26T22:00:54Z",
+      "summary": "每年夏天，恒树农业营都会寻找下一任最优秀的恒树农夫，此人会把农业拉高到新的水平。 年轻的亚历山德拉怀揣着对美好未来的憧憬而参赛，力争夺得冠军。但她必须面对同龄人的较量，并探索成为恒树农夫的意义",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-27T03:03:16Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.4"
+    },
     {
       "title": "轩辕剑外传 汉之云|官方中文|移植版|",
       "original_url": "https://vip.gamers520.com/126747.html",
@@ -1335,7 +1371,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-22T16:27:28.359262+00:00"
+      "summary_checked_at": "2026-11-27T12:48:50.137988+00:00"
     },
     {
       "title": "鬼灭之刃 火之神血风谭2|官方中文|本体+v2.01升补+12DLC|NSP|原版|",
@@ -1760,42 +1796,6 @@
       "platform": [
         "switch1"
       ]
-    },
-    {
-      "title": "仙剑奇侠传3 外传·问情篇|官方中文|移植版|",
-      "original_url": "https://vip.gamers520.com/124739.html",
-      "published_at": "2026-10-26T21:20:43Z",
-      "summary": "由于未知的原因，蜀山仙境开始崩坏，掌门徐长卿命南宫煌寻找清冷真人并取得丢失多年的蜀山密宝五灵轮， 由此南宫煌展开了一系列奇妙的地脉之旅。南宫煌也由此结识了温慧、王蓬絮、星璇、雷元戈等几位好友，更发现在 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-27T03:52:58Z",
-      "platform": [
-        "switch1"
-      ]
-    },
-    {
-      "title": "四叶草深渊 CloverPit|官方中文|本体+v1.4.2+1DLC|NSP|",
-      "original_url": "https://vip.gamers520.com/124718.html",
-      "published_at": "2026-10-26T21:00:33Z",
-      "summary": "一款融合轻度Rogue元素的噩梦老虎机游戏。在永无止境的债务模拟器中，押上性命来场豪赌吧！ 《Clover Pit》是《Balatro》与《Buckshot Roulette》的恶魔结合体，它将玩家困 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-27T01:01:10Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ],
-      "version": "v1.4.2"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-27T02:58:46.368434+00:00",
+  "generated_at": "2026-11-27T12:49:06.807608+00:00",
   "source_url": "https://www.nintendo.com/tw/topics",
   "items": [
     {
@@ -563,9 +563,9 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
-      "content_scope": "summary",
-      "summary_checked_at": "2026-11-27T02:58:46.996584+00:00",
-      "summary_origin": "publisher_description"
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-27T02:58:46.996584+00:00"
     },
     {
       "id": "a1e315eb54543ef7124abf47b66ddb3f3e94b90219914b9d5cc9b0c9b97aa898",
@@ -577,8 +577,22 @@
       "published_at": "",
       "evidence": "community",
       "language": "zh-Hant",
+      "content_scope": "metadata",
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-27T02:58:47.562243+00:00"
+    },
+    {
+      "id": "07a67a8df51160f6e529e116bef309b5fd87795b6aace254b7575c843e00baf9",
+      "title": "《Monster Hunter Wilds》現已於Nintendo Switch 2推出可遊玩遊戲初期內容的體驗版，而且可將存檔資料繼承至正式版。2026.11.27",
+      "original_url": "https://www.nintendo.com/tw/topics/article/4G5K69kX5Trk7ZkPDvHd2g",
+      "summary": "《Monster Hunter Wilds》現已於Nintendo Switch 2推出可遊玩遊戲初期內容的體驗版，而且可將存檔資料繼承至正式版。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hant",
       "content_scope": "summary",
-      "summary_checked_at": "2026-11-27T02:58:47.562243+00:00",
+      "summary_checked_at": "2026-11-27T12:49:07.308129+00:00",
       "summary_origin": "publisher_description"
     }
   ]
