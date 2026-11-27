@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-26T20:18:02.104447+00:00",
+  "generated_at": "2026-11-27T02:58:29.827607+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -731,7 +731,7 @@
         "game_update"
       ],
       "version": "1.26.62",
-      "summary_checked_at": "2026-11-22T08:13:08.613334+00:00"
+      "summary_checked_at": "2026-11-27T02:58:32.729148+00:00"
     },
     {
       "title": "无人深空|官方中文|本体+7.10.0升补|NSZ|原版|",

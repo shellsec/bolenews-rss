@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-26T20:18:23.224694+00:00",
+  "generated_at": "2026-11-27T02:58:47.832752+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -377,8 +377,8 @@
       "title": "[移植游戏]宝可梦肉鸽|PokéRogue中文",
       "original_url": "https://nsthwj.cn/game/switch/138441",
       "source_name": "NS头号玩家 SWITCH",
-      "summary": "",
-      "summary_origin": "publisher_game_index",
+      "summary": "宝可梦肉鸽(pokerogue)是一款由玩家制作的魔改版宝可梦游戏，将经典宝可梦元素和肉鸽玩法结合。玩家将化身为一名充满潜力的训练师，选择一只初始宝可梦作为伙伴，踏入一个充满未知的冒险。对宝可梦对战和肉鸽玩法感兴趣的玩家快来下载体验吧。",
+      "summary_origin": "publisher_description",
       "content": "",
       "image_url": "",
       "published_at": "",
@@ -392,7 +392,8 @@
       "download_status": "not_verified",
       "version": "最新版本：1.12.2.8",
       "updated_at": "2026-11-26T00:00:00+08:00",
-      "update_date_precision": "day"
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-27T02:58:49.794257+00:00"
     },
     {
       "id": "6e67df9ee4a7d872c93cdb7577672a7b32e51841545153c7b8c20f0d133505da",

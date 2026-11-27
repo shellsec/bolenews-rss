@@ -1,9 +1,31 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-26T20:18:40.909108+00:00",
+  "generated_at": "2026-11-27T02:58:50.783960+00:00",
   "source_url": "https://nsthwj.cn/pc",
   "items": [
+    {
+      "id": "b970beb9de3e7dcc55c57bec75477bea7d12b250fce5b8622b83d662c912a9e8",
+      "title": "侠盗猎车手6（抢先体验版）|Grand Theft Auto VI",
+      "original_url": "https://nsthwj.cn/game/pc/138446",
+      "source_name": "NS头号玩家 PC",
+      "summary": "《侠盗猎车手6（抢先体验版）》（Grand Theft Auto VI）Xbox Series X|S v1.0.2.1 早期构建本体（解压约208.6GB，含官方简体中文）+ 开源社区 10 合 1 Windows PC 转译启动器整合包。本站已将约 30 MB 启动器（GTA6_Install）与 193 GB 游戏本体（GTA6_Data）彻底分离，支持一键全自动安装与清理分卷：现在即可下载抢鲜体验或提前囤好本体，后续社区推出高帧率/完美启动器时，无需重下近 200 G…",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v1.0.2.1 抢先体验版（含10合1 PC转译启动器）",
+      "updated_at": "2026-11-27T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
     {
       "id": "6a592f75fe8426e20ccbe46a1e3ed8f3dece5f6ac7e7d447274e3ce11e1dd106",
       "title": "骗子酒吧|Liar's Bar",
@@ -2179,28 +2201,6 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "Build.9521431",
-      "updated_at": "2026-11-20T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "89ea366b05d0e8e49a4a6baa170ab5e1723bbfbffc8204ad09bc4f10e966f609",
-      "title": "兔子之夜|The Night of the Rabbit",
-      "original_url": "https://nsthwj.cn/game/pc/138350",
-      "source_name": "NS头号玩家 PC",
-      "summary": "Lose yourself in a tale of magic and wonder, where anything is possible and where nothing is quite as it seems: join young Jerry and follow a peculiar white rabbit to the wondrous realm of Mousewood, a land where critters can speak and wher…",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.175024793",
       "updated_at": "2026-11-20T00:00:00+08:00",
       "update_date_precision": "day"
     }

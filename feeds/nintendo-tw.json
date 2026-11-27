@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-26T20:18:22.762129+00:00",
+  "generated_at": "2026-11-27T02:58:46.368434+00:00",
   "source_url": "https://www.nintendo.com/tw/topics",
   "items": [
     {
@@ -552,6 +552,34 @@
       "content_scope": "metadata",
       "summary_origin": "publisher_description",
       "summary_checked_at": "2026-11-26T01:51:59.968980+00:00"
+    },
+    {
+      "id": "8e8d950bcfe11d59b64551a733fce1344c9fbd4090c3e05ef185ff73dd6d9217",
+      "title": "Nintendo eShop 新作軟體資訊 11月27日（五）2026.11.27",
+      "original_url": "https://www.nintendo.com/tw/topics/article/5UjCzlSRs699nxhKB6Onx4",
+      "summary": "Nintendo eShop 新作軟體資訊 11月27日（五）",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hant",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-27T02:58:46.996584+00:00",
+      "summary_origin": "publisher_description"
+    },
+    {
+      "id": "a1e315eb54543ef7124abf47b66ddb3f3e94b90219914b9d5cc9b0c9b97aa898",
+      "title": "11月30日起期間限定免費遊玩《PICROSS S》！舉辦Nintendo Switch Online加入者限定活動「試玩同樂會」。2026.11.27",
+      "original_url": "https://www.nintendo.com/tw/topics/article/1RepGxE7ydBRfKpuYA1Hqq",
+      "summary": "11月30日起期間限定免費遊玩《PICROSS S》！舉辦Nintendo Switch Online加入者限定活動「試玩同樂會」。",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "evidence": "community",
+      "language": "zh-Hant",
+      "content_scope": "summary",
+      "summary_checked_at": "2026-11-27T02:58:47.562243+00:00",
+      "summary_origin": "publisher_description"
     }
   ]
 }

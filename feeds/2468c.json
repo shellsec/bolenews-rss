@@ -1,9 +1,180 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-26T20:17:56.041432+00:00",
+  "generated_at": "2026-11-27T02:58:25.231743+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "风帆纪元 Sailing Era",
+      "original_url": "https://2468c.com/122383.html",
+      "published_at": "2026-11-27T01:52:16Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-27T01:52:16Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5",
+      "summary_checked_at": "2026-11-27T02:58:27.205963+00:00"
+    },
+    {
+      "title": "机动之翼 Relayer",
+      "original_url": "https://2468c.com/122385.html",
+      "published_at": "2026-11-27T01:52:16Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-27T01:52:16Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "沙石镇时光 My Time at Sandrock",
+      "original_url": "https://2468c.com/122387.html",
+      "published_at": "2026-11-27T01:52:15Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-27T01:52:15Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "桑塔与七神 Shantae and the Seven Sirens",
+      "original_url": "https://2468c.com/122389.html",
+      "published_at": "2026-11-27T01:52:15Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-27T01:52:15Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "F1 车队经理 2022 F1 Manager 2022",
+      "original_url": "https://2468c.com/122391.html",
+      "published_at": "2026-11-27T01:52:15Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-27T01:52:15Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "迪士尼梦幻星谷 Disney Dreamlight Valley",
+      "original_url": "https://2468c.com/122393.html",
+      "published_at": "2026-11-27T01:52:15Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-27T01:52:15Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "史莱姆牧场 2 Slime Rancher 2",
+      "original_url": "https://2468c.com/122395.html",
+      "published_at": "2026-11-27T01:52:15Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-27T01:52:15Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "魔杖与秩序：整理魔法商店！ Wand and Order Tidy Up The Magic Shop",
+      "original_url": "https://2468c.com/122397.html",
+      "published_at": "2026-11-27T01:52:14Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-27T01:52:14Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "EA Sports FC 27",
+      "original_url": "https://2468c.com/120460.html",
+      "published_at": "2026-11-27T01:50:35Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-27T01:51:51Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "夜回三 Yomawari: Lost in the Dark",
+      "original_url": "https://2468c.com/106109.html",
+      "published_at": "2026-01-15T03:45:08Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-27T01:50:44Z",
+      "platform": [
+        "ps4"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
     {
       "title": "侠盗猎车手6.Grand Theft Auto Vl",
       "original_url": "https://2468c.com/122376.html",
@@ -14,13 +185,12 @@
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
-      "updated_at": "2026-11-26T14:37:40Z",
+      "updated_at": "2026-11-27T00:44:46Z",
       "platform": [
         "ps5"
       ],
       "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-26T20:17:58.195560+00:00"
+      "source_name": "奥德彪计划 PS4 / PS5"
     },
     {
       "title": "狂野之心.The Wild at Heart",
@@ -1540,176 +1710,6 @@
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
       "summary_checked_at": "2026-11-24T02:22:55.150640+00:00"
-    },
-    {
-      "title": "不可思议的幻想乡：异变之谜 Touhou Genso Wanderer FORESIGHT",
-      "original_url": "https://2468c.com/122245.html",
-      "published_at": "2026-11-24T02:18:14Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-24T02:18:14Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "幻想新国度：给他们一个耳光！2 Asterix and Obelix Slap Them All 2",
-      "original_url": "https://2468c.com/122247.html",
-      "published_at": "2026-11-24T02:18:14Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-24T02:18:14Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "九十六号公路：零号里程 Road 96 Mile 0",
-      "original_url": "https://2468c.com/122249.html",
-      "published_at": "2026-11-24T02:18:14Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-24T02:18:14Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "摇曳露营：本栖湖篇 Laid Back Camp Virtual Lake Motosu",
-      "original_url": "https://2468c.com/122251.html",
-      "published_at": "2026-11-24T02:18:14Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-24T02:18:14Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "摇曳露营 VIRTUAL CAMP ～山麓露营场篇～ Laid Back Camp Virtual Fumoto Campsite",
-      "original_url": "https://2468c.com/122253.html",
-      "published_at": "2026-11-24T02:18:10Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-24T02:18:10Z",
-      "platform": [
-        "ps4"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "重金属：地狱歌手 Metal: Hellsinger",
-      "original_url": "https://2468c.com/122222.html",
-      "published_at": "2026-11-24T01:34:59Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-24T01:34:59Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "兽人必须死3 Orcs Must Die! 3",
-      "original_url": "https://2468c.com/122225.html",
-      "published_at": "2026-11-24T01:34:59Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-24T01:34:59Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "极乐迪斯科 最终剪辑版 Disco Elysium: The Final Cut",
-      "original_url": "https://2468c.com/122227.html",
-      "published_at": "2026-11-24T01:34:59Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-24T01:34:59Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "东方New World Touhou: New World",
-      "original_url": "https://2468c.com/122229.html",
-      "published_at": "2026-11-24T01:34:59Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-24T01:34:59Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "秘奥：秘宇奥忆 MIO Memories In Orbit",
-      "original_url": "https://2468c.com/122231.html",
-      "published_at": "2026-11-24T01:34:58Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-24T01:34:58Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
     }
   ]
 }
