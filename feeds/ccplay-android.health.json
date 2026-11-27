@@ -1,14 +1,13 @@
 {
   "source": "ccplay-android",
-  "attempted_at": "2026-11-27T03:00:04.974682+00:00",
-  "status": "partial",
+  "attempted_at": "2026-11-27T07:26:29.695181+00:00",
+  "status": "ok",
   "robots_status": 404,
   "count": 22,
-  "fetched_count": 12,
-  "retained_count": 10,
+  "fetched_count": 14,
+  "retained_count": 8,
   "input_urls": [
     "https://g.ccplay.cc/"
   ],
-  "dropped_by_limit": 0,
-  "error": "https://g.ccplay.cc/package/224251.html: Missing game title; https://g.ccplay.cc/package/235348.html: Missing game title"
+  "dropped_by_limit": 0
 }

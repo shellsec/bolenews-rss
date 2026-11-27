@@ -609,7 +609,7 @@ def ccplay_item(body, url, site):
             raise ValueError("Missing game detail field")
         return match[1].strip()
 
-    title = clean_excerpt(field(r'<meta property="og:title" content="([^"]+)"'))
+    title = " ".join(html_entities.unescape(field(r'<meta property="og:title" content="([^"]+)"')).split())
     date = dt.date.fromisoformat(field(r'<meta property="og:release_date"\s+content="([^"]+)"'))
     version = field(r'<div class="detail_related">\s*<p>版本：([0-9][0-9A-Za-z.+_-]{0,63})</p>')
     cover = urllib.parse.urljoin(url, field(r'<dt class="dt-(?:developer|cps)">\s*<img src="([^"]+)"'))
@@ -618,8 +618,8 @@ def ccplay_item(body, url, site):
         raise ValueError("Unexpected game cover")
     notes = field(r'<h2>更新内容</h2>[^<]*(?:(?!<h2>).)*?<pre>(.*?)</pre>')
     summary = clean_excerpt(re.sub(r"(?:https?:)?//[^\s<]+", "", notes))
-    if not title:
-        raise ValueError("Missing game title")
+    if not 1 <= len(title) <= 512:
+        raise ValueError("Missing or invalid game title")
     if not summary:
         return None
     return {"title": title, "original_url": url, "published_at": "",
