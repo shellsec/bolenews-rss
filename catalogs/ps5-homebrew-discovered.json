@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 12,
+  "config_version": 13,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-25T04:29:57.256038+00:00",
+  "generated_at": "2026-11-27T07:33:00.660512+00:00",
   "sources": [
     {
       "id": "gh-homebrew-395383178",
@@ -94,23 +94,6 @@
       "name": "gta4-ps5",
       "url": "https://github.com/elripalda/gta4-ps5/releases.atom",
       "repo": "elripalda/gta4-ps5",
-      "category": "homebrew",
-      "language": "en",
-      "platforms": [
-        "ps5"
-      ],
-      "enabled": false,
-      "images": false,
-      "fullContent": true,
-      "builtin": true,
-      "evidence": "upstream",
-      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
-    },
-    {
-      "id": "gh-homebrew-1184011029",
-      "name": "kura",
-      "url": "https://github.com/NookieAI/kura/releases.atom",
-      "repo": "NookieAI/kura",
       "category": "homebrew",
       "language": "en",
       "platforms": [
