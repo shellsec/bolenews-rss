@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 13,
+  "config_version": 14,
   "min_app_version": "0.1.4",
-  "generated_at": "2026-11-27T07:33:00.660512+00:00",
+  "generated_at": "2026-11-28T03:28:26.838930+00:00",
   "sources": [
     {
       "id": "gh-homebrew-395383178",
@@ -638,6 +638,40 @@
       "name": "Dulcamara",
       "url": "https://github.com/Oliv3rmoon/Dulcamara/releases.atom",
       "repo": "Oliv3rmoon/Dulcamara",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1474231671",
+      "name": "ps5dl",
+      "url": "https://github.com/kursadrrr/ps5dl/releases.atom",
+      "repo": "kursadrrr/ps5dl",
+      "category": "homebrew",
+      "language": "en",
+      "platforms": [
+        "ps5"
+      ],
+      "enabled": false,
+      "images": false,
+      "fullContent": true,
+      "builtin": true,
+      "evidence": "upstream",
+      "rights_policy": "direct upstream release feed; no mirrored binaries or game data"
+    },
+    {
+      "id": "gh-homebrew-1474171179",
+      "name": "ps5-dvd-helloworld",
+      "url": "https://github.com/M9k/ps5-dvd-helloworld/releases.atom",
+      "repo": "M9k/ps5-dvd-helloworld",
       "category": "homebrew",
       "language": "en",
       "platforms": [
