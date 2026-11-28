@@ -1,9 +1,55 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-28T04:00:51.878778+00:00",
+  "generated_at": "2026-11-28T13:17:43.643985+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
+    {
+      "id": "2318991567b9afbc260a4929fcdbebb16df6cae3468c9f8ec79554a42420455d",
+      "title": "[移植游戏]FIFA街头足球2|FIFA Street 2",
+      "original_url": "https://nsthwj.cn/game/switch/138467",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 FIFA Street 2 进入游戏 4.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.1.0",
+      "updated_at": "2026-11-28T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-28T13:17:45.898381+00:00"
+    },
+    {
+      "id": "f809cf4e6ac9c3ff29a9132143167b2129b76481526cf6bfaa88bd7c9fa8155e",
+      "title": "[移植游戏]FIFA街头足球|FIFA Street",
+      "original_url": "https://nsthwj.cn/game/switch/138466",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：0.1.0",
+      "updated_at": "2026-11-28T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-28T13:17:50.304629+00:00"
+    },
     {
       "id": "7aae8983b9fd9fd17fd8edf846c8e0b2add4bf2ea93de6c22d1fcd1f9e6985c4",
       "title": "[绅士游戏]美少女万华镜6：异闻雪女|美少女万華鏡異聞 雪おんな汉化",
@@ -2260,52 +2306,6 @@
       "updated_at": "2026-11-19T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-19T22:18:57.271426+00:00"
-    },
-    {
-      "id": "a4de6c6075ca5961dc87849ca56e4997c9c911f4c8ba1c8f523dcf5fe6f139fb",
-      "title": "斯普拉遁3|喷射战士3|Splatoon 3中文",
-      "original_url": "https://nsthwj.cn/game/switch/6661",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "本作的舞台位于“尚兴地区”，那是一片烈日高照的荒芜沙漠。沙漠的中心地带是以混杂街道为主的“蛮颓镇”，许多热爱对战的鱿鱼和章鱼皆聚集于此。鱿鱼和章鱼的时尚似乎也有所改变。 以墨汁涂抹面积一决胜负的 4 对 4“占地对战”虽然和以前相同，不过当中加入了可以从半空开始比赛的“鱿鱼生成”等新动作，似乎让对战的趋势发生了变化。…",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：12.0.0含11.3.0金手指",
-      "updated_at": "2026-11-18T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-18T14:19:35.756846+00:00"
-    },
-    {
-      "id": "36758f8a5813b29a264244be4392743899769ffdc8d8e7f9e3e9de5ef1aecefa",
-      "title": "[移植游戏]索尼克英雄|Sonic Heroes",
-      "original_url": "https://nsthwj.cn/game/switch/138260",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：0.5.0",
-      "updated_at": "2026-11-18T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-18T14:19:37.235202+00:00"
     }
   ]
 }

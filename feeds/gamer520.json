@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-28T04:00:28.870464+00:00",
+  "generated_at": "2026-11-28T13:17:22.894033+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
@@ -1623,7 +1623,7 @@
       "platform": [
         "switch1"
       ],
-      "summary_checked_at": "2026-11-23T03:49:02.584567+00:00"
+      "summary_checked_at": "2026-11-28T13:17:25.479259+00:00"
     },
     {
       "title": "现代战争4 决战时刻|移植版|",

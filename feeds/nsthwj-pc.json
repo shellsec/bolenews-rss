@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-28T04:00:54.670273+00:00",
+  "generated_at": "2026-11-28T13:17:53.208498+00:00",
   "source_url": "https://nsthwj.cn/pc",
   "items": [
     {
@@ -23,7 +23,161 @@
       "category": "discovery",
       "download_status": "not_verified",
       "version": "v1.0.2.1 抢先体验版（含10合1 PC转译启动器）",
-      "updated_at": "2026-11-27T00:00:00+08:00",
+      "updated_at": "2026-11-28T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "f0d35dd333531cbff7b97bf23370d1c66cac3f540d33b748ab9f18b2ab74c5e0",
+      "title": "暗黑血统：战神版|Darksiders Warmastered Edition",
+      "original_url": "https://nsthwj.cn/game/pc/138474",
+      "source_name": "NS头号玩家 PC",
+      "summary": "被邪恶势力所欺骗而过早带来世界末日，战争——天启四骑士之首——被指控煽动天堂与地狱的战争而违背了神圣的律法。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.23475386",
+      "updated_at": "2026-11-28T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "96a820aabcacab20a3f1c1bd2e90f0e2b8f745b729ed6f2ca02651eeb7974ac1",
+      "title": "我们永远在这里|We Were Here Forever",
+      "original_url": "https://nsthwj.cn/game/pc/138473",
+      "source_name": "NS头号玩家 PC",
+      "summary": "你们都被囚禁在险恶的城堡岩石里——是被人背叛了，还是你们根本就没那么聪明？请在《We Were Here》系列的最新合作解谜冒险中找到答案！你和你的同伴有能力面对这个世界里的黑暗力量吗？还是你们会被永远……困在这里？",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v1.2.3联机版",
+      "updated_at": "2026-11-28T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "4dcbe455b7f1fb676267bc5ed1c5968bce32e0de4b4da7e8e2d5e36693a17af9",
+      "title": "真菌朋克|Mycopunk",
+      "original_url": "https://nsthwj.cn/game/pc/138472",
+      "source_name": "NS头号玩家 PC",
+      "summary": "在这款拥有超高自定义自由度的、任务制的刷宝射击游戏中，杀穿真菌异形吧！数以百计精心设计的升级项，支持四人合作游玩，甚至还有一个小蟑螂人呢。如何能不爱呢？",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "v2.0.5",
+      "updated_at": "2026-11-28T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "2dfdfb3376b10a728e26dcb0589e11150954b5c5488fbbc999ec5e93445934c5",
+      "title": "卡包英雄|Booster Pack Heroes",
+      "original_url": "https://nsthwj.cn/game/pc/138471",
+      "source_name": "NS头号玩家 PC",
+      "summary": "游玩增量游戏《卡包英雄》，撕开卡包，抽取新的闪卡英雄，每个卡包都有可能开出新的强力角色。抵御无尽的怪物攻势，保卫高塔，在各个国度中奋力前行。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.26580360",
+      "updated_at": "2026-11-28T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "1336de090b359037578025790fe3572d95901434667015f835d6436f69591187",
+      "title": "咖啡馆经营模拟|Cafe Business Manager",
+      "original_url": "https://nsthwj.cn/game/pc/138470",
+      "source_name": "NS头号玩家 PC",
+      "summary": "在这款咖啡馆经营模拟游戏中打造、设计并管理你的咖啡店。雇佣员工、制定菜单、服务顾客，并在充满活力的岛屿城市中发展你的咖啡馆生意。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.24062191",
+      "updated_at": "2026-11-28T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "1e16f9dc5c230ec15e3bf1c3c5f766918ad1c5d46b19e4c2221eea3e97f3e9e9",
+      "title": "农场与盛宴|Farm & Feast",
+      "original_url": "https://nsthwj.cn/game/pc/138469",
+      "source_name": "NS头号玩家 PC",
+      "summary": "经营一片农场和一家属于自己的餐厅！种植作物、钓鱼采集，为餐厅准备新鲜食材；雇佣员工和厨师、布置店铺和后厨，忙碌充实的度过每一天，打造属于你的田园生活。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.26591860",
+      "updated_at": "2026-11-28T00:00:00+08:00",
+      "update_date_precision": "day"
+    },
+    {
+      "id": "0d062a781538d8dd732fbe086401050f6806bb46587196353cb81b2166efb7ac",
+      "title": "转运军团|Slotbound",
+      "original_url": "https://nsthwj.cn/game/pc/138468",
+      "source_name": "NS头号玩家 PC",
+      "summary": "这是一款让运气与策略交织的 Roguelike 自动战斗防守游戏。转动 3x3老虎机来召唤单位，通过吸收其他单位来壮大你的军队。利用道具与核心改变概率、扭转局势，并在危险的审判波次与 Boss 战中生存下来。每一次转动，每一个选择，都至关重要。",
+      "summary_origin": "publisher_game_index",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "pc"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "Build.26849533",
+      "updated_at": "2026-11-28T00:00:00+08:00",
       "update_date_precision": "day"
     },
     {
@@ -2048,160 +2202,6 @@
       "download_status": "not_verified",
       "version": "Build.21032023",
       "updated_at": "2026-11-21T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "9fb71fc8fedd6402f7d8ef7dd2ad3b588c7bd052fef1b88c347518d6fcc108af",
-      "title": "100%鲜橙汁|100% Orange Juice",
-      "original_url": "https://nsthwj.cn/game/pc/138004",
-      "source_name": "NS头号玩家 PC",
-      "summary": "100%鲜橙汁是橙汁系列作品全明星登场的桌面游戏。与来自各个橙汁作品里的角色，以及在本作中出现的新角色们，一起以获胜为目标使用骰子对战吧！",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "v3.13.7.2393联机版",
-      "updated_at": "2026-11-21T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "10c7be7506c763a401fa415fa34edaa3c007603fec0b6cb1d2be880b53473b78",
-      "title": "塔罗斯的法则|The Talos Principle",
-      "original_url": "https://nsthwj.cn/game/pc/138001",
-      "source_name": "NS头号玩家 PC",
-      "summary": "《塔罗斯的法则》是一款第一人称解谜游戏，它来自打造出《英雄萨姆》系列游戏的CROTEAM，并且由Tom Jubert (FTL《超越光速》，The Swapper《交易者》) 以及Jonas Kyratzes (The Sea Will Claim Everything)联合创作。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "v554784",
-      "updated_at": "2026-11-21T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "9eae39e4ac4aff4a16f810bbf7d6e2f5bd1ecb5676ce5285a388a46d92da8969",
-      "title": "绝地潜兵|Helldivers Dive Harder Edition",
-      "original_url": "https://nsthwj.cn/game/pc/138000",
-      "source_name": "NS头号玩家 PC",
-      "summary": "绝地潜兵是一款使用双操作杆操作游玩的合作式射击游戏，极具挑战性且耐玩度高。玩家将扮演精英部队“绝地潜兵”的一员，与其他玩家并肩作战，投身银河之战中保护超级地球，打倒敌人。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "",
-      "updated_at": "2026-11-21T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "1baa5bccf0502dd082ebb85a4753d7f5bc065e5e6e86083621d78bd8788fb0aa",
-      "title": "友尽高尔夫|Golf With Your Friends",
-      "original_url": "https://nsthwj.cn/game/pc/137986",
-      "source_name": "NS头号玩家 PC",
-      "summary": "不打高尔夫，要朋友何用... 邀请朋友们一起来吧！最多可有 12 名玩家同时于球场上游玩精彩刺激的快节奏迷你高尔夫，在这里一切充满无限可能！",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "v260联机版",
-      "updated_at": "2026-11-21T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "73ef884076c885dc5e3f5be78fda63f47830770646a400ec83e48ed03fe2b579",
-      "title": "好友诈骗模拟器|Scam With Your Friends",
-      "original_url": "https://nsthwj.cn/game/pc/138358",
-      "source_name": "NS头号玩家 PC",
-      "summary": "和朋友们一起经营一家诈骗呼叫中心。用越来越荒唐的骗局，骗光 AI 来电者毕生的积蓄。完成每日指标，把办公室搅得天翻地覆，并在暴怒成性的老板面前熬过一场残酷的绩效考核。",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "v0.1.82",
-      "updated_at": "2026-11-20T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "694f80c24b4575244e76a4c9278a34d4ecb3113847da092ef624cad8d1cf5fb6",
-      "title": "回溯依存|The Chrono Jotter",
-      "original_url": "https://nsthwj.cn/game/pc/138357",
-      "source_name": "NS头号玩家 PC",
-      "summary": "《回溯依存》是一款悬疑推理AVG。伊吹兰为寻找神秘失踪的女友奔波各地，却在某日发现自己不知何时来到了一间神秘的老旧学校。尽管伊吹兰只想尽快离开，但是突如其来的杀人事件和学校里接踵而至的谜团，使她不得不留在这里……",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.13762041",
-      "updated_at": "2026-11-20T00:00:00+08:00",
-      "update_date_precision": "day"
-    },
-    {
-      "id": "d6a67052bf975c40b7f70fb4d426b085fd17936b07fe99dfda73060e244973ff",
-      "title": "真探2|CaseCracker2",
-      "original_url": "https://nsthwj.cn/game/pc/138356",
-      "source_name": "NS头号玩家 PC",
-      "summary": "警员贾华生人间蒸发，仅留密信指向【真探系统2.0】。撕开嫌疑人的伪装，越过文字表象，在看似无关的信息中揪出隐藏暗线。在这场纯文字硬核推理中，你探寻到的是最终真相，还是精心设计的陷阱？",
-      "summary_origin": "publisher_game_index",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "pc"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "Build.14462404",
-      "updated_at": "2026-11-20T00:00:00+08:00",
       "update_date_precision": "day"
     }
   ]

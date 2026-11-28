@@ -1,38 +1,89 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-28T04:00:23.511150+00:00",
+  "generated_at": "2026-11-28T13:17:17.170019+00:00",
   "source_url": "https://2468c.com/wp-json/wp/v2/posts?categories=53,65,111,112,141,146,147&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
     {
       "title": "被遗忘的我们.War Mongrels",
       "original_url": "https://2468c.com/100764.html",
-      "published_at": "2025-04-20T14:40:54Z",
+      "published_at": "2026-11-27T16:00:54Z",
       "summary": "",
       "content": "",
       "image_url": "",
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
-      "updated_at": "2026-11-28T03:32:01Z",
+      "updated_at": "2026-11-28T04:15:44Z",
       "platform": [
         "ps5"
       ],
       "category": "hot",
       "source_name": "奥德彪计划 PS4 / PS5",
-      "summary_checked_at": "2026-11-28T04:00:25.544207+00:00"
+      "summary_checked_at": "2026-11-28T13:17:19.223685+00:00"
     },
     {
       "title": "蔑视.Scorn",
       "original_url": "https://2468c.com/101032.html",
-      "published_at": "2025-05-08T06:40:34Z",
+      "published_at": "2026-11-27T16:04:34Z",
       "summary": "",
       "content": "",
       "image_url": "",
       "content_scope": "metadata",
       "language": "zh-Hans",
       "evidence": "community",
-      "updated_at": "2026-11-28T03:31:03Z",
+      "updated_at": "2026-11-28T04:15:29Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "迷瘴纪事 Miasma Chronicles",
+      "original_url": "https://2468c.com/101025.html",
+      "published_at": "2026-11-27T16:03:42Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-28T04:15:07Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "海参2.Trepang2",
+      "original_url": "https://2468c.com/100260.html",
+      "published_at": "2026-11-27T16:02:13Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-28T04:14:53Z",
+      "platform": [
+        "ps5"
+      ],
+      "category": "hot",
+      "source_name": "奥德彪计划 PS4 / PS5"
+    },
+    {
+      "title": "索利斯堡.Fort Solis",
+      "original_url": "https://2468c.com/101034.html",
+      "published_at": "2026-11-27T16:01:10Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-28T04:14:36Z",
       "platform": [
         "ps5"
       ],
@@ -101,57 +152,6 @@
       "language": "zh-Hans",
       "evidence": "community",
       "updated_at": "2026-11-28T03:21:39Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "迷瘴纪事 Miasma Chronicles",
-      "original_url": "https://2468c.com/101025.html",
-      "published_at": "2025-05-05T14:50:42Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-28T03:20:13Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "海参2.Trepang2",
-      "original_url": "https://2468c.com/100260.html",
-      "published_at": "2025-04-12T07:04:13Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-28T03:18:41Z",
-      "platform": [
-        "ps5"
-      ],
-      "category": "hot",
-      "source_name": "奥德彪计划 PS4 / PS5"
-    },
-    {
-      "title": "索利斯堡.Fort Solis",
-      "original_url": "https://2468c.com/101034.html",
-      "published_at": "2025-05-20T16:01:10Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-11-28T03:17:32Z",
       "platform": [
         "ps5"
       ],
