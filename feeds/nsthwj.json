@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-27T22:09:16.435475+00:00",
+  "generated_at": "2026-11-28T04:00:56.653249+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -325,6 +325,29 @@
       "updated_at": "2026-11-27T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-27T22:09:14.606768+00:00"
+    },
+    {
+      "id": "e2451573daea9948e137d7ea31c7bd0457f7b51bf2113f4e9e804b5c7b200a9c",
+      "title": "[移植游戏]尼尔：型态|NieR Gestalt",
+      "original_url": "https://nsthwj.cn/game/switch/138465",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "游戏开篇的序章设定于 2049 年夏天的一场暴风雪中。在一家破败的现代杂货店里，尼尔（由杰米森・普莱斯配音）为保护身患重病的小女儿约拿（由希瑟・霍根配音），奋力抵挡着空灵怪物的袭击。击败怪物后，他查看约拿的状况，发现她已开始剧烈咳嗽。画面随后跳转至 1312 年后，玩家会看到两个看似与序章中相同的角色，如今生活在一座…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-27T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-28T04:00:53.724730+00:00"
     },
     {
       "id": "b970beb9de3e7dcc55c57bec75477bea7d12b250fce5b8622b83d662c912a9e8",
@@ -1073,29 +1096,6 @@
       "summary_checked_at": "2026-11-25T17:26:50.043954+00:00"
     },
     {
-      "id": "02abe64e8a93b62ac371633cc7d875e7435aa395fb633570b58cd4f364df36c7",
-      "title": "[移植游戏]最终幻想13|Final Fantasy XIII",
-      "original_url": "https://nsthwj.cn/game/switch/138259",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.01",
-      "updated_at": "2026-11-25T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-25T17:26:51.277597+00:00"
-    },
-    {
       "id": "175b4cc931c77b6665cfd8c7cef7375a180c59ac63c8b785edf6d0b46e6ba95a",
       "title": "马力欧赛车8 豪华版（PC 原生移植版）|Mario Kart 8 Deluxe",
       "original_url": "https://nsthwj.cn/game/pc/138415",
@@ -1383,11 +1383,11 @@
       "summary_checked_at": "2026-11-25T17:27:09.011271+00:00"
     },
     {
-      "id": "1f09bb445ec697b19929741daf823c9b698692e0e95125abd7819372259da985",
-      "title": "[移植游戏]最终幻想13-2|Final Fantasy XIII-2",
-      "original_url": "https://nsthwj.cn/game/switch/138247",
+      "id": "02abe64e8a93b62ac371633cc7d875e7435aa395fb633570b58cd4f364df36c7",
+      "title": "[移植游戏]最终幻想13|Final Fantasy XIII",
+      "original_url": "https://nsthwj.cn/game/switch/138259",
       "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到桌面按住 R键 同时触屏点击任意游戏图标进高权限模式 3.点击 Final Fantasy XIII-2 进入游戏 4.完美运行",
+      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 nsp前端拖入5盘安装 2.回到桌面打开游戏选择游戏按 A 键打开 3.完美运行",
       "summary_origin": "publisher_description",
       "content": "",
       "image_url": "",
@@ -1400,10 +1400,10 @@
       ],
       "category": "discovery",
       "download_status": "not_verified",
-      "version": "最新版本：0.1.0",
+      "version": "最新版本：1.01",
       "updated_at": "2026-11-25T00:00:00+08:00",
       "update_date_precision": "day",
-      "summary_checked_at": "2026-11-25T17:26:52.488581+00:00"
+      "summary_checked_at": "2026-11-25T17:26:51.277597+00:00"
     },
     {
       "id": "4d96fab49697da91ce90f62d726d3a773b005f8e4656d8be893d37aa33539ee2",

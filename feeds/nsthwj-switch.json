@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-27T22:09:07.546795+00:00",
+  "generated_at": "2026-11-28T04:00:51.878778+00:00",
   "source_url": "https://nsthwj.cn/",
   "items": [
     {
@@ -325,6 +325,29 @@
       "updated_at": "2026-11-27T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-27T22:09:14.606768+00:00"
+    },
+    {
+      "id": "e2451573daea9948e137d7ea31c7bd0457f7b51bf2113f4e9e804b5c7b200a9c",
+      "title": "[移植游戏]尼尔：型态|NieR Gestalt",
+      "original_url": "https://nsthwj.cn/game/switch/138465",
+      "source_name": "NS头号玩家 SWITCH",
+      "summary": "游戏开篇的序章设定于 2049 年夏天的一场暴风雪中。在一家破败的现代杂货店里，尼尔（由杰米森・普莱斯配音）为保护身患重病的小女儿约拿（由希瑟・霍根配音），奋力抵挡着空灵怪物的袭击。击败怪物后，他查看约拿的状况，发现她已开始剧烈咳嗽。画面随后跳转至 1312 年后，玩家会看到两个看似与序章中相同的角色，如今生活在一座…",
+      "summary_origin": "publisher_description",
+      "content": "",
+      "image_url": "",
+      "published_at": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "platform": [
+        "switch1"
+      ],
+      "category": "discovery",
+      "download_status": "not_verified",
+      "version": "最新版本：1.0.0",
+      "updated_at": "2026-11-27T00:00:00+08:00",
+      "update_date_precision": "day",
+      "summary_checked_at": "2026-11-28T04:00:53.724730+00:00"
     },
     {
       "id": "477f42b883e4b23e1b327b7d7fcce49401b169f4b4b42ea1ddc6fbcc48b00ab9",
@@ -2283,29 +2306,6 @@
       "updated_at": "2026-11-18T00:00:00+08:00",
       "update_date_precision": "day",
       "summary_checked_at": "2026-11-18T14:19:37.235202+00:00"
-    },
-    {
-      "id": "7481b99b4627c2869185c496e1e5cf5bd622f5dc8d84a0b8f5e4c0cd7d978d55",
-      "title": "[移植游戏]特殊行动：一线生机|Spec Ops: The Line",
-      "original_url": "https://nsthwj.cn/game/switch/138258",
-      "source_name": "NS头号玩家 SWITCH",
-      "summary": "1.下载压缩包解压后Switch文件夹覆盖到1盘根目录 [建议读卡器传输] 2.回到主机后用DBI工具连接电脑把nsp前端拖入5盘安装 3.回到桌面选择游戏按 A 键打开 4.完美运行",
-      "summary_origin": "publisher_description",
-      "content": "",
-      "image_url": "",
-      "published_at": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "platform": [
-        "switch1"
-      ],
-      "category": "discovery",
-      "download_status": "not_verified",
-      "version": "最新版本：1.0.0",
-      "updated_at": "2026-11-18T00:00:00+08:00",
-      "update_date_precision": "day",
-      "summary_checked_at": "2026-11-18T14:19:40.079682+00:00"
     }
   ]
 }

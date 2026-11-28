@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-27T22:08:44.936932+00:00",
+  "generated_at": "2026-11-28T04:00:25.725362+00:00",
   "source_url": "https://gnn.gamer.com.tw/rss.xml",
   "items": [
     {
@@ -13,10 +13,10 @@
       "summary": "《空洞騎士：絲之歌》團隊 Team Cherry 今日在「Cherry Time! Special Presentation」直播中，首度公開由 Team Cherry 發行、Studio Stobie 開發的冒險遊戲《雨聲電台（暫譯，Radio Rain）》，預定將會在 PC Steam 平台推出。 遊戲以暴雨籠罩的荒廢世界為背景，描述主角凱絲意外來到一個籠罩在暴風雨山影下的陌生世界。這裡的街道被雨水浸濕、廢棄遊樂園遭",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-27T22:08:45.273964+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-27T22:08:45.273964+00:00"
     },
     {
       "title": "《空洞騎士》團隊揭露冒險新作《植物學家與譯者》首部宣傳影片 解開星球上的植物謎團",
@@ -92,10 +92,10 @@
       "summary": "萬代南夢宮娛樂為慶祝《太鼓之達人》系列問世 25 週年，宣布旗下節奏遊戲《太鼓之達人 咚咚雷音祭（太鼓の達人 ドンダフルフェスティバル）》已於 11 月 19 日推出「奇蹟免費更新」，並公開宣傳影片，介紹最多可供四人同樂的新模式「超興奮小咚樂園」，以及 Golden Bomber 合作歌曲等新增內容。 這次更新加入的「超興奮小咚樂園（はい",
       "content": "",
       "image_url": "",
-      "content_scope": "summary",
+      "content_scope": "metadata",
       "evidence": "community",
-      "summary_checked_at": "2026-11-27T22:08:45.838214+00:00",
-      "summary_origin": "publisher_description"
+      "summary_origin": "publisher_description",
+      "summary_checked_at": "2026-11-27T22:08:45.838214+00:00"
     },
     {
       "title": "《異度神劍 3》公開 Switch 2 版介紹影片 展示 4K / 60fps 畫面與新英雄「迦具夜」",
@@ -137,12 +137,12 @@
       "summary_origin": "publisher_feed_excerpt"
     },
     {
-      "title": "《魔物獵人 荒野》於 Switch 2 平台推出可遊玩遊戲初期內容的體驗版",
+      "title": "《魔物獵人 荒野》於台灣 Switch 2 商店推出可遊玩遊戲初期內容的體驗版",
       "original_url": "https://gnn.gamer.com.tw/detail.php?sn=315766",
       "published_at": "2026-11-27T12:40:38Z",
       "source_name": "巴哈姆特 GNN",
       "language": "zh-Hant",
-      "summary": "CAPCOM 宣布，《魔物獵人 荒野》現已於 Nintendo Switch 2 推出可遊玩遊戲初期內容的體驗版，而且可將存檔資料繼承至正式版。 在本體驗版中，可以搶先體驗本作獨有的狩獵動作、不間斷的沉浸感，以及以「封禁之地」這片未知領域為舞台展開的故事序章。 ....",
+      "summary": "CAPCOM 宣布，《魔物獵人 荒野》現已於台灣 Nintendo Switch 2 商店推出可遊玩遊戲初期內容的體驗版，而且可將存檔資料繼承至正式版。 在本體驗版中，可以搶先體驗本作獨有的狩獵動作、不間斷的沉浸感，以及以「封禁之地」這片未知領域為舞台展開的故事....",
       "content": "",
       "image_url": "",
       "content_scope": "summary",

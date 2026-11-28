@@ -1,9 +1,89 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at": "2026-11-27T22:08:47.895717+00:00",
+  "generated_at": "2026-11-28T04:00:28.870464+00:00",
   "source_url": "https://vip.gamers520.com/wp-json/wp/v2/posts?categories=2&per_page=100&_fields=id,date_gmt,modified_gmt,link,title,categories,excerpt",
   "items": [
+    {
+      "title": "电锯甜心 重制(RePOP)|豪华中文|本体+1.22升补|NSZ|原版|",
+      "original_url": "https://vip.gamers520.com/82001.html",
+      "published_at": "2026-11-27T22:00:22Z",
+      "summary": "下载在底部 传说中的僵尸猎人朱丽叶以4K分辨率回归！ 名称: LOLLIPOP CHAINSAW RePOP（电锯甜心 重制） 关于这款游戏 無需說明！直觀享受殭屍狩獵的樂趣！！那位傳說中的殭屍獵人茱 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-28T03:19:55Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.22"
+    },
+    {
+      "title": "喵斯快跑|官方中文|本体+6.9.0升补+2DLC|NSZ|原版|",
+      "original_url": "https://vip.gamers520.com/6990.html",
+      "published_at": "2026-11-27T22:00:42Z",
+      "summary": "",
+      "content": "",
+      "image_url": "",
+      "content_scope": "metadata",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "updated_at": "2026-11-28T03:19:52Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "6.9.0",
+      "summary_checked_at": "2026-11-28T04:00:31.538648+00:00"
+    },
+    {
+      "title": "无人深空|官方中文|本体+7.15.0升补|NSZ|原版|",
+      "original_url": "https://vip.gamers520.com/42700.html",
+      "published_at": "2026-11-27T22:00:00Z",
+      "summary": "无人深空 No Man’s Sky ‘无人之地’从经典科幻小说中汲取灵感，囊括了大众喜爱的冒险和天马行空等元素。呈现给玩家一个充满独特行星和生命形式的星系。游戏中危机重重，无尽的探索等着你 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-28T03:19:50Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "7.15.0"
+    },
+    {
+      "title": "秋叶原迷踪 AKIBA LOST|官方中文|本体+1.0.6升补|NSP|",
+      "original_url": "https://vip.gamers520.com/122232.html",
+      "published_at": "2026-11-27T22:00:14Z",
+      "summary": "十三年前，秋叶原发生了六名少女失踪的未解之谜——“秋叶原神隐事件”。新城大辉宣布以此为题材制作一款真人实拍游戏。 被召集出演的六位女性，正是象征日本亚文化圣地“秋叶原”的多彩人物。然而，她们本应演绎的 …",
+      "content": "",
+      "image_url": "",
+      "content_scope": "summary",
+      "language": "zh-Hans",
+      "evidence": "community",
+      "summary_origin": "publisher_excerpt",
+      "updated_at": "2026-11-28T03:19:48Z",
+      "platform": [
+        "switch1"
+      ],
+      "tags": [
+        "game_update"
+      ],
+      "version": "1.0.6"
+    },
     {
       "title": "冥狱战术 Hadean Tactics|官方中文|NSP|",
       "original_url": "https://vip.gamers520.com/126816.html",
@@ -768,26 +848,6 @@
       ],
       "version": "1.26.62",
       "summary_checked_at": "2026-11-27T02:58:32.729148+00:00"
-    },
-    {
-      "title": "无人深空|官方中文|本体+7.10.0升补|NSZ|原版|",
-      "original_url": "https://vip.gamers520.com/42700.html",
-      "published_at": "2026-11-12T19:03:00Z",
-      "summary": "无人深空 No Man’s Sky ‘无人之地’从经典科幻小说中汲取灵感，囊括了大众喜爱的冒险和天马行空等元素。呈现给玩家一个充满独特行星和生命形式的星系。游戏中危机重重，无尽的探索等着你 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-11-13T01:15:54Z",
-      "platform": [
-        "switch1"
-      ],
-      "tags": [
-        "game_update"
-      ],
-      "version": "7.10.0"
     },
     {
       "title": "哥斯拉 摧毁所有怪兽搏击 重制版|官方中文|本体+1.0.3升补|NSP|",
@@ -1748,54 +1808,6 @@
         "switch1"
       ],
       "summary_checked_at": "2026-11-25T17:26:34.957795+00:00"
-    },
-    {
-      "title": "近地联盟先遣队3|中文|移植版|",
-      "original_url": "https://vip.gamers520.com/124754.html",
-      "published_at": "2026-10-26T21:26:58Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-27T16:30:47Z",
-      "platform": [
-        "switch1"
-      ],
-      "summary_checked_at": "2026-11-26T01:51:42.292088+00:00"
-    },
-    {
-      "title": "孤胆枪手2|移植版|",
-      "original_url": "https://vip.gamers520.com/124756.html",
-      "published_at": "2026-10-26T21:30:53Z",
-      "summary": "",
-      "content": "",
-      "image_url": "",
-      "content_scope": "metadata",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "updated_at": "2026-10-27T16:29:08Z",
-      "platform": [
-        "switch1"
-      ],
-      "summary_checked_at": "2026-11-26T20:18:04.777809+00:00"
-    },
-    {
-      "title": "仙剑奇侠传3|官方中文|移植版|",
-      "original_url": "https://vip.gamers520.com/124735.html",
-      "published_at": "2026-10-26T21:10:47Z",
-      "summary": "《仙剑奇侠传三》是经典仙侠RPG游戏，主题为「轮回」。故事环绕在两把剑，述说着主角两个前世与今生的纠葛。『魔剑养成』、『阵战』等趣味玩法，加上多支线多结局的经典游戏剧情，带你领略一次荡气回肠的仙侠历险 …",
-      "content": "",
-      "image_url": "",
-      "content_scope": "summary",
-      "language": "zh-Hans",
-      "evidence": "community",
-      "summary_origin": "publisher_excerpt",
-      "updated_at": "2026-10-27T03:53:16Z",
-      "platform": [
-        "switch1"
-      ]
     }
   ]
 }
